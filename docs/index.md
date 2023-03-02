@@ -1,17 +1,10 @@
-# Welcome to MkDocs
+# Home
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+This Wiki is intended to be an information source about the content of my mods. [mkdocs.org](https://www.mkdocs.org).
 
-## Commands
+## Mods in this Wiki
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+* [Rocketry Expanded](https://steamcommunity.com/sharedfiles/filedetails/?id=2837919908)
+* tba.
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## THIS WIKI IS WORK IN PROGRESS!

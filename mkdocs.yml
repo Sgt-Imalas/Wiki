@@ -1,3 +1,17 @@
-site_name: Sgt_Imalas-ONI-Mods Wiki
+site_name: SgtImalas ONI-Mods-Wiki
 theme:
   name: material
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.indexes
+    - navigation.top
+    - navigation.expand
+    - search.suggest
+    - search.highlight
+    - search.share
+plugins:
+  - search
+markdown_extensions:
+  - toc:
+      permalink: true
