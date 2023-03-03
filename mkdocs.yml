@@ -15,3 +15,5 @@ plugins:
 markdown_extensions:
   - toc:
       permalink: true
+extra_css:
+  - stylesheets/general.css

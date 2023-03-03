@@ -2,7 +2,7 @@
 
 This Wiki is intended to be an information source about the content of my mods. [mkdocs.org](https://www.mkdocs.org).
 
-## Mods in this Wiki
+## Mods covered in this Wiki
 
 * [Rocketry Expanded](https://steamcommunity.com/sharedfiles/filedetails/?id=2837919908)
 * tba.
