@@ -1,2 +1,7 @@
-
-  
+/*
+table {
+    empty-cells: hide;
+}
+th:empty {
+    visibility: hidden;
+  }

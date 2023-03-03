@@ -1,12 +1,12 @@
 # Rocket Port Adapters
 
 Rocket Port Adapters are a new type of building that attaches to the rocket platform.</br>
-This new building type does not load anything on its own, but instead allows to connect rocket platforms that aren't placed directly next to each other.</br>
+This new building type does not load anything on its own, but instead allows connecting rocket platforms that aren't placed directly next to each other.</br>
 Multiple adapter buildings can be placed next to each other if there are larger distances to bridge.
 
 ## Insulated Rocket Port Wall Adapter
 
-|<font size="+1">Insulated Rocket </br>Port Wall Adapter</font>|An insulated wall adapter to seal off rocket start areas.</br>Automatically links when built to the side of a [Rocket Platform](https://oxygennotincluded.fandom.com/wiki/Rocket_Platform) </br>or another Rocket Port</td>|
+|<font size="+1">Insulated Rocket </br>Port Wall Adapter</font>|An insulated wall adapter to seal off rocket start areas.</br> Automatically links when built to the side of a [Rocket Platform](https://oxygennotincluded.fandom.com/wiki/Rocket_Platform) </br>or another Rocket Port</td>|
 | ----------: | :----------------------------------- |
 | **Sprite** |<img src="../../../../img/buildings/wall_adapter.png"> |
 | **Building-ID**|`RTB_WallConnectionAdapter`|
