@@ -8,7 +8,7 @@ All information about the normal rocket platform can be found in the [ONI Wiki](
 ### Logic port behaviour
 Ports:<br>
 <img width=400 src="../../../../img/buildings/platform_normal_logicports.png"><br>
-ehavior:<br>
+Behavior:<br>
 
 |Port|Type|How does this port work?|
 | :---------- | :----: |:---------------------------- |
