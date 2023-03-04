@@ -1,6 +1,6 @@
 # Home
 
-This Wiki is intended to be an information source about the content of my mods. [mkdocs.org](https://www.mkdocs.org).
+This Wiki is intended to be an information source about the content of my mods.
 
 ## Mods covered in this Wiki
 
