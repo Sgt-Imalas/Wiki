@@ -68,7 +68,7 @@ Behaviour:<br>
 |Rocket Presence Port|Output|Is there is a rocket on the launchpad?<br>🟩 ⇾ Yes <br>🟥 ⇾ No|
 |Rocket Flight Check Port|Output|Is Rocket is ready to take a roundtrip flight to its chosen destination?<br>🟩 ⇾ Yes <br>🟥 ⇾ No|
 |Flight Checklist Ribbon Port|Ribbon Output|Bit 1: Is the category "Flight Route" fulfilled?<br>🟩⬛⬛⬛ ⇾ Yes <br>🟥⬛⬛⬛ ⇾ No <br><br>Bit 2: Is the category "Rocket Construction" fulfilled?<br>⬛🟩⬛⬛ ⇾ Yes <br>⬛🟥⬛⬛ ⇾ No <br><br>Bit 3: Is the category "Cargo Manifest" fulfilled?<br>⬛⬛🟩⬛ ⇾ Yes <br>⬛⬛🟥⬛ ⇾ No <br><br>Bit 4: Is the category "Crew Manifest" fulfilled?<br>⬛⬛⬛🟩 ⇾ Yes <br>⬛⬛⬛🟥 ⇾ No|
-|Rocket Launch Ribbon Port|Ribbon Input|Bit 1:<br>🟩⬛⬛⬛ ⇾ the rocket will try to launch <br>🟥⬛⬛⬛ ⇾ any launch attempts are canceled <br><br>Bit 2:<br>⬛🟩⬛⬛ ⇾ Activates warning override for fuel check <br>⬛🟥⬛⬛ ⇾ Deactivates the override for the fuel check <br><br>Bit 3:<br>⬛⬛🟩⬛ ⇾ Activates warning override for the cargo check <br>⬛⬛🟥⬛ ⇾ Deactivates the override for the cargo check <br><br>Bit 4:<br>⬛⬛⬛🟩 ⇾ Warning Overrides affect all logic checks; this makes them affect the logic outputs of the rocket platform.<br>⬛⬛⬛🟥 ⇾ Warning Overrides are only applied when the trigger-launch-signal on Bit 1 is active (during launch) <br><br>
+|Rocket Launch Ribbon Port|Ribbon Input|Bit 1:<br>🟩⬛⬛⬛ ⇾ the rocket will try to launch <br>🟥⬛⬛⬛ ⇾ any launch attempts are canceled <br><br>Bit 2:<br>⬛🟩⬛⬛ ⇾ Activates warning override for fuel check <br>⬛🟥⬛⬛ ⇾ Deactivates the override for the fuel check <br><br>Bit 3:<br>⬛⬛🟩⬛ ⇾ Activates warning override for the cargo check <br>⬛⬛🟥⬛ ⇾ Deactivates the override for the cargo check. <br><br>Bit 4:<br>⬛⬛⬛🟩 ⇾ Warning Overrides affect all logic checks; this makes them affect the logic outputs of the rocket platform.<br>⬛⬛⬛🟥 ⇾ Warning Overrides are only applied when the trigger-launch-signal on Bit 1 is active (during launch) <br><br>
 
 ### Warning Override
 The Rocket Launch Ribbon Port allows overriding Cargo Manifest Warnings - But what does that mean?
@@ -82,8 +82,22 @@ For the "Fueled" state, this means the following logic applies:
 |  State | Appearance | Logic behind it| Can the rocket launch like this?|
 | :------- | :----: |:---- | :---- |
 | 🟥 Error | Text is red  | The rocket does not have enough fuel to reach its target location|No|
-| 🟧 Warning | Text is red  | The rocket has enough fuel to reach its target location, but not enough for the trip back|only manually|
+| 🟧 Warning | Text is orange  | The rocket has enough fuel to reach its target location, but not enough for the trip back|only manually|
 | ✅ Ready | Text is black, Checkmark is set| The rocket has enough fuel to reach its target location and come back without a refuel stop|yes, both manually and automatic|
+
+The Cargo state is a bit special:
+
+|  State | Appearance | Logic behind it| Can the rocket launch like this?|
+| :------- | :----: |:---- | :---- |
+| 🟧 Warning | Text is orange  | There are ongoing loading/unloading operations |only manually|
+| ✅ Ready | Text is black, Checkmark is set| There are no ongoing loading operation|yes, both manually and automatic|
+
+This check is "Ready" by default, and it only changes to "Warning" once any loader/unloader building (from now on called "resource transfer building") starts moving resources from or to the rocket.<br>
+This results in state of "Ready" for a few seconds while a rocket is landing, before these resource transfer buildings can start their work and change the state to "Warning".
+When you don't account for this, the following can happen:<br>
+A rocket platform that has Bit 1 and Bit 2 enabled, while Bit 3 is disabled, will instantly launch after arriving, since the launch got already triggered before any resource transfer building could start their work and thus, the cargo state never switched to "Warning", which would have prevented the launch.
+If you plan on creating such a scenario, the aforementioned behaviour can be circumvented by not enabling Bit 1 by default, but instead attaching it to the Rocket Presence Port with a [Filter Gate](https://oxygennotincluded.fandom.com/wiki/FILTER_Gate) in between.
+This gives the resource transfer buildings the time to start their work and to update the Cargo state to "Warning".
 
 ### But Why?
 Using this override allows launching rockets automated that have uncompleted cargo transfer, not enough fuel for a roundtrip or both.<br>
