@@ -43,9 +43,9 @@ Behaviour:<br>
 |Rocket Flight Check Port|Output|Is Rocket is ready to take a roundtrip flight to its chosen destination?<br>🟩 ⇾ Yes <br>🟥 ⇾ No|
 |Rocket Launch Port|Input|🟩 ⇾ the rocket will try to launch <br>🟥 ⇾ any launch attempts are canceled|
 
-## Fortified Rocket Platform
+## Advanced Rocket Platform
 
-|<font size="+1">Advanced Rocket Platform</font>|A platform from which rockets can be launched<br> and on which they can land.Comes with shifted logic ports<br> and extra ribbon ports for more control over the rocket.|
+|<font size="+1">Advanced Rocket Platform</font>|A platform from which rockets can be launched<br> and on which they can land. Comes with shifted logic ports<br> and extra ribbon ports for more control over the rocket.|
 | ----------: | :----------------------------------- |
 | **Sprite** |<img src="../../../../img/buildings/adv_pad.png"> |
 | **Building-ID**|`RTB_AdvancedLaunchPad`|
