@@ -77,8 +77,9 @@ The Warning Override for the category of its Bit (see table under Logic port beh
 
 When you look at the items in the category "Cargo Manifest" you will see that these can appear orange, this equals a "Warning".<br>
 Warnings allow starting a rocket manually, but prevent an automated launch.<br>
+Activating a Warning Override will make it apply the "Ready" behaviour while being in either the "Ready" or "Warning" state.
 #### Fueled State
-For the "Fueled" state, this means the following logic applies:
+For the "Fueled" state has the following state logic:
 
 |  State | Appearance | Logic behind it| Can the rocket launch like this?|
 | :------- | :----: |:---- | :---- |
@@ -87,7 +88,7 @@ For the "Fueled" state, this means the following logic applies:
 | ✅ Ready | Text is black, Checkmark is set| The rocket has enough fuel to reach its target location and come back without a refuel stop|yes, both manually and automatic|
 
 #### Cargo State
-The Cargo state is a bit special in its logic:
+The Cargo state is a bit special in its state logic:
 
 |  State | Appearance | Logic behind it| Can the rocket launch like this?|
 | :------- | :----: |:---- | :---- |
@@ -96,9 +97,9 @@ The Cargo state is a bit special in its logic:
 
 This check is "Ready" by default, and it only changes to "Warning" once any loader/unloader building (from now on called "resource transfer building") starts moving resources from or to the rocket.<br>
 This results in state of "Ready" for a few seconds while a rocket is landing, before these resource transfer buildings can start their work and change the state to "Warning".
-When you don't account for this, the following can happen:<br>
-A rocket platform that has Bit 1 and Bit 2 enabled, while Bit 3 is disabled, will instantly launch after arriving, since the launch got already triggered before any resource transfer building could start their work and thus, the cargo state never switched to "Warning", which would have prevented the launch.
-If you plan on creating such a scenario, the aforementioned behaviour can be circumvented by not enabling Bit 1 by default, but instead attaching it to the Rocket Presence Port with a [Filter Gate](https://oxygennotincluded.fandom.com/wiki/FILTER_Gate) in between.
+When you don't account for this, the following can happen:<br><br>
+A rocket platform that has Bit 1 and Bit 2 enabled, while Bit 3 is disabled, will instantly launch after arriving, since the launch got already triggered before any resource transfer building could start their work and thus, the cargo state never switched to "Warning", which would have prevented the launch.<br><br>
+If you plan on creating such a scenario, the aforementioned behaviour can be circumvented by not enabling Bit 1 by default, but instead attaching it to the Rocket Presence Port with a [Filter Gate](https://oxygennotincluded.fandom.com/wiki/FILTER_Gate) in between.<br>
 This gives the resource transfer buildings the time to start their work and to update the Cargo state to "Warning".
 
 ### But Why?
