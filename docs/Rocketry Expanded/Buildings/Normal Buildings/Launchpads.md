@@ -77,6 +77,7 @@ The Warning Override for the category of its Bit (see table under Logic port beh
 
 When you look at the items in the category "Cargo Manifest" you will see that these can appear orange, this equals a "Warning".<br>
 Warnings allow starting a rocket manually, but prevent an automated launch.<br>
+#### Fueled State
 For the "Fueled" state, this means the following logic applies:
 
 |  State | Appearance | Logic behind it| Can the rocket launch like this?|
@@ -85,12 +86,13 @@ For the "Fueled" state, this means the following logic applies:
 | 🟧 Warning | Text is orange  | The rocket has enough fuel to reach its target location, but not enough for the trip back|only manually|
 | ✅ Ready | Text is black, Checkmark is set| The rocket has enough fuel to reach its target location and come back without a refuel stop|yes, both manually and automatic|
 
-The Cargo state is a bit special:
+#### Cargo State
+The Cargo state is a bit special in its logic:
 
 |  State | Appearance | Logic behind it| Can the rocket launch like this?|
 | :------- | :----: |:---- | :---- |
-| 🟧 Warning | Text is orange  | There are ongoing loading/unloading operations |only manually|
-| ✅ Ready | Text is black, Checkmark is set| There are no ongoing loading operation|yes, both manually and automatic|
+| 🟧 Warning | Text is orange  | There are ongoing loading/unloading operations |only manually<br>(yes edge case described below)|
+| ✅ Ready | Text is black, Checkmark is set| There are no ongoing loading/unloading operation|yes, both manually and automatic|
 
 This check is "Ready" by default, and it only changes to "Warning" once any loader/unloader building (from now on called "resource transfer building") starts moving resources from or to the rocket.<br>
 This results in state of "Ready" for a few seconds while a rocket is landing, before these resource transfer buildings can start their work and change the state to "Warning".
