@@ -1,4 +1,4 @@
-# Ronivans Legacy - All In One
+# About this mod
 
 ## Whats this project?
 
