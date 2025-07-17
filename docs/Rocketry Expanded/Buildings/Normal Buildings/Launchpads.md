@@ -5,7 +5,7 @@ Both newly added platforms feature shifted logic ports. This feature prevents lo
 
 ## Rocket Platform (Vanilla)
 
-All information about the normal rocket platform can be found in the [ONI Wiki](https://oxygennotincluded.fandom.com/wiki/Rocket_Platform).
+All information about the normal rocket platform can be found in the [ONI Wiki](https://oxygennotincluded.wiki.gg/wiki/Rocket_Platform).
 
 ### Logic port behaviour
 
@@ -21,16 +21,16 @@ Behavior:<br>
 
 ## Fortified Rocket Platform
 
-|                   <font size="+1">Fortified Rocket Platform</font> | A platform from which rockets can be launched<br> and on which they can land. Fortified to withstand comets. |
-| -----------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------- |
-|                                                         **Sprite** | <img src="../images/bunker_pad.png">                                                                         |
-|                                                    **Building-ID** | `RTB_BunkerLaunchPad`                                                                                        |
-| [**Research**](https://oxygennotincluded.fandom.com/wiki/Research) | Superheated Forging                                                                                          |
-|                                              **Building Category** | [Rocketry](<https://oxygennotincluded.fandom.com/wiki/Rocketry_(Building)>)/Structural                       |
-|                                                     **Dimensions** | 2x7 tiles                                                                                                    |
-|       [**Decor**](https://oxygennotincluded.fandom.com/wiki/Decor) | 0                                                                                                            |
-|                               <font size="+1">**Materials**</font> | <!-- -->                                                                                                     |
-|       [**Steel**](https://oxygennotincluded.fandom.com/wiki/Steel) | 1200kg                                                                                                       |
+|                <font size="+1">Fortified Rocket Platform</font> | A platform from which rockets can be launched<br> and on which they can land. Fortified to withstand comets. |
+| --------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------- |
+|                                                      **Sprite** | <img src="../images/bunker_pad.png">                                                                         |
+|                                                 **Building-ID** | `RTB_BunkerLaunchPad`                                                                                        |
+| [**Research**](https://oxygennotincluded.wiki.gg/wiki/Research) | Superheated Forging                                                                                          |
+|                                           **Building Category** | [Rocketry](<https://oxygennotincluded.wiki.gg/wiki/Rocketry_(Building)>)/Structural                          |
+|                                                  **Dimensions** | 2x7 tiles                                                                                                    |
+|       [**Decor**](https://oxygennotincluded.wiki.gg/wiki/Decor) | 0                                                                                                            |
+|                            <font size="+1">**Materials**</font> | <!-- -->                                                                                                     |
+|       [**Steel**](https://oxygennotincluded.wiki.gg/wiki/Steel) | 1200kg                                                                                                       |
 
 The Fortified Rocket Platform features the same logic ports as the normal Rocket Platform, however these are moved outside the rocket exhaust cone.</br>
 This rocket platform is fortified. This makes it immune to meteor damage, and it blocks meteors from falling down further. It also blocks duplicants from walking in front of the platform, so keep it in mind when designing and building your base around it.
@@ -49,16 +49,16 @@ Behaviour:<br>
 
 ## Advanced Rocket Platform
 
-|                               <font size="+1">Advanced Rocket Platform</font> | A platform from which rockets can be launched<br> and on which they can land. Comes with shifted logic ports<br> and extra ribbon ports for more control over the rocket. |
-| ----------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|                                                                    **Sprite** | <img src="../images/adv_pad.png">                                                                                                                                         |
-|                                                               **Building-ID** | `RTB_AdvancedLaunchPad`                                                                                                                                                   |
-|            [**Research**](https://oxygennotincluded.fandom.com/wiki/Research) | Parallel Automation                                                                                                                                                       |
-|                                                         **Building Category** | [Rocketry](<https://oxygennotincluded.fandom.com/wiki/Rocketry_(Building)>)/Structural                                                                                    |
-|                                                                **Dimensions** | 2x7 tiles                                                                                                                                                                 |
-|                  [**Decor**](https://oxygennotincluded.fandom.com/wiki/Decor) | 0                                                                                                                                                                         |
-|                                          <font size="+1">**Materials**</font> | <!-- -->                                                                                                                                                                  |
-| [**Refined Metals**](https://oxygennotincluded.fandom.com/wiki/Refined_Metal) | 900kg                                                                                                                                                                     |
+|                            <font size="+1">Advanced Rocket Platform</font> | A platform from which rockets can be launched<br> and on which they can land. Comes with shifted logic ports<br> and extra ribbon ports for more control over the rocket. |
+| -------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|                                                                 **Sprite** | <img src="../images/adv_pad.png">                                                                                                                                         |
+|                                                            **Building-ID** | `RTB_AdvancedLaunchPad`                                                                                                                                                   |
+|            [**Research**](https://oxygennotincluded.wiki.gg/wiki/Research) | Parallel Automation                                                                                                                                                       |
+|                                                      **Building Category** | [Rocketry](<https://oxygennotincluded.wiki.gg/wiki/Rocketry_(Building)>)/Structural                                                                                       |
+|                                                             **Dimensions** | 2x7 tiles                                                                                                                                                                 |
+|                  [**Decor**](https://oxygennotincluded.wiki.gg/wiki/Decor) | 0                                                                                                                                                                         |
+|                                       <font size="+1">**Materials**</font> | <!-- -->                                                                                                                                                                  |
+| [**Refined Metals**](https://oxygennotincluded.wiki.gg/wiki/Refined_Metal) | 900kg                                                                                                                                                                     |
 
 The Advanced Rocket Platform features the same shift of logic ports as the Fortified Rocket Platform. Additionally, there is a ribbon output that outputs the state of the Launch Checklist.</br>The Rocket Launch Port is converted to a ribbon input that allows to override Cargo Manifest warnings for automated rockets.
 
@@ -108,7 +108,7 @@ This check is "Ready" by default, and it only changes to "Warning" once any load
 This results in state of "Ready" for a few seconds while a rocket is landing, before these resource transfer buildings can start their work and change the state to "Warning".
 When you don't account for this, the following can happen:<br><br>
 A rocket platform that has Bit 1 and Bit 2 enabled, while Bit 3 is disabled, will instantly launch after arriving, since the launch got already triggered before any resource transfer building could start their work and thus, the cargo state never switched to "Warning", which would have prevented the launch.<br><br>
-If you plan on creating such a scenario, the aforementioned behaviour can be circumvented by not enabling Bit 1 by default, but instead attaching it to the Rocket Presence Port with a [Filter Gate](https://oxygennotincluded.fandom.com/wiki/FILTER_Gate) in between.<br>
+If you plan on creating such a scenario, the aforementioned behaviour can be circumvented by not enabling Bit 1 by default, but instead attaching it to the Rocket Presence Port with a [Filter Gate](https://oxygennotincluded.wiki.gg/wiki/FILTER_Gate) in between.<br>
 This gives the resource transfer buildings the time to start their work and to update the Cargo state to "Warning".
 
 ### But Why?
