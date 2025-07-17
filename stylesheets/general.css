@@ -1,0 +1,22 @@
+
+    .admonition.wiki thead {
+        display: none;
+    }
+    .admonition.wiki table {
+        border: 0 !important;
+    }
+    .admonition.wiki tr, .admonition.wiki td {
+        border: 0 !important;
+        border-top: 0 !important;
+        padding: 2px !important;
+    }
+
+/*
+table {
+    empty-cells: hide;
+}
+th:empty {
+    visibility: hidden;
+  }
+  <style>
+</style>
