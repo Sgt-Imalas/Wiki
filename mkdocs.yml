@@ -30,6 +30,9 @@ theme:
 plugins:
   - search
 markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
   - toc:
       permalink: true
 extra_css:
