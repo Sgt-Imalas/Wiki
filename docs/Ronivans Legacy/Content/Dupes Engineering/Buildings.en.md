@@ -4,9 +4,9 @@ A white colored alert light.
 
 A led light that servers as alert. Produces no significant luminosity.
 ### Info
-| <img width="200"src="../../images/buildings/LogicAlertLight.png"> | |
+| <img width="200"src="/assets/images/buildings/LogicAlertLight.png"> | |
 |-|-|
-|**Dimensions:** |1 wide x 1 high|
+|**Dimensions:** | 1 wide x 1 high|
 |**Power Consumption:**| 8 W|
 |**Research Required:**| Smart Home|
 
@@ -20,9 +20,9 @@ Cement is a quite old building material, but still pretty much useful.
 
 A device that can homogeneously combine several solid and liquid ingredients used in the production of cement.
 ### Info
-| <img width="200"src="../../images/buildings/CementMixer.png"> | |
+| <img width="200"src="/assets/images/buildings/CementMixer.png"> | |
 |-|-|
-|**Dimensions:** |2 wide x 2 high|
+|**Dimensions:** | 2 wide x 2 high|
 |**Power Consumption:**| 120 W|
 |**Research Required:**| Brute-Force Refinement|
 
@@ -31,7 +31,7 @@ A device that can homogeneously combine several solid and liquid ingredients use
 |Metal Ore|200 kg|
 
 ### Recipes
-|Ingredients:| Time: |Products:|
+|Ingredients:| Time: | Products:|
 |-|-|-|
 |Shale (25 kg)<br>Sand (60 kg)<br>Lime (5 kg)<br>|40s|Cement (100 kg)<br>|
 |Ceramic (25 kg)<br>Sand (60 kg)<br>Lime (5 kg)<br>|40s|Cement (100 kg)<br>|
@@ -54,9 +54,9 @@ A tile composed out of compacted minerals
 
 Increases Duplicant runspeed.
 ### Info
-| <img width="200"src="../../images/buildings/MonoElementTile.png"> | |
+| <img width="200"src="/assets/images/buildings/MonoElementTile.png"> | |
 |-|-|
-|**Dimensions:** |1 wide x 1 high|
+|**Dimensions:** | 1 wide x 1 high|
 |**Research Required:**| High Culture|
 
 |**<font size="+1">Material Costs:</font>**| |
@@ -69,9 +69,9 @@ A high-tech light door
 
 A light-weight door with intricate designs that suggests it belongs to a industrial facility.
 ### Info
-| <img width="200"src="../../images/buildings/AIO_FacilityDoor.png"> | |
+| <img width="200"src="/assets/images/buildings/AIO_FacilityDoor.png"> | |
 |-|-|
-|**Dimensions:** |1 wide x 2 high|
+|**Dimensions:** | 1 wide x 2 high|
 |**Research Required:**| Ventilation|
 
 |**<font size="+1">Material Costs:</font>**| |
@@ -84,9 +84,9 @@ Used to build the walls and floors of rooms. Reduces heat transfer between walls
 
 A solid tile assembled in a range of materials and radiative pattern that reduce the heat transfer.
 ### Info
-| <img width="200"src="../../images/buildings/InsulationCompositionTile.png"> | |
+| <img width="200"src="/assets/images/buildings/InsulationCompositionTile.png"> | |
 |-|-|
-|**Dimensions:** |1 wide x 1 high|
+|**Dimensions:** | 1 wide x 1 high|
 |**Research Required:**| Temperature Modulation|
 
 |**<font size="+1">Material Costs:</font>**| |
@@ -100,9 +100,9 @@ A large sized spacer panel.
 
 A large solid wall wrought from steel. Hermetically sealed joints prevent gas leakage into space.
 ### Info
-| <img width="200"src="../../images/buildings/SpacerWallLarge.png"> | |
+| <img width="200"src="/assets/images/buildings/SpacerWallLarge.png"> | |
 |-|-|
-|**Dimensions:** |2 wide x 2 high|
+|**Dimensions:** | 2 wide x 2 high|
 |**Research Required:**| High Culture|
 
 |**<font size="+1">Material Costs:</font>**| |
@@ -115,9 +115,9 @@ A large sized spacer window.
 
 A solid window wrought from steel and fitted with thick layers of glass. Hermetically sealed joints prevent gas leakage into space.
 ### Info
-| <img width="200"src="../../images/buildings/SpacerWindowLarge.png"> | |
+| <img width="200"src="/assets/images/buildings/SpacerWindowLarge.png"> | |
 |-|-|
-|**Dimensions:** |2 wide x 2 high|
+|**Dimensions:** | 2 wide x 2 high|
 |**Research Required:**| Glass Blowing|
 
 |**<font size="+1">Material Costs:</font>**| |
@@ -133,9 +133,9 @@ Used as floor and wall tile to build rooms.
 
 Significantly increases Duplicant runspeed.
 ### Info
-| <img width="200"src="../../images/buildings/MouldingTile.png"> | |
+| <img width="200"src="/assets/images/buildings/MouldingTile.png"> | |
 |-|-|
-|**Dimensions:** |1 wide x 1 high|
+|**Dimensions:** | 1 wide x 1 high|
 |**Research Required:**| Renaissance Art|
 
 |**<font size="+1">Material Costs:</font>**| |
@@ -150,9 +150,9 @@ Used as floor and wall tile to build rooms.
 
 Significantly increases Duplicant runspeed.
 ### Info
-| <img width="200"src="../../images/buildings/AIO_MosaicTile.png"> | |
+| <img width="200"src="/assets/images/buildings/AIO_MosaicTile.png"> | |
 |-|-|
-|**Dimensions:** |1 wide x 1 high|
+|**Dimensions:** | 1 wide x 1 high|
 |**Research Required:**| Home Luxuries|
 
 |**<font size="+1">Material Costs:</font>**| |
@@ -166,9 +166,9 @@ Concrete tiles are not aesthetically pleasing, but they make up for strength and
 A rock hard composite tile made with coarse aggregate bonded together with a fluid cement.
 The concrete's relatively low tensile strength and ductility are compensated for by the inclusion of a internal rebar reinforcement having higher tensile strength or ductility.
 ### Info
-| <img width="200"src="../../images/buildings/ReinforcedConcreteTile.png"> | |
+| <img width="200"src="/assets/images/buildings/ReinforcedConcreteTile.png"> | |
 |-|-|
-|**Dimensions:** |1 wide x 1 high|
+|**Dimensions:** | 1 wide x 1 high|
 |**Research Required:**| Superheated Forging|
 
 |**<font size="+1">Material Costs:</font>**| |
@@ -182,9 +182,9 @@ Functions as a Manual Airlock when no Power is available.
 
 A mechanized airlock door made with Glass panels. Blocks Liquid and Gas flow, maintaining pressure between areas. Sets Duplicant Access Permissions for area restriction.
 ### Info
-| <img width="200"src="../../images/buildings/GlassDoorComplex.png"> | |
+| <img width="200"src="/assets/images/buildings/GlassDoorComplex.png"> | |
 |-|-|
-|**Dimensions:** |1 wide x 2 high|
+|**Dimensions:** | 1 wide x 2 high|
 |**Power Consumption:**| 20 W|
 |**Research Required:**| Transit Tubes|
 
@@ -200,9 +200,9 @@ The same can be said about Meep.
 
 A simple door made with Glass panels. Encloses areas without blocking Liquid or Gas flow. Sets Duplicant Access Permissions for area restriction.
 ### Info
-| <img width="200"src="../../images/buildings/GlassDoorSimple.png"> | |
+| <img width="200"src="/assets/images/buildings/GlassDoorSimple.png"> | |
 |-|-|
-|**Dimensions:** |1 wide x 2 high|
+|**Dimensions:** | 1 wide x 2 high|
 |**Research Required:**| Transit Tubes|
 
 |**<font size="+1">Material Costs:</font>**| |
@@ -218,9 +218,9 @@ This solid tile is specially engineered to withstand the harsh conditions of spa
 
 Blocks Gas and Liquid while offering minimal thermal insulation.
 ### Info
-| <img width="200"src="../../images/buildings/SpacerTileSolid.png"> | |
+| <img width="200"src="/assets/images/buildings/SpacerTileSolid.png"> | |
 |-|-|
-|**Dimensions:** |1 wide x 1 high|
+|**Dimensions:** | 1 wide x 1 high|
 |**Research Required:**| Hazard Protection|
 
 |**<font size="+1">Material Costs:</font>**| |
@@ -234,9 +234,9 @@ A small sized spacer wall.
 
 A solid wall panel wrought from steel. Hermetically sealed joints prevent gas leakage into space.
 ### Info
-| <img width="200"src="../../images/buildings/SpacerWall.png"> | |
+| <img width="200"src="/assets/images/buildings/SpacerWall.png"> | |
 |-|-|
-|**Dimensions:** |1 wide x 1 high|
+|**Dimensions:** | 1 wide x 1 high|
 |**Research Required:**| High Culture|
 
 |**<font size="+1">Material Costs:</font>**| |
@@ -249,9 +249,9 @@ A small sized spacer window..
 
 A solid wall wrought from steel and fitted with thick layers of glass. Hermetically sealed joints prevent gas leakage into space.
 ### Info
-| <img width="200"src="../../images/buildings/SpacerWindowWall.png"> | |
+| <img width="200"src="/assets/images/buildings/SpacerWindowWall.png"> | |
 |-|-|
-|**Dimensions:** |1 wide x 1 high|
+|**Dimensions:** | 1 wide x 1 high|
 |**Research Required:**| Glass Blowing|
 
 |**<font size="+1">Material Costs:</font>**| |
@@ -265,9 +265,9 @@ A solid structural tile wrought from refined metal. Use to build the walls and f
 
 This steel structure is commonly used as a simple, yet strong tile for buildings. The frame structure will not hold any gas or liquid.
 ### Info
-| <img width="200"src="../../images/buildings/StructureTile.png"> | |
+| <img width="200"src="/assets/images/buildings/StructureTile.png"> | |
 |-|-|
-|**Dimensions:** |1 wide x 1 high|
+|**Dimensions:** | 1 wide x 1 high|
 |**Research Required:**| Smelting|
 
 |**<font size="+1">Material Costs:</font>**| |
@@ -282,9 +282,9 @@ This windowed tile allows light and visibility through while maintaining a stron
 
 Blocks Gas and Liquid while offering minimal thermal insulation.
 ### Info
-| <img width="200"src="../../images/buildings/SpacerTileWindow.png"> | |
+| <img width="200"src="/assets/images/buildings/SpacerTileWindow.png"> | |
 |-|-|
-|**Dimensions:** |1 wide x 1 high|
+|**Dimensions:** | 1 wide x 1 high|
 |**Research Required:**| Glass Blowing|
 
 |**<font size="+1">Material Costs:</font>**| |
@@ -299,9 +299,9 @@ Tiles composed of minerals and wooden adornments.
 Used to build the walls and floors of rooms. Increases Decor, contributing to Morale.
 Its composition gives it excellent insulation.
 ### Info
-| <img width="200"src="../../images/buildings/WoodenCompositionTile.png"> | |
+| <img width="200"src="/assets/images/buildings/WoodenCompositionTile.png"> | |
 |-|-|
-|**Dimensions:** |1 wide x 1 high|
+|**Dimensions:** | 1 wide x 1 high|
 |**Research Required:**| Home Luxuries|
 
 |**<font size="+1">Material Costs:</font>**| |
@@ -317,9 +317,9 @@ A semipermeable wooden tile, used to build walls and floors of rooms.
 
 Blocks Liquid flow without obstructing Gas.
 ### Info
-| <img width="200"src="../../images/buildings/WoodenGasTile.png"> | |
+| <img width="200"src="/assets/images/buildings/WoodenGasTile.png"> | |
 |-|-|
-|**Dimensions:** |1 wide x 1 high|
+|**Dimensions:** | 1 wide x 1 high|
 |**Research Required:**| Pressure Management|
 
 |**<font size="+1">Material Costs:</font>**| |
@@ -333,9 +333,9 @@ Wood work used to decorate the ceilings of rooms. Increases Decor, contributing 
 
 This ceiling is a beautiful masonry and wood work, but serves only as a decorative purpose.
 ### Info
-| <img width="200"src="../../images/buildings/WoodenCeiling.png"> | |
+| <img width="200"src="/assets/images/buildings/WoodenCeiling.png"> | |
 |-|-|
-|**Dimensions:** |1 wide x 1 high|
+|**Dimensions:** | 1 wide x 1 high|
 |**Research Required:**| Home Luxuries|
 
 |**<font size="+1">Material Costs:</font>**| |
@@ -349,9 +349,9 @@ A wooden arch used to decorate the ceiling corners of rooms. Increases Decor, co
 
 This corner ceiling arch is beautiful masonry and wood work, but serves only as a decorative purpose.
 ### Info
-| <img width="200"src="../../images/buildings/WoodenCornerArch.png"> | |
+| <img width="200"src="/assets/images/buildings/WoodenCornerArch.png"> | |
 |-|-|
-|**Dimensions:** |1 wide x 1 high|
+|**Dimensions:** | 1 wide x 1 high|
 |**Research Required:**| Home Luxuries|
 
 |**<font size="+1">Material Costs:</font>**| |
@@ -365,9 +365,9 @@ Be careful with splinters!
 
 A pretty wooden door that encloses areas without blocking Liquid or Gas flow. Sets Duplicant Access Permissions for area restriction.
 ### Info
-| <img width="200"src="../../images/buildings/WoodenDoor.png"> | |
+| <img width="200"src="/assets/images/buildings/WoodenDoor.png"> | |
 |-|-|
-|**Dimensions:** |1 wide x 2 high|
+|**Dimensions:** | 1 wide x 2 high|
 |**Research Required:**| Interior Decor|
 
 |**<font size="+1">Material Costs:</font>**| |
@@ -383,9 +383,9 @@ A permeable wooden tile, used to build walls and floors of rooms.
 
 Allows the flow of both liquid and Gas.
 ### Info
-| <img width="200"src="../../images/buildings/WoodenMeshTile.png"> | |
+| <img width="200"src="/assets/images/buildings/WoodenMeshTile.png"> | |
 |-|-|
-|**Dimensions:** |1 wide x 1 high|
+|**Dimensions:** | 1 wide x 1 high|
 |**Research Required:**| Sanitation|
 
 |**<font size="+1">Material Costs:</font>**| |

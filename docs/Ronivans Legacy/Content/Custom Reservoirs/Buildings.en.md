@@ -4,9 +4,9 @@ A medium sized reservoir with double amount of input and output ports.
 
 Stores any Gas resources piped into it.
 ### Info
-| <img width="200"src="../../images/buildings/MedGasReservoir.png"> | |
+| <img width="200"src="/assets/images/buildings/MedGasReservoir.png"> | |
 |-|-|
-|**Dimensions:** |3 wide x 4 high|
+|**Dimensions:** | 3 wide x 4 high|
 |**Research Required:**| Improved Ventilation|
 |**Storage Capacity:**| 750 kg|
 
@@ -26,9 +26,9 @@ A medium sized reservoir with double amount of input and output ports.
 
 Stores any Liquid resources piped into it.
 ### Info
-| <img width="200"src="../../images/buildings/MedLiquidReservoir.png"> | |
+| <img width="200"src="/assets/images/buildings/MedLiquidReservoir.png"> | |
 |-|-|
-|**Dimensions:** |3 wide x 4 high|
+|**Dimensions:** | 3 wide x 4 high|
 |**Research Required:**| Improved Plumbing|
 |**Storage Capacity:**| 7.5 t|
 
@@ -48,9 +48,9 @@ A small sized reservoir. Reservoirs cannot receive manually delivered resources.
 
 Stores any Gas resources piped into it.
 ### Info
-| <img width="200"src="../../images/buildings/SmallGasReservoirDefault.png"> | |
+| <img width="200"src="/assets/images/buildings/SmallGasReservoirDefault.png"> | |
 |-|-|
-|**Dimensions:** |1 wide x 3 high|
+|**Dimensions:** | 1 wide x 3 high|
 |**Research Required:**| Ventilation|
 |**Storage Capacity:**| 250 kg|
 
@@ -69,9 +69,9 @@ A small sized reservoir. Reservoirs cannot receive manually delivered resources.
 
 Stores any Liquid resources piped into it.
 ### Info
-| <img width="200"src="../../images/buildings/SmallLiquidReservoirDefault.png"> | |
+| <img width="200"src="/assets/images/buildings/SmallLiquidReservoirDefault.png"> | |
 |-|-|
-|**Dimensions:** |1 wide x 3 high|
+|**Dimensions:** | 1 wide x 3 high|
 |**Research Required:**| Plumbing|
 |**Storage Capacity:**| 2500 kg|
 
@@ -90,9 +90,9 @@ A small sized reservoir designed for all placements, which does not require any 
 
 Stores any Gas resources piped into it.
 ### Info
-| <img width="200"src="../../images/buildings/WallGasTank.png"> | |
+| <img width="200"src="/assets/images/buildings/WallGasTank.png"> | |
 |-|-|
-|**Dimensions:** |3 wide x 1 high|
+|**Dimensions:** | 3 wide x 1 high|
 |**Research Required:**| Improved Ventilation|
 |**Storage Capacity:**| 150 kg|
 
@@ -111,9 +111,9 @@ A small sized reservoir designed for all placements, which does not require any 
 
 Stores any Liquid resources piped into it.
 ### Info
-| <img width="200"src="../../images/buildings/WallLiquidTank.png"> | |
+| <img width="200"src="/assets/images/buildings/WallLiquidTank.png"> | |
 |-|-|
-|**Dimensions:** |3 wide x 1 high|
+|**Dimensions:** | 3 wide x 1 high|
 |**Research Required:**| Improved Plumbing|
 |**Storage Capacity:**| 1500 kg|
 

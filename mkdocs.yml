@@ -22,13 +22,20 @@ theme:
       scheme: default
       toggle:
         icon: material/brightness-7 
-
-
         name: Switch to dark mode
 
-    
 plugins:
   - search
+  - i18n:
+      docs_structure: suffix
+      languages:
+        - locale: en
+          default: true
+          name: English
+          build: true
+        - locale: zh
+          name: 中文
+          build: true
 markdown_extensions:
   - admonition
   - pymdownx.details
@@ -40,3 +47,9 @@ extra_css:
 extra_javascript:
   - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
   - javascripts/tablesort.js
+
+
+
+validation:
+  links:
+    absolute_links: relative_to_docs

@@ -8,9 +8,9 @@ Must be connected to a High Pressure Gas Pipe.
 
 Requires power to function.
 ### Info
-| <img width="200"src="../../images/buildings/HPAVentGas.png"> | |
+| <img width="200"src="/assets/images/buildings/HPAVentGas.png"> | |
 |-|-|
-|**Dimensions:** |1 wide x 1 high|
+|**Dimensions:** | 1 wide x 1 high|
 |**Power Consumption:**| 120 W|
 |**Research Required:**| HVAC|
 
@@ -34,9 +34,9 @@ Must be connected to a High Pressure Liquid Pipe.
 
 Requires power to function.
 ### Info
-| <img width="200"src="../../images/buildings/HPAVentLiquid.png"> | |
+| <img width="200"src="/assets/images/buildings/HPAVentLiquid.png"> | |
 |-|-|
-|**Dimensions:** |1 wide x 1 high|
+|**Dimensions:** | 1 wide x 1 high|
 |**Power Consumption:**| 120 W|
 |**Research Required:**| Improved Plumbing|
 
@@ -56,9 +56,9 @@ A mechanical valve capable of reducing the flow of gas from a pressurized pipe t
 
 Allows Gases to be transfered from High Pressure Gas Pipe to normal Pipes.
 ### Info
-| <img width="200"src="../../images/buildings/DecompressionGasValve.png"> | |
+| <img width="200"src="/assets/images/buildings/DecompressionGasValve.png"> | |
 |-|-|
-|**Dimensions:** |2 wide x 1 high|
+|**Dimensions:** | 2 wide x 1 high|
 |**Research Required:**| HVAC|
 
 |**<font size="+1">Material Costs:</font>**| |
@@ -77,9 +77,9 @@ A mechanical valve capable of reducing the flow of liquid from a pressurized pip
 
 Allows Liquid to be transfered from High Pressure Liquid Pipe to normal Pipes.
 ### Info
-| <img width="200"src="../../images/buildings/DecompressionLiquidValve.png"> | |
+| <img width="200"src="/assets/images/buildings/DecompressionLiquidValve.png"> | |
 |-|-|
-|**Dimensions:** |2 wide x 1 high|
+|**Dimensions:** | 2 wide x 1 high|
 |**Research Required:**| Liquid Tuning|
 
 |**<font size="+1">Material Costs:</font>**| |
@@ -102,9 +102,9 @@ Materials are automatically delivered to any Heavy-Duty Loader, Heavy-Duty Recep
 
 Comes with increased range, capacity and rotation speed.
 ### Info
-| <img width="200"src="../../images/buildings/HPA_TransferArm.png"> | |
+| <img width="200"src="/assets/images/buildings/HPA_TransferArm.png"> | |
 |-|-|
-|**Dimensions:** |3 wide x 1 high|
+|**Dimensions:** | 3 wide x 1 high|
 |**Power Consumption:**| 960 W|
 |**Research Required:**| Solid Control|
 
@@ -121,9 +121,9 @@ Allows Heavy-Duty Rail and Insulated Heavy-Duty Rail to run one section over ano
 
 Canot be run through wall and floor tile.
 ### Info
-| <img width="200"src="../../images/buildings/HPA_SolidRailBridge.png"> | |
+| <img width="200"src="/assets/images/buildings/HPA_SolidRailBridge.png"> | |
 |-|-|
-|**Dimensions:** |3 wide x 1 high|
+|**Dimensions:** | 3 wide x 1 high|
 |**Research Required:**| High-Capacity Solid Transport|
 
 |**<font size="+1">Material Costs:</font>**| |
@@ -144,9 +144,9 @@ Allows Heavy-Duty Rail and Insulated Heavy-Duty Rail to be run through wall and 
 
 Functions as regular insulated tile.
 ### Info
-| <img width="200"src="../../images/buildings/HPA_SolidRailBridgeTile.png"> | |
+| <img width="200"src="/assets/images/buildings/HPA_SolidRailBridgeTile.png"> | |
 |-|-|
-|**Dimensions:** |1 wide x 1 high|
+|**Dimensions:** | 1 wide x 1 high|
 |**Research Required:**| High-Capacity Solid Transport|
 
 |**<font size="+1">Material Costs:</font>**| |
@@ -168,9 +168,9 @@ Loads Solid Materials onto Heavy-Duty Rail for transport.
 
 Only loads the resources of your choosing.
 ### Info
-| <img width="200"src="../../images/buildings/HPA_InBox.png"> | |
+| <img width="200"src="/assets/images/buildings/HPA_InBox.png"> | |
 |-|-|
-|**Dimensions:** |1 wide x 3 high|
+|**Dimensions:** | 1 wide x 3 high|
 |**Power Consumption:**| 960 W|
 |**Research Required:**| High-Capacity Solid Transport|
 |**Storage Capacity:**| 10 t|
@@ -193,9 +193,9 @@ Transports large quantities of Solid Materials on a track between Heavy-Duty Loa
 
 Can not be run through wall and floor tiles.
 ### Info
-| <img width="200"src="../../images/buildings/HPA_SolidRail.png"> | |
+| <img width="200"src="/assets/images/buildings/HPA_SolidRail.png"> | |
 |-|-|
-|**Dimensions:** |1 wide x 1 high|
+|**Dimensions:** | 1 wide x 1 high|
 |**Research Required:**| High-Capacity Solid Transport|
 
 |**<font size="+1">Material Costs:</font>**| |
@@ -208,9 +208,10 @@ Compression leads to higher rail throughput!
 
 Merges chunks of Solid Materials from incoming rails and ouputs them onto a Heavy-Duty Rail.
 ### Info
-| <img width="200"src="../../images/buildings/HPA_RailMerger.png"> | |
+| <img width="200"src="/assets/images/buildings/HPA_RailMerger.png"> | |
 |-|-|
-|**Dimensions:** |3 wide x 2 high|
+|**Dimensions:** | 3 wide x 2 high|
+|**Power Consumption:**| 60 W|
 |**Research Required:**| High-Capacity Solid Transport|
 
 |**<font size="+1">Material Costs:</font>**| |
@@ -233,9 +234,9 @@ Separates all selected Solid Materials from the conveyor, sending it into a dedi
 
 Able to work with all rail types.
 ### Info
-| <img width="200"src="../../images/buildings/HPA_MultiSolidFilter.png"> | |
+| <img width="200"src="/assets/images/buildings/HPA_MultiSolidFilter.png"> | |
 |-|-|
-|**Dimensions:** |3 wide x 1 high|
+|**Dimensions:** | 3 wide x 1 high|
 |**Power Consumption:**| 360 W|
 |**Research Required:**| Solid Management|
 
@@ -255,9 +256,9 @@ A mechanical valve capable of reducing the flow of mass from a Heavy-Duty rail t
 
 Allows Solid Materials to be transfered from Heavy-Duty Rails to normal Conveyor Rails.
 ### Info
-| <img width="200"src="../../images/buildings/HPA_SolidRailValve.png"> | |
+| <img width="200"src="/assets/images/buildings/HPA_SolidRailValve.png"> | |
 |-|-|
-|**Dimensions:** |1 wide x 2 high|
+|**Dimensions:** | 1 wide x 2 high|
 |**Research Required:**| High-Capacity Solid Transport|
 
 |**<font size="+1">Material Costs:</font>**| |
@@ -279,9 +280,9 @@ Carries a maximum of 10kg of Gas with minimal change in Temperature.
 
 Can be run through wall and floor tile.
 ### Info
-| <img width="200"src="../../images/buildings/HighPressureGasConduit.png"> | |
+| <img width="200"src="/assets/images/buildings/HighPressureGasConduit.png"> | |
 |-|-|
-|**Dimensions:** |1 wide x 1 high|
+|**Dimensions:** | 1 wide x 1 high|
 |**Research Required:**| Improved Ventilation|
 
 |**<font size="+1">Material Costs:</font>**| |
@@ -298,9 +299,9 @@ Runs one High Pressure Gas Pipe section over another without joining them.
 
 Can be run through wall and floor tile.
 ### Info
-| <img width="200"src="../../images/buildings/HighPressureGasConduitBridge.png"> | |
+| <img width="200"src="/assets/images/buildings/HighPressureGasConduitBridge.png"> | |
 |-|-|
-|**Dimensions:** |3 wide x 1 high|
+|**Dimensions:** | 3 wide x 1 high|
 |**Research Required:**| Improved Ventilation|
 
 |**<font size="+1">Material Costs:</font>**| |
@@ -321,9 +322,9 @@ Filters all selected Gases from the air, sending it into a dedicated Filtered Ou
 
 Able to work with all gas pipe types.
 ### Info
-| <img width="200"src="../../images/buildings/HPA_MultiGasFilter.png"> | |
+| <img width="200"src="/assets/images/buildings/HPA_MultiGasFilter.png"> | |
 |-|-|
-|**Dimensions:** |3 wide x 1 high|
+|**Dimensions:** | 3 wide x 1 high|
 |**Power Consumption:**| 360 W|
 |**Research Required:**| Valve Miniaturization|
 
@@ -345,9 +346,9 @@ Draws in Gas and runs it through High Pressure Gas Pipe.
 
 Must be submerged in Gas.
 ### Info
-| <img width="200"src="../../images/buildings/PressureGasPump.png"> | |
+| <img width="200"src="/assets/images/buildings/PressureGasPump.png"> | |
 |-|-|
-|**Dimensions:** |2 wide x 3 high|
+|**Dimensions:** | 2 wide x 3 high|
 |**Power Consumption:**| 2400 W|
 |**Research Required:**| Valve Miniaturization|
 
@@ -369,9 +370,9 @@ Runs one High Pressure Liquid Pipe section over another without joining them.
 
 Can be run through wall and floor tile.
 ### Info
-| <img width="200"src="../../images/buildings/HighPressureLiquidConduitBridge.png"> | |
+| <img width="200"src="/assets/images/buildings/HighPressureLiquidConduitBridge.png"> | |
 |-|-|
-|**Dimensions:** |3 wide x 1 high|
+|**Dimensions:** | 3 wide x 1 high|
 |**Research Required:**| Improved Plumbing|
 
 |**<font size="+1">Material Costs:</font>**| |
@@ -392,9 +393,9 @@ Filters all selected Liquids out of a mix, sending it into a dedicated Filtered 
 
 Able to work with all liquid pipe types.
 ### Info
-| <img width="200"src="../../images/buildings/HPA_MultiLiquidFilter.png"> | |
+| <img width="200"src="/assets/images/buildings/HPA_MultiLiquidFilter.png"> | |
 |-|-|
-|**Dimensions:** |3 wide x 1 high|
+|**Dimensions:** | 3 wide x 1 high|
 |**Power Consumption:**| 360 W|
 |**Research Required:**| Valve Miniaturization|
 
@@ -416,9 +417,9 @@ Carries a maximum of 40kg of Liquid with minimal change in Temperature.
 
 Can be run through wall and floor tile.
 ### Info
-| <img width="200"src="../../images/buildings/HighPressureLiquidConduit.png"> | |
+| <img width="200"src="/assets/images/buildings/HighPressureLiquidConduit.png"> | |
 |-|-|
-|**Dimensions:** |1 wide x 1 high|
+|**Dimensions:** | 1 wide x 1 high|
 |**Research Required:**| Improved Plumbing|
 
 |**<font size="+1">Material Costs:</font>**| |
@@ -434,9 +435,9 @@ Draws in Liquid and runs it through High Pressure Liquid Pipe.
 
 Must be submerged in Liquid.
 ### Info
-| <img width="200"src="../../images/buildings/PressureLiquidPump.png"> | |
+| <img width="200"src="/assets/images/buildings/PressureLiquidPump.png"> | |
 |-|-|
-|**Dimensions:** |2 wide x 3 high|
+|**Dimensions:** | 2 wide x 3 high|
 |**Power Consumption:**| 960 W|
 |**Research Required:**| Valve Miniaturization|
 
@@ -460,9 +461,9 @@ Can not be run through wall and floor tiles.
 
 Being held in a vaccuum, transported items are fully insulated.
 ### Info
-| <img width="200"src="../../images/buildings/HPA_SolidRail_Insulated.png"> | |
+| <img width="200"src="/assets/images/buildings/HPA_SolidRail_Insulated.png"> | |
 |-|-|
-|**Dimensions:** |1 wide x 1 high|
+|**Dimensions:** | 1 wide x 1 high|
 |**Research Required:**| High-Capacity Solid Transport|
 
 |**<font size="+1">Material Costs:</font>**| |

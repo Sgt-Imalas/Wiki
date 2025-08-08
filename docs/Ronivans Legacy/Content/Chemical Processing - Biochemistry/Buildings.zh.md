@@ -1,0 +1,226 @@
+# 建筑
+## 藻类培养池
+一种宽大的、自动化的生物反应器，用于培育大量的藻类。
+
+通过持续供应的植物油培育藻类，该油料作为内部光合作用生物的营养源。
+需提供光照并严格调控温度，以确保最佳生产环境。
+### 信息
+| <img width="200"src="/assets/images/buildings/Biochemistry_AlgaeGrowingBasin.png"> | |
+|-|-|
+|**尺寸:** | 宽 9 x 高 3|
+|**耗电:**| 90 W|
+|**科技:**| 农业|
+
+|**<font size="+1">建造材料:</font>**| |
+|-|-|
+|精炼金属|400 kg|
+
+### 建筑接口
+|输入:|输出:|
+|-|-|
+|植物油 输入管道|-|
+
+### 元素转换
+|输入:|输出:|
+|-|-|
+|植物油 (100 g/s)<br>泥土 (400 g/s)<br>|藻类 (500 g/s 于 23°C)<br>|
+
+
+
+## 食材分解机
+厌氧消化是一种微生物在无氧环境下分解可生物降解有机物质的过程。
+
+将存储在其中的基本食物分解为天然气
+产量取决于所选用的食材。
+### 信息
+| <img width="200"src="/assets/images/buildings/Biochemistry_AnaerobicDigester.png"> | |
+|-|-|
+|**尺寸:** | 宽 5 x 高 3|
+|**耗电:**| 90 W|
+|**科技:**| 食物再利用|
+
+|**<font size="+1">建造材料:</font>**| |
+|-|-|
+|金属矿石|200 kg|
+
+### 建筑接口
+|输入:|输出:|
+|-|-|
+|-|气体 输出管道|
+
+### 配方
+|材料:| 耗时: | 产物:|
+|-|-|-|
+|Grubfruit (10 kg)<br>沙子 (50 kg)<br>水 (1000 g)<br>|50s|天然气 (805.2 g)<br>泥土 (50 kg)<br>|
+|Spindly Grubfruit (10 kg)<br>沙子 (50 kg)<br>水 (1000 g)<br>|50s|天然气 (2576.6 g)<br>泥土 (50 kg)<br>|
+|Ovagro Fig (10 kg)<br>沙子 (50 kg)<br>水 (1000 g)<br>|50s|天然气 (1046.8 g)<br>泥土 (50 kg)<br>|
+|Bog Jelly (5 kg)<br>沙子 (50 kg)<br>水 (1000 g)<br>|50s|天然气 (2963.1 g)<br>泥土 (50 kg)<br>|
+|Muckroot (10 kg)<br>沙子 (50 kg)<br>水 (1000 g)<br>|50s|天然气 (2576.6 g)<br>泥土 (50 kg)<br>|
+|Snac Fruit (10 kg)<br>沙子 (50 kg)<br>水 (1000 g)<br>|50s|天然气 (2576.6 g)<br>泥土 (50 kg)<br>|
+|Sweatcorn (10 kg)<br>沙子 (50 kg)<br>水 (1000 g)<br>|50s|天然气 (2576.6 g)<br>泥土 (50 kg)<br>|
+|Hexalent Fruit (2000 g)<br>沙子 (50 kg)<br>水 (1000 g)<br>|50s|天然气 (4122.6 g)<br>泥土 (50 kg)<br>|
+|Pikeapple (10 kg)<br>沙子 (50 kg)<br>水 (1000 g)<br>|50s|天然气 (2576.6 g)<br>泥土 (50 kg)<br>|
+|Sherberry (10 kg)<br>沙子 (50 kg)<br>水 (1000 g)<br>|50s|天然气 (2576.6 g)<br>泥土 (50 kg)<br>|
+|Lettuce (10 kg)<br>沙子 (50 kg)<br>水 (1000 g)<br>|50s|天然气 (1288.3 g)<br>泥土 (50 kg)<br>|
+|Bristle Berry (6 kg)<br>沙子 (50 kg)<br>水 (1000 g)<br>|50s|天然气 (3092 g)<br>泥土 (50 kg)<br>|
+|Plant Meat (8 kg)<br>沙子 (50 kg)<br>水 (1000 g)<br>|50s|天然气 (3092 g)<br>泥土 (50 kg)<br>|
+|Mushroom (4000 g)<br>沙子 (50 kg)<br>水 (1000 g)<br>|50s|天然气 (3092 g)<br>泥土 (50 kg)<br>|
+|Swamp Chard Heart (4000 g)<br>沙子 (50 kg)<br>水 (1000 g)<br>|50s|天然气 (3092 g)<br>泥土 (50 kg)<br>|
+|Meal Lice (10 kg)<br>沙子 (50 kg)<br>水 (1000 g)<br>|50s|天然气 (1932.5 g)<br>泥土 (50 kg)<br>|
+|Plume Squash (3000 g)<br>沙子 (50 kg)<br>水 (1000 g)<br>|50s|天然气 (3865 g)<br>泥土 (50 kg)<br>|
+|压缩生物质 (20 kg)<br>沙子 (30 kg)<br>水 (1000 g)<br>|50s|天然气 (1000 g)<br>泥土 (50 kg)<br>|
+|藻类 (20 kg)<br>沙子 (30 kg)<br>水 (1000 g)<br>|50s|天然气 (1000 g)<br>泥土 (50 kg)<br>|
+
+
+
+## 生物柴油发电机
+一种采用生物燃料的先进发电装置。其内置有净化系统，能够避免产生任何废气。
+
+将可再生柴油转换为电力。
+
+仅产出污染水。
+### 信息
+| <img width="200"src="/assets/images/buildings/Biochemistry_BiodieselGenerator.png"> | |
+|-|-|
+|**尺寸:** | 宽 7 x 高 4|
+|**发电:**| 3200 W|
+|**科技:**| 可再生燃料|
+
+|**<font size="+1">建造材料:</font>**| |
+|-|-|
+|精炼金属|400 kg|
+
+### 建筑接口
+|输入:|输出:|
+|-|-|
+|可再生柴油 输入管道|液体 输出管道|
+
+### 元素转换
+|输入:|输出:|
+|-|-|
+|可再生柴油 (380 g/s)<br>| 污染水 (144.3 g/s 于 40°C)<br>|
+
+
+
+## 可再生燃油精炼器
+一座能够将有机油进行酯交换反应，转化为长链脂肪酸的单烷基酯混合物的精炼装置。
+
+将有机油和可再生柴油</link>。
+### 信息
+| <img width="200"src="/assets/images/buildings/Biochemistry_BiodieselRefinery.png"> | |
+|-|-|
+|**尺寸:** | 宽 7 x 高 5|
+|**耗电:**| 60 W|
+|**科技:**| 可再生燃料|
+
+|**<font size="+1">建造材料:</font>**| |
+|-|-|
+|金属矿石|400 kg|
+
+### 建筑接口
+|输入:|输出:|
+|-|-|
+|植物油 输入管道|液体 输出管道|
+|乙醇 输入管道|污染水 输出管道|
+
+### 元素转换
+|输入:|输出:|
+|-|-|
+|植物油 (437.5 g/s)<br>乙醇 (187.5 g/s)<br>|可再生柴油 (587.5 g/s 于 52°C)<br>污染水 (37.5 g/s 于 42°C)<br>|
+
+
+
+## 生物塑料打印机
+一种利用有机油和细菌酶来打印出由脂质衍生的生物聚合物薄片的装置，这些薄片会被压缩成一个固体块。
+
+利用有机油与二氧化碳合成生物塑料。
+该过程所需的酶需以软泥糕形式提供给其中的微生物培养基。
+### 信息
+| <img width="200"src="/assets/images/buildings/Biochemistry_BioplasticPrinter.png"> | |
+|-|-|
+|**尺寸:** | 宽 4 x 高 4|
+|**耗电:**| 240 W|
+|**科技:**| 塑料制造|
+
+|**<font size="+1">建造材料:</font>**| |
+|-|-|
+|金属矿石|400 kg|
+
+### 建筑接口
+|输入:|输出:|
+|-|-|
+|植物油 输入管道|-|
+|二氧化碳 输入管道|-|
+
+### 元素转换
+|输入:|输出:|
+|-|-|
+|植物油 (400 g/s)<br>二氧化碳 (100 g/s)<br>Mush Bar (2000 mg/s)<br>|生物塑料 (500 g/s 于 23°C)<br>|
+
+
+
+## 榨油机
+一种用于从原材料中提取油的机械装置。这些原材料在高压作用下通过一个有隔板的类似桶状的腔体被挤压出来。
+
+从原始食材中提取植物油。所提取的油量以及以压缩生物质形式存在的固体废弃物的量取决于所选择的食材。
+可以用水稀释为植物油。
+### 信息
+| <img width="200"src="/assets/images/buildings/Biochemistry_ExpellerPress.png"> | |
+|-|-|
+|**尺寸:** | 宽 5 x 高 3|
+|**耗电:**| 120 W|
+|**科技:**| 蛮力精炼|
+
+|**<font size="+1">建造材料:</font>**| |
+|-|-|
+|金属矿石|200 kg|
+
+### 建筑接口
+|输入:|输出:|
+|-|-|
+|-|液体 输出管道|
+
+### 配方
+|材料:| 耗时: | 产物:|
+|-|-|-|
+|Meal Lice (1000 g)<br>|25s|植物油 (1500 g)<br>压缩生物质 (15 kg)<br>|
+|Saturn Critter Trap Seed (10 kg)<br>|10s|植物油 (9.5 kg)<br>压缩生物质 (500 g)<br>|
+|Wort Seed (10 kg)<br>|10s|植物油 (9.5 kg)<br>压缩生物质 (500 g)<br>|
+|Plume Squash Seed (10 kg)<br>|10s|植物油 (9.5 kg)<br>压缩生物质 (500 g)<br>|
+|Mimillet (10 kg)<br>|10s|植物油 (9.5 kg)<br>压缩生物质 (500 g)<br>|
+|Alveo Vera Seed (10 kg)<br>|10s|植物油 (9.5 kg)<br>压缩生物质 (500 g)<br>|
+|Mealwood Seed (10 kg)<br>|10s|植物油 (9.5 kg)<br>压缩生物质 (500 g)<br>|
+|Dew Seed (10 kg)<br>|10s|植物油 (9.5 kg)<br>压缩生物质 (500 g)<br>|
+|Megafrond Spore (10 kg)<br>|10s|植物油 (9.5 kg)<br>压缩生物质 (500 g)<br>|
+|Gas Grass Seed (10 kg)<br>|10s|植物油 (9.5 kg)<br>压缩生物质 (500 g)<br>|
+|Sweatcorn Seed (10 kg)<br>|10s|植物油 (9.5 kg)<br>压缩生物质 (500 g)<br>|
+|Arbor Acorn (10 kg)<br>|10s|植物油 (9.5 kg)<br>压缩生物质 (500 g)<br>|
+|Lura Seed (10 kg)<br>|10s|植物油 (9.5 kg)<br>压缩生物质 (500 g)<br>|
+|Hydrocactus Seed (10 kg)<br>|10s|植物油 (9.5 kg)<br>压缩生物质 (500 g)<br>|
+|Pikeapple Bush Seed (10 kg)<br>|10s|植物油 (9.5 kg)<br>压缩生物质 (500 g)<br>|
+|Oxyfern Seed (10 kg)<br>|10s|植物油 (9.5 kg)<br>压缩生物质 (500 g)<br>|
+|Grubfruit Seed (10 kg)<br>|10s|植物油 (9.5 kg)<br>压缩生物质 (500 g)<br>|
+|Blossom Seed (10 kg)<br>|10s|植物油 (9.5 kg)<br>压缩生物质 (500 g)<br>|
+|Ovagro Node Seed (10 kg)<br>|10s|植物油 (9.5 kg)<br>压缩生物质 (500 g)<br>|
+|Dasha Saltvine Seed (10 kg)<br>|10s|植物油 (9.5 kg)<br>压缩生物质 (500 g)<br>|
+|Balm Lily Seed (10 kg)<br>|10s|植物油 (9.5 kg)<br>压缩生物质 (500 g)<br>|
+|Bog Bucket Seed (10 kg)<br>|10s|植物油 (9.5 kg)<br>压缩生物质 (500 g)<br>|
+|Bonbon Tree Seed (10 kg)<br>|10s|植物油 (9.5 kg)<br>压缩生物质 (500 g)<br>|
+|Pincha Pepper Seed (10 kg)<br>|10s|植物油 (9.5 kg)<br>压缩生物质 (500 g)<br>|
+|Fungal Spore (10 kg)<br>|10s|植物油 (9.5 kg)<br>压缩生物质 (500 g)<br>|
+|Seakomb Seed (10 kg)<br>|10s|植物油 (9.5 kg)<br>压缩生物质 (500 g)<br>|
+|Sleet Wheat Grain (1000 g)<br>|25s|植物油 (1310 g)<br>压缩生物质 (1250 g)<br>|
+|Nosh Bean (1000 g)<br>|25s|植物油 (2800 g)<br>压缩生物质 (1750 g)<br>|
+|Pincha Peppernut (1000 g)<br>|25s|植物油 (4720 g)<br>压缩生物质 (4500 g)<br>|
+|Balm Lily Flower (1000 g)<br>|25s|植物油 (350 g)<br>压缩生物质 (650 g)<br>|
+|Grubfruit (1000 g)<br>|25s|植物油 (1060 g)<br>压缩生物质 (3400 g)<br>|
+|Pikeapple (1000 g)<br>|25s|植物油 (1020 g)<br>压缩生物质 (6 kg)<br>|
+|Plume Squash (1000 g)<br>|25s|植物油 (900 g)<br>压缩生物质 (27 kg)<br>|
+|Gas Grass (1000 g)<br>|25s|植物油 (6.1 kg)<br>压缩生物质 (20.4 kg)<br>|
+|Plant Meat (1000 g)<br>|25s|植物油 (900 g)<br>压缩生物质 (12 kg)<br>|
+|Spindly Grubfruit (1000 g)<br>|25s|植物油 (7.2 kg)<br>压缩生物质 (6 kg)<br>|
+|Sweatcorn (1000 g)<br>|25s|植物油 (10.5 kg)<br>压缩生物质 (7.5 kg)<br>|
+|Seakomb Leaf (10 kg)<br>|25s|植物油 (10 kg)<br>压缩生物质 (3650 g)<br>|
+
+
+

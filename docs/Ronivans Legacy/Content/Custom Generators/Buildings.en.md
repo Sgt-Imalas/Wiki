@@ -5,9 +5,9 @@ A small, custom Refined Carbon generator. This rather versatile generator has pi
 Converts Refined Carbon into Power.
 The waste products are either released into the world or inserted into pipes.
 ### Info
-| <img width="200"src="../../images/buildings/CustomSolidGenerator.png"> | |
+| <img width="200"src="/assets/images/buildings/CustomSolidGenerator.png"> | |
 |-|-|
-|**Dimensions:** |2 wide x 4 high|
+|**Dimensions:** | 2 wide x 4 high|
 |**Power Generation:**| 750 W|
 |**Research Required:**| Internal Combustion|
 
@@ -20,7 +20,7 @@ The waste products are either released into the world or inserted into pipes.
 |-|-|
 |-|Carbon Dioxide Output Pipe|
 
-### Generator Conversion
+### Element Conversion
 |Inputs:|Outputs:|
 |-|-|
 |Refined Carbon (750 g/s)<br>| Carbon Dioxide (10 g/s at 110°C)<br>|
@@ -33,9 +33,9 @@ A small, custom Combustible Liquid generator. This rather versatile generator ha
 Converts Combustable Fuel into Power.
 The waste products are either released into the world or inserted into pipes.
 ### Info
-| <img width="200"src="../../images/buildings/CustomPetroleumGenerator.png"> | |
+| <img width="200"src="/assets/images/buildings/CustomPetroleumGenerator.png"> | |
 |-|-|
-|**Dimensions:** |1 wide x 4 high|
+|**Dimensions:** | 1 wide x 4 high|
 |**Power Generation:**| 667 W|
 |**Research Required:**| Fossil Fuels|
 
@@ -49,7 +49,7 @@ The waste products are either released into the world or inserted into pipes.
 |Combustible Liquid Input Pipe|Carbon Dioxide Output Pipe|
 |-|Polluted Water Output Pipe|
 
-### Generator Conversion
+### Element Conversion
 |Inputs:|Outputs:|
 |-|-|
 |Combustible Liquid (666.7 g/s)<br>| Carbon Dioxide (166.7 g/s at 110°C)<br>Polluted Water (250 g/s at 40°C)<br>|
@@ -62,9 +62,9 @@ A small, custom Combustible Gas generator. This rather versatile generator has p
 Converts Combustible Gas into Power.
 The waste products are either released into the world or inserted into pipes.
 ### Info
-| <img width="200"src="../../images/buildings/CustomMethaneGenerator.png"> | |
+| <img width="200"src="/assets/images/buildings/CustomMethaneGenerator.png"> | |
 |-|-|
-|**Dimensions:** |1 wide x 4 high|
+|**Dimensions:** | 1 wide x 4 high|
 |**Power Generation:**| 267 W|
 |**Research Required:**| Fossil Fuels|
 
@@ -78,7 +78,7 @@ The waste products are either released into the world or inserted into pipes.
 |Combustible Gas Input Pipe|Carbon Dioxide Output Pipe|
 |-|Polluted Water Output Pipe|
 
-### Generator Conversion
+### Element Conversion
 |Inputs:|Outputs:|
 |-|-|
 |Combustible Gas (30 g/s)<br>| Carbon Dioxide (7.5 g/s at 110°C)<br>Polluted Water (22.5 g/s at 40°C)<br>|
@@ -92,9 +92,9 @@ Converts Sunlight into electrical Power.
 
 Can be rotated.
 ### Info
-| <img width="200"src="../../images/buildings/CustomSolarPanel.png"> | |
+| <img width="200"src="/assets/images/buildings/CustomSolarPanel.png"> | |
 |-|-|
-|**Dimensions:** |1 wide x 5 high|
+|**Dimensions:** | 1 wide x 5 high|
 |**Power Generation:**| 80 W|
 |**Research Required:**| Renewable Energy|
 
@@ -110,9 +110,9 @@ Draws in Steam from the tiles directly below the machine's foundation and uses i
 
 Outputs Water.
 ### Info
-| <img width="200"src="../../images/buildings/CustomSteamGenerator.png"> | |
+| <img width="200"src="/assets/images/buildings/CustomSteamGenerator.png"> | |
 |-|-|
-|**Dimensions:** |1 wide x 5 high|
+|**Dimensions:** | 1 wide x 5 high|
 |**Power Generation:**| 283 W|
 |**Research Required:**| Renewable Energy|
 

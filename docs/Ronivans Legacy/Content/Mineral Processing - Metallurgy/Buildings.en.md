@@ -5,9 +5,9 @@ Adress a wide range of industrial and chemical applications.
 An advanced insulated electrical kiln in which the heat is applied by induction heating of metal.
 The advantage of the induction kiln is a clean, energy-efficient and well-controllable heating process compared to most other means of fuel heating.
 ### Info
-| <img width="200"src="../../images/buildings/Chemical_AdvancedKiln.png"> | |
+| <img width="200"src="/assets/images/buildings/Chemical_AdvancedKiln.png"> | |
 |-|-|
-|**Dimensions:** |3 wide x 3 high|
+|**Dimensions:** | 3 wide x 3 high|
 |**Power Consumption:**| 800 W|
 |**Research Required:**| Smelting|
 
@@ -16,7 +16,7 @@ The advantage of the induction kiln is a clean, energy-efficient and well-contro
 |Refined Metal|200 kg|
 
 ### Recipes
-|Ingredients:| Time: |Products:|
+|Ingredients:| Time: | Products:|
 |-|-|-|
 |Coal (500 kg)<br>|30s|Refined Carbon (500 kg)<br>|
 |Wood (800 kg)<br>|30s|Refined Carbon (500 kg)<br>|
@@ -41,9 +41,9 @@ Significantly Heats and exclusively uses Super Coolant piped into it.
 
 Duplicants will not fabricate items unless recipes are queued.
 ### Info
-| <img width="200"src="../../images/buildings/Chemical_AdvancedMetalRefinery.png"> | |
+| <img width="200"src="/assets/images/buildings/Chemical_AdvancedMetalRefinery.png"> | |
 |-|-|
-|**Dimensions:** |3 wide x 5 high|
+|**Dimensions:** | 3 wide x 5 high|
 |**Power Consumption:**| 3000 W|
 |**Research Required:**| Superheated Forging|
 
@@ -58,7 +58,7 @@ Duplicants will not fabricate items unless recipes are queued.
 |Super Coolant Input Pipe|Liquid Output Pipe|
 
 ### Recipes
-|Ingredients:| Time: |Products:|
+|Ingredients:| Time: | Products:|
 |-|-|-|
 |Copper Ore (400 kg)<br>Refined Carbon (50 kg)<br>Sand (50 kg)<br>|40s|Copper (370 kg)<br>Slag (130 kg)<br>|
 |Cobalt Ore (400 kg)<br>Refined Carbon (50 kg)<br>Sand (50 kg)<br>|40s|Cobalt (370 kg)<br>Slag (130 kg)<br>|
@@ -82,9 +82,9 @@ A large sized industrial mill that crushes raw ores using steel balls and specia
 
 Crush down Raw Minerals in to useful materials and industrial ingredients.
 ### Info
-| <img width="200"src="../../images/buildings/Metallurgy_BallCrusherMill.png"> | |
+| <img width="200"src="/assets/images/buildings/Metallurgy_BallCrusherMill.png"> | |
 |-|-|
-|**Dimensions:** |5 wide x 3 high|
+|**Dimensions:** | 5 wide x 3 high|
 |**Power Consumption:**| 800 W|
 |**Research Required:**| Superheated Forging|
 
@@ -93,7 +93,7 @@ Crush down Raw Minerals in to useful materials and industrial ingredients.
 |Steel or Hardened Alloy|1000 kg|
 
 ### Recipes
-|Ingredients:| Time: |Randomized Products:|
+|Ingredients:| Time: | Random Products:|
 |-|-|-|
 |Sandstone (500 kg)<br>|50s|Crushed Rock<br>Sand<br>Copper Ore<br>Electrum<br>Silver Ore<br>Fertilizer<br>|
 |Sedimentary Rock (500 kg)<br>|50s|Crushed Rock<br>Clay<br>Gold Amalgam<br>Pyrite<br>Cobalt Ore<br>Salt<br>Chloroschist<br>Zinc Ore<br>|
@@ -113,9 +113,9 @@ The refinement process produces Natural Gas and Carbon Dioxide.
 
 IMPORTANT: The Gases output ports piping is optional. If no Gas Pipe is attached to them, the output gases will be released directly on the environment.
 ### Info
-| <img width="200"src="../../images/buildings/Metallurgy_BasicOilRefinery.png"> | |
+| <img width="200"src="/assets/images/buildings/Metallurgy_BasicOilRefinery.png"> | |
 |-|-|
-|**Dimensions:** |3 wide x 4 high|
+|**Dimensions:** | 3 wide x 4 high|
 |**Power Consumption:**| 90 W|
 |**Research Required:**| Fossil Fuels|
 
@@ -142,9 +142,9 @@ A plasma arc furnace uses low-temperature plasma flow created by an electric arc
 
 This techlogical advanced glass foundry is capable more than melt Sand in to Molten Glass, but a wide range of other applications.
 ### Info
-| <img width="200"src="../../images/buildings/Chemical_GlassFoundry.png"> | |
+| <img width="200"src="/assets/images/buildings/Chemical_GlassFoundry.png"> | |
 |-|-|
-|**Dimensions:** |3 wide x 3 high|
+|**Dimensions:** | 3 wide x 3 high|
 |**Power Consumption:**| 2400 W|
 |**Research Required:**| Superheated Forging|
 
@@ -159,7 +159,7 @@ This techlogical advanced glass foundry is capable more than melt Sand in to Mol
 |-|Liquid Output Pipe|
 
 ### Recipes
-|Ingredients:| Time: |Products:|
+|Ingredients:| Time: | Products:|
 |-|-|-|
 |Sand (300 kg)<br>|30s|Molten Glass (100 kg)<br>|
 |Crushed Ice (500 kg)<br>|10s|Water (500 kg)<br>|
@@ -176,9 +176,9 @@ A jaw crusher uses compressive force for breaking of stone and other raw mineral
 
 Crush down Raw Minerals in to useful materials and industrial ingredients.
 ### Info
-| <img width="200"src="../../images/buildings/Chemical_SmallCrusherMill.png"> | |
+| <img width="200"src="/assets/images/buildings/Chemical_SmallCrusherMill.png"> | |
 |-|-|
-|**Dimensions:** |3 wide x 2 high|
+|**Dimensions:** | 3 wide x 2 high|
 |**Power Consumption:**| 120 W|
 |**Research Required:**| Brute-Force Refinement|
 
@@ -187,7 +187,7 @@ Crush down Raw Minerals in to useful materials and industrial ingredients.
 |Metal Ore|200 kg|
 
 ### Recipes
-|Ingredients:| Time: |Products:|
+|Ingredients:| Time: | Products:|
 |-|-|-|
 |Egg Shell (5 kg)<br>|30s|Lime (5 kg)<br>|
 |Pokeshell Molt (1000 g)<br>|40s|Lime (10 kg)<br>|
@@ -234,9 +234,9 @@ Produces significant amounts of Heat and consumes carrier gases during manufactu
 
 Main products are dispensed in molten state directly in the floor below the building while the liquid waste is released in a separated port.
 ### Info
-| <img width="200"src="../../images/buildings/Metallurgy_PlasmaFurnace.png"> | |
+| <img width="200"src="/assets/images/buildings/Metallurgy_PlasmaFurnace.png"> | |
 |-|-|
-|**Dimensions:** |5 wide x 5 high|
+|**Dimensions:** | 5 wide x 5 high|
 |**Power Consumption:**| 5000 W|
 |**Research Required:**| Catalytics|
 
@@ -258,7 +258,7 @@ Main products are dispensed in molten state directly in the floor below the buil
 
 
 ### Recipes
-|Ingredients:| Time: |Products:|
+|Ingredients:| Time: | Products:|
 |-|-|-|
 |Sand (150 kg)<br>Borax (10 kg)<br>|10s|Molten Glass (100 kg)<br>Molten Slag (60 kg)<br>|
 |Copper Ore (500 kg)<br>Sand (40 kg)<br>|10s|Molten Copper (490 kg)<br>Molten Slag (50 kg)<br>|
@@ -284,9 +284,9 @@ A basic kiln that uses pyrolysis process to convert woodlogs to usable coal.
 
 Cook Wood to Coal.
 ### Info
-| <img width="200"src="../../images/buildings/Metallurgy_PyrolysisKiln.png"> | |
+| <img width="200"src="/assets/images/buildings/Metallurgy_PyrolysisKiln.png"> | |
 |-|-|
-|**Dimensions:** |1 wide x 2 high|
+|**Dimensions:** | 1 wide x 2 high|
 |**Research Required:**| Brute-Force Refinement|
 
 |**<font size="+1">Material Costs:</font>**| |
@@ -305,9 +305,9 @@ A mixer designed for uniform blending of a wide variety of solid materials, whil
 
 A solid material mixer designed for agricultural purpose, mainly for the production of Dirt and Fertilizer.
 ### Info
-| <img width="200"src="../../images/buildings/Chemical_SoilMixer.png"> | |
+| <img width="200"src="/assets/images/buildings/Chemical_SoilMixer.png"> | |
 |-|-|
-|**Dimensions:** |4 wide x 4 high|
+|**Dimensions:** | 4 wide x 4 high|
 |**Power Consumption:**| 480 W|
 |**Research Required:**| Agriculture|
 
@@ -323,7 +323,7 @@ A solid material mixer designed for agricultural purpose, mainly for the product
 |Ammonia Input Pipe|-|
 
 ### Recipes
-|Ingredients:| Time: |Products:|
+|Ingredients:| Time: | Products:|
 |-|-|-|
 |Nitrate Nodules (25 kg)<br>Phosphate Nodules (25 kg)<br>Sulfur (25 kg)<br>Polluted Water (25 kg)<br>|80s|Fertilizer (100 kg)<br>|
 |Ammonia (25 kg)<br>Phosphate Nodules (25 kg)<br>Sulfur (25 kg)<br>Polluted Water (25 kg)<br>|80s|Fertilizer (100 kg)<br>|

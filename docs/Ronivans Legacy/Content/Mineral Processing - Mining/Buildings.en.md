@@ -6,9 +6,9 @@ A strong drilling apparatus engineered with self guidance sensors for mineral or
 The type of the drill head determines the dept of the drilling, retriving resources from other parts of the Asteroid that are inaccessible by normal means.
 The drill sensors have a limited range, and retrieval of useful ores are not guaranteed.
 ### Info
-| <img width="200"src="../../images/buildings/Mining_MineralDrill.png"> | |
+| <img width="200"src="/assets/images/buildings/Mining_MineralDrill.png"> | |
 |-|-|
-|**Dimensions:** |4 wide x 5 high|
+|**Dimensions:** | 4 wide x 5 high|
 |**Power Consumption:**| 1200 W|
 |**Research Required:**| Solid Management|
 
@@ -17,7 +17,7 @@ The drill sensors have a limited range, and retrieval of useful ores are not gua
 |Steel or Hardened Alloy|1200 kg|
 
 ### Recipes
-|Ingredients:| Time: |Products:|Occurence:|
+|Ingredients:| Time: | Products:|Random Occurences:|
 |-|-|-|-|
 |Copper (400 kg)<br>|150s|Crushed Rock (100 kg)<br>|Sedimentary Rock<br>Dirt<br>Crushed Rock<br>Sandstone<br>Polluted Mud<br>Mud<br>Coal<br>Phosphate Nodules<br>Chloroschist<br>Sulfur<br>Algae<br>|
 |Iron (400 kg)<br>|150s|Crushed Rock (100 kg)<br>|Crushed Rock<br>Granite<br>Abyssalite<br>Gold Amalgam<br>Iron Ore<br>Aluminum Ore<br>Copper Ore<br>Salt<br>Silver Ore<br>Zinc Ore<br>|
@@ -36,9 +36,9 @@ Require a constant supply of Combustable Fuel to function.
 Results: resources that are delivered upon Drillhead return.
 Occurrence: resources that are generated during Drillhead operation.
 ### Info
-| <img width="200"src="../../images/buildings/Mining_AugerDrill.png"> | |
+| <img width="200"src="/assets/images/buildings/Mining_AugerDrill.png"> | |
 |-|-|
-|**Dimensions:** |13 wide x 8 high|
+|**Dimensions:** | 13 wide x 8 high|
 |**Research Required:**| Solid Management|
 
 |**<font size="+1">Material Costs:</font>**| |
@@ -57,7 +57,7 @@ Occurrence: resources that are generated during Drillhead operation.
 
 
 ### Recipes
-|Ingredients:| Time: |Randomized Products:|Occurence:|
+|Ingredients:| Time: | Random Products:|Random Occurences:|
 |-|-|-|-|
 |Basic Drillbits (1000 g)<br>|120s|Crushed Rock<br>Coal<br>Dirt<br>Clay<br>Sand<br>Polluted Dirt<br>Copper Ore<br>Pyrite<br>Gold Amalgam<br>Aluminum Ore<br>Zinc Ore<br>Silver Ore<br>|Crushed Rock<br>Water<br>Polluted Water<br>|
 |Steel Drillbits (1000 g)<br>|120s|Iron Ore<br>Aluminum Ore<br>Copper Ore<br>Gold Amalgam<br>Electrum<br>Sulfur<br>Zinc Ore<br>Silver Ore<br>Igneous Rock<br>Granite<br>Sandstone<br>Wolframite<br>|Crushed Rock<br>Steam<br>Carbon Dioxide<br>|
@@ -76,9 +76,9 @@ An advanced CNC (Computer Numerical Control) Machining production station. Capab
 
 Capable of producing specialty gadgets and other advanced tools. Requires the Mechatronics Engineering knowledge skill to be operated.
 ### Info
-| <img width="200"src="../../images/buildings/Mining_CNCMachine.png"> | |
+| <img width="200"src="/assets/images/buildings/Mining_CNCMachine.png"> | |
 |-|-|
-|**Dimensions:** |7 wide x 4 high|
+|**Dimensions:** | 7 wide x 4 high|
 |**Power Consumption:**| 1000 W|
 |**Research Required:**| Solid Management|
 
@@ -87,7 +87,7 @@ Capable of producing specialty gadgets and other advanced tools. Requires the Me
 |Metal Ore|200 kg|
 
 ### Recipes
-|Ingredients:| Time: |Products:|
+|Ingredients:| Time: | Products:|
 |-|-|-|
 |Iron (250 kg)<br>Copper (50 kg)<br>Biodiesel (20 kg)<br>|50s|Basic Drillbits (2000 g)<br>|
 |Iron (250 kg)<br>Copper (50 kg)<br>Petroleum (20 kg)<br>|50s|Basic Drillbits (2000 g)<br>|

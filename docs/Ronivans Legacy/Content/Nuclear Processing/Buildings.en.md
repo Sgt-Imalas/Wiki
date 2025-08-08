@@ -4,9 +4,9 @@ The advanced boiling water reactor (ABWR) uses non-pressurized coolant for steam
 
 Uses Enriched Uranium to produce Steam for electrical purpose.
 ### Info
-| <img width="200"src="../../images/buildings/LightReactor.png"> | |
+| <img width="200"src="/assets/images/buildings/LightReactor.png"> | |
 |-|-|
-|**Dimensions:** |2 wide x 6 high|
+|**Dimensions:** | 2 wide x 6 high|
 |**Research Required:**| Radiation Refinement|
 
 |**<font size="+1">Material Costs:</font>**| |
@@ -24,9 +24,9 @@ A radiactive source containing radionuclids which emits ionizing radiation.
 
 This device uses Uranium Ore. As the fuel decays, it turns to liquid Nuclear Waste, which is piped out of the source.
 ### Info
-| <img width="200"src="../../images/buildings/HepProjector.png"> | |
+| <img width="200"src="/assets/images/buildings/HepProjector.png"> | |
 |-|-|
-|**Dimensions:** |3 wide x 1 high|
+|**Dimensions:** | 3 wide x 1 high|
 |**Research Required:**| Radiation Refinement|
 
 |**<font size="+1">Material Costs:</font>**| |
@@ -51,9 +51,9 @@ Voloxidation process can separate uranium oxides from nuclear waste, along with 
 
 An advanced kiln capable of volumetric oxidation with heavy nuclear waste by alternating different stages of oxidation and reduction.
 ### Info
-| <img width="200"src="../../images/buildings/HepCalcinator.png"> | |
+| <img width="200"src="/assets/images/buildings/HepCalcinator.png"> | |
 |-|-|
-|**Dimensions:** |7 wide x 3 high|
+|**Dimensions:** | 7 wide x 3 high|
 |**Power Consumption:**| 3000 W|
 |**Research Required:**| Radiation Refinement|
 
@@ -63,7 +63,7 @@ An advanced kiln capable of volumetric oxidation with heavy nuclear waste by alt
 |Ceramic|600 kg|
 
 ### Recipes
-|Ingredients:| Time: |Products:|
+|Ingredients:| Time: | Products:|
 |-|-|-|
 |Uranium Ore (100 kg)<br>Oxylite (100 kg)<br>|80s|Yellowcake (100 kg)<br>|
 |Depleted Uranium (10 kg)<br>Solid Nuclear Waste (90 kg)<br>Oxylite (100 kg)<br>|80s|Yellowcake (100 kg)<br>|
@@ -75,9 +75,9 @@ A gas centrifuge is a device that performs isotope separation of gases. A centri
 
 The Zippe-type centrifuge is a gas device designed to enrich the rare fissile Enriched Uranium from the mixture of isotopes found in the manufactured Yellow Cake. The separation process releases small amounts of Depleted Uraniumas waste product.
 ### Info
-| <img width="200"src="../../images/buildings/HepCentrifuge.png"> | |
+| <img width="200"src="/assets/images/buildings/HepCentrifuge.png"> | |
 |-|-|
-|**Dimensions:** |3 wide x 6 high|
+|**Dimensions:** | 3 wide x 6 high|
 |**Power Consumption:**| 800 W|
 |**Research Required:**| Radiation Refinement|
 

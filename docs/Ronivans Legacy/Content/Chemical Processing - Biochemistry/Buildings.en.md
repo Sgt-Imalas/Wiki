@@ -5,9 +5,9 @@ A wide, automated biological tank design to grow organic masses of algae.
 Grows Algae using a constant supply of  Vegetable Oil that serves as serves as nourishment for the photosynthetic organisms within.
 Requires Light and a strict control of Temperature as to provide proper environment for the production.
 ### Info
-| <img width="200"src="../../images/buildings/Biochemistry_AlgaeGrowingBasin.png"> | |
+| <img width="200"src="/assets/images/buildings/Biochemistry_AlgaeGrowingBasin.png"> | |
 |-|-|
-|**Dimensions:** |9 wide x 3 high|
+|**Dimensions:** | 9 wide x 3 high|
 |**Power Consumption:**| 90 W|
 |**Research Required:**| Agriculture|
 
@@ -33,9 +33,9 @@ Anaerobic digestion is processes by which microorganisms break down biodegradabl
 Breaks down most basic Food stored within to  Natural Gas
 The amount produced depends of the ingredient choosen.
 ### Info
-| <img width="200"src="../../images/buildings/Biochemistry_AnaerobicDigester.png"> | |
+| <img width="200"src="/assets/images/buildings/Biochemistry_AnaerobicDigester.png"> | |
 |-|-|
-|**Dimensions:** |5 wide x 3 high|
+|**Dimensions:** | 5 wide x 3 high|
 |**Power Consumption:**| 90 W|
 |**Research Required:**| Food Repurposing|
 
@@ -49,7 +49,7 @@ The amount produced depends of the ingredient choosen.
 |-|Gas Output Pipe|
 
 ### Recipes
-|Ingredients:| Time: |Products:|
+|Ingredients:| Time: | Products:|
 |-|-|-|
 |Grubfruit (10 kg)<br>Sand (50 kg)<br>Water (1000 g)<br>|50s|Natural Gas (805.2 g)<br>Dirt (50 kg)<br>|
 |Spindly Grubfruit (10 kg)<br>Sand (50 kg)<br>Water (1000 g)<br>|50s|Natural Gas (2576.6 g)<br>Dirt (50 kg)<br>|
@@ -80,9 +80,9 @@ Converts Renewable Diesel into electrical Power.
 
 Produces only Polluted Water.
 ### Info
-| <img width="200"src="../../images/buildings/Biochemistry_BiodieselGenerator.png"> | |
+| <img width="200"src="/assets/images/buildings/Biochemistry_BiodieselGenerator.png"> | |
 |-|-|
-|**Dimensions:** |7 wide x 4 high|
+|**Dimensions:** | 7 wide x 4 high|
 |**Power Generation:**| 3200 W|
 |**Research Required:**| Renewable Combustion Fuels|
 
@@ -95,7 +95,7 @@ Produces only Polluted Water.
 |-|-|
 |Renewable Diesel Input Pipe|Liquid Output Pipe|
 
-### Generator Conversion
+### Element Conversion
 |Inputs:|Outputs:|
 |-|-|
 |Renewable Diesel (380 g/s)<br>| Polluted Water (144.3 g/s at 40°C)<br>|
@@ -107,9 +107,9 @@ A refinery capable of transesterification of organic oils into a mix of mono-alk
 
 Transesterify Renewable Diesel from Vegetable Oil and Ethanol.
 ### Info
-| <img width="200"src="../../images/buildings/Biochemistry_BiodieselRefinery.png"> | |
+| <img width="200"src="/assets/images/buildings/Biochemistry_BiodieselRefinery.png"> | |
 |-|-|
-|**Dimensions:** |7 wide x 5 high|
+|**Dimensions:** | 7 wide x 5 high|
 |**Power Consumption:**| 60 W|
 |**Research Required:**| Renewable Combustion Fuels|
 
@@ -136,9 +136,9 @@ A device that uses organic oil and bacterial enzymes to print small sheets of li
 Synthesizes Bioplastic from Vegetable Oil and Carbon Dioxide
 The enzymes requires a microbial medium in the form of Mush Bar.
 ### Info
-| <img width="200"src="../../images/buildings/Biochemistry_BioplasticPrinter.png"> | |
+| <img width="200"src="/assets/images/buildings/Biochemistry_BioplasticPrinter.png"> | |
 |-|-|
-|**Dimensions:** |4 wide x 4 high|
+|**Dimensions:** | 4 wide x 4 high|
 |**Power Consumption:**| 240 W|
 |**Research Required:**| Plastic Manufacturing|
 
@@ -165,9 +165,9 @@ A mechanical device built to extract oil from raw materials. The raw materials a
 Extract Vegetable Oil from raw food ingredients. The amount of oil, and the solid waste in the form of Compressed Biomass depend of the ingredient choosen.
 Can be diluted with water to produce Phyto Oil
 ### Info
-| <img width="200"src="../../images/buildings/Biochemistry_ExpellerPress.png"> | |
+| <img width="200"src="/assets/images/buildings/Biochemistry_ExpellerPress.png"> | |
 |-|-|
-|**Dimensions:** |5 wide x 3 high|
+|**Dimensions:** | 5 wide x 3 high|
 |**Power Consumption:**| 120 W|
 |**Research Required:**| Brute-Force Refinement|
 
@@ -181,7 +181,7 @@ Can be diluted with water to produce Phyto Oil
 |-|Liquid Output Pipe|
 
 ### Recipes
-|Ingredients:| Time: |Products:|
+|Ingredients:| Time: | Products:|
 |-|-|-|
 |Meal Lice (1000 g)<br>|25s|Vegetable Oil (1500 g)<br>Compressed Biomass (15 kg)<br>|
 |Saturn Critter Trap Seed (10 kg)<br>|10s|Vegetable Oil (9.5 kg)<br>Compressed Biomass (500 g)<br>|
