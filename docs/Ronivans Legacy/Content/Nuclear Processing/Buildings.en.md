@@ -4,7 +4,7 @@ The advanced boiling water reactor (ABWR) uses non-pressurized coolant for steam
 
 Uses Enriched Uranium to produce Steam for electrical purpose.
 ### Info
-| ![LightReactor](/assets/images/buildings/LightReactor.png){width = "200"} | |
+| ![LightReactor](/assets/images/buildings/LightReactor.png){width="200"} | |
 |-|-|
 |**Dimensions:** | 2 wide x 6 high|
 |**Research Required:**| Radiation Refinement|
@@ -24,7 +24,7 @@ A radiactive source containing radionuclids which emits ionizing radiation.
 
 This device uses Uranium Ore. As the fuel decays, it turns to liquid Nuclear Waste, which is piped out of the source.
 ### Info
-| ![HepProjector](/assets/images/buildings/HepProjector.png){width = "200"} | |
+| ![HepProjector](/assets/images/buildings/HepProjector.png){width="200"} | |
 |-|-|
 |**Dimensions:** | 3 wide x 1 high|
 |**Research Required:**| Radiation Refinement|
@@ -51,7 +51,7 @@ Voloxidation process can separate uranium oxides from nuclear waste, along with 
 
 An advanced kiln capable of volumetric oxidation with heavy nuclear waste by alternating different stages of oxidation and reduction.
 ### Info
-| ![HepCalcinator](/assets/images/buildings/HepCalcinator.png){width = "200"} | |
+| ![HepCalcinator](/assets/images/buildings/HepCalcinator.png){width="200"} | |
 |-|-|
 |**Dimensions:** | 7 wide x 3 high|
 |**Power Consumption:**| 3000 W|
@@ -75,7 +75,7 @@ A gas centrifuge is a device that performs isotope separation of gases. A centri
 
 The Zippe-type centrifuge is a gas device designed to enrich the rare fissile Enriched Uranium from the mixture of isotopes found in the manufactured Yellow Cake. The separation process releases small amounts of Depleted Uraniumas waste product.
 ### Info
-| ![HepCentrifuge](/assets/images/buildings/HepCentrifuge.png){width = "200"} | |
+| ![HepCentrifuge](/assets/images/buildings/HepCentrifuge.png){width="200"} | |
 |-|-|
 |**Dimensions:** | 3 wide x 6 high|
 |**Power Consumption:**| 800 W|

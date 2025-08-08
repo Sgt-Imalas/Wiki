@@ -4,7 +4,7 @@ An industrial grade rotatory compressor unit that criticaly increase the pressur
 
 Compresses Carbon Dioxide gas and cool it down toLiquid Carbon Dioxide. This device is also capable of storing liquid with complete insulation.
 ### Info
-| ![Chemical_CarbonDioxideCompressor](/assets/images/buildings/Chemical_CarbonDioxideCompressor.png){width = "200"} | |
+| ![Chemical_CarbonDioxideCompressor](/assets/images/buildings/Chemical_CarbonDioxideCompressor.png){width="200"} | |
 |-|-|
 |**Dimensions:** | 3 wide x 3 high|
 |**Power Consumption:**| 480 W|
@@ -33,7 +33,7 @@ A tiny wall pod capable of preserving food at low temperatures.
 
 The sealed storage of this pod keeps food very cold, but not in sterile atmospheric conditions.
 ### Info
-| ![FridgePod](/assets/images/buildings/FridgePod.png){width = "200"} | |
+| ![FridgePod](/assets/images/buildings/FridgePod.png){width="200"} | |
 |-|-|
 |**Dimensions:** | 1 wide x 1 high|
 |**Power Consumption:**| 120 W|
@@ -51,7 +51,7 @@ A fancy fridge with a sci-fi design
 The sealed storage of this fridge keeps food very cold, but not in sterile atmospheric conditions.
 Takes food items from conveyor rails based on its filters.
 ### Info
-| ![HightechSmallFridge](/assets/images/buildings/HightechSmallFridge.png){width = "200"} | |
+| ![HightechSmallFridge](/assets/images/buildings/HightechSmallFridge.png){width="200"} | |
 |-|-|
 |**Dimensions:** | 1 wide x 2 high|
 |**Power Consumption:**| 240 W|
@@ -69,7 +69,7 @@ A plain old-style home fridge. Still, this vintage building does the same job as
 
 The sealed storage of this fridge keeps food very cold, but not in sterile atmospheric conditions.
 ### Info
-| ![SimpleFridge](/assets/images/buildings/SimpleFridge.png){width = "200"} | |
+| ![SimpleFridge](/assets/images/buildings/SimpleFridge.png){width="200"} | |
 |-|-|
 |**Dimensions:** | 1 wide x 2 high|
 |**Power Consumption:**| 240 W|
@@ -86,7 +86,7 @@ A quality fridge commonly seen in the old world days. Still, this vintage buildi
 
 The sealed storage of this fridge keeps food very cold, but not in sterile atmospheric conditions.
 ### Info
-| ![AIO_FridgeLarge](/assets/images/buildings/AIO_FridgeLarge.png){width = "200"} | |
+| ![AIO_FridgeLarge](/assets/images/buildings/AIO_FridgeLarge.png){width="200"} | |
 |-|-|
 |**Dimensions:** | 2 wide x 3 high|
 |**Power Consumption:**| 480 W|
@@ -105,7 +105,7 @@ The sealed storage of this fridge keeps food very cold, but not in sterile atmos
 Provides water bottles as long there a pipe linked to it.
 Takes food items from conveyor rails based on its filters.
 ### Info
-| ![HightechBigFridge](/assets/images/buildings/HightechBigFridge.png){width = "200"} | |
+| ![HightechBigFridge](/assets/images/buildings/HightechBigFridge.png){width="200"} | |
 |-|-|
 |**Dimensions:** | 2 wide x 3 high|
 |**Power Consumption:**| 480 W|
@@ -128,7 +128,7 @@ A high-grade polymer box used for storing food inside spacecraft. Requires place
 
 The sealed storage compartment of this box allows complete vacuum through connection with the spacecraft hulk, thus completely preserving the food within.
 ### Info
-| ![SpaceBox](/assets/images/buildings/SpaceBox.png){width = "200"} | |
+| ![SpaceBox](/assets/images/buildings/SpaceBox.png){width="200"} | |
 |-|-|
 |**Dimensions:** | 1 wide x 1 high|
 |**Research Required:**| Agriculture|

@@ -5,7 +5,7 @@ A small, custom Refined Carbon generator. This rather versatile generator has pi
 Converts Refined Carbon into Power.
 The waste products are either released into the world or inserted into pipes.
 ### Info
-| ![CustomSolidGenerator](/assets/images/buildings/CustomSolidGenerator.png){width = "200"} | |
+| ![CustomSolidGenerator](/assets/images/buildings/CustomSolidGenerator.png){width="200"} | |
 |-|-|
 |**Dimensions:** | 2 wide x 4 high|
 |**Power Generation:**| 750 W|
@@ -33,7 +33,7 @@ A small, custom Combustible Liquid generator. This rather versatile generator ha
 Converts Combustable Fuel into Power.
 The waste products are either released into the world or inserted into pipes.
 ### Info
-| ![CustomPetroleumGenerator](/assets/images/buildings/CustomPetroleumGenerator.png){width = "200"} | |
+| ![CustomPetroleumGenerator](/assets/images/buildings/CustomPetroleumGenerator.png){width="200"} | |
 |-|-|
 |**Dimensions:** | 1 wide x 4 high|
 |**Power Generation:**| 667 W|
@@ -62,7 +62,7 @@ A small, custom Combustible Gas generator. This rather versatile generator has p
 Converts Combustible Gas into Power.
 The waste products are either released into the world or inserted into pipes.
 ### Info
-| ![CustomMethaneGenerator](/assets/images/buildings/CustomMethaneGenerator.png){width = "200"} | |
+| ![CustomMethaneGenerator](/assets/images/buildings/CustomMethaneGenerator.png){width="200"} | |
 |-|-|
 |**Dimensions:** | 1 wide x 4 high|
 |**Power Generation:**| 267 W|
@@ -92,7 +92,7 @@ Converts Sunlight into electrical Power.
 
 Can be rotated.
 ### Info
-| ![CustomSolarPanel](/assets/images/buildings/CustomSolarPanel.png){width = "200"} | |
+| ![CustomSolarPanel](/assets/images/buildings/CustomSolarPanel.png){width="200"} | |
 |-|-|
 |**Dimensions:** | 1 wide x 5 high|
 |**Power Generation:**| 80 W|
@@ -110,7 +110,7 @@ Draws in Steam from the tiles directly below the machine's foundation and uses i
 
 Outputs Water.
 ### Info
-| ![CustomSteamGenerator](/assets/images/buildings/CustomSteamGenerator.png){width = "200"} | |
+| ![CustomSteamGenerator](/assets/images/buildings/CustomSteamGenerator.png){width="200"} | |
 |-|-|
 |**Dimensions:** | 1 wide x 5 high|
 |**Power Generation:**| 283 W|

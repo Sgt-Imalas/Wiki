@@ -5,7 +5,7 @@
 将精炼碳转化为电能。
 产生的废弃物要么直接排放到环境，要么被送入管道中。
 ### 信息
-| ![CustomSolidGenerator](/assets/images/buildings/CustomSolidGenerator.png){width = "200"} | |
+| ![CustomSolidGenerator](/assets/images/buildings/CustomSolidGenerator.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 2 x 高 4|
 |**发电:**| 750 W|
@@ -33,7 +33,7 @@
 将可燃液体转化为电能。
 产生的废弃物要么直接排放到环境，要么被送入管道中。
 ### 信息
-| ![CustomPetroleumGenerator](/assets/images/buildings/CustomPetroleumGenerator.png){width = "200"} | |
+| ![CustomPetroleumGenerator](/assets/images/buildings/CustomPetroleumGenerator.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 1 x 高 4|
 |**发电:**| 667 W|
@@ -62,7 +62,7 @@
 将可燃气体转换为电能。
 产生的废弃物要么直接排放到环境，要么被送入管道中。
 ### 信息
-| ![CustomMethaneGenerator](/assets/images/buildings/CustomMethaneGenerator.png){width = "200"} | |
+| ![CustomMethaneGenerator](/assets/images/buildings/CustomMethaneGenerator.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 1 x 高 4|
 |**发电:**| 267 W|
@@ -92,7 +92,7 @@
 
 可以旋转。
 ### 信息
-| ![CustomSolarPanel](/assets/images/buildings/CustomSolarPanel.png){width = "200"} | |
+| ![CustomSolarPanel](/assets/images/buildings/CustomSolarPanel.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 1 x 高 5|
 |**发电:**| 80 W|
@@ -109,7 +109,7 @@
 直接从机器地基的下方吸入蒸汽并产生 电力。
 输出水 。
 ### 信息
-| ![CustomSteamGenerator](/assets/images/buildings/CustomSteamGenerator.png){width = "200"} | |
+| ![CustomSteamGenerator](/assets/images/buildings/CustomSteamGenerator.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 1 x 高 5|
 |**发电:**| 283 W|

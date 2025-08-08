@@ -5,7 +5,7 @@
 一种先进的隔热式电窑，其热量通过金属的感应加热方式传递。
 感应式窑炉的一个优点是，与大多数其他燃料加热方式相比，其加热过程更加清洁、节能且可控性更强。
 ### 信息
-| ![Chemical_AdvancedKiln](/assets/images/buildings/Chemical_AdvancedKiln.png){width = "200"} | |
+| ![Chemical_AdvancedKiln](/assets/images/buildings/Chemical_AdvancedKiln.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 3 x 高 3|
 |**耗电:**| 800 W|
@@ -26,7 +26,7 @@
 |沙子 (270 kg)<br>塑料 (100 kg)<br>硼砂 (30 kg)<br>|30s|玻璃纤维 (400 kg)<br>|
 |沙子 (270 kg)<br>生物塑料 (100 kg)<br>硼砂 (30 kg)<br>|30s|玻璃纤维 (400 kg)<br>|
 |沙子 (270 kg)<br>塑料质 (100 kg)<br>硼砂 (30 kg)<br>|30s|玻璃纤维 (400 kg)<br>|
-|沥青 (100 kg)<br>富勒烯 (25 kg)<br>异构树液 (15 kg)<br>Rayon Fiber (10 kg)<br>|30s|复合碳纤维 (150 kg)<br>|
+|沥青 (100 kg)<br>富勒烯 (25 kg)<br>异构树液 (15 kg)<br>人造纤维 (10 kg)<br>|30s|复合碳纤维 (150 kg)<br>|
 |油页岩 (500 kg)<br>|40s|水泥 (350 kg)<br>原油 (25 kg)<br>低级金属砂 (50 kg)<br>|
 |粘土 (300 kg)<br>沙子 (200 kg)<br>|30s|砖料 (500 kg)<br>|
 
@@ -39,7 +39,7 @@
 该方法能显著加热金属，并且只使用通过管道输送的超级冷却剂。
 复制人不会制造物品，除非有相应的配方已在队列。
 ### 信息
-| ![Chemical_AdvancedMetalRefinery](/assets/images/buildings/Chemical_AdvancedMetalRefinery.png){width = "200"} | |
+| ![Chemical_AdvancedMetalRefinery](/assets/images/buildings/Chemical_AdvancedMetalRefinery.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 3 x 高 5|
 |**耗电:**| 3000 W|
@@ -82,7 +82,7 @@
 该裂解过程会释放出大量的热量。
 重要提示：该建筑物要求所有管道接口都要与相应的管道相连接，这样它才能正常运行。
 ### 信息
-| ![Chemical_AmmoniaBreaker](/assets/images/buildings/Chemical_AmmoniaBreaker.png){width = "200"} | |
+| ![Chemical_AmmoniaBreaker](/assets/images/buildings/Chemical_AmmoniaBreaker.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 3 x 高 3|
 |**耗电:**| 840 W|
@@ -111,7 +111,7 @@
 
 压缩氨气并冷却成液态氨。该装置还具备对液体进行完全隔热储存的功能。
 ### 信息
-| ![Chemical_AmmoniaCompressor](/assets/images/buildings/Chemical_AmmoniaCompressor.png){width = "200"} | |
+| ![Chemical_AmmoniaCompressor](/assets/images/buildings/Chemical_AmmoniaCompressor.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 3 x 高 3|
 |**耗电:**| 480 W|
@@ -140,7 +140,7 @@
 
 将矿物原料粉碎成有用的材料和工业原料。
 ### 信息
-| ![Chemical_BallCrusherMill](/assets/images/buildings/Chemical_BallCrusherMill.png){width = "200"} | |
+| ![Chemical_BallCrusherMill](/assets/images/buildings/Chemical_BallCrusherMill.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 7 x 高 3|
 |**耗电:**| 800 W|
@@ -178,7 +178,7 @@
 
 压缩二氧化碳气体并冷却为液态二氧化碳。该设备还具备对液体进行完全隔热存储的功能。
 ### 信息
-| ![Chemical_CarbonDioxideCompressor](/assets/images/buildings/Chemical_CarbonDioxideCompressor.png){width = "200"} | |
+| ![Chemical_CarbonDioxideCompressor](/assets/images/buildings/Chemical_CarbonDioxideCompressor.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 3 x 高 3|
 |**耗电:**| 480 W|
@@ -208,7 +208,7 @@
 将水加热为 200℃ 的蒸汽。
 这座特定的锅炉使用可燃固体作为燃料。
 ### 信息
-| ![Chemical_Coal_Boiler](/assets/images/buildings/Chemical_Coal_Boiler.png){width = "200"} | |
+| ![Chemical_Coal_Boiler](/assets/images/buildings/Chemical_Coal_Boiler.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 3 x 高 4|
 |**科技:**| 化石燃料|
@@ -240,7 +240,7 @@
 博施反应 (Bosch Reaction)
 以二氧化碳、氢气为原料，铁为催化剂。反应生成蒸汽和石墨，并产生铁锈作为废弃物。
 ### 信息
-| ![Chemical_Co2Recycler](/assets/images/buildings/Chemical_Co2Recycler.png){width = "200"} | |
+| ![Chemical_Co2Recycler](/assets/images/buildings/Chemical_Co2Recycler.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 7 x 高 4|
 |**耗电:**| 1000 W|
@@ -275,7 +275,7 @@
 
 一种能够处理多种化学反应的工业设备。其庞大的管道系统能够安全地处理危险的液体和气体。
 ### 信息
-| ![Chemical_MixingUnit](/assets/images/buildings/Chemical_MixingUnit.png){width = "200"} | |
+| ![Chemical_MixingUnit](/assets/images/buildings/Chemical_MixingUnit.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 6 x 高 4|
 |**耗电:**| 800 W|
@@ -311,7 +311,7 @@
 
 自动检测二氧化碳的痕迹，并将其从周围环境中分离出来。
 ### 信息
-| ![Chemical_Co2Pump](/assets/images/buildings/Chemical_Co2Pump.png){width = "200"} | |
+| ![Chemical_Co2Pump](/assets/images/buildings/Chemical_Co2Pump.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 1 x 高 1|
 |**耗电:**| 10 W|
@@ -342,7 +342,7 @@
 
 重要提示： 必须连接所有管道接口才能运行。
 ### 信息
-| ![Chemical_CrudeOilRefinery](/assets/images/buildings/Chemical_CrudeOilRefinery.png){width = "200"} | |
+| ![Chemical_CrudeOilRefinery](/assets/images/buildings/Chemical_CrudeOilRefinery.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 4 x 高 5|
 |**耗电:**| 640 W|
@@ -373,7 +373,7 @@
 
 将水煮沸为 106 ℃ 的蒸汽。这座特定的锅炉使用电力作为热源。
 ### 信息
-| ![Chemical_ElectricBoiler](/assets/images/buildings/Chemical_ElectricBoiler.png){width = "200"} | |
+| ![Chemical_ElectricBoiler](/assets/images/buildings/Chemical_ElectricBoiler.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 2 x 高 3|
 |**耗电:**| 850 W|
@@ -403,7 +403,7 @@
 通过将硝酸盐结晶和水混合，生成一个吸热反应，吸收大量热量。
 结果输出氨水。
 ### 信息
-| ![Chemical_EndothermicUnit](/assets/images/buildings/Chemical_EndothermicUnit.png){width = "200"} | |
+| ![Chemical_EndothermicUnit](/assets/images/buildings/Chemical_EndothermicUnit.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 2 x 高 2|
 |**耗电:**| 50 W|
@@ -430,7 +430,7 @@
 
 特殊的工艺改进使得能够将乙醇与泵入的氯气混合实现其聚合反应，从而生产塑料。
 ### 信息
-| ![Custom_Polymerizer](/assets/images/buildings/Custom_Polymerizer.png){width = "200"} | |
+| ![Custom_Polymerizer](/assets/images/buildings/Custom_Polymerizer.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 3 x 高 3|
 |**耗电:**| 240 W|
@@ -458,7 +458,7 @@
 
 使用特殊滤芯与化学药剂处理污染水或有毒泥浆。筛分过程还可以完全去除细菌。
 ### 信息
-| ![FlocculationSieve](/assets/images/buildings/FlocculationSieve.png){width = "200"} | |
+| ![FlocculationSieve](/assets/images/buildings/FlocculationSieve.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 4 x 高 3|
 |**耗电:**| 240 W|
@@ -494,7 +494,7 @@
 将水加热至 200℃ 的蒸汽 。
 这座特定的锅炉使用可燃气体作为热源。
 ### 信息
-| ![Chemical_Gas_Boiler](/assets/images/buildings/Chemical_Gas_Boiler.png){width = "200"} | |
+| ![Chemical_Gas_Boiler](/assets/images/buildings/Chemical_Gas_Boiler.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 3 x 高 4|
 |**科技:**| 化石燃料|
@@ -523,7 +523,7 @@
 
 这个技术先进的玻璃熔炉不仅能够将沙子熔化成熔融玻璃，还能用于众多其他领域。
 ### 信息
-| ![Chemical_GlassFoundry](/assets/images/buildings/Chemical_GlassFoundry.png){width = "200"} | |
+| ![Chemical_GlassFoundry](/assets/images/buildings/Chemical_GlassFoundry.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 3 x 高 3|
 |**耗电:**| 2400 W|
@@ -557,7 +557,7 @@
 
 将矿物原料粉碎成有用的材料和工业原料。
 ### 信息
-| ![Chemical_SmallCrusherMill](/assets/images/buildings/Chemical_SmallCrusherMill.png){width = "200"} | |
+| ![Chemical_SmallCrusherMill](/assets/images/buildings/Chemical_SmallCrusherMill.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 3 x 高 2|
 |**耗电:**| 120 W|
@@ -624,7 +624,7 @@
 
 第一阶段蒸馏过程消耗蒸汽，第二阶段需氢气缓冲反应。
 ### 信息
-| ![Chemical_CrudeOilRefineryStaged](/assets/images/buildings/Chemical_CrudeOilRefineryStaged.png){width = "200"} | |
+| ![Chemical_CrudeOilRefineryStaged](/assets/images/buildings/Chemical_CrudeOilRefineryStaged.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 6 x 高 5|
 |**耗电:**| 640 W|
@@ -668,7 +668,7 @@
 
 第三阶段： 剩余酸气与硝酸反应，生成氨气。
 ### 信息
-| ![Chemical_RawGasRefineryStaged](/assets/images/buildings/Chemical_RawGasRefineryStaged.png){width = "200"} | |
+| ![Chemical_RawGasRefineryStaged](/assets/images/buildings/Chemical_RawGasRefineryStaged.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 8 x 高 5|
 |**耗电:**| 640 W|
@@ -717,7 +717,7 @@
 该过程需要使用氢气来缓冲反应。
 重要提示：该建筑物要求所有管道接口都要与相应的管道相连接，这样它才能正常运行。
 ### 信息
-| ![Chemical_NaphthaReformer](/assets/images/buildings/Chemical_NaphthaReformer.png){width = "200"} | |
+| ![Chemical_NaphthaReformer](/assets/images/buildings/Chemical_NaphthaReformer.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 4 x 高 7|
 |**耗电:**| 480 W|
@@ -746,7 +746,7 @@
 
 利用所提供的硫酸和氨气来生产工业级的硝酸。
 ### 信息
-| ![Chemical_SynthesizerNitric](/assets/images/buildings/Chemical_SynthesizerNitric.png){width = "200"} | |
+| ![Chemical_SynthesizerNitric](/assets/images/buildings/Chemical_SynthesizerNitric.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 1 x 高 4|
 |**耗电:**| 240 W|
@@ -779,7 +779,7 @@
 
 主要产物以熔融态直排至建筑下方地面，液态废料通过独立端口排出。
 ### 信息
-| ![Metallurgy_PlasmaFurnace](/assets/images/buildings/Metallurgy_PlasmaFurnace.png){width = "200"} | |
+| ![Metallurgy_PlasmaFurnace](/assets/images/buildings/Metallurgy_PlasmaFurnace.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 5 x 高 5|
 |**耗电:**| 5000 W|
@@ -835,7 +835,7 @@
 
 重要提示： 必须连接所有管道接口才能运行。
 ### 信息
-| ![Chemical_PropaneReformer](/assets/images/buildings/Chemical_PropaneReformer.png){width = "200"} | |
+| ![Chemical_PropaneReformer](/assets/images/buildings/Chemical_PropaneReformer.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 4 x 高 7|
 |**耗电:**| 320 W|
@@ -865,7 +865,7 @@
 
 将木材热解为煤炭。
 ### 信息
-| ![Metallurgy_PyrolysisKiln](/assets/images/buildings/Metallurgy_PyrolysisKiln.png){width = "200"} | |
+| ![Metallurgy_PyrolysisKiln](/assets/images/buildings/Metallurgy_PyrolysisKiln.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 1 x 高 2|
 |**科技:**| 蛮力精炼|
@@ -892,7 +892,7 @@
 
 重要提示： 必须连接所有管道接口才能运行。
 ### 信息
-| ![Chemical_RawGasRefinery](/assets/images/buildings/Chemical_RawGasRefinery.png){width = "200"} | |
+| ![Chemical_RawGasRefinery](/assets/images/buildings/Chemical_RawGasRefinery.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 4 x 高 5|
 |**耗电:**| 420 W|
@@ -922,7 +922,7 @@
 
 通过复杂的化学反应，将来自木材的纸浆转化为人造纤维。此过程需要合成气，运行时会持续产出蒸汽。
 ### 信息
-| ![Chemical_RayonLoom](/assets/images/buildings/Chemical_RayonLoom.png){width = "200"} | |
+| ![Chemical_RayonLoom](/assets/images/buildings/Chemical_RayonLoom.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 6 x 高 4|
 |**耗电:**| 480 W|
@@ -946,9 +946,9 @@
 ### 配方
 |材料:| 耗时: | 产物:|
 |-|-|-|
-|木材 (150 kg)<br>|50s|Rayon Fiber (1000 g)<br>|
-|Plant Meat (1000 g)<br>|50s|Rayon Fiber (1000 g)<br>|
-|Seakomb Leaf (20 kg)<br>|50s|Rayon Fiber (1000 g)<br>|
+|木材 (150 kg)<br>|50s|人造纤维 (1000 g)<br>|
+|植物肉 (1000 g)<br>|50s|人造纤维 (1000 g)<br>|
+|海梳蕨叶 (20 kg)<br>|50s|人造纤维 (1000 g)<br>|
 
 
 
@@ -957,7 +957,7 @@
 
 利用提供的水and盐来生产盐水。
 ### 信息
-| ![Chemical_SynthesizerSaltWater](/assets/images/buildings/Chemical_SynthesizerSaltWater.png){width = "200"} | |
+| ![Chemical_SynthesizerSaltWater](/assets/images/buildings/Chemical_SynthesizerSaltWater.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 1 x 高 4|
 |**耗电:**| 90 W|
@@ -984,7 +984,7 @@
 
 用于精炼金属的特殊加工和制造金属合金。
 ### 信息
-| ![Chemical_SelectiveArcFurnace](/assets/images/buildings/Chemical_SelectiveArcFurnace.png){width = "200"} | |
+| ![Chemical_SelectiveArcFurnace](/assets/images/buildings/Chemical_SelectiveArcFurnace.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 4 x 高 3|
 |**耗电:**| 1200 W|
@@ -1013,7 +1013,7 @@
 
 一款专为农业用途设计的坚固型物料混合器，主要用于生产泥土和肥料。
 ### 信息
-| ![Chemical_SoilMixer](/assets/images/buildings/Chemical_SoilMixer.png){width = "200"} | |
+| ![Chemical_SoilMixer](/assets/images/buildings/Chemical_SoilMixer.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 4 x 高 4|
 |**耗电:**| 480 W|
@@ -1051,7 +1051,7 @@
 
 重要提示：必须连接所有管道接口才能运行。
 ### 信息
-| ![Chemical_SourWaterStripper](/assets/images/buildings/Chemical_SourWaterStripper.png){width = "200"} | |
+| ![Chemical_SourWaterStripper](/assets/images/buildings/Chemical_SourWaterStripper.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 6 x 高 4|
 |**耗电:**| 360 W|
@@ -1081,7 +1081,7 @@
 
 利用提供的蒸汽和硫来生产硫酸。
 ### 信息
-| ![Chemical_SynthesizerSulfuric](/assets/images/buildings/Chemical_SynthesizerSulfuric.png){width = "200"} | |
+| ![Chemical_SynthesizerSulfuric](/assets/images/buildings/Chemical_SynthesizerSulfuric.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 1 x 高 4|
 |**耗电:**| 120 W|
@@ -1109,7 +1109,7 @@
 
 利用各种有机和矿物质材料生产合成气体。
 ### 信息
-| ![Chemical_SyngasRefinery](/assets/images/buildings/Chemical_SyngasRefinery.png){width = "200"} | |
+| ![Chemical_SyngasRefinery](/assets/images/buildings/Chemical_SyngasRefinery.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 2 x 高 4|
 |**耗电:**| 60 W|
@@ -1140,7 +1140,7 @@
 
 使用蒸汽作为盐水或铵水脱盐过程的缓冲介质，生产纯净的水和浓盐水。
 ### 信息
-| ![Chemical_ThermalDesalinator](/assets/images/buildings/Chemical_ThermalDesalinator.png){width = "200"} | |
+| ![Chemical_ThermalDesalinator](/assets/images/buildings/Chemical_ThermalDesalinator.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 7 x 高 3|
 |**耗电:**| 120 W|
@@ -1176,7 +1176,7 @@
 将水加热为200℃的蒸汽。
 这座特定的锅炉使用木材作为燃料。
 ### 信息
-| ![Chemical_Wooden_Boiler](/assets/images/buildings/Chemical_Wooden_Boiler.png){width = "200"} | |
+| ![Chemical_Wooden_Boiler](/assets/images/buildings/Chemical_Wooden_Boiler.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 3 x 高 4|
 |**科技:**| 化石燃料|

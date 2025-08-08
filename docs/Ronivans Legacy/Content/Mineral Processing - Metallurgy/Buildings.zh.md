@@ -5,7 +5,7 @@
 一种先进的隔热式电窑，其热量通过金属的感应加热方式传递。
 感应式窑炉的一个优点是，与大多数其他燃料加热方式相比，其加热过程更加清洁、节能且可控性更强。
 ### 信息
-| ![Chemical_AdvancedKiln](/assets/images/buildings/Chemical_AdvancedKiln.png){width = "200"} | |
+| ![Chemical_AdvancedKiln](/assets/images/buildings/Chemical_AdvancedKiln.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 3 x 高 3|
 |**耗电:**| 800 W|
@@ -26,7 +26,7 @@
 |沙子 (270 kg)<br>塑料 (100 kg)<br>硼砂 (30 kg)<br>|30s|玻璃纤维 (400 kg)<br>|
 |沙子 (270 kg)<br>生物塑料 (100 kg)<br>硼砂 (30 kg)<br>|30s|玻璃纤维 (400 kg)<br>|
 |沙子 (270 kg)<br>塑料质 (100 kg)<br>硼砂 (30 kg)<br>|30s|玻璃纤维 (400 kg)<br>|
-|沥青 (100 kg)<br>富勒烯 (25 kg)<br>异构树液 (15 kg)<br>Rayon Fiber (10 kg)<br>|30s|复合碳纤维 (150 kg)<br>|
+|沥青 (100 kg)<br>富勒烯 (25 kg)<br>异构树液 (15 kg)<br>人造纤维 (10 kg)<br>|30s|复合碳纤维 (150 kg)<br>|
 |油页岩 (500 kg)<br>|40s|水泥 (350 kg)<br>原油 (25 kg)<br>低级金属砂 (50 kg)<br>|
 |粘土 (300 kg)<br>沙子 (200 kg)<br>|30s|砖料 (500 kg)<br>|
 
@@ -39,7 +39,7 @@
 该方法能显著加热金属，并且只使用通过管道输送的超级冷却剂。
 复制人不会制造物品，除非有相应的配方已在队列。
 ### 信息
-| ![Chemical_AdvancedMetalRefinery](/assets/images/buildings/Chemical_AdvancedMetalRefinery.png){width = "200"} | |
+| ![Chemical_AdvancedMetalRefinery](/assets/images/buildings/Chemical_AdvancedMetalRefinery.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 3 x 高 5|
 |**耗电:**| 3000 W|
@@ -80,7 +80,7 @@
 
 将矿物原料粉碎成有用的材料和工业原料。
 ### 信息
-| ![Metallurgy_BallCrusherMill](/assets/images/buildings/Metallurgy_BallCrusherMill.png){width = "200"} | |
+| ![Metallurgy_BallCrusherMill](/assets/images/buildings/Metallurgy_BallCrusherMill.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 5 x 高 3|
 |**耗电:**| 800 W|
@@ -112,7 +112,7 @@
 
 重要提示：气体输出端的管道是可选的。如果没有将气体管道连接到这些端口上，那么输出的气体将直接排放到环境中。
 ### 信息
-| ![Metallurgy_BasicOilRefinery](/assets/images/buildings/Metallurgy_BasicOilRefinery.png){width = "200"} | |
+| ![Metallurgy_BasicOilRefinery](/assets/images/buildings/Metallurgy_BasicOilRefinery.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 3 x 高 4|
 |**耗电:**| 90 W|
@@ -141,7 +141,7 @@
 
 这个技术先进的玻璃熔炉不仅能够将沙子熔化成熔融玻璃，还能用于众多其他领域。
 ### 信息
-| ![Chemical_GlassFoundry](/assets/images/buildings/Chemical_GlassFoundry.png){width = "200"} | |
+| ![Chemical_GlassFoundry](/assets/images/buildings/Chemical_GlassFoundry.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 3 x 高 3|
 |**耗电:**| 2400 W|
@@ -175,7 +175,7 @@
 
 将矿物原料粉碎成有用的材料和工业原料。
 ### 信息
-| ![Chemical_SmallCrusherMill](/assets/images/buildings/Chemical_SmallCrusherMill.png){width = "200"} | |
+| ![Chemical_SmallCrusherMill](/assets/images/buildings/Chemical_SmallCrusherMill.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 3 x 高 2|
 |**耗电:**| 120 W|
@@ -233,7 +233,7 @@
 
 主要产物以熔融态直排至建筑下方地面，液态废料通过独立端口排出。
 ### 信息
-| ![Metallurgy_PlasmaFurnace](/assets/images/buildings/Metallurgy_PlasmaFurnace.png){width = "200"} | |
+| ![Metallurgy_PlasmaFurnace](/assets/images/buildings/Metallurgy_PlasmaFurnace.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 5 x 高 5|
 |**耗电:**| 5000 W|
@@ -283,7 +283,7 @@
 
 将木材热解为煤炭。
 ### 信息
-| ![Metallurgy_PyrolysisKiln](/assets/images/buildings/Metallurgy_PyrolysisKiln.png){width = "200"} | |
+| ![Metallurgy_PyrolysisKiln](/assets/images/buildings/Metallurgy_PyrolysisKiln.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 1 x 高 2|
 |**科技:**| 蛮力精炼|
@@ -304,7 +304,7 @@
 
 一款专为农业用途设计的坚固型物料混合器，主要用于生产泥土和肥料。
 ### 信息
-| ![Chemical_SoilMixer](/assets/images/buildings/Chemical_SoilMixer.png){width = "200"} | |
+| ![Chemical_SoilMixer](/assets/images/buildings/Chemical_SoilMixer.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 4 x 高 4|
 |**耗电:**| 480 W|

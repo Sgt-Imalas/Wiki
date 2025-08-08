@@ -4,7 +4,7 @@
 
 作为警报的led灯。不产生明显的光亮。
 ### 信息
-| ![LogicAlertLight](/assets/images/buildings/LogicAlertLight.png){width = "200"} | |
+| ![LogicAlertLight](/assets/images/buildings/LogicAlertLight.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 1 x 高 1|
 |**耗电:**| 8 W|
@@ -20,7 +20,7 @@
 
 一种可以均匀混合水泥生产中使用的几种固体和液体成分的装置。
 ### 信息
-| ![CementMixer](/assets/images/buildings/CementMixer.png){width = "200"} | |
+| ![CementMixer](/assets/images/buildings/CementMixer.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 2 x 高 2|
 |**耗电:**| 120 W|
@@ -54,7 +54,7 @@
 
 提高复制人的行走速度。
 ### 信息
-| ![MonoElementTile](/assets/images/buildings/MonoElementTile.png){width = "200"} | |
+| ![MonoElementTile](/assets/images/buildings/MonoElementTile.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 1 x 高 1|
 |**科技:**| 高雅文化|
@@ -72,7 +72,7 @@
 
 一扇刻有精美工业风装饰的轻型门，让人感觉它属于某个工业场所。
 ### 信息
-| ![AIO_FacilityDoor](/assets/images/buildings/AIO_FacilityDoor.png){width = "200"} | |
+| ![AIO_FacilityDoor](/assets/images/buildings/AIO_FacilityDoor.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 1 x 高 2|
 |**科技:**| 通风|
@@ -87,7 +87,7 @@
 
 一种由多种材料制成的坚固砖块，其表面具有独特的辐射图案，能够有效减少热量传递。
 ### 信息
-| ![InsulationCompositionTile](/assets/images/buildings/InsulationCompositionTile.png){width = "200"} | |
+| ![InsulationCompositionTile](/assets/images/buildings/InsulationCompositionTile.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 1 x 高 1|
 |**科技:**| 温度调节|
@@ -103,7 +103,7 @@
 
 钢材制成的大型实心墙板。气密焊接接缝可防止气体泄漏到太空中。
 ### 信息
-| ![SpacerWallLarge](/assets/images/buildings/SpacerWallLarge.png){width = "200"} | |
+| ![SpacerWallLarge](/assets/images/buildings/SpacerWallLarge.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 2 x 高 2|
 |**科技:**| 高雅文化|
@@ -118,7 +118,7 @@
 
 由钢材制成的坚固窗户，内部镶嵌着厚厚的玻璃层。气密焊接接缝可防止气体泄漏到太空中。
 ### 信息
-| ![SpacerWindowLarge](/assets/images/buildings/SpacerWindowLarge.png){width = "200"} | |
+| ![SpacerWindowLarge](/assets/images/buildings/SpacerWindowLarge.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 2 x 高 2|
 |**科技:**| 玻璃吹制|
@@ -136,7 +136,7 @@
 
 提高装饰度，从而提升士气。
 ### 信息
-| ![MouldingTile](/assets/images/buildings/MouldingTile.png){width = "200"} | |
+| ![MouldingTile](/assets/images/buildings/MouldingTile.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 1 x 高 1|
 |**科技:**| 复兴艺术|
@@ -153,7 +153,7 @@
 
 显著提高复制人的行走速度。
 ### 信息
-| ![AIO_MosaicTile](/assets/images/buildings/AIO_MosaicTile.png){width = "200"} | |
+| ![AIO_MosaicTile](/assets/images/buildings/AIO_MosaicTile.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 1 x 高 1|
 |**科技:**| 豪华家装|
@@ -169,7 +169,7 @@
 一种由粗骨料制成、并用流体水泥粘结而成的坚硬复合砖块。
 这种混凝土的抗拉强度和延展性相对较低，但通过加入具有更高抗拉强度或延展性的内部钢筋来加以弥补。
 ### 信息
-| ![ReinforcedConcreteTile](/assets/images/buildings/ReinforcedConcreteTile.png){width = "200"} | |
+| ![ReinforcedConcreteTile](/assets/images/buildings/ReinforcedConcreteTile.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 1 x 高 1|
 |**科技:**| 超热锻造|
@@ -188,7 +188,7 @@
 封闭区域，阻挡液体或气体流动。
 设置复制人权限来设定受限区域。
 ### 信息
-| ![GlassDoorComplex](/assets/images/buildings/GlassDoorComplex.png){width = "200"} | |
+| ![GlassDoorComplex](/assets/images/buildings/GlassDoorComplex.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 1 x 高 2|
 |**耗电:**| 20 W|
@@ -209,7 +209,7 @@
 封闭区域，但不能阻挡液体或气体流动。
 设置复制人权限来设定受限区域。
 ### 信息
-| ![GlassDoorSimple](/assets/images/buildings/GlassDoorSimple.png){width = "200"} | |
+| ![GlassDoorSimple](/assets/images/buildings/GlassDoorSimple.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 1 x 高 2|
 |**科技:**| 运载管道|
@@ -227,7 +227,7 @@
 
 能有效阻挡气体和液体，但隔热性能极差。
 ### 信息
-| ![SpacerTileSolid](/assets/images/buildings/SpacerTileSolid.png){width = "200"} | |
+| ![SpacerTileSolid](/assets/images/buildings/SpacerTileSolid.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 1 x 高 1|
 |**科技:**| 危险防护|
@@ -243,7 +243,7 @@
 
 钢材制成的实心墙板。气密焊接接缝可防止气体泄漏到太空中。
 ### 信息
-| ![SpacerWall](/assets/images/buildings/SpacerWall.png){width = "200"} | |
+| ![SpacerWall](/assets/images/buildings/SpacerWall.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 1 x 高 1|
 |**科技:**| 高雅文化|
@@ -258,7 +258,7 @@
 
 由钢材制成的大型坚固窗户，内部镶嵌着厚厚的玻璃层。气密焊接接缝可防止气体泄漏到太空中。
 ### 信息
-| ![SpacerWindowWall](/assets/images/buildings/SpacerWindowWall.png){width = "200"} | |
+| ![SpacerWindowWall](/assets/images/buildings/SpacerWindowWall.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 1 x 高 1|
 |**科技:**| 玻璃吹制|
@@ -274,7 +274,7 @@
 
 这种钢结构通常作为简单而坚固的建筑单元使用，其框架结构不会滞留任何气体或液体。
 ### 信息
-| ![StructureTile](/assets/images/buildings/StructureTile.png){width = "200"} | |
+| ![StructureTile](/assets/images/buildings/StructureTile.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 1 x 高 1|
 |**科技:**| 熔炼|
@@ -291,7 +291,7 @@
 
 能阻挡气体和液体，但隔热性能极差。
 ### 信息
-| ![SpacerTileWindow](/assets/images/buildings/SpacerTileWindow.png){width = "200"} | |
+| ![SpacerTileWindow](/assets/images/buildings/SpacerTileWindow.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 1 x 高 1|
 |**科技:**| 玻璃吹制|
@@ -308,7 +308,7 @@
 用于建造房间的墙壁和地板。增加装饰，有助于士气。
 其成分使得它具有出色的隔热性能。
 ### 信息
-| ![WoodenCompositionTile](/assets/images/buildings/WoodenCompositionTile.png){width = "200"} | |
+| ![WoodenCompositionTile](/assets/images/buildings/WoodenCompositionTile.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 1 x 高 1|
 |**科技:**| 豪华家装|
@@ -326,7 +326,7 @@
 
 阻止液体流动的同时又不会阻碍气体的通过。
 ### 信息
-| ![WoodenGasTile](/assets/images/buildings/WoodenGasTile.png){width = "200"} | |
+| ![WoodenGasTile](/assets/images/buildings/WoodenGasTile.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 1 x 高 1|
 |**科技:**| 气压管理|
@@ -342,7 +342,7 @@
 
 这款天花板采用了精美的砖石和木料工艺，但其主要作用仅仅是作为装饰之用。
 ### 信息
-| ![WoodenCeiling](/assets/images/buildings/WoodenCeiling.png){width = "200"} | |
+| ![WoodenCeiling](/assets/images/buildings/WoodenCeiling.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 1 x 高 1|
 |**科技:**| 豪华家装|
@@ -358,7 +358,7 @@
 
 这款直角拱形天花板构造精美，由砖石和木材建成，但其主要作用仅在于装饰拐角而已。
 ### 信息
-| ![WoodenCornerArch](/assets/images/buildings/WoodenCornerArch.png){width = "200"} | |
+| ![WoodenCornerArch](/assets/images/buildings/WoodenCornerArch.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 1 x 高 1|
 |**科技:**| 豪华家装|
@@ -377,7 +377,7 @@
 封闭区域，但不能阻挡液体或气体流动。
 设置复制人权限来设定受限区域。
 ### 信息
-| ![WoodenDoor](/assets/images/buildings/WoodenDoor.png){width = "200"} | |
+| ![WoodenDoor](/assets/images/buildings/WoodenDoor.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 1 x 高 2|
 |**科技:**| 室内装潢|
@@ -394,7 +394,7 @@
 一种具有透水性的木质砖块，用于建造房间的墙壁和地板。
 既能让液体也能让气体通过。
 ### 信息
-| ![WoodenMeshTile](/assets/images/buildings/WoodenMeshTile.png){width = "200"} | |
+| ![WoodenMeshTile](/assets/images/buildings/WoodenMeshTile.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 1 x 高 1|
 |**科技:**| 卫生设备|

@@ -6,7 +6,7 @@ Store the Solid Materials of your choosing.
 The cabinet prevents temperature exchange with the environment, as well gas leakage.
 Takes items from conveyor rails based on its filters.
 ### Info
-| ![CabinetNormal](/assets/images/buildings/CabinetNormal.png){width = "200"} | |
+| ![CabinetNormal](/assets/images/buildings/CabinetNormal.png){width="200"} | |
 |-|-|
 |**Dimensions:** | 1 wide x 2 high|
 |**Research Required:**| Solid Control|
@@ -25,7 +25,7 @@ Automates Sweeping and Supplying errands by sucking up all nearby Debris.
 
 Materials are automatically delivered to any Logistic Loader, Logistic Receptacle, storage, or buildings within range.
 ### Info
-| ![LogisticTransferArm](/assets/images/buildings/LogisticTransferArm.png){width = "200"} | |
+| ![LogisticTransferArm](/assets/images/buildings/LogisticTransferArm.png){width="200"} | |
 |-|-|
 |**Dimensions:** | 3 wide x 1 high|
 |**Power Consumption:**| 60 W|
@@ -41,7 +41,7 @@ When materials reach the end of a rail, they are dropped back into the world.
 
 Unloads Solid Materials from a Logistic Rail onto the floor.
 ### Info
-| ![LogisticVent](/assets/images/buildings/LogisticVent.png){width = "200"} | |
+| ![LogisticVent](/assets/images/buildings/LogisticVent.png){width="200"} | |
 |-|-|
 |**Dimensions:** | 1 wide x 1 high|
 |**Research Required:**| Smart Storage|
@@ -63,7 +63,7 @@ Loads Solid Materials onto Logistic Conveyor Rails for transport.
 
 Only loads the resources of your choosing.
 ### Info
-| ![LogisticLoader](/assets/images/buildings/LogisticLoader.png){width = "200"} | |
+| ![LogisticLoader](/assets/images/buildings/LogisticLoader.png){width="200"} | |
 |-|-|
 |**Dimensions:** | 1 wide x 2 high|
 |**Power Consumption:**| 60 W|
@@ -87,7 +87,7 @@ Transports small amounts of Solid Materials on a track between Logistic Loader a
 
 Can be run through wall and floor tile.
 ### Info
-| ![LogisticRail](/assets/images/buildings/LogisticRail.png){width = "200"} | |
+| ![LogisticRail](/assets/images/buildings/LogisticRail.png){width="200"} | |
 |-|-|
 |**Dimensions:** | 1 wide x 1 high|
 |**Research Required:**| Smart Storage|
@@ -102,7 +102,7 @@ When materials reach the end of a rail they enter a receptacle to be used by Dup
 
 Unloads Solid Materials from a Logistic Rail into storage.
 ### Info
-| ![LogisticOutBox](/assets/images/buildings/LogisticOutBox.png){width = "200"} | |
+| ![LogisticOutBox](/assets/images/buildings/LogisticOutBox.png){width="200"} | |
 |-|-|
 |**Dimensions:** | 1 wide x 2 high|
 |**Research Required:**| Smart Storage|
@@ -122,7 +122,7 @@ A mechanical valve capable of reducing the flow of mass from a conveyor rail to 
 
 Allows Solid Materials to be transfered from normal Conveyor Rails to Logistic Rails.
 ### Info
-| ![LogisticRailValve](/assets/images/buildings/LogisticRailValve.png){width = "200"} | |
+| ![LogisticRailValve](/assets/images/buildings/LogisticRailValve.png){width="200"} | |
 |-|-|
 |**Dimensions:** | 1 wide x 2 high|
 |**Research Required:**| Solid Transport|
@@ -144,7 +144,7 @@ Runs one Conveyor Rail section over another without joining them.
 
 Can be run through wall and floor tile.
 ### Info
-| ![LogisticBridge](/assets/images/buildings/LogisticBridge.png){width = "200"} | |
+| ![LogisticBridge](/assets/images/buildings/LogisticBridge.png){width="200"} | |
 |-|-|
 |**Dimensions:** | 3 wide x 1 high|
 |**Research Required:**| Smart Storage|
@@ -164,7 +164,7 @@ All solids are sent into the building's output conveyor, except the solid chosen
 
 Separates one Solid Material from the conveyor, sending it into a dedicated solid conduit.
 ### Info
-| ![LogisticFilter](/assets/images/buildings/LogisticFilter.png){width = "200"} | |
+| ![LogisticFilter](/assets/images/buildings/LogisticFilter.png){width="200"} | |
 |-|-|
 |**Dimensions:** | 3 wide x 1 high|
 |**Power Consumption:**| 60 W|
@@ -190,7 +190,7 @@ Consumes Power to cool the contents down to 24°C.
 Cannot store any liquefiable solids.
 Takes items from conveyor rails based on its filters.
 ### Info
-| ![CabinetFrozen](/assets/images/buildings/CabinetFrozen.png){width = "200"} | |
+| ![CabinetFrozen](/assets/images/buildings/CabinetFrozen.png){width="200"} | |
 |-|-|
 |**Dimensions:** | 1 wide x 2 high|
 |**Power Consumption:**| 240 W|
@@ -209,7 +209,7 @@ Store solids and other industrial materials.
 A versatile and convenient storage pod that can be built on walls. Store the Solid Materials of your choosing.
 The pod prevents temperature exchange with the environment, as well gas leakage.
 ### Info
-| ![StoragePod](/assets/images/buildings/StoragePod.png){width = "200"} | |
+| ![StoragePod](/assets/images/buildings/StoragePod.png){width="200"} | |
 |-|-|
 |**Dimensions:** | 1 wide x 1 high|
 |**Research Required:**| Brute-Force Refinement|

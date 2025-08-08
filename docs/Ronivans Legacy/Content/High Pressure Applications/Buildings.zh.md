@@ -8,7 +8,7 @@
 
 需要电力才能运行。
 ### 信息
-| ![HPAVentGas](/assets/images/buildings/HPAVentGas.png){width = "200"} | |
+| ![HPAVentGas](/assets/images/buildings/HPAVentGas.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 1 x 高 1|
 |**耗电:**| 120 W|
@@ -34,7 +34,7 @@
 
 需要电力才能运行。
 ### 信息
-| ![HPAVentLiquid](/assets/images/buildings/HPAVentLiquid.png){width = "200"} | |
+| ![HPAVentLiquid](/assets/images/buildings/HPAVentLiquid.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 1 x 高 1|
 |**耗电:**| 120 W|
@@ -56,7 +56,7 @@
 
 允许将气体从高压气体管道转输至普通气体管道。
 ### 信息
-| ![DecompressionGasValve](/assets/images/buildings/DecompressionGasValve.png){width = "200"} | |
+| ![DecompressionGasValve](/assets/images/buildings/DecompressionGasValve.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 2 x 高 1|
 |**科技:**| 暖通空调|
@@ -77,7 +77,7 @@
 
 允许将液体从高压液体管道转输至普通液体管道。
 ### 信息
-| ![DecompressionLiquidValve](/assets/images/buildings/DecompressionLiquidValve.png){width = "200"} | |
+| ![DecompressionLiquidValve](/assets/images/buildings/DecompressionLiquidValve.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 2 x 高 1|
 |**科技:**| 液体微调|
@@ -102,7 +102,7 @@
 
 具有更大的范围，容量和转向速度。
 ### 信息
-| ![HPA_TransferArm](/assets/images/buildings/HPA_TransferArm.png){width = "200"} | |
+| ![HPA_TransferArm](/assets/images/buildings/HPA_TransferArm.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 3 x 高 1|
 |**耗电:**| 960 W|
@@ -121,7 +121,7 @@
 
 不可穿过墙体和地面。
 ### 信息
-| ![HPA_SolidRailBridge](/assets/images/buildings/HPA_SolidRailBridge.png){width = "200"} | |
+| ![HPA_SolidRailBridge](/assets/images/buildings/HPA_SolidRailBridge.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 3 x 高 1|
 |**科技:**| 大容量固体运输|
@@ -144,7 +144,7 @@
 
 像隔热砖一样隔热。
 ### 信息
-| ![HPA_SolidRailBridgeTile](/assets/images/buildings/HPA_SolidRailBridgeTile.png){width = "200"} | |
+| ![HPA_SolidRailBridgeTile](/assets/images/buildings/HPA_SolidRailBridgeTile.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 1 x 高 1|
 |**科技:**| 大容量固体运输|
@@ -168,7 +168,7 @@
 
 只装载所选资源。
 ### 信息
-| ![HPA_InBox](/assets/images/buildings/HPA_InBox.png){width = "200"} | |
+| ![HPA_InBox](/assets/images/buildings/HPA_InBox.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 1 x 高 3|
 |**耗电:**| 960 W|
@@ -193,7 +193,7 @@
 
 不可穿过墙体和地面。
 ### 信息
-| ![HPA_SolidRail](/assets/images/buildings/HPA_SolidRail.png){width = "200"} | |
+| ![HPA_SolidRail](/assets/images/buildings/HPA_SolidRail.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 1 x 高 1|
 |**科技:**| 大容量固体运输|
@@ -208,7 +208,7 @@
 
 将来自轨道的固体材料合并并输出至重型运输轨道。
 ### 信息
-| ![HPA_RailMerger](/assets/images/buildings/HPA_RailMerger.png){width = "200"} | |
+| ![HPA_RailMerger](/assets/images/buildings/HPA_RailMerger.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 3 x 高 2|
 |**耗电:**| 60 W|
@@ -234,7 +234,7 @@
 
 兼容各种类型的运输轨道。
 ### 信息
-| ![HPA_MultiSolidFilter](/assets/images/buildings/HPA_MultiSolidFilter.png){width = "200"} | |
+| ![HPA_MultiSolidFilter](/assets/images/buildings/HPA_MultiSolidFilter.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 3 x 高 1|
 |**耗电:**| 360 W|
@@ -256,7 +256,7 @@
 
 允许将固体材料从重型运输轨道转移到普通的运输轨道。
 ### 信息
-| ![HPA_SolidRailValve](/assets/images/buildings/HPA_SolidRailValve.png){width = "200"} | |
+| ![HPA_SolidRailValve](/assets/images/buildings/HPA_SolidRailValve.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 1 x 高 2|
 |**科技:**| 大容量固体运输|
@@ -280,7 +280,7 @@
 
 可以穿过墙壁和地板。
 ### 信息
-| ![HighPressureGasConduit](/assets/images/buildings/HighPressureGasConduit.png){width = "200"} | |
+| ![HighPressureGasConduit](/assets/images/buildings/HighPressureGasConduit.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 1 x 高 1|
 |**科技:**| 改良通风|
@@ -298,7 +298,7 @@
 
 可穿过墙体和地面。
 ### 信息
-| ![HighPressureGasConduitBridge](/assets/images/buildings/HighPressureGasConduitBridge.png){width = "200"} | |
+| ![HighPressureGasConduitBridge](/assets/images/buildings/HighPressureGasConduitBridge.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 3 x 高 1|
 |**科技:**| 改良通风|
@@ -321,7 +321,7 @@
 
 兼容所有类型的气体管道。
 ### 信息
-| ![HPA_MultiGasFilter](/assets/images/buildings/HPA_MultiGasFilter.png){width = "200"} | |
+| ![HPA_MultiGasFilter](/assets/images/buildings/HPA_MultiGasFilter.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 3 x 高 1|
 |**耗电:**| 360 W|
@@ -345,7 +345,7 @@
 
 必须完全浸没在气体中。
 ### 信息
-| ![PressureGasPump](/assets/images/buildings/PressureGasPump.png){width = "200"} | |
+| ![PressureGasPump](/assets/images/buildings/PressureGasPump.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 2 x 高 3|
 |**耗电:**| 2400 W|
@@ -369,7 +369,7 @@
 
 可穿过墙体和地面。
 ### 信息
-| ![HighPressureLiquidConduitBridge](/assets/images/buildings/HighPressureLiquidConduitBridge.png){width = "200"} | |
+| ![HighPressureLiquidConduitBridge](/assets/images/buildings/HighPressureLiquidConduitBridge.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 3 x 高 1|
 |**科技:**| 改良水管|
@@ -392,7 +392,7 @@
 
 兼容所有类型的液体管道。
 ### 信息
-| ![HPA_MultiLiquidFilter](/assets/images/buildings/HPA_MultiLiquidFilter.png){width = "200"} | |
+| ![HPA_MultiLiquidFilter](/assets/images/buildings/HPA_MultiLiquidFilter.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 3 x 高 1|
 |**耗电:**| 360 W|
@@ -416,7 +416,7 @@
 
 可以穿过墙和地板。
 ### 信息
-| ![HighPressureLiquidConduit](/assets/images/buildings/HighPressureLiquidConduit.png){width = "200"} | |
+| ![HighPressureLiquidConduit](/assets/images/buildings/HighPressureLiquidConduit.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 1 x 高 1|
 |**科技:**| 改良水管|
@@ -434,7 +434,7 @@
 
 必须完全浸没在液体中。
 ### 信息
-| ![PressureLiquidPump](/assets/images/buildings/PressureLiquidPump.png){width = "200"} | |
+| ![PressureLiquidPump](/assets/images/buildings/PressureLiquidPump.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 2 x 高 3|
 |**耗电:**| 960 W|
@@ -460,7 +460,7 @@
 
 运输的物品均完全隔热且不会漏气。
 ### 信息
-| ![HPA_SolidRail_Insulated](/assets/images/buildings/HPA_SolidRail_Insulated.png){width = "200"} | |
+| ![HPA_SolidRail_Insulated](/assets/images/buildings/HPA_SolidRail_Insulated.png){width="200"} | |
 |-|-|
 |**尺寸:** | 宽 1 x 高 1|
 |**科技:**| 大容量固体运输|

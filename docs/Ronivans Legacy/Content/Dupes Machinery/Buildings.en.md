@@ -4,7 +4,7 @@ An advanced biological vat that grows algae. Due to the controlled atmospheric c
 
 Algae patch needs Water to grow, producing a fair amount of clean Oxygen as result of its biological functions. Excess water is expelled in the form of Polluted Water.
 ### Info
-| ![AlgaeVat](/assets/images/buildings/AlgaeVat.png){width = "200"} | |
+| ![AlgaeVat](/assets/images/buildings/AlgaeVat.png){width="200"} | |
 |-|-|
 |**Dimensions:** | 3 wide x 4 high|
 |**Power Consumption:**| 60 W|
@@ -39,7 +39,7 @@ An industrial grade boiler that generates thermal energy by burning solid fossil
 Boils Water to Steam at 200 °C.
 This particular boiler uses Combustustable Solids as fuel.
 ### Info
-| ![Chemical_Coal_Boiler](/assets/images/buildings/Chemical_Coal_Boiler.png){width = "200"} | |
+| ![Chemical_Coal_Boiler](/assets/images/buildings/Chemical_Coal_Boiler.png){width="200"} | |
 |-|-|
 |**Dimensions:** | 3 wide x 4 high|
 |**Research Required:**| Fossil Fuels|
@@ -67,7 +67,7 @@ A fancy pump capable to detects Carbon Dioxide and pump it.
 
 Automatically detects trace of Carbon Dioxide and extract it out of the surroudings.
 ### Info
-| ![Chemical_Co2Pump](/assets/images/buildings/Chemical_Co2Pump.png){width = "200"} | |
+| ![Chemical_Co2Pump](/assets/images/buildings/Chemical_Co2Pump.png){width="200"} | |
 |-|-|
 |**Dimensions:** | 1 wide x 1 high|
 |**Power Consumption:**| 10 W|
@@ -88,7 +88,7 @@ An advanced biological vat that grows a special colony of marine invertebrates, 
 
 Coral colony needs Salt Water or Brine to grow, producing a fair amount of clean Water as result of its biological functions. The coral colony will also excreate tiny particles of Bleach Stone, which are filtered from the water and later released as a solid mass.
 ### Info
-| ![CoralVat](/assets/images/buildings/CoralVat.png){width = "200"} | |
+| ![CoralVat](/assets/images/buildings/CoralVat.png){width="200"} | |
 |-|-|
 |**Dimensions:** | 3 wide x 4 high|
 |**Power Consumption:**| 360 W|
@@ -126,7 +126,7 @@ A small sized eletric boiler.
 
 Boils Water to Steam at 106 °C. This particular boiler uses electricity.
 ### Info
-| ![Chemical_ElectricBoiler](/assets/images/buildings/Chemical_ElectricBoiler.png){width = "200"} | |
+| ![Chemical_ElectricBoiler](/assets/images/buildings/Chemical_ElectricBoiler.png){width="200"} | |
 |-|-|
 |**Dimensions:** | 2 wide x 3 high|
 |**Power Consumption:**| 850 W|
@@ -155,7 +155,7 @@ A custom polymerization press capable of producing polymer from Ethanol.
 
 Special modifications allows the polymerization of Ethanol into raw Plasticwith the addition of Chlorine Gas.
 ### Info
-| ![Custom_Polymerizer](/assets/images/buildings/Custom_Polymerizer.png){width = "200"} | |
+| ![Custom_Polymerizer](/assets/images/buildings/Custom_Polymerizer.png){width="200"} | |
 |-|-|
 |**Dimensions:** | 3 wide x 3 high|
 |**Power Consumption:**| 240 W|
@@ -183,7 +183,7 @@ A solid metal still capable of distillation by selective temperature.
 
 Distills Ethanol from a fermented mixture of Sucrose and Water. The fermenting process occurs with Slime bacterias by the degradation of organic nutrients anaerobically.
 ### Info
-| ![EthanolStill](/assets/images/buildings/EthanolStill.png){width = "200"} | |
+| ![EthanolStill](/assets/images/buildings/EthanolStill.png){width="200"} | |
 |-|-|
 |**Dimensions:** | 4 wide x 5 high|
 |**Power Consumption:**| 120 W|
@@ -210,7 +210,7 @@ A dedicated industrial sieve that flocculates colloidal particles out of suspens
 
 Treat Polluted Water or Toxic Slurry using special filter and chemicals. Sieve process also completely removesGerms.
 ### Info
-| ![FlocculationSieve](/assets/images/buildings/FlocculationSieve.png){width = "200"} | |
+| ![FlocculationSieve](/assets/images/buildings/FlocculationSieve.png){width="200"} | |
 |-|-|
 |**Dimensions:** | 4 wide x 3 high|
 |**Power Consumption:**| 240 W|
@@ -245,7 +245,7 @@ An industrial grade boiler that generates thermal energy by burning Combustible 
 
 Boils Water to Steam at 200 °C. This particular boiler uses Combustible Gases as fuel, but may as well work with other combustible gases.
 ### Info
-| ![Chemical_Gas_Boiler](/assets/images/buildings/Chemical_Gas_Boiler.png){width = "200"} | |
+| ![Chemical_Gas_Boiler](/assets/images/buildings/Chemical_Gas_Boiler.png){width="200"} | |
 |-|-|
 |**Dimensions:** | 3 wide x 4 high|
 |**Research Required:**| Fossil Fuels|
@@ -274,7 +274,7 @@ A simple device capable of producing high-quality salt water.
 
 Produces Salt Water using provided Water and Salt.
 ### Info
-| ![Chemical_SynthesizerSaltWater](/assets/images/buildings/Chemical_SynthesizerSaltWater.png){width = "200"} | |
+| ![Chemical_SynthesizerSaltWater](/assets/images/buildings/Chemical_SynthesizerSaltWater.png){width="200"} | |
 |-|-|
 |**Dimensions:** | 1 wide x 4 high|
 |**Power Consumption:**| 90 W|
@@ -301,7 +301,7 @@ An advanced biological vat that grows a culture of mucopolysaccharides and multi
 
 Slime Vat needs Water and Mush Bar to grow, producing Slime outgrowth that is collected from the botton. Due to its nature, the slime its produce will be contaminated with Slimelung.
 ### Info
-| ![SlimeVat](/assets/images/buildings/SlimeVat.png){width = "200"} | |
+| ![SlimeVat](/assets/images/buildings/SlimeVat.png){width="200"} | |
 |-|-|
 |**Dimensions:** | 3 wide x 4 high|
 |**Power Consumption:**| 360 W|
@@ -334,7 +334,7 @@ An industrial grade boiler that generates thermal energy by burning wood.
 
 Boils Water to Steam at 200 °C. This particular boiler uses Wood as fuel.
 ### Info
-| ![Chemical_Wooden_Boiler](/assets/images/buildings/Chemical_Wooden_Boiler.png){width = "200"} | |
+| ![Chemical_Wooden_Boiler](/assets/images/buildings/Chemical_Wooden_Boiler.png){width="200"} | |
 |-|-|
 |**Dimensions:** | 3 wide x 4 high|
 |**Research Required:**| Fossil Fuels|
