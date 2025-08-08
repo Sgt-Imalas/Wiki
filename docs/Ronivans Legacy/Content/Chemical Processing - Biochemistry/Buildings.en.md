@@ -184,33 +184,33 @@ Can be diluted with water to produce Phyto Oil
 |Ingredients:| Time: | Products:|
 |-|-|-|
 |Meal Lice (1000 g)<br>|25s|Vegetable Oil (1500 g)<br>Compressed Biomass (15 kg)<br>|
-|Saturn Critter Trap Seed (10 kg)<br>|10s|Vegetable Oil (9.5 kg)<br>Compressed Biomass (500 g)<br>|
-|Wort Seed (10 kg)<br>|10s|Vegetable Oil (9.5 kg)<br>Compressed Biomass (500 g)<br>|
-|Plume Squash Seed (10 kg)<br>|10s|Vegetable Oil (9.5 kg)<br>Compressed Biomass (500 g)<br>|
-|Mimillet (10 kg)<br>|10s|Vegetable Oil (9.5 kg)<br>Compressed Biomass (500 g)<br>|
-|Alveo Vera Seed (10 kg)<br>|10s|Vegetable Oil (9.5 kg)<br>Compressed Biomass (500 g)<br>|
-|Mealwood Seed (10 kg)<br>|10s|Vegetable Oil (9.5 kg)<br>Compressed Biomass (500 g)<br>|
-|Dew Seed (10 kg)<br>|10s|Vegetable Oil (9.5 kg)<br>Compressed Biomass (500 g)<br>|
-|Megafrond Spore (10 kg)<br>|10s|Vegetable Oil (9.5 kg)<br>Compressed Biomass (500 g)<br>|
-|Gas Grass Seed (10 kg)<br>|10s|Vegetable Oil (9.5 kg)<br>Compressed Biomass (500 g)<br>|
-|Sweatcorn Seed (10 kg)<br>|10s|Vegetable Oil (9.5 kg)<br>Compressed Biomass (500 g)<br>|
-|Arbor Acorn (10 kg)<br>|10s|Vegetable Oil (9.5 kg)<br>Compressed Biomass (500 g)<br>|
-|Lura Seed (10 kg)<br>|10s|Vegetable Oil (9.5 kg)<br>Compressed Biomass (500 g)<br>|
-|Hydrocactus Seed (10 kg)<br>|10s|Vegetable Oil (9.5 kg)<br>Compressed Biomass (500 g)<br>|
-|Pikeapple Bush Seed (10 kg)<br>|10s|Vegetable Oil (9.5 kg)<br>Compressed Biomass (500 g)<br>|
-|Oxyfern Seed (10 kg)<br>|10s|Vegetable Oil (9.5 kg)<br>Compressed Biomass (500 g)<br>|
-|Grubfruit Seed (10 kg)<br>|10s|Vegetable Oil (9.5 kg)<br>Compressed Biomass (500 g)<br>|
-|Blossom Seed (10 kg)<br>|10s|Vegetable Oil (9.5 kg)<br>Compressed Biomass (500 g)<br>|
-|Ovagro Node Seed (10 kg)<br>|10s|Vegetable Oil (9.5 kg)<br>Compressed Biomass (500 g)<br>|
-|Dasha Saltvine Seed (10 kg)<br>|10s|Vegetable Oil (9.5 kg)<br>Compressed Biomass (500 g)<br>|
-|Balm Lily Seed (10 kg)<br>|10s|Vegetable Oil (9.5 kg)<br>Compressed Biomass (500 g)<br>|
-|Bog Bucket Seed (10 kg)<br>|10s|Vegetable Oil (9.5 kg)<br>Compressed Biomass (500 g)<br>|
-|Bonbon Tree Seed (10 kg)<br>|10s|Vegetable Oil (9.5 kg)<br>Compressed Biomass (500 g)<br>|
-|Pincha Pepper Seed (10 kg)<br>|10s|Vegetable Oil (9.5 kg)<br>Compressed Biomass (500 g)<br>|
-|Fungal Spore (10 kg)<br>|10s|Vegetable Oil (9.5 kg)<br>Compressed Biomass (500 g)<br>|
-|Seakomb Seed (10 kg)<br>|10s|Vegetable Oil (9.5 kg)<br>Compressed Biomass (500 g)<br>|
-|Sleet Wheat Grain (1000 g)<br>|25s|Vegetable Oil (1310 g)<br>Compressed Biomass (1250 g)<br>|
-|Nosh Bean (1000 g)<br>|25s|Vegetable Oil (2800 g)<br>Compressed Biomass (1750 g)<br>|
+|Saturn Critter Trap Seed (x10)<br>|10s|Vegetable Oil (9.5 kg)<br>Compressed Biomass (500 g)<br>|
+|Wort Seed (x10)<br>|10s|Vegetable Oil (9.5 kg)<br>Compressed Biomass (500 g)<br>|
+|Plume Squash Seed (x10)<br>|10s|Vegetable Oil (9.5 kg)<br>Compressed Biomass (500 g)<br>|
+|Mimillet (x10)<br>|10s|Vegetable Oil (9.5 kg)<br>Compressed Biomass (500 g)<br>|
+|Alveo Vera Seed (x10)<br>|10s|Vegetable Oil (9.5 kg)<br>Compressed Biomass (500 g)<br>|
+|Mealwood Seed (x10)<br>|10s|Vegetable Oil (9.5 kg)<br>Compressed Biomass (500 g)<br>|
+|Dew Seed (x10)<br>|10s|Vegetable Oil (9.5 kg)<br>Compressed Biomass (500 g)<br>|
+|Megafrond Spore (x10)<br>|10s|Vegetable Oil (9.5 kg)<br>Compressed Biomass (500 g)<br>|
+|Gas Grass Seed (x10)<br>|10s|Vegetable Oil (9.5 kg)<br>Compressed Biomass (500 g)<br>|
+|Sweatcorn Seed (x10)<br>|10s|Vegetable Oil (9.5 kg)<br>Compressed Biomass (500 g)<br>|
+|Arbor Acorn (x10)<br>|10s|Vegetable Oil (9.5 kg)<br>Compressed Biomass (500 g)<br>|
+|Lura Seed (x10)<br>|10s|Vegetable Oil (9.5 kg)<br>Compressed Biomass (500 g)<br>|
+|Hydrocactus Seed (x10)<br>|10s|Vegetable Oil (9.5 kg)<br>Compressed Biomass (500 g)<br>|
+|Pikeapple Bush Seed (x10)<br>|10s|Vegetable Oil (9.5 kg)<br>Compressed Biomass (500 g)<br>|
+|Oxyfern Seed (x10)<br>|10s|Vegetable Oil (9.5 kg)<br>Compressed Biomass (500 g)<br>|
+|Grubfruit Seed (x10)<br>|10s|Vegetable Oil (9.5 kg)<br>Compressed Biomass (500 g)<br>|
+|Blossom Seed (x10)<br>|10s|Vegetable Oil (9.5 kg)<br>Compressed Biomass (500 g)<br>|
+|Ovagro Node Seed (x10)<br>|10s|Vegetable Oil (9.5 kg)<br>Compressed Biomass (500 g)<br>|
+|Dasha Saltvine Seed (x10)<br>|10s|Vegetable Oil (9.5 kg)<br>Compressed Biomass (500 g)<br>|
+|Balm Lily Seed (x10)<br>|10s|Vegetable Oil (9.5 kg)<br>Compressed Biomass (500 g)<br>|
+|Bog Bucket Seed (x10)<br>|10s|Vegetable Oil (9.5 kg)<br>Compressed Biomass (500 g)<br>|
+|Bonbon Tree Seed (x10)<br>|10s|Vegetable Oil (9.5 kg)<br>Compressed Biomass (500 g)<br>|
+|Pincha Pepper Seed (x10)<br>|10s|Vegetable Oil (9.5 kg)<br>Compressed Biomass (500 g)<br>|
+|Fungal Spore (x10)<br>|10s|Vegetable Oil (9.5 kg)<br>Compressed Biomass (500 g)<br>|
+|Seakomb Seed (x10)<br>|10s|Vegetable Oil (9.5 kg)<br>Compressed Biomass (500 g)<br>|
+|Sleet Wheat Grain (x1)<br>|25s|Vegetable Oil (1310 g)<br>Compressed Biomass (1250 g)<br>|
+|Nosh Bean (x1)<br>|25s|Vegetable Oil (2800 g)<br>Compressed Biomass (1750 g)<br>|
 |Pincha Peppernut (1000 g)<br>|25s|Vegetable Oil (4720 g)<br>Compressed Biomass (4500 g)<br>|
 |Balm Lily Flower (1000 g)<br>|25s|Vegetable Oil (350 g)<br>Compressed Biomass (650 g)<br>|
 |Grubfruit (1000 g)<br>|25s|Vegetable Oil (1060 g)<br>Compressed Biomass (3400 g)<br>|

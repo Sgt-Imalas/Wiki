@@ -26,7 +26,7 @@ The advantage of the induction kiln is a clean, energy-efficient and well-contro
 |Sand (270 kg)<br>Plastic (100 kg)<br>Borax (30 kg)<br>|30s|Fiberglass (400 kg)<br>|
 |Sand (270 kg)<br>Bioplastic (100 kg)<br>Borax (30 kg)<br>|30s|Fiberglass (400 kg)<br>|
 |Sand (270 kg)<br>Plastium (100 kg)<br>Borax (30 kg)<br>|30s|Fiberglass (400 kg)<br>|
-|Bitumen (100 kg)<br>Fullerene (25 kg)<br>Isosap (15 kg)<br>Rayon Fiber (10 kg)<br>|30s|Carbon Composite (150 kg)<br>|
+|Bitumen (100 kg)<br>Fullerene (25 kg)<br>Isosap (15 kg)<br>Rayon Fiber (x10)<br>|30s|Carbon Composite (150 kg)<br>|
 |Oil Shale (500 kg)<br>|40s|Cement (350 kg)<br>Crude Oil (25 kg)<br>Low-Grade Metallic Sand (50 kg)<br>|
 |Clay (300 kg)<br>Sand (200 kg)<br>|30s|Brick (500 kg)<br>|
 
@@ -945,9 +945,9 @@ Produces Rayon Fiber from Wood pulp through a complex chemical reaction. Require
 ### Recipes
 |Ingredients:| Time: | Products:|
 |-|-|-|
-|Wood (150 kg)<br>|50s|Rayon Fiber (1000 g)<br>|
-|Plant Meat (1000 g)<br>|50s|Rayon Fiber (1000 g)<br>|
-|Seakomb Leaf (20 kg)<br>|50s|Rayon Fiber (1000 g)<br>|
+|Wood (150 kg)<br>|50s|Rayon Fiber (x1)<br>|
+|Plant Meat (1000 g)<br>|50s|Rayon Fiber (x1)<br>|
+|Seakomb Leaf (20 kg)<br>|50s|Rayon Fiber (x1)<br>|
 
 
 
@@ -1195,6 +1195,92 @@ Boils Water to Steam at 200 °C. This particular boiler uses Wood as fuel.
 |Inputs:|Outputs:|
 |-|-|
 |Wood (3600 g/s)<br>Water (4000 g/s)<br>|Steam (4000 g/s at 200°C)<br>Carbon Dioxide (500 g/s at 110°C)<br>|
+
+
+
+## Metal Refinery (Modified)
+Refined metals are necessary to build advanced electronics and technologies.
+
+Produces Refined Metals from raw Metal Ore.
+
+Significantly Heats and outputs the Liquid piped into it.
+
+Duplicants will not fabricate items unless recipes are queued.
+### Info
+| ![MetalRefinery](/assets/images/buildings/MetalRefinery.png){width="200"} | |
+|-|-|
+|**Dimensions:** | 3 wide x 4 high|
+|**Power Consumption:**| 800 W|
+
+|**<font size="+1">Material Costs:</font>**| |
+|-|-|
+|Raw Mineral|800 kg|
+
+### Building Ports
+|Inputs:|Outputs:|
+|-|-|
+|Liquid Input Pipe|Liquid Output Pipe|
+
+### Recipes
+|Ingredients:| Time: | Products:|
+|-|-|-|
+|Pyrite (100 kg)<br>Coal (20 kg)<br>|40s|Iron (60 kg)<br>Slag (60 kg)<br>|
+|Pyrite (100 kg)<br>Peat (20 kg)<br>|40s|Iron (60 kg)<br>Slag (60 kg)<br>|
+|Galena (100 kg)<br>Coal (20 kg)<br>|40s|Silver (50 kg)<br>Lead (30 kg)<br>Slag (40 kg)<br>|
+|Galena (100 kg)<br>Peat (20 kg)<br>|40s|Silver (50 kg)<br>Lead (30 kg)<br>Slag (40 kg)<br>|
+|Electrum (100 kg)<br>Coal (20 kg)<br>|40s|Gold (50 kg)<br>Silver (30 kg)<br>Slag (40 kg)<br>|
+|Electrum (100 kg)<br>Peat (20 kg)<br>|40s|Gold (50 kg)<br>Silver (30 kg)<br>Slag (40 kg)<br>|
+|Cinnabar Ore (100 kg)<br>Coal (20 kg)<br>|40s|Mercury (80 kg)<br>Slag (40 kg)<br>|
+|Cinnabar Ore (100 kg)<br>Peat (20 kg)<br>|40s|Mercury (80 kg)<br>Slag (40 kg)<br>|
+|Iron Ore (100 kg)<br>Coal (20 kg)<br>|40s|Iron (80 kg)<br>Slag (40 kg)<br>|
+|Iron Ore (100 kg)<br>Peat (20 kg)<br>|40s|Iron (80 kg)<br>Slag (40 kg)<br>|
+|Thermium (100 kg)<br>Coal (20 kg)<br>|40s|Niobium (80 kg)<br>Slag (40 kg)<br>|
+|Thermium (100 kg)<br>Peat (20 kg)<br>|40s|Niobium (80 kg)<br>Slag (40 kg)<br>|
+|Nickel Ore (100 kg)<br>Coal (20 kg)<br>|40s|Nickel (80 kg)<br>Slag (40 kg)<br>|
+|Nickel Ore (100 kg)<br>Peat (20 kg)<br>|40s|Nickel (80 kg)<br>Slag (40 kg)<br>|
+|Zinc Ore (100 kg)<br>Coal (20 kg)<br>|40s|Zinc (80 kg)<br>Slag (40 kg)<br>|
+|Zinc Ore (100 kg)<br>Peat (20 kg)<br>|40s|Zinc (80 kg)<br>Slag (40 kg)<br>|
+|Gold Amalgam (100 kg)<br>Coal (20 kg)<br>|40s|Gold (80 kg)<br>Slag (40 kg)<br>|
+|Gold Amalgam (100 kg)<br>Peat (20 kg)<br>|40s|Gold (80 kg)<br>Slag (40 kg)<br>|
+|Aluminum Ore (100 kg)<br>Coal (20 kg)<br>|40s|Aluminum (80 kg)<br>Slag (40 kg)<br>|
+|Aluminum Ore (100 kg)<br>Peat (20 kg)<br>|40s|Aluminum (80 kg)<br>Slag (40 kg)<br>|
+|Silver Ore (100 kg)<br>Coal (20 kg)<br>|40s|Silver (80 kg)<br>Slag (40 kg)<br>|
+|Silver Ore (100 kg)<br>Peat (20 kg)<br>|40s|Silver (80 kg)<br>Slag (40 kg)<br>|
+|Wolframite (100 kg)<br>Coal (20 kg)<br>|40s|Tungsten (80 kg)<br>Slag (40 kg)<br>|
+|Wolframite (100 kg)<br>Peat (20 kg)<br>|40s|Tungsten (80 kg)<br>Slag (40 kg)<br>|
+|Cobalt Ore (100 kg)<br>Coal (20 kg)<br>|40s|Cobalt (80 kg)<br>Slag (40 kg)<br>|
+|Cobalt Ore (100 kg)<br>Peat (20 kg)<br>|40s|Cobalt (80 kg)<br>Slag (40 kg)<br>|
+|Copper Ore (100 kg)<br>Coal (20 kg)<br>|40s|Copper (80 kg)<br>Slag (40 kg)<br>|
+|Copper Ore (100 kg)<br>Peat (20 kg)<br>|40s|Copper (80 kg)<br>Slag (40 kg)<br>|
+
+
+
+## Oil Well (Modified)
+Water pumped into an oil reservoir cannot be recovered.
+
+Extracts Crude Oil using clean Water.
+
+Must be built atop an Oil Reservoir.
+### Info
+| ![OilWellCap](/assets/images/buildings/OilWellCap.png){width="200"} | |
+|-|-|
+|**Dimensions:** | 4 wide x 4 high|
+|**Power Consumption:**| 240 W|
+
+|**<font size="+1">Material Costs:</font>**| |
+|-|-|
+|Refined Metal|200 kg|
+
+### Building Ports
+|Inputs:|Outputs:|
+|-|-|
+|Water Based Input Pipe|Raw Natural Gas Output Pipe|
+|-|Crude Oil Output Pipe|
+
+### Element Conversion
+|Inputs:|Outputs:|
+|-|-|
+|Water Based (1000 g/s)<br>|Crude Oil (3400 g/s at 90°C)<br>|
 
 
 

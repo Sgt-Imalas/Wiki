@@ -59,15 +59,15 @@ Occurrence: resources that are generated during Drillhead operation.
 ### Recipes
 |Ingredients:| Time: | Random Products:|Random Occurences:|
 |-|-|-|-|
-|Basic Drillbits (1000 g)<br>|120s|Crushed Rock<br>Coal<br>Dirt<br>Clay<br>Sand<br>Polluted Dirt<br>Copper Ore<br>Pyrite<br>Gold Amalgam<br>Aluminum Ore<br>Zinc Ore<br>Silver Ore<br>|Crushed Rock<br>Water<br>Polluted Water<br>|
-|Steel Drillbits (1000 g)<br>|120s|Iron Ore<br>Aluminum Ore<br>Copper Ore<br>Gold Amalgam<br>Electrum<br>Sulfur<br>Zinc Ore<br>Silver Ore<br>Igneous Rock<br>Granite<br>Sandstone<br>Wolframite<br>|Crushed Rock<br>Steam<br>Carbon Dioxide<br>|
-|Tungsten Drillbits (1000 g)<br>|120s|Wolframite<br>Abyssalite<br>Obsidian<br>Rust<br>Salt<br>Fossil<br>Refined Carbon<br>Diamond<br>Lead<br>|Crushed Rock<br>Natural Gas<br>Sulfur Gas<br>|
-|Guidance Device (Target: Soft Stratum) (1000 g)<br>Basic Drillbits (1000 g)<br>|120s|Dirt<br>Sand<br>Coal<br>Phosphorite<br>Clay<br>Salt<br>Polluted Dirt<br>Algae<br>Slime<br>Chloroschist<br>|Crushed Rock<br>Polluted Oxygen<br>Chlorine Gas<br>Carbon Dioxide<br>Hydrogen Gas<br>|
-|Guidance Device (Target: Aquifer) (1000 g)<br>Basic Drillbits (1000 g)<br>|120s|Sand<br>Clay<br>Sedimentary Rock<br>Granite<br>Sandstone<br>Chloroschist<br>|Crushed Rock<br>Water<br>Polluted Water<br>Salt Water<br>Brine<br>|
-|Guidance Device (Target: Hard Stratum) (1000 g)<br>Steel Drillbits (1000 g)<br>|120s|Iron Ore<br>Aluminum Ore<br>Copper Ore<br>Gold Amalgam<br>Igneous Rock<br>Obsidian<br>Wolframite<br>Electrum<br>Granite<br>Rust<br>Fossil<br>Salt<br>Silver Ore<br>Zinc Ore<br>|Crushed Rock<br>Carbon Dioxide<br>Liquid Sulfur<br>Mercury Gas<br>|
-|Guidance Device (Target: Oil Reserves) (1000 g)<br>Steel Drillbits (1000 g)<br>|120s|Igneous Rock<br>Obsidian<br>Sulfur<br>Granite<br>Fossil<br>Oil Shale<br>Galena<br>|Crushed Rock<br>Carbon Dioxide<br>Crude Oil<br>Oil Shale<br>Natural Gas<br>Sour Gas<br>Raw Natural Gas<br>|
-|Guidance Device (Target: Cryosphere) (1000 g)<br>Tungsten Drillbits (1000 g)<br>|120s|Ice<br>Polluted Ice<br>Sand<br>Fossil<br>Brine Ice<br>Snow<br>Regolith<br>Ammonia Snow<br>Solid Crude Oil<br>Solid Carbon Dioxide<br>Mercury<br>Solid Chlorine<br>Solid Methane<br>|Crushed Rock<br>Crushed Ice<br>|
-|Guidance Device (Target: Deep Mantle) (1000 g)<br>Tungsten Drillbits (1000 g)<br>|120s|Diamond<br>Abyssalite<br>Obsidian<br>Fullerene<br>Refined Carbon<br>|Crushed Rock<br>Magma<br>Molten Salt<br>Molten Iron<br>Molten Copper<br>Molten Gold<br>Molten Aluminum<br>Molten Niobium<br>Molten Silver<br>Molten Zinc<br>|
+|Basic Drillbits (x1)<br>|120s|Crushed Rock<br>Coal<br>Dirt<br>Clay<br>Sand<br>Polluted Dirt<br>Copper Ore<br>Pyrite<br>Gold Amalgam<br>Aluminum Ore<br>Zinc Ore<br>Silver Ore<br>|Crushed Rock<br>Water<br>Polluted Water<br>|
+|Steel Drillbits (x1)<br>|120s|Iron Ore<br>Aluminum Ore<br>Copper Ore<br>Gold Amalgam<br>Electrum<br>Sulfur<br>Zinc Ore<br>Silver Ore<br>Igneous Rock<br>Granite<br>Sandstone<br>Wolframite<br>|Crushed Rock<br>Steam<br>Carbon Dioxide<br>|
+|Tungsten Drillbits (x1)<br>|120s|Wolframite<br>Abyssalite<br>Obsidian<br>Rust<br>Salt<br>Fossil<br>Refined Carbon<br>Diamond<br>Lead<br>|Crushed Rock<br>Natural Gas<br>Sulfur Gas<br>|
+|Guidance Device (Target: Soft Stratum) (x1)<br>Basic Drillbits (x1)<br>|120s|Dirt<br>Sand<br>Coal<br>Phosphorite<br>Clay<br>Salt<br>Polluted Dirt<br>Algae<br>Slime<br>Chloroschist<br>|Crushed Rock<br>Polluted Oxygen<br>Chlorine Gas<br>Carbon Dioxide<br>Hydrogen Gas<br>|
+|Guidance Device (Target: Aquifer) (x1)<br>Basic Drillbits (x1)<br>|120s|Sand<br>Clay<br>Sedimentary Rock<br>Granite<br>Sandstone<br>Chloroschist<br>|Crushed Rock<br>Water<br>Polluted Water<br>Salt Water<br>Brine<br>|
+|Guidance Device (Target: Hard Stratum) (x1)<br>Steel Drillbits (x1)<br>|120s|Iron Ore<br>Aluminum Ore<br>Copper Ore<br>Gold Amalgam<br>Igneous Rock<br>Obsidian<br>Wolframite<br>Electrum<br>Granite<br>Rust<br>Fossil<br>Salt<br>Silver Ore<br>Zinc Ore<br>|Crushed Rock<br>Carbon Dioxide<br>Liquid Sulfur<br>Mercury Gas<br>|
+|Guidance Device (Target: Oil Reserves) (x1)<br>Steel Drillbits (x1)<br>|120s|Igneous Rock<br>Obsidian<br>Sulfur<br>Granite<br>Fossil<br>Oil Shale<br>Galena<br>|Crushed Rock<br>Carbon Dioxide<br>Crude Oil<br>Oil Shale<br>Natural Gas<br>Sour Gas<br>Raw Natural Gas<br>|
+|Guidance Device (Target: Cryosphere) (x1)<br>Tungsten Drillbits (x1)<br>|120s|Ice<br>Polluted Ice<br>Sand<br>Fossil<br>Brine Ice<br>Snow<br>Regolith<br>Ammonia Snow<br>Solid Crude Oil<br>Solid Carbon Dioxide<br>Mercury<br>Solid Chlorine<br>Solid Methane<br>|Crushed Rock<br>Crushed Ice<br>|
+|Guidance Device (Target: Deep Mantle) (x1)<br>Tungsten Drillbits (x1)<br>|120s|Diamond<br>Abyssalite<br>Obsidian<br>Fullerene<br>Refined Carbon<br>|Crushed Rock<br>Magma<br>Molten Salt<br>Molten Iron<br>Molten Copper<br>Molten Gold<br>Molten Aluminum<br>Molten Niobium<br>Molten Silver<br>Molten Zinc<br>|
 
 
 
@@ -89,32 +89,32 @@ Capable of producing specialty gadgets and other advanced tools. Requires the Me
 ### Recipes
 |Ingredients:| Time: | Products:|
 |-|-|-|
-|Iron (250 kg)<br>Copper (50 kg)<br>Biodiesel (20 kg)<br>|50s|Basic Drillbits (2000 g)<br>|
-|Iron (250 kg)<br>Copper (50 kg)<br>Petroleum (20 kg)<br>|50s|Basic Drillbits (2000 g)<br>|
-|Iron (250 kg)<br>Copper (50 kg)<br>Ethanol (20 kg)<br>|50s|Basic Drillbits (2000 g)<br>|
-|Iron (250 kg)<br>Copper (50 kg)<br>Liquid Naphtha (20 kg)<br>|50s|Basic Drillbits (2000 g)<br>|
-|Iron (250 kg)<br>Copper (50 kg)<br>Renewable Diesel (20 kg)<br>|50s|Basic Drillbits (2000 g)<br>|
-|Steel (250 kg)<br>Iron (50 kg)<br>Biodiesel (20 kg)<br>|50s|Steel Drillbits (2000 g)<br>|
-|Steel (250 kg)<br>Iron (50 kg)<br>Petroleum (20 kg)<br>|50s|Steel Drillbits (2000 g)<br>|
-|Steel (250 kg)<br>Iron (50 kg)<br>Ethanol (20 kg)<br>|50s|Steel Drillbits (2000 g)<br>|
-|Steel (250 kg)<br>Iron (50 kg)<br>Liquid Naphtha (20 kg)<br>|50s|Steel Drillbits (2000 g)<br>|
-|Steel (250 kg)<br>Iron (50 kg)<br>Renewable Diesel (20 kg)<br>|50s|Steel Drillbits (2000 g)<br>|
-|Tungsten (200 kg)<br>Steel (100 kg)<br>Biodiesel (20 kg)<br>|50s|Tungsten Drillbits (2000 g)<br>|
-|Tungsten (200 kg)<br>Steel (100 kg)<br>Petroleum (20 kg)<br>|50s|Tungsten Drillbits (2000 g)<br>|
-|Tungsten (200 kg)<br>Steel (100 kg)<br>Ethanol (20 kg)<br>|50s|Tungsten Drillbits (2000 g)<br>|
-|Tungsten (200 kg)<br>Steel (100 kg)<br>Liquid Naphtha (20 kg)<br>|50s|Tungsten Drillbits (2000 g)<br>|
-|Tungsten (200 kg)<br>Steel (100 kg)<br>Renewable Diesel (20 kg)<br>|50s|Tungsten Drillbits (2000 g)<br>|
-|Steel (50 kg)<br>Gold (20 kg)<br>Glass (10 kg)<br>Solid Visco-Gel (10 kg)<br>|50s|Guidance Device (Unprogrammed) (1000 g)<br>|
-|Steel (50 kg)<br>Gold (20 kg)<br>Glass (10 kg)<br>Plastic (10 kg)<br>|50s|Guidance Device (Unprogrammed) (1000 g)<br>|
-|Steel (50 kg)<br>Gold (20 kg)<br>Glass (10 kg)<br>Fiberglass (10 kg)<br>|50s|Guidance Device (Unprogrammed) (1000 g)<br>|
-|Steel (50 kg)<br>Gold (20 kg)<br>Glass (10 kg)<br>Bioplastic (10 kg)<br>|50s|Guidance Device (Unprogrammed) (1000 g)<br>|
-|Steel (50 kg)<br>Gold (20 kg)<br>Glass (10 kg)<br>Plastium (10 kg)<br>|50s|Guidance Device (Unprogrammed) (1000 g)<br>|
-|Guidance Device (Unprogrammed) (1000 g)<br>|10s|Guidance Device (Target: Aquifer) (1000 g)<br>|
-|Guidance Device (Unprogrammed) (1000 g)<br>|10s|Guidance Device (Target: Cryosphere) (1000 g)<br>|
-|Guidance Device (Unprogrammed) (1000 g)<br>|10s|Guidance Device (Target: Hard Stratum) (1000 g)<br>|
-|Guidance Device (Unprogrammed) (1000 g)<br>|10s|Guidance Device (Target: Deep Mantle) (1000 g)<br>|
-|Guidance Device (Unprogrammed) (1000 g)<br>|10s|Guidance Device (Target: Oil Reserves) (1000 g)<br>|
-|Guidance Device (Unprogrammed) (1000 g)<br>|10s|Guidance Device (Target: Soft Stratum) (1000 g)<br>|
+|Iron (250 kg)<br>Copper (50 kg)<br>Biodiesel (20 kg)<br>|50s|Basic Drillbits (x2)<br>|
+|Iron (250 kg)<br>Copper (50 kg)<br>Petroleum (20 kg)<br>|50s|Basic Drillbits (x2)<br>|
+|Iron (250 kg)<br>Copper (50 kg)<br>Ethanol (20 kg)<br>|50s|Basic Drillbits (x2)<br>|
+|Iron (250 kg)<br>Copper (50 kg)<br>Liquid Naphtha (20 kg)<br>|50s|Basic Drillbits (x2)<br>|
+|Iron (250 kg)<br>Copper (50 kg)<br>Renewable Diesel (20 kg)<br>|50s|Basic Drillbits (x2)<br>|
+|Steel (250 kg)<br>Iron (50 kg)<br>Biodiesel (20 kg)<br>|50s|Steel Drillbits (x2)<br>|
+|Steel (250 kg)<br>Iron (50 kg)<br>Petroleum (20 kg)<br>|50s|Steel Drillbits (x2)<br>|
+|Steel (250 kg)<br>Iron (50 kg)<br>Ethanol (20 kg)<br>|50s|Steel Drillbits (x2)<br>|
+|Steel (250 kg)<br>Iron (50 kg)<br>Liquid Naphtha (20 kg)<br>|50s|Steel Drillbits (x2)<br>|
+|Steel (250 kg)<br>Iron (50 kg)<br>Renewable Diesel (20 kg)<br>|50s|Steel Drillbits (x2)<br>|
+|Tungsten (200 kg)<br>Steel (100 kg)<br>Biodiesel (20 kg)<br>|50s|Tungsten Drillbits (x2)<br>|
+|Tungsten (200 kg)<br>Steel (100 kg)<br>Petroleum (20 kg)<br>|50s|Tungsten Drillbits (x2)<br>|
+|Tungsten (200 kg)<br>Steel (100 kg)<br>Ethanol (20 kg)<br>|50s|Tungsten Drillbits (x2)<br>|
+|Tungsten (200 kg)<br>Steel (100 kg)<br>Liquid Naphtha (20 kg)<br>|50s|Tungsten Drillbits (x2)<br>|
+|Tungsten (200 kg)<br>Steel (100 kg)<br>Renewable Diesel (20 kg)<br>|50s|Tungsten Drillbits (x2)<br>|
+|Steel (50 kg)<br>Gold (20 kg)<br>Glass (10 kg)<br>Solid Visco-Gel (10 kg)<br>|50s|Guidance Device (Unprogrammed) (x1)<br>|
+|Steel (50 kg)<br>Gold (20 kg)<br>Glass (10 kg)<br>Plastic (10 kg)<br>|50s|Guidance Device (Unprogrammed) (x1)<br>|
+|Steel (50 kg)<br>Gold (20 kg)<br>Glass (10 kg)<br>Fiberglass (10 kg)<br>|50s|Guidance Device (Unprogrammed) (x1)<br>|
+|Steel (50 kg)<br>Gold (20 kg)<br>Glass (10 kg)<br>Bioplastic (10 kg)<br>|50s|Guidance Device (Unprogrammed) (x1)<br>|
+|Steel (50 kg)<br>Gold (20 kg)<br>Glass (10 kg)<br>Plastium (10 kg)<br>|50s|Guidance Device (Unprogrammed) (x1)<br>|
+|Guidance Device (Unprogrammed) (x1)<br>|10s|Guidance Device (Target: Aquifer) (x1)<br>|
+|Guidance Device (Unprogrammed) (x1)<br>|10s|Guidance Device (Target: Cryosphere) (x1)<br>|
+|Guidance Device (Unprogrammed) (x1)<br>|10s|Guidance Device (Target: Hard Stratum) (x1)<br>|
+|Guidance Device (Unprogrammed) (x1)<br>|10s|Guidance Device (Target: Deep Mantle) (x1)<br>|
+|Guidance Device (Unprogrammed) (x1)<br>|10s|Guidance Device (Target: Oil Reserves) (x1)<br>|
+|Guidance Device (Unprogrammed) (x1)<br>|10s|Guidance Device (Target: Soft Stratum) (x1)<br>|
 
 
 

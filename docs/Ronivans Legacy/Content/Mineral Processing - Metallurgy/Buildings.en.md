@@ -26,7 +26,7 @@ The advantage of the induction kiln is a clean, energy-efficient and well-contro
 |Sand (270 kg)<br>Plastic (100 kg)<br>Borax (30 kg)<br>|30s|Fiberglass (400 kg)<br>|
 |Sand (270 kg)<br>Bioplastic (100 kg)<br>Borax (30 kg)<br>|30s|Fiberglass (400 kg)<br>|
 |Sand (270 kg)<br>Plastium (100 kg)<br>Borax (30 kg)<br>|30s|Fiberglass (400 kg)<br>|
-|Bitumen (100 kg)<br>Fullerene (25 kg)<br>Isosap (15 kg)<br>Rayon Fiber (10 kg)<br>|30s|Carbon Composite (150 kg)<br>|
+|Bitumen (100 kg)<br>Fullerene (25 kg)<br>Isosap (15 kg)<br>Rayon Fiber (x10)<br>|30s|Carbon Composite (150 kg)<br>|
 |Oil Shale (500 kg)<br>|40s|Cement (350 kg)<br>Crude Oil (25 kg)<br>Low-Grade Metallic Sand (50 kg)<br>|
 |Clay (300 kg)<br>Sand (200 kg)<br>|30s|Brick (500 kg)<br>|
 

@@ -1,4 +1,4 @@
-# New Elements
+# 新元素
 Enabling the following mods in the config will add several new elements to the game.
 
 A few of them will also be added to the starmap pois for mining.
@@ -8,7 +8,7 @@ A few of them will also be added to the starmap pois for mining.
 |:-:|:-:|:-:|
 |<font size="+2">中级金属砂</font> <br/> <br/> ![BaseGradeSand](/assets/images/elements/BaseGradeSand.png){width="200"}  <br/>一种由大量常见金属颗粒构成的厚重沙质物质，其中还混有其他更细小的矿物质颗粒。|资源种类：精炼矿物<br/><br/>熔点：<br/>2249°C -> 气态岩, 炉渣<br/><br/>硬度：32<br/><br/>属性：<br/>一般建造材料, 不可粉碎物, 不稳定, 固体, 矿石, 金属砂|比热容：<br/>8.660 (DTU/g)/ ºC<br/><br/>热导率：<br/>12.320 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.46<br/><br/>辐射释放量/1000千克：0 rads/cycle|
 |<font size="+2">低级金属砂</font> <br/> <br/> ![LowGradeSand](/assets/images/elements/LowGradeSand.png){width="200"}  <br/>一种砂质材料，主要由低质量的金属颗粒组成，混有其他较细的矿物颗粒。|资源种类：精炼矿物<br/><br/>熔点：<br/>2249°C -> 气态岩, 炉渣<br/><br/>硬度：32<br/><br/>属性：<br/>一般建造材料, 不可粉碎物, 不稳定, 固体, 矿石, 金属砂|比热容：<br/>8.660 (DTU/g)/ ºC<br/><br/>热导率：<br/>12.320 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.46<br/><br/>辐射释放量/1000千克：0 rads/cycle|
-|<font size="+2">原料(天然)气</font> <br/> <br/> ![RawNaturalGas](/assets/images/elements/RawNaturalGas.png){width="200"}  <br/>由气态碳氢化合物和其他杂质组成的化石气体。大部分气体由甲烷、丙烷和‘SOURGAS’>酸性气体。|资源种类：不可呼吸的气体<br/><br/>凝点：<br/>-184.5°C -> 液态甲烷, 硫<br/><br/><br/>属性：<br/>气体|比热容：<br/>2.760 (DTU/g)/ ºC<br/><br/>热导率：<br/>0.057 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.3<br/><br/>辐射释放量/1000千克：0 rads/cycle|
+|<font size="+2">原料(天然)气</font> <br/> <br/> ![RawNaturalGas](/assets/images/elements/RawNaturalGas.png){width="200"}  <br/>由气态碳氢化合物和其他杂质组成的化石气体。大部分气体由甲烷、丙烷和酸性气体。|资源种类：不可呼吸的气体<br/><br/>凝点：<br/>-184.5°C -> 液态甲烷, 硫<br/><br/><br/>属性：<br/>气体|比热容：<br/>2.760 (DTU/g)/ ºC<br/><br/>热导率：<br/>0.057 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.3<br/><br/>辐射释放量/1000千克：0 rads/cycle|
 |<font size="+2">固态氨</font> <br/> <br/> ![SolidAmmonia](/assets/images/elements/SolidAmmonia.png){width="200"}  <br/>（NH<sub>3</sub>）氨是一种由氮和氢组成的无机化合物（固态）|资源种类：可液化物<br/><br/>熔点：<br/>-77.73°C -> 液态氨<br/><br/>硬度：2<br/><br/>属性：<br/>固体|比热容：<br/>4.744 (DTU/g)/ ºC<br/><br/>热导率：<br/>0.507 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.5<br/><br/>辐射释放量/1000千克：0 rads/cycle|
 |<font size="+2">固态氮</font> <br/> <br/> ![SolidNitrogen](/assets/images/elements/SolidNitrogen.png){width="200"}  <br/>（N<sub>2</sub>）氮是一种非金属元素，是元素周期表第 15 族中最轻的成员。（固态）|资源种类：可液化物<br/><br/>熔点：<br/>-209.7°C -> 液态氮<br/><br/>硬度：2<br/><br/>属性：<br/>固体|比热容：<br/>92.000 (DTU/g)/ ºC<br/><br/>热导率：<br/>72.000 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.5<br/><br/>辐射释放量/1000千克：0 rads/cycle|
 |<font size="+2">塑晶钢</font> <br/> <br/> ![Plasteel](/assets/images/elements/Plasteel.png){width="200"}  <br/>这是一种由塑料加固纤维构成的材料，其结构类似于钢晶体。这种材料比常规金属合金更坚固、更轻便，而且热导率极低。|资源种类：人造材料<br/><br/>熔点：<br/>2576.85°C -> 二氧化碳, 熔融钢<br/><br/>硬度：70<br/><br/>属性：<br/>一般建造材料, 不可粉碎物, 固体, 硬化合金, 精炼金属, 金属矿石|比热容：<br/>0.210 (DTU/g)/ ºC<br/><br/>热导率：<br/>6.000 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.9<br/><br/>辐射释放量/1000千克：0 rads/cycle|

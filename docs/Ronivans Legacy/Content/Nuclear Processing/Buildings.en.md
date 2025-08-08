@@ -65,8 +65,8 @@ An advanced kiln capable of volumetric oxidation with heavy nuclear waste by alt
 ### Recipes
 |Ingredients:| Time: | Products:|
 |-|-|-|
-|Uranium Ore (100 kg)<br>Oxylite (100 kg)<br>|80s|Yellowcake (100 kg)<br>|
-|Depleted Uranium (10 kg)<br>Solid Nuclear Waste (90 kg)<br>Oxylite (100 kg)<br>|80s|Yellowcake (100 kg)<br>|
+|Uranium Ore (100 kg)<br>Oxylite (100 kg)<br>20x  Radbolts<br>|80s|Yellowcake (100 kg)<br>|
+|Depleted Uranium (10 kg)<br>Solid Nuclear Waste (90 kg)<br>Oxylite (100 kg)<br>50x  Radbolts<br>|80s|Yellowcake (100 kg)<br>|
 
 
 
