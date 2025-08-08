@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ONIModding\\Wiki\\export\\KE_BatchExporter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC7C5E1-1CC9-4BA1-8B7D-0A178AA8C14E}|KE_BatchExporter\\KE_BatchExporter.csproj|e:\\onimodding\\wiki\\export\\ke_batchexporter\\ke_batchexporter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FC7C5E1-1CC9-4BA1-8B7D-0A178AA8C14E}|KE_BatchExporter\\KE_BatchExporter.csproj|solutionrelative:ke_batchexporter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC7C5E1-1CC9-4BA1-8B7D-0A178AA8C14E}|KE_BatchExporter\\KE_BatchExporter.csproj|e:\\onimodding\\wiki\\export\\ke_batchexporter\\ke_batchexporter\\kanimfileinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FC7C5E1-1CC9-4BA1-8B7D-0A178AA8C14E}|KE_BatchExporter\\KE_BatchExporter.csproj|solutionrelative:ke_batchexporter\\kanimfileinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC7C5E1-1CC9-4BA1-8B7D-0A178AA8C14E}|KE_BatchExporter\\KE_BatchExporter.csproj|e:\\onimodding\\wiki\\export\\ke_batchexporter\\ke_batchexporter\\kanimfinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FC7C5E1-1CC9-4BA1-8B7D-0A178AA8C14E}|KE_BatchExporter\\KE_BatchExporter.csproj|solutionrelative:ke_batchexporter\\kanimfinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KanimFileInfo.cs",
+              "DocumentMoniker": "E:\\ONIModding\\Wiki\\export\\KE_BatchExporter\\KE_BatchExporter\\KanimFileInfo.cs",
+              "RelativeDocumentMoniker": "KE_BatchExporter\\KanimFileInfo.cs",
+              "ToolTip": "E:\\ONIModding\\Wiki\\export\\KE_BatchExporter\\KE_BatchExporter\\KanimFileInfo.cs",
+              "RelativeToolTip": "KE_BatchExporter\\KanimFileInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T18:50:04.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KanimFinder.cs",
+              "DocumentMoniker": "E:\\ONIModding\\Wiki\\export\\KE_BatchExporter\\KE_BatchExporter\\KanimFinder.cs",
+              "RelativeDocumentMoniker": "KE_BatchExporter\\KanimFinder.cs",
+              "ToolTip": "E:\\ONIModding\\Wiki\\export\\KE_BatchExporter\\KE_BatchExporter\\KanimFinder.cs",
+              "RelativeToolTip": "KE_BatchExporter\\KanimFinder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T18:49:30.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\ONIModding\\Wiki\\export\\KE_BatchExporter\\KE_BatchExporter\\Program.cs",
+              "RelativeDocumentMoniker": "KE_BatchExporter\\Program.cs",
+              "ToolTip": "E:\\ONIModding\\Wiki\\export\\KE_BatchExporter\\KE_BatchExporter\\Program.cs",
+              "RelativeToolTip": "KE_BatchExporter\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T18:49:16.158Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

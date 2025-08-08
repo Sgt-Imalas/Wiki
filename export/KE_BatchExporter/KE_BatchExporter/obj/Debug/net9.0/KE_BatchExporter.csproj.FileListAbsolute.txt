@@ -1,0 +1,15 @@
+E:\ONIModding\Wiki\export\KE_BatchExporter\KE_BatchExporter\obj\Debug\net9.0\KE_BatchExporter.GeneratedMSBuildEditorConfig.editorconfig
+E:\ONIModding\Wiki\export\KE_BatchExporter\KE_BatchExporter\obj\Debug\net9.0\KE_BatchExporter.AssemblyInfoInputs.cache
+E:\ONIModding\Wiki\export\KE_BatchExporter\KE_BatchExporter\obj\Debug\net9.0\KE_BatchExporter.AssemblyInfo.cs
+E:\ONIModding\Wiki\export\KE_BatchExporter\KE_BatchExporter\obj\Debug\net9.0\KE_BatchExporter.csproj.CoreCompileInputs.cache
+E:\ONIModding\Wiki\export\KE_BatchExporter\KE_BatchExporter\obj\Debug\net9.0\KE_BatchExporter.sourcelink.json
+E:\ONIModding\Wiki\export\KE_BatchExporter\KE_BatchExporter\bin\Debug\net9.0\KE_BatchExporter.exe
+E:\ONIModding\Wiki\export\KE_BatchExporter\KE_BatchExporter\bin\Debug\net9.0\KE_BatchExporter.deps.json
+E:\ONIModding\Wiki\export\KE_BatchExporter\KE_BatchExporter\bin\Debug\net9.0\KE_BatchExporter.runtimeconfig.json
+E:\ONIModding\Wiki\export\KE_BatchExporter\KE_BatchExporter\bin\Debug\net9.0\KE_BatchExporter.dll
+E:\ONIModding\Wiki\export\KE_BatchExporter\KE_BatchExporter\bin\Debug\net9.0\KE_BatchExporter.pdb
+E:\ONIModding\Wiki\export\KE_BatchExporter\KE_BatchExporter\obj\Debug\net9.0\KE_BatchExporter.dll
+E:\ONIModding\Wiki\export\KE_BatchExporter\KE_BatchExporter\obj\Debug\net9.0\refint\KE_BatchExporter.dll
+E:\ONIModding\Wiki\export\KE_BatchExporter\KE_BatchExporter\obj\Debug\net9.0\KE_BatchExporter.pdb
+E:\ONIModding\Wiki\export\KE_BatchExporter\KE_BatchExporter\obj\Debug\net9.0\KE_BatchExporter.genruntimeconfig.cache
+E:\ONIModding\Wiki\export\KE_BatchExporter\KE_BatchExporter\obj\Debug\net9.0\ref\KE_BatchExporter.dll

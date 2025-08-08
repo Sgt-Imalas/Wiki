@@ -1,0 +1,95 @@
+# Buildings
+## ABWR Reactor
+The advanced boiling water reactor (ABWR) uses non-pressurized coolant for steam production. Its comparative small size favors for a quicker heating of the coolant, however, it also increases the odds of a Meltdown in the absence of cooling. Releases Steam in the area directly below its central tile segment.
+
+Uses Enriched Uranium to produce Steam for electrical purpose.
+### Info
+| <img width="200"src="../../images/buildings/LightReactor.png"> | |
+|-|-|
+|**Dimensions:** |2 wide x 6 high|
+|**Research Required:**| Radiation Refinement|
+
+|**<font size="+1">Material Costs:</font>**| |
+|-|-|
+|Refined Metal|800 kg|
+
+### Building Ports
+|Inputs:|Outputs:|
+|-|-|
+|Water Based Input Pipe|-|
+
+
+## Rad Projector
+A radiactive source containing radionuclids which emits ionizing radiation.
+
+This device uses Uranium Ore. As the fuel decays, it turns to liquid Nuclear Waste, which is piped out of the source.
+### Info
+| <img width="200"src="../../images/buildings/HepProjector.png"> | |
+|-|-|
+|**Dimensions:** |3 wide x 1 high|
+|**Research Required:**| Radiation Refinement|
+
+|**<font size="+1">Material Costs:</font>**| |
+|-|-|
+|Refined Metal|100 kg|
+|Plastics|50 kg|
+
+### Building Ports
+|Inputs:|Outputs:|
+|-|-|
+|-|Liquid Output Pipe|
+
+### Element Conversion
+|Inputs:|Outputs:|
+|-|-|
+|Uranium Ore (8 g/s)<br>|Liquid Nuclear Waste (8 g/s at -273.15°C)<br>|
+
+
+
+## Voloxidation Calcinator
+Voloxidation process can separate uranium oxides from nuclear waste, along with other heavy elements. Produces waves of contaminating radiation while operational.
+
+An advanced kiln capable of volumetric oxidation with heavy nuclear waste by alternating different stages of oxidation and reduction.
+### Info
+| <img width="200"src="../../images/buildings/HepCalcinator.png"> | |
+|-|-|
+|**Dimensions:** |7 wide x 3 high|
+|**Power Consumption:**| 3000 W|
+|**Research Required:**| Radiation Refinement|
+
+|**<font size="+1">Material Costs:</font>**| |
+|-|-|
+|Refined Metal|1000 kg|
+|Ceramic|600 kg|
+
+### Recipes
+|Ingredients:| Time: |Products:|
+|-|-|-|
+|Uranium Ore (100 kg)<br>Oxylite (100 kg)<br>|80s|Yellowcake (100 kg)<br>|
+|Depleted Uranium (10 kg)<br>Solid Nuclear Waste (90 kg)<br>Oxylite (100 kg)<br>|80s|Yellowcake (100 kg)<br>|
+
+
+
+## Zippe-Type Centrifuge
+A gas centrifuge is a device that performs isotope separation of gases. A centrifuge relies on the principles of centripetal force accelerating molecules so that particles of different masses are physically separated in a gradient along the radius of a rotating container.
+
+The Zippe-type centrifuge is a gas device designed to enrich the rare fissile Enriched Uranium from the mixture of isotopes found in the manufactured Yellow Cake. The separation process releases small amounts of Depleted Uraniumas waste product.
+### Info
+| <img width="200"src="../../images/buildings/HepCentrifuge.png"> | |
+|-|-|
+|**Dimensions:** |3 wide x 6 high|
+|**Power Consumption:**| 800 W|
+|**Research Required:**| Radiation Refinement|
+
+|**<font size="+1">Material Costs:</font>**| |
+|-|-|
+|Refined Metal|400 kg|
+|Plastics|200 kg|
+
+### Element Conversion
+|Inputs:|Outputs:|
+|-|-|
+|Yellowcake (50 g/s)<br>|Enriched Uranium (35 g/s at -273.15°C)<br>Depleted Uranium (15 g/s at -273.15°C)<br>|
+
+
+
