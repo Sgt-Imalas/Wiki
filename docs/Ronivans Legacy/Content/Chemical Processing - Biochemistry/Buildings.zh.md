@@ -5,7 +5,7 @@
 通过持续供应的植物油培育藻类，该油料作为内部光合作用生物的营养源。
 需提供光照并严格调控温度，以确保最佳生产环境。
 ### 信息
-| <img width="200"src="/assets/images/buildings/Biochemistry_AlgaeGrowingBasin.png"> | |
+| ![Biochemistry_AlgaeGrowingBasin](/assets/images/buildings/Biochemistry_AlgaeGrowingBasin.png){width = "200"} | |
 |-|-|
 |**尺寸:** | 宽 9 x 高 3|
 |**耗电:**| 90 W|
@@ -33,7 +33,7 @@
 将存储在其中的基本食物分解为天然气
 产量取决于所选用的食材。
 ### 信息
-| <img width="200"src="/assets/images/buildings/Biochemistry_AnaerobicDigester.png"> | |
+| ![Biochemistry_AnaerobicDigester](/assets/images/buildings/Biochemistry_AnaerobicDigester.png){width = "200"} | |
 |-|-|
 |**尺寸:** | 宽 5 x 高 3|
 |**耗电:**| 90 W|
@@ -80,7 +80,7 @@
 
 仅产出污染水。
 ### 信息
-| <img width="200"src="/assets/images/buildings/Biochemistry_BiodieselGenerator.png"> | |
+| ![Biochemistry_BiodieselGenerator](/assets/images/buildings/Biochemistry_BiodieselGenerator.png){width = "200"} | |
 |-|-|
 |**尺寸:** | 宽 7 x 高 4|
 |**发电:**| 3200 W|
@@ -107,7 +107,7 @@
 
 将有机油和可再生柴油</link>。
 ### 信息
-| <img width="200"src="/assets/images/buildings/Biochemistry_BiodieselRefinery.png"> | |
+| ![Biochemistry_BiodieselRefinery](/assets/images/buildings/Biochemistry_BiodieselRefinery.png){width = "200"} | |
 |-|-|
 |**尺寸:** | 宽 7 x 高 5|
 |**耗电:**| 60 W|
@@ -136,7 +136,7 @@
 利用有机油与二氧化碳合成生物塑料。
 该过程所需的酶需以软泥糕形式提供给其中的微生物培养基。
 ### 信息
-| <img width="200"src="/assets/images/buildings/Biochemistry_BioplasticPrinter.png"> | |
+| ![Biochemistry_BioplasticPrinter](/assets/images/buildings/Biochemistry_BioplasticPrinter.png){width = "200"} | |
 |-|-|
 |**尺寸:** | 宽 4 x 高 4|
 |**耗电:**| 240 W|
@@ -165,7 +165,7 @@
 从原始食材中提取植物油。所提取的油量以及以压缩生物质形式存在的固体废弃物的量取决于所选择的食材。
 可以用水稀释为植物油。
 ### 信息
-| <img width="200"src="/assets/images/buildings/Biochemistry_ExpellerPress.png"> | |
+| ![Biochemistry_ExpellerPress](/assets/images/buildings/Biochemistry_ExpellerPress.png){width = "200"} | |
 |-|-|
 |**尺寸:** | 宽 5 x 高 3|
 |**耗电:**| 120 W|

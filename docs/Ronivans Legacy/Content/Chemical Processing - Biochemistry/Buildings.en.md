@@ -5,7 +5,7 @@ A wide, automated biological tank design to grow organic masses of algae.
 Grows Algae using a constant supply of  Vegetable Oil that serves as serves as nourishment for the photosynthetic organisms within.
 Requires Light and a strict control of Temperature as to provide proper environment for the production.
 ### Info
-| <img width="200"src="/assets/images/buildings/Biochemistry_AlgaeGrowingBasin.png"> | |
+| ![Biochemistry_AlgaeGrowingBasin](/assets/images/buildings/Biochemistry_AlgaeGrowingBasin.png){width = "200"} | |
 |-|-|
 |**Dimensions:** | 9 wide x 3 high|
 |**Power Consumption:**| 90 W|
@@ -33,7 +33,7 @@ Anaerobic digestion is processes by which microorganisms break down biodegradabl
 Breaks down most basic Food stored within to  Natural Gas
 The amount produced depends of the ingredient choosen.
 ### Info
-| <img width="200"src="/assets/images/buildings/Biochemistry_AnaerobicDigester.png"> | |
+| ![Biochemistry_AnaerobicDigester](/assets/images/buildings/Biochemistry_AnaerobicDigester.png){width = "200"} | |
 |-|-|
 |**Dimensions:** | 5 wide x 3 high|
 |**Power Consumption:**| 90 W|
@@ -80,7 +80,7 @@ Converts Renewable Diesel into electrical Power.
 
 Produces only Polluted Water.
 ### Info
-| <img width="200"src="/assets/images/buildings/Biochemistry_BiodieselGenerator.png"> | |
+| ![Biochemistry_BiodieselGenerator](/assets/images/buildings/Biochemistry_BiodieselGenerator.png){width = "200"} | |
 |-|-|
 |**Dimensions:** | 7 wide x 4 high|
 |**Power Generation:**| 3200 W|
@@ -107,7 +107,7 @@ A refinery capable of transesterification of organic oils into a mix of mono-alk
 
 Transesterify Renewable Diesel from Vegetable Oil and Ethanol.
 ### Info
-| <img width="200"src="/assets/images/buildings/Biochemistry_BiodieselRefinery.png"> | |
+| ![Biochemistry_BiodieselRefinery](/assets/images/buildings/Biochemistry_BiodieselRefinery.png){width = "200"} | |
 |-|-|
 |**Dimensions:** | 7 wide x 5 high|
 |**Power Consumption:**| 60 W|
@@ -136,7 +136,7 @@ A device that uses organic oil and bacterial enzymes to print small sheets of li
 Synthesizes Bioplastic from Vegetable Oil and Carbon Dioxide
 The enzymes requires a microbial medium in the form of Mush Bar.
 ### Info
-| <img width="200"src="/assets/images/buildings/Biochemistry_BioplasticPrinter.png"> | |
+| ![Biochemistry_BioplasticPrinter](/assets/images/buildings/Biochemistry_BioplasticPrinter.png){width = "200"} | |
 |-|-|
 |**Dimensions:** | 4 wide x 4 high|
 |**Power Consumption:**| 240 W|
@@ -165,7 +165,7 @@ A mechanical device built to extract oil from raw materials. The raw materials a
 Extract Vegetable Oil from raw food ingredients. The amount of oil, and the solid waste in the form of Compressed Biomass depend of the ingredient choosen.
 Can be diluted with water to produce Phyto Oil
 ### Info
-| <img width="200"src="/assets/images/buildings/Biochemistry_ExpellerPress.png"> | |
+| ![Biochemistry_ExpellerPress](/assets/images/buildings/Biochemistry_ExpellerPress.png){width = "200"} | |
 |-|-|
 |**Dimensions:** | 5 wide x 3 high|
 |**Power Consumption:**| 120 W|

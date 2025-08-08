@@ -6,7 +6,7 @@
 该柜体能够阻止与外界的温度交换以及气体泄漏。
 根据其过滤条件从传送轨道上接收物品。
 ### 信息
-| <img width="200"src="/assets/images/buildings/CabinetNormal.png"> | |
+| ![CabinetNormal](/assets/images/buildings/CabinetNormal.png){width = "200"} | |
 |-|-|
 |**尺寸:** | 宽 1 x 高 2|
 |**科技:**| 固体控制|
@@ -25,7 +25,7 @@
 
 材料会自动地传送到范围内的任何物流装载器,物流存放器、存储点或建筑。
 ### 信息
-| <img width="200"src="/assets/images/buildings/LogisticTransferArm.png"> | |
+| ![LogisticTransferArm](/assets/images/buildings/LogisticTransferArm.png){width = "200"} | |
 |-|-|
 |**尺寸:** | 宽 3 x 高 1|
 |**耗电:**| 60 W|
@@ -41,7 +41,7 @@
 
 将固体材料从物流轨道上卸载到地面上。
 ### 信息
-| <img width="200"src="/assets/images/buildings/LogisticVent.png"> | |
+| ![LogisticVent](/assets/images/buildings/LogisticVent.png){width = "200"} | |
 |-|-|
 |**尺寸:** | 宽 1 x 高 1|
 |**科技:**| 智能存储|
@@ -63,7 +63,7 @@
 
 只装在所选择资源。
 ### 信息
-| <img width="200"src="/assets/images/buildings/LogisticLoader.png"> | |
+| ![LogisticLoader](/assets/images/buildings/LogisticLoader.png){width = "200"} | |
 |-|-|
 |**尺寸:** | 宽 1 x 高 2|
 |**耗电:**| 60 W|
@@ -87,7 +87,7 @@
 
 可以穿过墙和地板。
 ### 信息
-| <img width="200"src="/assets/images/buildings/LogisticRail.png"> | |
+| ![LogisticRail](/assets/images/buildings/LogisticRail.png){width = "200"} | |
 |-|-|
 |**尺寸:** | 宽 1 x 高 1|
 |**科技:**| 智能存储|
@@ -102,7 +102,7 @@
 
 将固体材料从物流轨道中卸载并存入存储箱。
 ### 信息
-| <img width="200"src="/assets/images/buildings/LogisticOutBox.png"> | |
+| ![LogisticOutBox](/assets/images/buildings/LogisticOutBox.png){width = "200"} | |
 |-|-|
 |**尺寸:** | 宽 1 x 高 2|
 |**科技:**| 智能存储|
@@ -122,7 +122,7 @@
 
 允许将固体材料从常规的运输轨道转移到物流轨道上。
 ### 信息
-| <img width="200"src="/assets/images/buildings/LogisticRailValve.png"> | |
+| ![LogisticRailValve](/assets/images/buildings/LogisticRailValve.png){width = "200"} | |
 |-|-|
 |**尺寸:** | 宽 1 x 高 2|
 |**科技:**| 固体运输|
@@ -143,7 +143,7 @@
 让一段物流轨道可以穿过另一端物流轨道，而不会连在一起。
 可穿过墙体和地面。
 ### 信息
-| <img width="200"src="/assets/images/buildings/LogisticBridge.png"> | |
+| ![LogisticBridge](/assets/images/buildings/LogisticBridge.png){width = "200"} | |
 |-|-|
 |**尺寸:** | 宽 3 x 高 1|
 |**科技:**| 智能存储|
@@ -163,7 +163,7 @@
 
 将一个固体材料从传送带上分离出来，并将其送入专用的固体轨道中。
 ### 信息
-| <img width="200"src="/assets/images/buildings/LogisticFilter.png"> | |
+| ![LogisticFilter](/assets/images/buildings/LogisticFilter.png){width = "200"} | |
 |-|-|
 |**尺寸:** | 宽 3 x 高 1|
 |**耗电:**| 60 W|
@@ -189,7 +189,7 @@
 不能存储任何可液化物。
 根据其过滤条件从传送轨道上接收物品。
 ### 信息
-| <img width="200"src="/assets/images/buildings/CabinetFrozen.png"> | |
+| ![CabinetFrozen](/assets/images/buildings/CabinetFrozen.png){width = "200"} | |
 |-|-|
 |**尺寸:** | 宽 1 x 高 2|
 |**耗电:**| 240 W|
@@ -208,7 +208,7 @@
 一个多功能、方便的储物舱，可以建在墙上。存储选择的固体材料。
 该储物舱能够阻止与外界的温度交换以及气体泄漏。
 ### 信息
-| <img width="200"src="/assets/images/buildings/StoragePod.png"> | |
+| ![StoragePod](/assets/images/buildings/StoragePod.png){width = "200"} | |
 |-|-|
 |**尺寸:** | 宽 1 x 高 1|
 |**科技:**| 蛮力精炼|

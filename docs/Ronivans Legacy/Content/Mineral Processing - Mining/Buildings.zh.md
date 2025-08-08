@@ -6,7 +6,7 @@
 钻头类型决定钻探深度，能获取常规手段无法触及的小行星深层资源。
 钻探传感器范围有限，不保证能每次都能获取高价值矿石。
 ### 信息
-| <img width="200"src="/assets/images/buildings/Mining_MineralDrill.png"> | |
+| ![Mining_MineralDrill](/assets/images/buildings/Mining_MineralDrill.png){width = "200"} | |
 |-|-|
 |**尺寸:** | 宽 4 x 高 5|
 |**耗电:**| 1200 W|
@@ -35,7 +35,7 @@
 产物：资源会在钻头返回时送达。
 产出方式：资源在钻头运行过程中生成。
 ### 信息
-| <img width="200"src="/assets/images/buildings/Mining_AugerDrill.png"> | |
+| ![Mining_AugerDrill](/assets/images/buildings/Mining_AugerDrill.png){width = "200"} | |
 |-|-|
 |**尺寸:** | 宽 13 x 高 8|
 |**科技:**| 固体管理|
@@ -75,7 +75,7 @@
 
 能够生产特殊设备和各类先进工具。需要具备机电一体化工程方面的知识技能才能操作。
 ### 信息
-| <img width="200"src="/assets/images/buildings/Mining_CNCMachine.png"> | |
+| ![Mining_CNCMachine](/assets/images/buildings/Mining_CNCMachine.png){width = "200"} | |
 |-|-|
 |**尺寸:** | 宽 7 x 高 4|
 |**耗电:**| 1000 W|

@@ -4,7 +4,7 @@
 
 压缩二氧化碳气体并冷却为液态二氧化碳。该设备还具备对液体进行完全隔热存储的功能。
 ### 信息
-| <img width="200"src="/assets/images/buildings/Chemical_CarbonDioxideCompressor.png"> | |
+| ![Chemical_CarbonDioxideCompressor](/assets/images/buildings/Chemical_CarbonDioxideCompressor.png){width = "200"} | |
 |-|-|
 |**尺寸:** | 宽 3 x 高 3|
 |**耗电:**| 480 W|
@@ -33,7 +33,7 @@
 
 这个舱室的密封储存方式能将食物保持在极低的温度，但并非处于无菌的环境之中。
 ### 信息
-| <img width="200"src="/assets/images/buildings/FridgePod.png"> | |
+| ![FridgePod](/assets/images/buildings/FridgePod.png){width = "200"} | |
 |-|-|
 |**尺寸:** | 宽 1 x 高 1|
 |**耗电:**| 120 W|
@@ -51,7 +51,7 @@
 这款冰箱采用密封式储存方式，能将食物保持在冷藏状态，但并非处于无菌的环境之中。
 根据其过滤条件从传送轨道上接收食品。
 ### 信息
-| <img width="200"src="/assets/images/buildings/HightechSmallFridge.png"> | |
+| ![HightechSmallFridge](/assets/images/buildings/HightechSmallFridge.png){width = "200"} | |
 |-|-|
 |**尺寸:** | 宽 1 x 高 2|
 |**耗电:**| 240 W|
@@ -69,7 +69,7 @@
 
 这款冰箱采用密封式储存方式，能将食物保持在冷藏状态，但并非处于无菌的环境之中。
 ### 信息
-| <img width="200"src="/assets/images/buildings/SimpleFridge.png"> | |
+| ![SimpleFridge](/assets/images/buildings/SimpleFridge.png){width = "200"} | |
 |-|-|
 |**尺寸:** | 宽 1 x 高 2|
 |**耗电:**| 240 W|
@@ -86,7 +86,7 @@
 
 这款冰箱采用密封式储存方式，能将食物保持在冷藏状态，但并非处于无菌的环境之中。
 ### 信息
-| <img width="200"src="/assets/images/buildings/AIO_FridgeLarge.png"> | |
+| ![AIO_FridgeLarge](/assets/images/buildings/AIO_FridgeLarge.png){width = "200"} | |
 |-|-|
 |**尺寸:** | 宽 2 x 高 3|
 |**耗电:**| 480 W|
@@ -105,7 +105,7 @@
 只要接上水管，它就能提供瓶装水。
 根据其过滤条件从传送轨道上接收食品。
 ### 信息
-| <img width="200"src="/assets/images/buildings/HightechBigFridge.png"> | |
+| ![HightechBigFridge](/assets/images/buildings/HightechBigFridge.png){width = "200"} | |
 |-|-|
 |**尺寸:** | 宽 2 x 高 3|
 |**耗电:**| 480 W|
@@ -128,7 +128,7 @@
 
 这个箱子的气密存储舱通过与航天器主体的连接实现了完全的真空状态，从而能够完美地保存箱内的食物。
 ### 信息
-| <img width="200"src="/assets/images/buildings/SpaceBox.png"> | |
+| ![SpaceBox](/assets/images/buildings/SpaceBox.png){width = "200"} | |
 |-|-|
 |**尺寸:** | 宽 1 x 高 1|
 |**科技:**| 农业|

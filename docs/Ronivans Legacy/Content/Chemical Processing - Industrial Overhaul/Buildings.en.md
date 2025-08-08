@@ -5,7 +5,7 @@ Adress a wide range of industrial and chemical applications.
 An advanced insulated electrical kiln in which the heat is applied by induction heating of metal.
 The advantage of the induction kiln is a clean, energy-efficient and well-controllable heating process compared to most other means of fuel heating.
 ### Info
-| <img width="200"src="/assets/images/buildings/Chemical_AdvancedKiln.png"> | |
+| ![Chemical_AdvancedKiln](/assets/images/buildings/Chemical_AdvancedKiln.png){width = "200"} | |
 |-|-|
 |**Dimensions:** | 3 wide x 3 high|
 |**Power Consumption:**| 800 W|
@@ -41,7 +41,7 @@ Significantly Heats and exclusively uses Super Coolant piped into it.
 
 Duplicants will not fabricate items unless recipes are queued.
 ### Info
-| <img width="200"src="/assets/images/buildings/Chemical_AdvancedMetalRefinery.png"> | |
+| ![Chemical_AdvancedMetalRefinery](/assets/images/buildings/Chemical_AdvancedMetalRefinery.png){width = "200"} | |
 |-|-|
 |**Dimensions:** | 3 wide x 5 high|
 |**Power Consumption:**| 3000 W|
@@ -85,7 +85,7 @@ The cracking process exudes a lot of heat.
 
 IMPORTANT: The building require all pipes ports to be connected with their respective pipes in order for it to operate.
 ### Info
-| <img width="200"src="/assets/images/buildings/Chemical_AmmoniaBreaker.png"> | |
+| ![Chemical_AmmoniaBreaker](/assets/images/buildings/Chemical_AmmoniaBreaker.png){width = "200"} | |
 |-|-|
 |**Dimensions:** | 3 wide x 3 high|
 |**Power Consumption:**| 840 W|
@@ -114,7 +114,7 @@ An industrial grade rotatory compressor unit that criticaly increase the pressur
 
 Compresses Ammonia gas and cool it down to liquid Ammonia. This device is also capable of storing liquid with complete insulation.
 ### Info
-| <img width="200"src="/assets/images/buildings/Chemical_AmmoniaCompressor.png"> | |
+| ![Chemical_AmmoniaCompressor](/assets/images/buildings/Chemical_AmmoniaCompressor.png){width = "200"} | |
 |-|-|
 |**Dimensions:** | 3 wide x 3 high|
 |**Power Consumption:**| 480 W|
@@ -143,7 +143,7 @@ A large sized industrial mill that crushes raw ores using steel balls and specia
 
 Crush down Raw Minerals in to useful materials and industrial ingredients.
 ### Info
-| <img width="200"src="/assets/images/buildings/Chemical_BallCrusherMill.png"> | |
+| ![Chemical_BallCrusherMill](/assets/images/buildings/Chemical_BallCrusherMill.png){width = "200"} | |
 |-|-|
 |**Dimensions:** | 7 wide x 3 high|
 |**Power Consumption:**| 800 W|
@@ -181,7 +181,7 @@ An industrial grade rotatory compressor unit that criticaly increase the pressur
 
 Compresses Carbon Dioxide gas and cool it down toLiquid Carbon Dioxide. This device is also capable of storing liquid with complete insulation.
 ### Info
-| <img width="200"src="/assets/images/buildings/Chemical_CarbonDioxideCompressor.png"> | |
+| ![Chemical_CarbonDioxideCompressor](/assets/images/buildings/Chemical_CarbonDioxideCompressor.png){width = "200"} | |
 |-|-|
 |**Dimensions:** | 3 wide x 3 high|
 |**Power Consumption:**| 480 W|
@@ -211,7 +211,7 @@ An industrial grade boiler that generates thermal energy by burning solid fossil
 Boils Water to Steam at 200 °C.
 This particular boiler uses Combustustable Solids as fuel.
 ### Info
-| <img width="200"src="/assets/images/buildings/Chemical_Coal_Boiler.png"> | |
+| ![Chemical_Coal_Boiler](/assets/images/buildings/Chemical_Coal_Boiler.png){width = "200"} | |
 |-|-|
 |**Dimensions:** | 3 wide x 4 high|
 |**Research Required:**| Fossil Fuels|
@@ -243,7 +243,7 @@ Sabatier Reaction:
 Bosch Reaction: 
 Carbon Dioxide, Hydrogen and Iron as catalyst. The Bosch Reaction produce Steam, Graphite and Rust as waste product.
 ### Info
-| <img width="200"src="/assets/images/buildings/Chemical_Co2Recycler.png"> | |
+| ![Chemical_Co2Recycler](/assets/images/buildings/Chemical_Co2Recycler.png){width = "200"} | |
 |-|-|
 |**Dimensions:** | 7 wide x 4 high|
 |**Power Consumption:**| 1000 W|
@@ -278,7 +278,7 @@ This chemical fabricator has several functions in petrochemical industry.
 
 An industrial aparatus capable to address several chemical reactions. Its large array of pipes allows safe handling of dangerous liquids and gases.
 ### Info
-| <img width="200"src="/assets/images/buildings/Chemical_MixingUnit.png"> | |
+| ![Chemical_MixingUnit](/assets/images/buildings/Chemical_MixingUnit.png){width = "200"} | |
 |-|-|
 |**Dimensions:** | 6 wide x 4 high|
 |**Power Consumption:**| 800 W|
@@ -314,7 +314,7 @@ A fancy pump capable to detects Carbon Dioxide and pump it.
 
 Automatically detects trace of Carbon Dioxide and extract it out of the surroudings.
 ### Info
-| <img width="200"src="/assets/images/buildings/Chemical_Co2Pump.png"> | |
+| ![Chemical_Co2Pump](/assets/images/buildings/Chemical_Co2Pump.png){width = "200"} | |
 |-|-|
 |**Dimensions:** | 1 wide x 1 high|
 |**Power Consumption:**| 10 W|
@@ -344,7 +344,7 @@ The process requires Steam for the operation.
 
 IMPORTANT: The building require all pipes ports to be connected with their respective pipes in order for it to operate.
 ### Info
-| <img width="200"src="/assets/images/buildings/Chemical_CrudeOilRefinery.png"> | |
+| ![Chemical_CrudeOilRefinery](/assets/images/buildings/Chemical_CrudeOilRefinery.png){width = "200"} | |
 |-|-|
 |**Dimensions:** | 4 wide x 5 high|
 |**Power Consumption:**| 640 W|
@@ -375,7 +375,7 @@ A small sized eletric boiler.
 
 Boils Water to Steam at 106 °C. This particular boiler uses electricity.
 ### Info
-| <img width="200"src="/assets/images/buildings/Chemical_ElectricBoiler.png"> | |
+| ![Chemical_ElectricBoiler](/assets/images/buildings/Chemical_ElectricBoiler.png){width = "200"} | |
 |-|-|
 |**Dimensions:** | 2 wide x 3 high|
 |**Power Consumption:**| 850 W|
@@ -405,7 +405,7 @@ A device that uses endothermical chemical reaction to cool itself and its surrou
 Creates an endothermical reaction from a mixture of Nitrate Nodules and Water. 
 Outputs Ammonium Water as result.
 ### Info
-| <img width="200"src="/assets/images/buildings/Chemical_EndothermicUnit.png"> | |
+| ![Chemical_EndothermicUnit](/assets/images/buildings/Chemical_EndothermicUnit.png){width = "200"} | |
 |-|-|
 |**Dimensions:** | 2 wide x 2 high|
 |**Power Consumption:**| 50 W|
@@ -432,7 +432,7 @@ A custom polymerization press capable of producing polymer from Ethanol.
 
 Special modifications allows the polymerization of Ethanol into raw Plasticwith the addition of Chlorine Gas.
 ### Info
-| <img width="200"src="/assets/images/buildings/Custom_Polymerizer.png"> | |
+| ![Custom_Polymerizer](/assets/images/buildings/Custom_Polymerizer.png){width = "200"} | |
 |-|-|
 |**Dimensions:** | 3 wide x 3 high|
 |**Power Consumption:**| 240 W|
@@ -460,7 +460,7 @@ A dedicated industrial sieve that flocculates colloidal particles out of suspens
 
 Treat Polluted Water or Toxic Slurry using special filter and chemicals. Sieve process also completely removesGerms.
 ### Info
-| <img width="200"src="/assets/images/buildings/FlocculationSieve.png"> | |
+| ![FlocculationSieve](/assets/images/buildings/FlocculationSieve.png){width = "200"} | |
 |-|-|
 |**Dimensions:** | 4 wide x 3 high|
 |**Power Consumption:**| 240 W|
@@ -495,7 +495,7 @@ An industrial grade boiler that generates thermal energy by burning Combustible 
 
 Boils Water to Steam at 200 °C. This particular boiler uses Combustible Gases as fuel, but may as well work with other combustible gases.
 ### Info
-| <img width="200"src="/assets/images/buildings/Chemical_Gas_Boiler.png"> | |
+| ![Chemical_Gas_Boiler](/assets/images/buildings/Chemical_Gas_Boiler.png){width = "200"} | |
 |-|-|
 |**Dimensions:** | 3 wide x 4 high|
 |**Research Required:**| Fossil Fuels|
@@ -524,7 +524,7 @@ A plasma arc furnace uses low-temperature plasma flow created by an electric arc
 
 This techlogical advanced glass foundry is capable more than melt Sand in to Molten Glass, but a wide range of other applications.
 ### Info
-| <img width="200"src="/assets/images/buildings/Chemical_GlassFoundry.png"> | |
+| ![Chemical_GlassFoundry](/assets/images/buildings/Chemical_GlassFoundry.png){width = "200"} | |
 |-|-|
 |**Dimensions:** | 3 wide x 3 high|
 |**Power Consumption:**| 2400 W|
@@ -558,7 +558,7 @@ A jaw crusher uses compressive force for breaking of stone and other raw mineral
 
 Crush down Raw Minerals in to useful materials and industrial ingredients.
 ### Info
-| <img width="200"src="/assets/images/buildings/Chemical_SmallCrusherMill.png"> | |
+| ![Chemical_SmallCrusherMill](/assets/images/buildings/Chemical_SmallCrusherMill.png){width = "200"} | |
 |-|-|
 |**Dimensions:** | 3 wide x 2 high|
 |**Power Consumption:**| 120 W|
@@ -625,7 +625,7 @@ Second Stage: Naphtha is furter refined:
 
 The first stage uses Steam for the distillation process, while the second Stage uses Hydrogen to buffer the reaction.
 ### Info
-| <img width="200"src="/assets/images/buildings/Chemical_CrudeOilRefineryStaged.png"> | |
+| ![Chemical_CrudeOilRefineryStaged](/assets/images/buildings/Chemical_CrudeOilRefineryStaged.png){width = "200"} | |
 |-|-|
 |**Dimensions:** | 6 wide x 5 high|
 |**Power Consumption:**| 640 W|
@@ -668,7 +668,7 @@ First Stage: Raw Natural Gas is first refined to:
 Second Stage: Propane is mixed with Hydrogen resulting in a complete conversion to Methane
 Third Stage reacts the remaining Sour Gas with Nitric Acid, producing Ammonia Gas.
 ### Info
-| <img width="200"src="/assets/images/buildings/Chemical_RawGasRefineryStaged.png"> | |
+| ![Chemical_RawGasRefineryStaged](/assets/images/buildings/Chemical_RawGasRefineryStaged.png){width = "200"} | |
 |-|-|
 |**Dimensions:** | 8 wide x 5 high|
 |**Power Consumption:**| 640 W|
@@ -716,7 +716,7 @@ This second stage refinement plant is capable of furter refining Naphtha:
 
 The process requires Hydrogen to buffer the reaction.IMPORTANT: The building require all pipes ports to be connected with their respective pipes in order for it to operate.
 ### Info
-| <img width="200"src="/assets/images/buildings/Chemical_NaphthaReformer.png"> | |
+| ![Chemical_NaphthaReformer](/assets/images/buildings/Chemical_NaphthaReformer.png){width = "200"} | |
 |-|-|
 |**Dimensions:** | 4 wide x 7 high|
 |**Power Consumption:**| 480 W|
@@ -745,7 +745,7 @@ A chemical synthesizer device capable of producing Nitric Acid.
 
 Produces industrial grade Nitric Acid using provided Sulfuric Acid and Ammonia.
 ### Info
-| <img width="200"src="/assets/images/buildings/Chemical_SynthesizerNitric.png"> | |
+| ![Chemical_SynthesizerNitric](/assets/images/buildings/Chemical_SynthesizerNitric.png){width = "200"} | |
 |-|-|
 |**Dimensions:** | 1 wide x 4 high|
 |**Power Consumption:**| 240 W|
@@ -778,7 +778,7 @@ Produces significant amounts of Heat and consumes carrier gases during manufactu
 
 Main products are dispensed in molten state directly in the floor below the building while the liquid waste is released in a separated port.
 ### Info
-| <img width="200"src="/assets/images/buildings/Metallurgy_PlasmaFurnace.png"> | |
+| ![Metallurgy_PlasmaFurnace](/assets/images/buildings/Metallurgy_PlasmaFurnace.png){width = "200"} | |
 |-|-|
 |**Dimensions:** | 5 wide x 5 high|
 |**Power Consumption:**| 5000 W|
@@ -834,7 +834,7 @@ The process require Steam for the operation.
 
 IMPORTANT: The building require all pipes ports to be connected with their respective pipes in order for it to operate.
 ### Info
-| <img width="200"src="/assets/images/buildings/Chemical_PropaneReformer.png"> | |
+| ![Chemical_PropaneReformer](/assets/images/buildings/Chemical_PropaneReformer.png){width = "200"} | |
 |-|-|
 |**Dimensions:** | 4 wide x 7 high|
 |**Power Consumption:**| 320 W|
@@ -864,7 +864,7 @@ A basic kiln that uses pyrolysis process to convert woodlogs to usable coal.
 
 Cook Wood to Coal.
 ### Info
-| <img width="200"src="/assets/images/buildings/Metallurgy_PyrolysisKiln.png"> | |
+| ![Metallurgy_PyrolysisKiln](/assets/images/buildings/Metallurgy_PyrolysisKiln.png){width = "200"} | |
 |-|-|
 |**Dimensions:** | 1 wide x 2 high|
 |**Research Required:**| Brute-Force Refinement|
@@ -891,7 +891,7 @@ The process requires Steam for the operation.
 
 IMPORTANT: The building require all pipes ports to be connected with their respective pipes in order for it to operate.
 ### Info
-| <img width="200"src="/assets/images/buildings/Chemical_RawGasRefinery.png"> | |
+| ![Chemical_RawGasRefinery](/assets/images/buildings/Chemical_RawGasRefinery.png){width = "200"} | |
 |-|-|
 |**Dimensions:** | 4 wide x 5 high|
 |**Power Consumption:**| 420 W|
@@ -921,7 +921,7 @@ A chemical loom capable of producing celulose fibers with Viscose process.
 
 Produces Rayon Fiber from Wood pulp through a complex chemical reaction. Requires Synthetic Gas and constantly outputs Steam while operational.
 ### Info
-| <img width="200"src="/assets/images/buildings/Chemical_RayonLoom.png"> | |
+| ![Chemical_RayonLoom](/assets/images/buildings/Chemical_RayonLoom.png){width = "200"} | |
 |-|-|
 |**Dimensions:** | 6 wide x 4 high|
 |**Power Consumption:**| 480 W|
@@ -956,7 +956,7 @@ A simple device capable of producing high-quality salt water.
 
 Produces Salt Water using provided Water and Salt.
 ### Info
-| <img width="200"src="/assets/images/buildings/Chemical_SynthesizerSaltWater.png"> | |
+| ![Chemical_SynthesizerSaltWater](/assets/images/buildings/Chemical_SynthesizerSaltWater.png){width = "200"} | |
 |-|-|
 |**Dimensions:** | 1 wide x 4 high|
 |**Power Consumption:**| 90 W|
@@ -983,7 +983,7 @@ A specialized furnace that heats material by means of an electric arc. Its delic
 
 Special works with Refined Metals and in the manufacture of metal alloys.
 ### Info
-| <img width="200"src="/assets/images/buildings/Chemical_SelectiveArcFurnace.png"> | |
+| ![Chemical_SelectiveArcFurnace](/assets/images/buildings/Chemical_SelectiveArcFurnace.png){width = "200"} | |
 |-|-|
 |**Dimensions:** | 4 wide x 3 high|
 |**Power Consumption:**| 1200 W|
@@ -1012,7 +1012,7 @@ A mixer designed for uniform blending of a wide variety of solid materials, whil
 
 A solid material mixer designed for agricultural purpose, mainly for the production of Dirt and Fertilizer.
 ### Info
-| <img width="200"src="/assets/images/buildings/Chemical_SoilMixer.png"> | |
+| ![Chemical_SoilMixer](/assets/images/buildings/Chemical_SoilMixer.png){width = "200"} | |
 |-|-|
 |**Dimensions:** | 4 wide x 4 high|
 |**Power Consumption:**| 480 W|
@@ -1051,7 +1051,7 @@ Separate clean Water from Sour Water using hot Steam.
 Sand is required to further filter the water from any other contaminants it may still have, which is then released as  Polluted Dirty afterwards.
 IMPORTANT: The building require all pipes ports to be connected with their respective pipes in order for it to operate.
 ### Info
-| <img width="200"src="/assets/images/buildings/Chemical_SourWaterStripper.png"> | |
+| ![Chemical_SourWaterStripper](/assets/images/buildings/Chemical_SourWaterStripper.png){width = "200"} | |
 |-|-|
 |**Dimensions:** | 6 wide x 4 high|
 |**Power Consumption:**| 360 W|
@@ -1081,7 +1081,7 @@ A chemical synthesizer device capable of producing Sulfuric Acid.
 
 Produces industrial grade Sulfuric Acid using provided Steam and Sulfur.
 ### Info
-| <img width="200"src="/assets/images/buildings/Chemical_SynthesizerSulfuric.png"> | |
+| ![Chemical_SynthesizerSulfuric](/assets/images/buildings/Chemical_SynthesizerSulfuric.png){width = "200"} | |
 |-|-|
 |**Dimensions:** | 1 wide x 4 high|
 |**Power Consumption:**| 120 W|
@@ -1109,7 +1109,7 @@ A refinery capable of catalytic partial oxidation reactions to produce Syngas.
 
 Produce Synthetic Gas from a variety of Organic and Mineral materials.
 ### Info
-| <img width="200"src="/assets/images/buildings/Chemical_SyngasRefinery.png"> | |
+| ![Chemical_SyngasRefinery](/assets/images/buildings/Chemical_SyngasRefinery.png){width = "200"} | |
 |-|-|
 |**Dimensions:** | 2 wide x 4 high|
 |**Power Consumption:**| 60 W|
@@ -1140,7 +1140,7 @@ A basic desalinator that uses Vapor-compression evaporation to archive the separ
 
 Uses Steam as buffer for the Desalination process of either Salt Water or Ammonium Water, releasing fresh Water and concentrated Brine in return.
 ### Info
-| <img width="200"src="/assets/images/buildings/Chemical_ThermalDesalinator.png"> | |
+| ![Chemical_ThermalDesalinator](/assets/images/buildings/Chemical_ThermalDesalinator.png){width = "200"} | |
 |-|-|
 |**Dimensions:** | 7 wide x 3 high|
 |**Power Consumption:**| 120 W|
@@ -1175,7 +1175,7 @@ An industrial grade boiler that generates thermal energy by burning wood.
 
 Boils Water to Steam at 200 °C. This particular boiler uses Wood as fuel.
 ### Info
-| <img width="200"src="/assets/images/buildings/Chemical_Wooden_Boiler.png"> | |
+| ![Chemical_Wooden_Boiler](/assets/images/buildings/Chemical_Wooden_Boiler.png){width = "200"} | |
 |-|-|
 |**Dimensions:** | 3 wide x 4 high|
 |**Research Required:**| Fossil Fuels|

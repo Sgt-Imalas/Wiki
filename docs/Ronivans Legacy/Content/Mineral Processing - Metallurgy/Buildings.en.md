@@ -5,7 +5,7 @@ Adress a wide range of industrial and chemical applications.
 An advanced insulated electrical kiln in which the heat is applied by induction heating of metal.
 The advantage of the induction kiln is a clean, energy-efficient and well-controllable heating process compared to most other means of fuel heating.
 ### Info
-| <img width="200"src="/assets/images/buildings/Chemical_AdvancedKiln.png"> | |
+| ![Chemical_AdvancedKiln](/assets/images/buildings/Chemical_AdvancedKiln.png){width = "200"} | |
 |-|-|
 |**Dimensions:** | 3 wide x 3 high|
 |**Power Consumption:**| 800 W|
@@ -41,7 +41,7 @@ Significantly Heats and exclusively uses Super Coolant piped into it.
 
 Duplicants will not fabricate items unless recipes are queued.
 ### Info
-| <img width="200"src="/assets/images/buildings/Chemical_AdvancedMetalRefinery.png"> | |
+| ![Chemical_AdvancedMetalRefinery](/assets/images/buildings/Chemical_AdvancedMetalRefinery.png){width = "200"} | |
 |-|-|
 |**Dimensions:** | 3 wide x 5 high|
 |**Power Consumption:**| 3000 W|
@@ -82,7 +82,7 @@ A large sized industrial mill that crushes raw ores using steel balls and specia
 
 Crush down Raw Minerals in to useful materials and industrial ingredients.
 ### Info
-| <img width="200"src="/assets/images/buildings/Metallurgy_BallCrusherMill.png"> | |
+| ![Metallurgy_BallCrusherMill](/assets/images/buildings/Metallurgy_BallCrusherMill.png){width = "200"} | |
 |-|-|
 |**Dimensions:** | 5 wide x 3 high|
 |**Power Consumption:**| 800 W|
@@ -113,7 +113,7 @@ The refinement process produces Natural Gas and Carbon Dioxide.
 
 IMPORTANT: The Gases output ports piping is optional. If no Gas Pipe is attached to them, the output gases will be released directly on the environment.
 ### Info
-| <img width="200"src="/assets/images/buildings/Metallurgy_BasicOilRefinery.png"> | |
+| ![Metallurgy_BasicOilRefinery](/assets/images/buildings/Metallurgy_BasicOilRefinery.png){width = "200"} | |
 |-|-|
 |**Dimensions:** | 3 wide x 4 high|
 |**Power Consumption:**| 90 W|
@@ -142,7 +142,7 @@ A plasma arc furnace uses low-temperature plasma flow created by an electric arc
 
 This techlogical advanced glass foundry is capable more than melt Sand in to Molten Glass, but a wide range of other applications.
 ### Info
-| <img width="200"src="/assets/images/buildings/Chemical_GlassFoundry.png"> | |
+| ![Chemical_GlassFoundry](/assets/images/buildings/Chemical_GlassFoundry.png){width = "200"} | |
 |-|-|
 |**Dimensions:** | 3 wide x 3 high|
 |**Power Consumption:**| 2400 W|
@@ -176,7 +176,7 @@ A jaw crusher uses compressive force for breaking of stone and other raw mineral
 
 Crush down Raw Minerals in to useful materials and industrial ingredients.
 ### Info
-| <img width="200"src="/assets/images/buildings/Chemical_SmallCrusherMill.png"> | |
+| ![Chemical_SmallCrusherMill](/assets/images/buildings/Chemical_SmallCrusherMill.png){width = "200"} | |
 |-|-|
 |**Dimensions:** | 3 wide x 2 high|
 |**Power Consumption:**| 120 W|
@@ -234,7 +234,7 @@ Produces significant amounts of Heat and consumes carrier gases during manufactu
 
 Main products are dispensed in molten state directly in the floor below the building while the liquid waste is released in a separated port.
 ### Info
-| <img width="200"src="/assets/images/buildings/Metallurgy_PlasmaFurnace.png"> | |
+| ![Metallurgy_PlasmaFurnace](/assets/images/buildings/Metallurgy_PlasmaFurnace.png){width = "200"} | |
 |-|-|
 |**Dimensions:** | 5 wide x 5 high|
 |**Power Consumption:**| 5000 W|
@@ -284,7 +284,7 @@ A basic kiln that uses pyrolysis process to convert woodlogs to usable coal.
 
 Cook Wood to Coal.
 ### Info
-| <img width="200"src="/assets/images/buildings/Metallurgy_PyrolysisKiln.png"> | |
+| ![Metallurgy_PyrolysisKiln](/assets/images/buildings/Metallurgy_PyrolysisKiln.png){width = "200"} | |
 |-|-|
 |**Dimensions:** | 1 wide x 2 high|
 |**Research Required:**| Brute-Force Refinement|
@@ -305,7 +305,7 @@ A mixer designed for uniform blending of a wide variety of solid materials, whil
 
 A solid material mixer designed for agricultural purpose, mainly for the production of Dirt and Fertilizer.
 ### Info
-| <img width="200"src="/assets/images/buildings/Chemical_SoilMixer.png"> | |
+| ![Chemical_SoilMixer](/assets/images/buildings/Chemical_SoilMixer.png){width = "200"} | |
 |-|-|
 |**Dimensions:** | 4 wide x 4 high|
 |**Power Consumption:**| 480 W|

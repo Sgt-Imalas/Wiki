@@ -4,7 +4,7 @@
 
 使用浓缩铀生产蒸汽来用于发电。
 ### 信息
-| <img width="200"src="/assets/images/buildings/LightReactor.png"> | |
+| ![LightReactor](/assets/images/buildings/LightReactor.png){width = "200"} | |
 |-|-|
 |**尺寸:** | 宽 2 x 高 6|
 |**科技:**| 辐射精炼|
@@ -24,7 +24,7 @@
 
 本设备使用铀矿作为辐射源。燃料衰变过程将转化为液态核废料，并通过管道输出。
 ### 信息
-| <img width="200"src="/assets/images/buildings/HepProjector.png"> | |
+| ![HepProjector](/assets/images/buildings/HepProjector.png){width = "200"} | |
 |-|-|
 |**尺寸:** | 宽 3 x 高 1|
 |**科技:**| 辐射精炼|
@@ -51,7 +51,7 @@
 
 一种先进的窑炉，能够通过交替进行氧化和还原的不同阶段，对大量核废料进行体积氧化处理。
 ### 信息
-| <img width="200"src="/assets/images/buildings/HepCalcinator.png"> | |
+| ![HepCalcinator](/assets/images/buildings/HepCalcinator.png){width = "200"} | |
 |-|-|
 |**尺寸:** | 宽 7 x 高 3|
 |**耗电:**| 3000 W|
@@ -75,7 +75,7 @@
 
 齐普佩型离心机是一种专为从工业级黄饼同位素混合物中提纯稀有裂变材料——浓缩铀设计的气体处理装置。分离过程将产生贫铀作为废弃物。
 ### 信息
-| <img width="200"src="/assets/images/buildings/HepCentrifuge.png"> | |
+| ![HepCentrifuge](/assets/images/buildings/HepCentrifuge.png){width = "200"} | |
 |-|-|
 |**尺寸:** | 宽 3 x 高 6|
 |**耗电:**| 800 W|

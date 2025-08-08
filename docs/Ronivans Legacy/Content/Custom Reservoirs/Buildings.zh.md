@@ -4,7 +4,7 @@
 
 存储任何通过管道传输到其中的气体资源。
 ### 信息
-| <img width="200"src="/assets/images/buildings/MedGasReservoir.png"> | |
+| ![MedGasReservoir](/assets/images/buildings/MedGasReservoir.png){width = "200"} | |
 |-|-|
 |**尺寸:** | 宽 3 x 高 4|
 |**科技:**| 改良通风|
@@ -26,7 +26,7 @@
 
 存储任何通过管道传输到其中的液体资源。
 ### 信息
-| <img width="200"src="/assets/images/buildings/MedLiquidReservoir.png"> | |
+| ![MedLiquidReservoir](/assets/images/buildings/MedLiquidReservoir.png){width = "200"} | |
 |-|-|
 |**尺寸:** | 宽 3 x 高 4|
 |**科技:**| 改良水管|
@@ -48,7 +48,7 @@
 
 存储任何通过管道传输到其中的气体资源。
 ### 信息
-| <img width="200"src="/assets/images/buildings/SmallGasReservoirDefault.png"> | |
+| ![SmallGasReservoirDefault](/assets/images/buildings/SmallGasReservoirDefault.png){width = "200"} | |
 |-|-|
 |**尺寸:** | 宽 1 x 高 3|
 |**科技:**| 通风|
@@ -69,7 +69,7 @@
 
 存储任何通过管道传输到其中的液体资源。
 ### 信息
-| <img width="200"src="/assets/images/buildings/SmallLiquidReservoirDefault.png"> | |
+| ![SmallLiquidReservoirDefault](/assets/images/buildings/SmallLiquidReservoirDefault.png){width = "200"} | |
 |-|-|
 |**尺寸:** | 宽 1 x 高 3|
 |**科技:**| 水管|
@@ -90,7 +90,7 @@
 
 存储任何通过管道传输到其中的气体资源。
 ### 信息
-| <img width="200"src="/assets/images/buildings/WallGasTank.png"> | |
+| ![WallGasTank](/assets/images/buildings/WallGasTank.png){width = "200"} | |
 |-|-|
 |**尺寸:** | 宽 3 x 高 1|
 |**科技:**| 改良通风|
@@ -111,7 +111,7 @@
 
 存储任何通过管道传输到其中的液体资源。
 ### 信息
-| <img width="200"src="/assets/images/buildings/WallLiquidTank.png"> | |
+| ![WallLiquidTank](/assets/images/buildings/WallLiquidTank.png){width = "200"} | |
 |-|-|
 |**尺寸:** | 宽 3 x 高 1|
 |**科技:**| 改良水管|

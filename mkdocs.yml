@@ -37,6 +37,7 @@ plugins:
           name: 中文
           build: true
 markdown_extensions:
+  - attr_list
   - admonition
   - pymdownx.details
   - pymdownx.superfences

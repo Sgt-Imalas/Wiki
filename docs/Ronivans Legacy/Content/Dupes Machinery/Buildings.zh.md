@@ -4,7 +4,7 @@
 
 藻类群落需要水才能生长，通过其生物作用会产生大量洁净氧气。多余的水分则以污染水的形式排出。
 ### 信息
-| <img width="200"src="/assets/images/buildings/AlgaeVat.png"> | |
+| ![AlgaeVat](/assets/images/buildings/AlgaeVat.png){width = "200"} | |
 |-|-|
 |**尺寸:** | 宽 3 x 高 4|
 |**耗电:**| 60 W|
@@ -39,7 +39,7 @@
 将水加热为 200℃ 的蒸汽。
 这座特定的锅炉使用可燃固体作为燃料。
 ### 信息
-| <img width="200"src="/assets/images/buildings/Chemical_Coal_Boiler.png"> | |
+| ![Chemical_Coal_Boiler](/assets/images/buildings/Chemical_Coal_Boiler.png){width = "200"} | |
 |-|-|
 |**尺寸:** | 宽 3 x 高 4|
 |**科技:**| 化石燃料|
@@ -67,7 +67,7 @@
 
 自动检测二氧化碳的痕迹，并将其从周围环境中分离出来。
 ### 信息
-| <img width="200"src="/assets/images/buildings/Chemical_Co2Pump.png"> | |
+| ![Chemical_Co2Pump](/assets/images/buildings/Chemical_Co2Pump.png){width = "200"} | |
 |-|-|
 |**尺寸:** | 宽 1 x 高 1|
 |**耗电:**| 10 W|
@@ -88,7 +88,7 @@
 
 珊瑚群落需要盐水或浓盐水其通过生物作用会产生大量的纯净水。瑚群落还会分泌出微小的漂白石颗粒，这些颗粒从水中滤出后以固体形式释放出来。
 ### 信息
-| <img width="200"src="/assets/images/buildings/CoralVat.png"> | |
+| ![CoralVat](/assets/images/buildings/CoralVat.png){width = "200"} | |
 |-|-|
 |**尺寸:** | 宽 3 x 高 4|
 |**耗电:**| 360 W|
@@ -126,7 +126,7 @@
 
 将水煮沸为 106 ℃ 的蒸汽。这座特定的锅炉使用电力作为热源。
 ### 信息
-| <img width="200"src="/assets/images/buildings/Chemical_ElectricBoiler.png"> | |
+| ![Chemical_ElectricBoiler](/assets/images/buildings/Chemical_ElectricBoiler.png){width = "200"} | |
 |-|-|
 |**尺寸:** | 宽 2 x 高 3|
 |**耗电:**| 850 W|
@@ -155,7 +155,7 @@
 
 特殊的工艺改进使得能够将乙醇与泵入的氯气混合实现其聚合反应，从而生产塑料。
 ### 信息
-| <img width="200"src="/assets/images/buildings/Custom_Polymerizer.png"> | |
+| ![Custom_Polymerizer](/assets/images/buildings/Custom_Polymerizer.png){width = "200"} | |
 |-|-|
 |**尺寸:** | 宽 3 x 高 3|
 |**耗电:**| 240 W|
@@ -183,7 +183,7 @@
 
 从蔗糖与水的发酵醪液中蒸馏提取乙醇。该发酵过程由菌泥在厌氧条件下降解有机营养物质实现。
 ### 信息
-| <img width="200"src="/assets/images/buildings/EthanolStill.png"> | |
+| ![EthanolStill](/assets/images/buildings/EthanolStill.png){width = "200"} | |
 |-|-|
 |**尺寸:** | 宽 4 x 高 5|
 |**耗电:**| 120 W|
@@ -210,7 +210,7 @@
 
 使用特殊滤芯与化学药剂处理污染水或有毒泥浆。筛分过程还可以完全去除细菌。
 ### 信息
-| <img width="200"src="/assets/images/buildings/FlocculationSieve.png"> | |
+| ![FlocculationSieve](/assets/images/buildings/FlocculationSieve.png){width = "200"} | |
 |-|-|
 |**尺寸:** | 宽 4 x 高 3|
 |**耗电:**| 240 W|
@@ -246,7 +246,7 @@
 将水加热至 200℃ 的蒸汽 。
 这座特定的锅炉使用可燃气体作为热源。
 ### 信息
-| <img width="200"src="/assets/images/buildings/Chemical_Gas_Boiler.png"> | |
+| ![Chemical_Gas_Boiler](/assets/images/buildings/Chemical_Gas_Boiler.png){width = "200"} | |
 |-|-|
 |**尺寸:** | 宽 3 x 高 4|
 |**科技:**| 化石燃料|
@@ -275,7 +275,7 @@
 
 利用提供的水and盐来生产盐水。
 ### 信息
-| <img width="200"src="/assets/images/buildings/Chemical_SynthesizerSaltWater.png"> | |
+| ![Chemical_SynthesizerSaltWater](/assets/images/buildings/Chemical_SynthesizerSaltWater.png){width = "200"} | |
 |-|-|
 |**尺寸:** | 宽 1 x 高 4|
 |**耗电:**| 90 W|
@@ -302,7 +302,7 @@
 
 需投入水与软泥糕以培养粘液，从缸底采收产出的粘液增生体。注意：产物将天然携带粘液肺病菌污染。
 ### 信息
-| <img width="200"src="/assets/images/buildings/SlimeVat.png"> | |
+| ![SlimeVat](/assets/images/buildings/SlimeVat.png){width = "200"} | |
 |-|-|
 |**尺寸:** | 宽 3 x 高 4|
 |**耗电:**| 360 W|
@@ -336,7 +336,7 @@
 将水加热为200℃的蒸汽。
 这座特定的锅炉使用木材作为燃料。
 ### 信息
-| <img width="200"src="/assets/images/buildings/Chemical_Wooden_Boiler.png"> | |
+| ![Chemical_Wooden_Boiler](/assets/images/buildings/Chemical_Wooden_Boiler.png){width = "200"} | |
 |-|-|
 |**尺寸:** | 宽 3 x 高 4|
 |**科技:**| 化石燃料|
