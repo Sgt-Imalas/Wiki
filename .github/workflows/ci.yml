@@ -13,7 +13,10 @@ jobs:
       - uses: actions/checkout@v3
       - uses: actions/setup-python@v4
         with:
-          python-version: 3.x
+          python-version: 3.x          
+      - name: Install dependencies
+        run: |
+          pip install mkdocs-static-i18n
       - uses: actions/cache@v4
         with:
           key: ${{ github.ref }}
