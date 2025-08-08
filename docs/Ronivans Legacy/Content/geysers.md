@@ -6,7 +6,7 @@ Enabling this mod in the config adds several new random geysers to the game.
 These will affect worldgen, so if you intent on playing a dedicated seed, turn off the geyser config option to not have that happen.
 Do note that these geysers will then become unavailable unless you have a way of readding them via other mods or debug templates
 
-!!! wiki inline "Ammonium Geyser"
+<!-- !!! wiki inline "Ammonium Geyser"
 
     ![Geyser Icon](../images/geysers/GeyserGeneric_AmmoniaGeyser.png)
 
@@ -25,7 +25,7 @@ Do note that these geysers will then become unavailable unless you have a way of
     Info            | Value
     --------------- | -----
     **Dimensions** | 4x2 tiles
-    **Produces** | Liquid Ammonia
+    **Produces** | Liquid Ammonia -->
 
 | <font size="+1">Ammonium Water Geyser</font> | A highly pressurized cryogeyser that periodically erupts with cold Ammonium Water</td> |
 | -------------------------------------------: | :------------------------------------------------------------------------------------- |
