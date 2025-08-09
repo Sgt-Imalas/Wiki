@@ -79,6 +79,13 @@ The sealed storage of this fridge keeps food very cold, but not in sterile atmos
 |-|-|
 |Refined Metal|800 kg|
 
+### Blueprint
+| ![FridgeSmall_Sticker](/assets/images/buildings/FridgeSmall_Sticker.png){width="200"} |
+|Stickered Home Fridge
+|
+|A variant of the Home Fridge that has been plastered with a large variety of stickers
+|
+
 
 ## Household Fridge
 A quality fridge commonly seen in the old world days. Still, this vintage building does the same job as a modern variant, which is the preservation of food.
@@ -95,6 +102,31 @@ The sealed storage of this fridge keeps food very cold, but not in sterile atmos
 |**<font size="+1">Material Costs:</font>**| |
 |-|-|
 |Refined Metal|800 kg|
+
+### Blueprint
+| ![FridgeLarge_Sticker](/assets/images/buildings/FridgeLarge_Sticker.png){width="200"} |
+|Stickered Household Fridge
+|
+|A variant of the Household Fridge that has been plastered with a large variety of stickers
+|
+
+| ![FridgeLarge_Blue](/assets/images/buildings/FridgeLarge_Blue.png){width="200"} |
+|Blue Household Fridge
+|
+|A blue variant of the Household Fridge
+|
+
+| ![FridgeLarge_Red](/assets/images/buildings/FridgeLarge_Red.png){width="200"} |
+|Red Household Fridge
+|
+|A red variant of the Household Fridge
+|
+
+| ![FridgeLarge_Yellow](/assets/images/buildings/FridgeLarge_Yellow.png){width="200"} |
+|Yellow Household Fridge
+|
+|A yellow variant of the Household Fridge
+|
 
 
 ## Large Hightech Refrigerator

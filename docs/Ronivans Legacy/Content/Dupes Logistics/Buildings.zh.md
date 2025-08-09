@@ -203,4 +203,23 @@
 |-|-|
 |金属矿石|400 kg|
 
+### 蓝图
+| ![StoragePod_A](/assets/images/buildings/StoragePod_A.png){width="200"} |
+|绿色存储舱
+|
+|一款绿色的储物舱。
+|
+
+| ![StoragePod_B](/assets/images/buildings/StoragePod_B.png){width="200"} |
+|棕色存储舱
+|
+|一款棕色的储物舱。
+|
+
+| ![StoragePod_C](/assets/images/buildings/StoragePod_C.png){width="200"} |
+|黄色储物舱
+|
+|一款黄色的储物舱。
+|
+
 

@@ -1,0 +1,9 @@
+# New Items
+
+## Rayon Fiber
+| ![RayonFiber](/assets/images/entities/RayonFiber.png){width="100"} |Rayon is a synthetic fiber, chemically made from regenerated cellulose extracted from Lumber.|
+|-|-|
+|Material|Genetic Ooze|
+|Mass|1|
+|Material Properties|Fibers, Industrial Ingredient|
+

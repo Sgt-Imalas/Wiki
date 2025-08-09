@@ -1207,7 +1207,7 @@ Extracts Crude Oil using clean Water.<br/><br/>Must be built atop an Oil Reservo
 ### Element Conversion
 |Inputs:|Outputs:|
 |-|-|
-|Water Based (1000 g/s)<br>|Crude Oil (3400 g/s at 90°C)<br>|
+|Water Based (1000 g/s)<br>|Crude Oil (3400 g/s at 90°C)<br>Raw Natural Gas (120 g/s at 120°C)<br>|
 
 
 

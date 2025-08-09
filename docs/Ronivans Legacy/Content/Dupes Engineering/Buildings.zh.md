@@ -14,6 +14,25 @@
 |-|-|
 |精炼金属|25 kg|
 
+### 蓝图
+| ![AlertLightGreen](/assets/images/buildings/AlertLightGreen.png){width="200"} |
+|绿色警报LED
+|
+|绿色警示灯。
+|
+
+| ![AlertLightYellow](/assets/images/buildings/AlertLightYellow.png){width="200"} |
+|黄色警报LED
+|
+|黄色警示灯。
+|
+
+| ![AlertLightRed](/assets/images/buildings/AlertLightRed.png){width="200"} |
+|红色警报LED
+|
+|红色警示灯。
+|
+
 
 ## 水泥搅拌机
 水泥是一种相当古老的建筑材料，但仍然非常有用。
@@ -75,6 +94,25 @@
 |**<font size="+1">建造材料:</font>**| |
 |-|-|
 |精炼金属|50 kg|
+
+### 蓝图
+| ![FacilityDoorWhite](/assets/images/buildings/FacilityDoorWhite.png){width="200"} |
+|白色设施门
+|
+|一扇白色高科技轻型门。
+|
+
+| ![FacilityDoorYellow](/assets/images/buildings/FacilityDoorYellow.png){width="200"} |
+|黄色设施门
+|
+|一扇黄色高科技轻型门。
+|
+
+| ![FacilityDoorRed](/assets/images/buildings/FacilityDoorRed.png){width="200"} |
+|红色设施门
+|
+|一扇红色高科技轻型门。
+|
 
 
 ## 复合隔热砖
@@ -233,6 +271,25 @@
 |-|-|
 |钢 或 硬化合金|10 kg|
 
+### 蓝图
+| ![SpacerDanger](/assets/images/buildings/SpacerDanger.png){width="200"} |
+|太空外缘墙
+|
+|此款太空墙配有警戒条纹标记。可翻转方向。
+|
+
+| ![SpacerDangerCorner](/assets/images/buildings/SpacerDangerCorner.png){width="200"} |
+|转角太空外援墙
+|
+|此款太空墙配有专为转角设计的警戒条纹标记。可翻转方向。
+|
+
+| ![SpacerPanel](/assets/images/buildings/SpacerPanel.png){width="200"} |
+|太空板墙
+|
+|一款小尺寸的太空干板墙。
+|
+
 
 ## 太空玻璃墙
 一款小尺寸的太空窗。
@@ -248,6 +305,13 @@
 |-|-|
 |透明体|15 kg|
 |钢 或 硬化合金|5 kg|
+
+### 蓝图
+| ![SpacerWindow_B](/assets/images/buildings/SpacerWindow_B.png){width="200"} |
+|太空玻璃墙B型
+|
+|一款小尺寸的太空窗。这款为B型号。
+|
 
 
 ## 框架砖

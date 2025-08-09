@@ -63,6 +63,19 @@ Stores any Gas resources piped into it.
 |-|-|
 |Gas Input Pipe|Gas Output Pipe|
 
+### Blueprint
+| ![SmallGasReservoir](/assets/images/buildings/SmallGasReservoir.png){width="200"} |
+|Small Gas Reservoir B
+|
+|A small sized reservoir. This variant has top to bottom flow.
+|
+
+| ![InvertedSmallGasReservoir](/assets/images/buildings/InvertedSmallGasReservoir.png){width="200"} |
+|Small Gas Reservoir A
+|
+|A small sized reservoir. This variant has bottom to top flow.
+|
+
 
 ## Small Liquid Reservoir
 A small sized reservoir. Reservoirs cannot receive manually delivered resources.
@@ -83,6 +96,19 @@ Stores any Liquid resources piped into it.
 |Inputs:|Outputs:|
 |-|-|
 |Liquid Input Pipe|Liquid Output Pipe|
+
+### Blueprint
+| ![SmallLiquidReservoir](/assets/images/buildings/SmallLiquidReservoir.png){width="200"} |
+|Small Liquid Reservoir B
+|
+|A small sized reservoir. This variant has top to bottom flow
+|
+
+| ![InvertedSmallLiquidReservoir](/assets/images/buildings/InvertedSmallLiquidReservoir.png){width="200"} |
+|Small Liquid Reservoir A
+|
+|A small sized reservoir. This variant has bottom to top flow
+|
 
 
 ## Wall Gas Reservoir

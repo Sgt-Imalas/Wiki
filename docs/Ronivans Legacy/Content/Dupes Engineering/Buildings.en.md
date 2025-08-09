@@ -14,6 +14,25 @@ A led light that servers as alert. Produces no significant luminosity.
 |-|-|
 |Refined Metal|25 kg|
 
+### Blueprint
+| ![AlertLightGreen](/assets/images/buildings/AlertLightGreen.png){width="200"} |
+|Green Alert LED
+|
+|A green colored alert light.
+|
+
+| ![AlertLightYellow](/assets/images/buildings/AlertLightYellow.png){width="200"} |
+|Yellow Alert LED
+|
+|A yellow colored alert light.
+|
+
+| ![AlertLightRed](/assets/images/buildings/AlertLightRed.png){width="200"} |
+|Red Alert LED
+|
+|A red colored alert light.
+|
+
 
 ## Cement Mixer
 Cement is a quite old building material, but still pretty much useful.
@@ -75,6 +94,25 @@ A light-weight door with intricate designs that suggests it belongs to a industr
 |**<font size="+1">Material Costs:</font>**| |
 |-|-|
 |Refined Metal|50 kg|
+
+### Blueprint
+| ![FacilityDoorWhite](/assets/images/buildings/FacilityDoorWhite.png){width="200"} |
+|White Facility Door
+|
+|A high-tech light door with white tint.
+|
+
+| ![FacilityDoorYellow](/assets/images/buildings/FacilityDoorYellow.png){width="200"} |
+|Yellow Facility Door
+|
+|A high-tech light door with yellow tint.
+|
+
+| ![FacilityDoorRed](/assets/images/buildings/FacilityDoorRed.png){width="200"} |
+|Red Facility Door
+|
+|A high-tech light door with red tint.
+|
 
 
 ## Insulation Composite Tile
@@ -233,6 +271,25 @@ A solid wall panel wrought from steel. Hermetically sealed joints prevent gas le
 |-|-|
 |Steel or Hardened Alloy|10 kg|
 
+### Blueprint
+| ![SpacerDanger](/assets/images/buildings/SpacerDanger.png){width="200"} |
+|Spacer Perimeter Wall
+|
+|This spacer wall is fitted with a perimeter stripped demarcation. Can be flipped around.
+|
+
+| ![SpacerDangerCorner](/assets/images/buildings/SpacerDangerCorner.png){width="200"} |
+|Spacer Perimeter Wall Corner
+|
+|This spacer wall is fitted with a corner perimeter stripped demarcation destined to corners. Can be flipped around.
+|
+
+| ![SpacerPanel](/assets/images/buildings/SpacerPanel.png){width="200"} |
+|Spacer Panel
+|
+|A small sized spacer panel.
+|
+
 
 ## Spacer Window
 A small sized spacer window..
@@ -248,6 +305,13 @@ A solid wall wrought from steel and fitted with thick layers of glass. Hermetica
 |-|-|
 |Transparent|15 kg|
 |Steel or Hardened Alloy|5 kg|
+
+### Blueprint
+| ![SpacerWindow_B](/assets/images/buildings/SpacerWindow_B.png){width="200"} |
+|Spacer Window Alt.
+|
+|A small sized spacer window. This is the B model.
+|
 
 
 ## Structure Tile

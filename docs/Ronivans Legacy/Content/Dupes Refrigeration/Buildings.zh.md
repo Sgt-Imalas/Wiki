@@ -79,6 +79,13 @@
 |-|-|
 |精炼金属|800 kg|
 
+### 蓝图
+| ![FridgeSmall_Sticker](/assets/images/buildings/FridgeSmall_Sticker.png){width="200"} |
+|贴花家庭冰箱
+|
+|一台贴满了各种各样的贴纸的家庭冰箱。
+|
+
 
 ## 家用冰箱
 这是一种在旧时代常见的优质冰箱。不过，这座复古建筑的功能与现代冰箱并无不同，它同样用于保存食物。
@@ -95,6 +102,31 @@
 |**<font size="+1">建造材料:</font>**| |
 |-|-|
 |精炼金属|800 kg|
+
+### 蓝图
+| ![FridgeLarge_Sticker](/assets/images/buildings/FridgeLarge_Sticker.png){width="200"} |
+|贴花家用冰箱
+|
+|一台贴满了各种各样的贴纸的家用冰箱。
+|
+
+| ![FridgeLarge_Blue](/assets/images/buildings/FridgeLarge_Blue.png){width="200"} |
+|家用冰箱(蓝色款)
+|
+|一台蓝色款式的家用冰箱。
+|
+
+| ![FridgeLarge_Red](/assets/images/buildings/FridgeLarge_Red.png){width="200"} |
+|家用冰箱(红色款)
+|
+|一台红色款式的家用冰箱。
+|
+
+| ![FridgeLarge_Yellow](/assets/images/buildings/FridgeLarge_Yellow.png){width="200"} |
+|家用冰箱(黄色款)
+|
+|一台黄色款式的家用冰箱。
+|
 
 
 ## 大型高科技冰箱

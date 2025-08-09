@@ -203,4 +203,23 @@ A versatile and convenient storage pod that can be built on walls. Store the Sol
 |-|-|
 |Metal Ore|400 kg|
 
+### Blueprint
+| ![StoragePod_A](/assets/images/buildings/StoragePod_A.png){width="200"} |
+|Green Storage Pod
+|
+|A green colored storage pod.
+|
+
+| ![StoragePod_B](/assets/images/buildings/StoragePod_B.png){width="200"} |
+|Brown Storage Pod
+|
+|A brown colored storage pod.
+|
+
+| ![StoragePod_C](/assets/images/buildings/StoragePod_C.png){width="200"} |
+|Yellow Storage Pod
+|
+|A yellow colored storage pod.
+|
+
 

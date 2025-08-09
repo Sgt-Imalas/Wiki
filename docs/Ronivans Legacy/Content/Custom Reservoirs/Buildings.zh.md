@@ -63,6 +63,19 @@
 |-|-|
 |气体 输入管道|气体 输出管道|
 
+### 蓝图
+| ![SmallGasReservoir](/assets/images/buildings/SmallGasReservoir.png){width="200"} |
+|小型储气罐B型
+|
+|一款小型储气库。该变体自上而下流动。
+|
+
+| ![InvertedSmallGasReservoir](/assets/images/buildings/InvertedSmallGasReservoir.png){width="200"} |
+|小型储气罐A型
+|
+|一个小型储气库。自下而上流动。
+|
+
 
 ## 小型储液罐
 一个小型储液库。无法接收人工输送的资源。
@@ -83,6 +96,19 @@
 |输入:|输出:|
 |-|-|
 |液体 输入管道|液体 输出管道|
+
+### 蓝图
+| ![SmallLiquidReservoir](/assets/images/buildings/SmallLiquidReservoir.png){width="200"} |
+|小型储液罐B型
+|
+|一个小型储液库。该变体自上而下流动。
+|
+
+| ![InvertedSmallLiquidReservoir](/assets/images/buildings/InvertedSmallLiquidReservoir.png){width="200"} |
+|小型储液罐A型
+|
+|一个小型储液库。自下而上流动。
+|
 
 
 ## 壁式储气罐
