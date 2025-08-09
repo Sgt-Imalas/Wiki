@@ -36,8 +36,7 @@ Algae patch needs Water to grow, producing a fair amount of clean Oxygen as resu
 ## Carbon fueled Steam Boiler
 An industrial grade boiler that generates thermal energy by burning solid fossil fuels.
 
-Boils Water to Steam at 200 °C.
-This particular boiler uses Combustustable Solids as fuel.
+Boils Water to Steam at 200 °C.<br/>This particular boiler uses Combustustable Solids as fuel.
 ### Info
 | ![Chemical_Coal_Boiler](/assets/images/buildings/Chemical_Coal_Boiler.png){width="200"} | |
 |-|-|

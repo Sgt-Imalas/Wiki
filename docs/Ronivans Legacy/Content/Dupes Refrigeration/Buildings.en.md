@@ -48,8 +48,7 @@ The sealed storage of this pod keeps food very cold, but not in sterile atmosphe
 ## Hightech Fridge
 A fancy fridge with a sci-fi design
 
-The sealed storage of this fridge keeps food very cold, but not in sterile atmospheric conditions.
-Takes food items from conveyor rails based on its filters.
+The sealed storage of this fridge keeps food very cold, but not in sterile atmospheric conditions.<br/>Takes food items from conveyor rails based on its filters.
 ### Info
 | ![HightechSmallFridge](/assets/images/buildings/HightechSmallFridge.png){width="200"} | |
 |-|-|
@@ -101,9 +100,7 @@ The sealed storage of this fridge keeps food very cold, but not in sterile atmos
 ## Large Hightech Refrigerator
 A fancy refrigerator with a sci-fi design.
 
-The sealed storage of this fridge keeps food very cold, but not in sterile atmospheric conditions
-Provides water bottles as long there a pipe linked to it.
-Takes food items from conveyor rails based on its filters.
+The sealed storage of this fridge keeps food very cold, but not in sterile atmospheric conditions<br/>Provides water bottles as long there a pipe linked to it.<br/>Takes food items from conveyor rails based on its filters.
 ### Info
 | ![HightechBigFridge](/assets/images/buildings/HightechBigFridge.png){width="200"} | |
 |-|-|

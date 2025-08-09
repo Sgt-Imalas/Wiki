@@ -2,8 +2,7 @@
 ## Algae Growing Basin
 A wide, automated biological tank design to grow organic masses of algae.
 
-Grows Algae using a constant supply of  Vegetable Oil that serves as serves as nourishment for the photosynthetic organisms within.
-Requires Light and a strict control of Temperature as to provide proper environment for the production.
+Grows Algae using a constant supply of  Vegetable Oil that serves as serves as nourishment for the photosynthetic organisms within.<br/>Requires Light and a strict control of Temperature as to provide proper environment for the production.
 ### Info
 | ![Biochemistry_AlgaeGrowingBasin](/assets/images/buildings/Biochemistry_AlgaeGrowingBasin.png){width="200"} | |
 |-|-|
@@ -30,8 +29,7 @@ Requires Light and a strict control of Temperature as to provide proper environm
 ## Anaerobic Digester
 Anaerobic digestion is processes by which microorganisms break down biodegradable organic materials in the absence of oxygen.
 
-Breaks down most basic Food stored within to  Natural Gas
-The amount produced depends of the ingredient choosen.
+Breaks down most basic Food stored within to  Natural Gas<br/>The amount produced depends of the ingredient choosen.
 ### Info
 | ![Biochemistry_AnaerobicDigester](/assets/images/buildings/Biochemistry_AnaerobicDigester.png){width="200"} | |
 |-|-|
@@ -76,9 +74,7 @@ The amount produced depends of the ingredient choosen.
 ## Biodiesel Generator
 An advanced power generator that uses biofuel. Has a built-in scrubber system that allows it to produce no gaseous exhaust.
 
-Converts Renewable Diesel into electrical Power.
-
-Produces only Polluted Water.
+Converts Renewable Diesel into electrical Power.<br/><br/>Produces only Polluted Water.
 ### Info
 | ![Biochemistry_BiodieselGenerator](/assets/images/buildings/Biochemistry_BiodieselGenerator.png){width="200"} | |
 |-|-|
@@ -133,8 +129,7 @@ Transesterify Renewable Diesel from Vegetable Oil and Ethanol.
 ## Bioplastic Printer
 A device that uses organic oil and bacterial enzymes to print small sheets of lipid derived biopolymers which are compressed in to a solid block.
 
-Synthesizes Bioplastic from Vegetable Oil and Carbon Dioxide
-The enzymes requires a microbial medium in the form of Mush Bar.
+Synthesizes Bioplastic from Vegetable Oil and Carbon Dioxide.<br/>The enzymes requires a microbial medium in the form of Mush Bar.
 ### Info
 | ![Biochemistry_BioplasticPrinter](/assets/images/buildings/Biochemistry_BioplasticPrinter.png){width="200"} | |
 |-|-|
@@ -162,8 +157,7 @@ The enzymes requires a microbial medium in the form of Mush Bar.
 ## Expeller Press
 A mechanical device built to extract oil from raw materials. The raw materials are squeezed under high pressure through a caged barrel-like cavity.
 
-Extract Vegetable Oil from raw food ingredients. The amount of oil, and the solid waste in the form of Compressed Biomass depend of the ingredient choosen.
-Can be diluted with water to produce Phyto Oil
+Extract Vegetable Oil from raw food ingredients. The amount of oil, and the solid waste in the form of Compressed Biomass depend of the ingredient choosen.<br/>Can be diluted with water to produce Phyto Oil
 ### Info
 | ![Biochemistry_ExpellerPress](/assets/images/buildings/Biochemistry_ExpellerPress.png){width="200"} | |
 |-|-|

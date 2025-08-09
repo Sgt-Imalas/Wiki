@@ -36,8 +36,7 @@
 ## 燃煤蒸汽炉
 一款工业用锅炉，通过燃烧固体燃料来产生热能。
 
-将水加热为 200℃ 的蒸汽。
-这座特定的锅炉使用可燃固体作为燃料。
+将水加热为 200℃ 的蒸汽。<br/>这座特定的锅炉使用可燃固体作为燃料。
 ### 信息
 | ![Chemical_Coal_Boiler](/assets/images/buildings/Chemical_Coal_Boiler.png){width="200"} | |
 |-|-|
@@ -243,8 +242,7 @@
 ## 燃气蒸汽炉
 一款工业用锅炉，通过燃烧可燃气体来产生热能。
 
-将水加热至 200℃ 的蒸汽 。
-这座特定的锅炉使用可燃气体作为热源。
+将水加热至 200℃ 的蒸汽 。<br/>这座特定的锅炉使用可燃气体作为热源。
 ### 信息
 | ![Chemical_Gas_Boiler](/assets/images/buildings/Chemical_Gas_Boiler.png){width="200"} | |
 |-|-|
@@ -333,8 +331,7 @@
 ## 燃木蒸汽炉
 通过燃烧木材以产生热能的工业级锅炉。
 
-将水加热为200℃的蒸汽。
-这座特定的锅炉使用木材作为燃料。
+将水加热为200℃的蒸汽。<br/>这座特定的锅炉使用木材作为燃料。
 ### 信息
 | ![Chemical_Wooden_Boiler](/assets/images/buildings/Chemical_Wooden_Boiler.png){width="200"} | |
 |-|-|

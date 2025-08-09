@@ -50,9 +50,7 @@ A device that can homogeneously combine several solid and liquid ingredients use
 ## Compacted Tile
 A fine tile made from compacted stones.
 
-A tile composed out of compacted minerals
-
-Increases Duplicant runspeed.
+A tile composed out of compacted minerals<br/><br/>Increases Duplicant runspeed.
 ### Info
 | ![MonoElementTile](/assets/images/buildings/MonoElementTile.png){width="200"} | |
 |-|-|
@@ -129,9 +127,7 @@ A solid window wrought from steel and fitted with thick layers of glass. Hermeti
 ## Marble Tile
 A fine tile made from polished quality stones.
 
-Used as floor and wall tile to build rooms.
-
-Significantly increases Duplicant runspeed.
+Used as floor and wall tile to build rooms.<br/><br/>Significantly increases Duplicant runspeed.
 ### Info
 | ![MouldingTile](/assets/images/buildings/MouldingTile.png){width="200"} | |
 |-|-|
@@ -146,9 +142,7 @@ Significantly increases Duplicant runspeed.
 ## Mosaic Tile
 A fine tile made from glazed stones.
 
-Used as floor and wall tile to build rooms.
-
-Significantly increases Duplicant runspeed.
+Used as floor and wall tile to build rooms.<br/><br/>Significantly increases Duplicant runspeed.
 ### Info
 | ![AIO_MosaicTile](/assets/images/buildings/AIO_MosaicTile.png){width="200"} | |
 |-|-|
@@ -163,8 +157,7 @@ Significantly increases Duplicant runspeed.
 ## Reinforced Concrete Tile
 Concrete tiles are not aesthetically pleasing, but they make up for strength and thermal resistance.
 
-A rock hard composite tile made with coarse aggregate bonded together with a fluid cement.
-The concrete's relatively low tensile strength and ductility are compensated for by the inclusion of a internal rebar reinforcement having higher tensile strength or ductility.
+A rock hard composite tile made with coarse aggregate bonded together with a fluid cement.<br/>The concrete's relatively low tensile strength and ductility are compensated for by the inclusion of a internal rebar reinforcement having higher tensile strength or ductility.
 ### Info
 | ![ReinforcedConcreteTile](/assets/images/buildings/ReinforcedConcreteTile.png){width="200"} | |
 |-|-|
@@ -195,8 +188,7 @@ A mechanized airlock door made with Glass panels. Blocks Liquid and Gas flow, ma
 
 
 ## Simple Glass Door
-Pips love pressing their face against the glass.
-The same can be said about Meep.
+Pips love pressing their face against the glass.<br/>The same can be said about Meep.
 
 A simple door made with Glass panels. Encloses areas without blocking Liquid or Gas flow. Sets Duplicant Access Permissions for area restriction.
 ### Info
@@ -214,9 +206,7 @@ A simple door made with Glass panels. Encloses areas without blocking Liquid or 
 ## Solid Spacer Tile
 A durable tile made for vacuum-exposed environments.
 
-This solid tile is specially engineered to withstand the harsh conditions of space.
-
-Blocks Gas and Liquid while offering minimal thermal insulation.
+This solid tile is specially engineered to withstand the harsh conditions of space.<br/><br/>Blocks Gas and Liquid while offering minimal thermal insulation.
 ### Info
 | ![SpacerTileSolid](/assets/images/buildings/SpacerTileSolid.png){width="200"} | |
 |-|-|
@@ -278,9 +268,7 @@ This steel structure is commonly used as a simple, yet strong tile for buildings
 ## Transparent Spacer Tile
 A transparent tile designed for external observation in vacuum-exposed environments.
 
-This windowed tile allows light and visibility through while maintaining a strong barrier against the vacuum of space.
-
-Blocks Gas and Liquid while offering minimal thermal insulation.
+This windowed tile allows light and visibility through while maintaining a strong barrier against the vacuum of space.<br/><br/>Blocks Gas and Liquid while offering minimal thermal insulation.
 ### Info
 | ![SpacerTileWindow](/assets/images/buildings/SpacerTileWindow.png){width="200"} | |
 |-|-|
@@ -296,8 +284,7 @@ Blocks Gas and Liquid while offering minimal thermal insulation.
 ## Wood Composite Tile
 Tiles composed of minerals and wooden adornments.
 
-Used to build the walls and floors of rooms. Increases Decor, contributing to Morale.
-Its composition gives it excellent insulation.
+Used to build the walls and floors of rooms. Increases Decor, contributing to Morale.<br/>Its composition gives it excellent insulation.
 ### Info
 | ![WoodenCompositionTile](/assets/images/buildings/WoodenCompositionTile.png){width="200"} | |
 |-|-|
@@ -313,9 +300,7 @@ Its composition gives it excellent insulation.
 ## Wooden Airflow Tile
 Building with wooden airflow tiles promotes better gas circulation within a colony.
 
-A semipermeable wooden tile, used to build walls and floors of rooms. 
-
-Blocks Liquid flow without obstructing Gas.
+A semipermeable wooden tile, used to build walls and floors of rooms. <br/><br/>Blocks Liquid flow without obstructing Gas.
 ### Info
 | ![WoodenGasTile](/assets/images/buildings/WoodenGasTile.png){width="200"} | |
 |-|-|
@@ -379,9 +364,7 @@ A pretty wooden door that encloses areas without blocking Liquid or Gas flow. Se
 ## Wooden Mesh Tile
 Building with hollow wooden tiles promotes better gas circulation within a colony.
 
-A permeable wooden tile, used to build walls and floors of rooms. 
-
-Allows the flow of both liquid and Gas.
+A permeable wooden tile, used to build walls and floors of rooms. <br/><br/>Allows the flow of both liquid and Gas.
 ### Info
 | ![WoodenMeshTile](/assets/images/buildings/WoodenMeshTile.png){width="200"} | |
 |-|-|

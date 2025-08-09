@@ -2,8 +2,7 @@
 ## 精炼碳发电机
 使用精炼碳作为燃料的特殊小型发电机。更小的尺寸和具有管道输出接口使其用途更加广泛。
 
-将精炼碳转化为电能。
-产生的废弃物要么直接排放到环境，要么被送入管道中。
+将精炼碳转化为电能。<br/>产生的废弃物要么直接排放到环境，要么被送入管道中。
 ### 信息
 | ![CustomSolidGenerator](/assets/images/buildings/CustomSolidGenerator.png){width="200"} | |
 |-|-|
@@ -30,8 +29,7 @@
 ## 小型燃油发电机
 使用可燃液体作为燃料的特殊小型发电机。更小的尺寸和具有管道输出接口使其用途更加广泛。
 
-将可燃液体转化为电能。
-产生的废弃物要么直接排放到环境，要么被送入管道中。
+将可燃液体转化为电能。<br/>产生的废弃物要么直接排放到环境，要么被送入管道中。
 ### 信息
 | ![CustomPetroleumGenerator](/assets/images/buildings/CustomPetroleumGenerator.png){width="200"} | |
 |-|-|
@@ -59,8 +57,7 @@
 ## 小型气体发电机
 使用可燃气体为燃料的特殊小型发电器。更小的尺寸和具有管道输出接口使其用途更加广泛。
 
-将可燃气体转换为电能。
-产生的废弃物要么直接排放到环境，要么被送入管道中。
+将可燃气体转换为电能。<br/>产生的废弃物要么直接排放到环境，要么被送入管道中。
 ### 信息
 | ![CustomMethaneGenerator](/assets/images/buildings/CustomMethaneGenerator.png){width="200"} | |
 |-|-|
@@ -88,9 +85,7 @@
 ## 小型太阳能板
 太阳能电池板能够将高强度的阳光转化为电能，并且不会产生任何废弃物。
 
-将阳光转换为 电力 。
-
-可以旋转。
+将阳光转换为 电力 。<br/><br/>可以旋转。
 ### 信息
 | ![CustomSolarPanel](/assets/images/buildings/CustomSolarPanel.png){width="200"} | |
 |-|-|
@@ -106,8 +101,7 @@
 ## 小型蒸汽涡轮机
 有助于将地热能转化为可用的能源。
 
-直接从机器地基的下方吸入蒸汽并产生 电力。
-输出水 。
+直接从机器地基的下方吸入蒸汽并产生 电力。<br/>输出水 。
 ### 信息
 | ![CustomSteamGenerator](/assets/images/buildings/CustomSteamGenerator.png){width="200"} | |
 |-|-|

@@ -2,11 +2,7 @@
 ## Compressor Gas Vent
 A reinforced gas vent with a built in compression pump, capable of dispensing gases even in high pressure environments.
 
-Dispenses Gases in high pressure environments.
-
-Must be connected to a High Pressure Gas Pipe.
-
-Requires power to function.
+Dispenses Gases in high pressure environments.<br/><br/>Must be connected to a High Pressure Gas Pipe.<br/><br/>Requires power to function.
 ### Info
 | ![HPAVentGas](/assets/images/buildings/HPAVentGas.png){width="200"} | |
 |-|-|
@@ -28,11 +24,7 @@ Requires power to function.
 ## Compressor Liquid Vent
 A reinforced liquid vent with a built in compression pump, capable of dispensing liquids even in high pressure environments.
 
-Dispenses Liquids in high pressure environments.
-
-Must be connected to a High Pressure Liquid Pipe.
-
-Requires power to function.
+Dispenses Liquids in high pressure environments.<br/><br/>Must be connected to a High Pressure Liquid Pipe.<br/><br/>Requires power to function.
 ### Info
 | ![HPAVentLiquid](/assets/images/buildings/HPAVentLiquid.png){width="200"} | |
 |-|-|
@@ -96,11 +88,7 @@ Allows Liquid to be transfered from High Pressure Liquid Pipe to normal Pipes.
 ## Heavy-Duty Auto-Sweeper
 An auto-sweeper's range can be viewed at any time by clicking on the building.
 
-Automates Sweeping and Supplying errands by sucking up all nearby Debris.
-
-Materials are automatically delivered to any Heavy-Duty Loader, Heavy-Duty Receptacle, storage, or buildings within range.
-
-Comes with increased range, capacity and rotation speed.
+Automates Sweeping and Supplying errands by sucking up all nearby Debris.<br/><br/>Materials are automatically delivered to any Heavy-Duty Loader, Heavy-Duty Receptacle, storage, or buildings within range.<br/><br/>Comes with increased range, capacity and rotation speed.
 ### Info
 | ![HPA_TransferArm](/assets/images/buildings/HPA_TransferArm.png){width="200"} | |
 |-|-|
@@ -117,9 +105,7 @@ Comes with increased range, capacity and rotation speed.
 ## Heavy-Duty Bridge
 Separating rail systems helps ensure materials go to the intended destinations.
 
-Allows Heavy-Duty Rail and Insulated Heavy-Duty Rail to run one section over another without joining them.
-
-Canot be run through wall and floor tile.
+Allows Heavy-Duty Rail and Insulated Heavy-Duty Rail to run one section over another without joining them.<br/><br/>Canot be run through wall and floor tile.
 ### Info
 | ![HPA_SolidRailBridge](/assets/images/buildings/HPA_SolidRailBridge.png){width="200"} | |
 |-|-|
@@ -140,9 +126,7 @@ Canot be run through wall and floor tile.
 ## Heavy-Duty Joint Plate
 Joint plates can run Heavy-Duty rails through walls without leaking gas or liquid.
 
-Allows Heavy-Duty Rail and Insulated Heavy-Duty Rail to be run through wall and floor tile.
-
-Functions as regular insulated tile.
+Allows Heavy-Duty Rail and Insulated Heavy-Duty Rail to be run through wall and floor tile.<br/><br/>Functions as regular insulated tile.
 ### Info
 | ![HPA_SolidRailBridgeTile](/assets/images/buildings/HPA_SolidRailBridgeTile.png){width="200"} | |
 |-|-|
@@ -164,9 +148,7 @@ Functions as regular insulated tile.
 ## Heavy-Duty Loader
 Material filters can be used to determine what resources are sent down the rail.
 
-Loads Solid Materials onto Heavy-Duty Rail for transport.
-
-Only loads the resources of your choosing.
+Loads Solid Materials onto Heavy-Duty Rail for transport.<br/><br/>Only loads the resources of your choosing.
 ### Info
 | ![HPA_InBox](/assets/images/buildings/HPA_InBox.png){width="200"} | |
 |-|-|
@@ -189,9 +171,7 @@ Only loads the resources of your choosing.
 ## Heavy-Duty Rail
 Rails move materials where they'll be needed most, saving Duplicants the walk.
 
-Transports large quantities of Solid Materials on a track between Heavy-Duty Loaders and Conveyor Chutes.
-
-Can not be run through wall and floor tiles.
+Transports large quantities of Solid Materials on a track between Heavy-Duty Loaders and Conveyor Chutes.<br/><br/>Can not be run through wall and floor tiles.
 ### Info
 | ![HPA_SolidRail](/assets/images/buildings/HPA_SolidRail.png){width="200"} | |
 |-|-|
@@ -230,9 +210,7 @@ Merges chunks of Solid Materials from incoming rails and ouputs them onto a Heav
 ## Heavy-Duty Rail Filter
 All solids are sent into the building's output conveyor, except those chosen for filtering.
 
-Separates all selected Solid Materials from the conveyor, sending it into a dedicated Conveyor Rail.
-
-Able to work with all rail types.
+Separates all selected Solid Materials from the conveyor, sending it into a dedicated Conveyor Rail.<br/><br/>Able to work with all rail types.
 ### Info
 | ![HPA_MultiSolidFilter](/assets/images/buildings/HPA_MultiSolidFilter.png){width="200"} | |
 |-|-|
@@ -273,12 +251,9 @@ Allows Solid Materials to be transfered from Heavy-Duty Rails to normal Conveyor
 
 
 ## High Pressure Gas Conduit
-A reinforced gas pipe capable of handling high pressure flow.
-Composite nature of the pipe prevents gas contents from significantly changing temperature in transit.
+A reinforced gas pipe capable of handling high pressure flow.<br/>Composite nature of the pipe prevents gas contents from significantly changing temperature in transit.
 
-Carries a maximum of 10kg of Gas with minimal change in Temperature.
-
-Can be run through wall and floor tile.
+Carries a maximum of 10kg of Gas with minimal change in Temperature.<br/><br/>Can be run through wall and floor tile.
 ### Info
 | ![HighPressureGasConduit](/assets/images/buildings/HighPressureGasConduit.png){width="200"} | |
 |-|-|
@@ -292,12 +267,9 @@ Can be run through wall and floor tile.
 
 
 ## High Pressure Gas Conduit Bridge
-A reinforced gas pipe bridge capable of handling high pressure flow.
-Composite nature of the pipe prevents gas contents from significantly changing temperature in transit.
+A reinforced gas pipe bridge capable of handling high pressure flow.<br/>Composite nature of the pipe prevents gas contents from significantly changing temperature in transit.
 
-Runs one High Pressure Gas Pipe section over another without joining them.
-
-Can be run through wall and floor tile.
+Runs one High Pressure Gas Pipe section over another without joining them.<br/><br/>Can be run through wall and floor tile.
 ### Info
 | ![HighPressureGasConduitBridge](/assets/images/buildings/HighPressureGasConduitBridge.png){width="200"} | |
 |-|-|
@@ -318,9 +290,7 @@ Can be run through wall and floor tile.
 ## High Pressure Gas Filter
 All gases are sent into the building's output pipe, except those chosen for filtering.
 
-Filters all selected Gases from the air, sending it into a dedicated Filtered Output Pipe.
-
-Able to work with all gas pipe types.
+Filters all selected Gases from the air, sending it into a dedicated Filtered Output Pipe.<br/><br/>Able to work with all gas pipe types.
 ### Info
 | ![HPA_MultiGasFilter](/assets/images/buildings/HPA_MultiGasFilter.png){width="200"} | |
 |-|-|
@@ -342,9 +312,7 @@ Able to work with all gas pipe types.
 ## High Pressure Gas Pump
 An advanced pump that perform mechanical work to compress and move gases. More powerful than the standard pump, this one is capable of moving large amounts of gases, although this is only archived through the High Pressure Gas Pipe.
 
-Draws in Gas and runs it through High Pressure Gas Pipe.
-
-Must be submerged in Gas.
+Draws in Gas and runs it through High Pressure Gas Pipe.<br/><br/>Must be submerged in Gas.
 ### Info
 | ![PressureGasPump](/assets/images/buildings/PressureGasPump.png){width="200"} | |
 |-|-|
@@ -366,9 +334,7 @@ Must be submerged in Gas.
 ## High Pressure Liquid Conduit Bridge
 A reinforced liquid pipe bridge capable of handling high pressure flow. Composite nature of the pipe prevents liquid contents from significantly changing temperature in transit.
 
-Runs one High Pressure Liquid Pipe section over another without joining them.
-
-Can be run through wall and floor tile.
+Runs one High Pressure Liquid Pipe section over another without joining them.<br/><br/>Can be run through wall and floor tile.
 ### Info
 | ![HighPressureLiquidConduitBridge](/assets/images/buildings/HighPressureLiquidConduitBridge.png){width="200"} | |
 |-|-|
@@ -389,9 +355,7 @@ Can be run through wall and floor tile.
 ## High Pressure Liquid Filter
 All liquids are sent into the building's output pipe, except those chosen for filtering.
 
-Filters all selected Liquids out of a mix, sending it into a dedicated Filtered Output Pipe.
-
-Able to work with all liquid pipe types.
+Filters all selected Liquids out of a mix, sending it into a dedicated Filtered Output Pipe.<br/><br/>Able to work with all liquid pipe types.
 ### Info
 | ![HPA_MultiLiquidFilter](/assets/images/buildings/HPA_MultiLiquidFilter.png){width="200"} | |
 |-|-|
@@ -413,9 +377,7 @@ Able to work with all liquid pipe types.
 ## High Pressure Liquid Pipe
 A reinforced liquid pipe capable of handling high pressure flow. Composite nature of the pipe prevents liquid contents from significantly changing temperature in transit.
 
-Carries a maximum of 40kg of Liquid with minimal change in Temperature.
-
-Can be run through wall and floor tile.
+Carries a maximum of 40kg of Liquid with minimal change in Temperature.<br/><br/>Can be run through wall and floor tile.
 ### Info
 | ![HighPressureLiquidConduit](/assets/images/buildings/HighPressureLiquidConduit.png){width="200"} | |
 |-|-|
@@ -431,9 +393,7 @@ Can be run through wall and floor tile.
 ## High Pressure Liquid Pump
 An advanced pump that perform mechanical work to compress and move fluids. More powerful than the standard pump, this one is capable of moving large amounts of liquids, although this is only archived through the High Pressure Liquid Pipe.
 
-Draws in Liquid and runs it through High Pressure Liquid Pipe.
-
-Must be submerged in Liquid.
+Draws in Liquid and runs it through High Pressure Liquid Pipe.<br/><br/>Must be submerged in Liquid.
 ### Info
 | ![PressureLiquidPump](/assets/images/buildings/PressureLiquidPump.png){width="200"} | |
 |-|-|
@@ -455,11 +415,7 @@ Must be submerged in Liquid.
 ## Insulated Heavy-Duty Rail
 Rails move materials where they'll be needed most, saving Duplicants the walk.
 
-Transports large quantities of Solid Materials.
-
-Can not be run through wall and floor tiles.
-
-Being held in a vaccuum, transported items are fully insulated.
+Transports large quantities of Solid Materials.<br/><br/>Can not be run through wall and floor tiles.<br/><br/>Being held in a vaccuum, transported items are fully insulated.
 ### Info
 | ![HPA_SolidRail_Insulated](/assets/images/buildings/HPA_SolidRail_Insulated.png){width="200"} | |
 |-|-|

@@ -1,22 +1,13 @@
-# About this mod [NEEDS LOCALIZATION]
+# 关于本模组
 
-## Whats this project?
+## 项目背景
 
-As you might have heard, Ronivan has passed away.
-His mods offer a massive expansion to regular progression and could be considered a dlc in scope.
-they should not be lost to an update breaking them in the future (which is something that will happen eventually=.
+正如您所知， Ronivan 已不幸离世。他的模组极大地拓展了游戏基础进程，其内容规模堪比 DLC。这些作品不应因失去更新而损坏（更新导致兼容性问题终会发生）。为此，我启动了这个项目。
 
-for this reason, I have decided to make this project.
+## 项目目标
 
-## Project Goals
+本项目旨在整合 Ronivan 所有模组，形成一个可配置的"模组包"。玩家可自由禁用不想体验的模块，甚至能选择性禁用单个建筑。
 
-The target of this project is the creation of one, huge mod that incorporates all of ronivans mods into one, configurable "modpack".
-Individual components can be toggled off by the player if they do not want them in their game.
-You will also be able to not only turn off sections, but individual buildings too.
+## 为何整合为单一模组？
 
-## Why one mod?
-
-Several mods have overlaps in content.
-For example; Mineral Processing - Metallurgy shares nearly all its buildings with Chemical Processing - Industrial Overhaul, leaving the mods incompatible.
-Additionally, having these amounts of "duplication" over several mods massively increases the maintainance effort, as a bugfix has to be transferred over to each of these versions.
-Consolidating it down to "each building exists only once" minimizes these issues
+多个模组存在内容重叠（例如：矿物加工-冶金系统 与 化工处理-工业革命 共享 90%的建筑），导致模组互斥。此外，多模组分立将大幅增加维护成本——每次修复都需同步至所有版本。整合为单一模组实现"建筑不重复"，可彻底解决这些问题。

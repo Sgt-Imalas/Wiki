@@ -2,8 +2,7 @@
 ## Advanced Kiln
 Adress a wide range of industrial and chemical applications.
 
-An advanced insulated electrical kiln in which the heat is applied by induction heating of metal.
-The advantage of the induction kiln is a clean, energy-efficient and well-controllable heating process compared to most other means of fuel heating.
+An advanced insulated electrical kiln in which the heat is applied by induction heating of metal.<br/>The advantage of the induction kiln is a clean, energy-efficient and well-controllable heating process compared to most other means of fuel heating.
 ### Info
 | ![Chemical_AdvancedKiln](/assets/images/buildings/Chemical_AdvancedKiln.png){width="200"} | |
 |-|-|
@@ -35,11 +34,7 @@ The advantage of the induction kiln is a clean, energy-efficient and well-contro
 ## Advanced Metal Refinery
 An improved refinery capable of bulk smelting process, as well exclusive metal production.
 
-An advanced method for production of Refined Metals from raw Metal Ore.
-
-Significantly Heats and exclusively uses Super Coolant piped into it.
-
-Duplicants will not fabricate items unless recipes are queued.
+An advanced method for production of Refined Metals from raw Metal Ore.<br/><br/>Significantly Heats and exclusively uses Super Coolant piped into it.<br/><br/>Duplicants will not fabricate items unless recipes are queued.
 ### Info
 | ![Chemical_AdvancedMetalRefinery](/assets/images/buildings/Chemical_AdvancedMetalRefinery.png){width="200"} | |
 |-|-|
@@ -80,10 +75,7 @@ Duplicants will not fabricate items unless recipes are queued.
 ## Ammonia Breaker
 An advanced catalytic cracking furnace which the ammonia synthesis reaction is reversed at elevated temperatures.
 
-Break down Ammonia into Hydrogen and Nitrogen using Iron as catalyst. 
-The cracking process exudes a lot of heat.
-
-IMPORTANT: The building require all pipes ports to be connected with their respective pipes in order for it to operate.
+Break down Ammonia into Hydrogen and Nitrogen using Iron as catalyst. <br/>The cracking process exudes a lot of heat.<br/><br/>IMPORTANT: The building require all pipes ports to be connected with their respective pipes in order for it to operate.
 ### Info
 | ![Chemical_AmmoniaBreaker](/assets/images/buildings/Chemical_AmmoniaBreaker.png){width="200"} | |
 |-|-|
@@ -208,8 +200,7 @@ Compresses Carbon Dioxide gas and cool it down toLiquid Carbon Dioxide. This dev
 ## Carbon fueled Steam Boiler
 An industrial grade boiler that generates thermal energy by burning solid fossil fuels.
 
-Boils Water to Steam at 200 °C.
-This particular boiler uses Combustustable Solids as fuel.
+Boils Water to Steam at 200 °C.<br/>This particular boiler uses Combustustable Solids as fuel.
 ### Info
 | ![Chemical_Coal_Boiler](/assets/images/buildings/Chemical_Coal_Boiler.png){width="200"} | |
 |-|-|
@@ -237,11 +228,7 @@ This particular boiler uses Combustustable Solids as fuel.
 ## Carbon Recycling Unit
 An autonomous chemical device capable of executing both Bosch and Sabatier Reactions based on the input conditions.
 
-Sabatier Reaction: 
- Liquid Carbon Dioxide, Hydrogen and Iron as catalyst. The Sabatier Reaction produce Water, Natural Gas and Rust as waste product.
-
-Bosch Reaction: 
-Carbon Dioxide, Hydrogen and Iron as catalyst. The Bosch Reaction produce Steam, Graphite and Rust as waste product.
+Sabatier Reaction: <br/> Liquid Carbon Dioxide, Hydrogen and Iron as catalyst. The Sabatier Reaction produce Water, Natural Gas and Rust as waste product.<br/><br/>Bosch Reaction: <br/>Carbon Dioxide, Hydrogen and Iron as catalyst. The Bosch Reaction produce Steam, Graphite and Rust as waste product.
 ### Info
 | ![Chemical_Co2Recycler](/assets/images/buildings/Chemical_Co2Recycler.png){width="200"} | |
 |-|-|
@@ -333,16 +320,7 @@ Automatically detects trace of Carbon Dioxide and extract it out of the surroudi
 ## Crude Oil Refinery
 An industrial process plant responsible for refining raw oil extracted from wells.
 
-This refinement plant is capable of the following production from Crude Oil: 
-- 50% Petroleum
-- 25% Naphtha
-- 10% Natural Gas
-- 10% Sour Water waste.
-- 5% Bitumen waste.
-
-The process requires Steam for the operation.
-
-IMPORTANT: The building require all pipes ports to be connected with their respective pipes in order for it to operate.
+This refinement plant is capable of the following production from Crude Oil: <br/>- 50% Petroleum<br/>- 25% Naphtha<br/>- 10% Natural Gas<br/>- 10% Sour Water waste.<br/>- 5% Bitumen waste.<br/><br/>The process requires Steam for the operation.<br/><br/>IMPORTANT: The building require all pipes ports to be connected with their respective pipes in order for it to operate.
 ### Info
 | ![Chemical_CrudeOilRefinery](/assets/images/buildings/Chemical_CrudeOilRefinery.png){width="200"} | |
 |-|-|
@@ -402,8 +380,7 @@ Boils Water to Steam at 106 °C. This particular boiler uses electricity.
 ## Endothermic Unit
 A device that uses endothermical chemical reaction to cool itself and its surroundings.
 
-Creates an endothermical reaction from a mixture of Nitrate Nodules and Water. 
-Outputs Ammonium Water as result.
+Creates an endothermical reaction from a mixture of Nitrate Nodules and Water. <br/>Outputs Ammonium Water as result.
 ### Info
 | ![Chemical_EndothermicUnit](/assets/images/buildings/Chemical_EndothermicUnit.png){width="200"} | |
 |-|-|
@@ -610,20 +587,7 @@ Crush down Raw Minerals in to useful materials and industrial ingredients.
 ## Multi-Stage Crude Oil Refinery
 An industrial process plant responsible for refining raw oil extracted from wells.
 
-The refinery has two stages: 
-
-First Stage: Crude Oil is first refined to:
-- 50% Petroleum
-- 25% Naphtha
-- 10% Natural Gas
-- 15% Bitumen.
-
-Second Stage: Naphtha is furter refined:
-- 45% Petroleum
-- 10% Natural Gas
-- 45% Bitumen.
-
-The first stage uses Steam for the distillation process, while the second Stage uses Hydrogen to buffer the reaction.
+The refinery has two stages: <br/><br/>First Stage: Crude Oil is first refined to:<br/>- 50% Petroleum<br/>- 25% Naphtha<br/>- 10% Natural Gas<br/>- 15% Bitumen.<br/><br/>Second Stage: Naphtha is furter refined:<br/>- 45% Petroleum<br/>- 10% Natural Gas<br/>- 45% Bitumen.<br/><br/>The first stage uses Steam for the distillation process, while the second Stage uses Hydrogen to buffer the reaction.
 ### Info
 | ![Chemical_CrudeOilRefineryStaged](/assets/images/buildings/Chemical_CrudeOilRefineryStaged.png){width="200"} | |
 |-|-|
@@ -659,14 +623,7 @@ The first stage uses Steam for the distillation process, while the second Stage 
 ## Multi-Stage Raw Gas Refinery
 An industrial process plant responsible for refining the impure raw natural gas extracted from wells.
 
-The refinery has three stages:
-
-First Stage: Raw Natural Gas is first refined to: 
-- 50% Natural Gas
-- 40% Propane
-- 10% Sour Gas
-Second Stage: Propane is mixed with Hydrogen resulting in a complete conversion to Methane
-Third Stage reacts the remaining Sour Gas with Nitric Acid, producing Ammonia Gas.
+The refinery has three stages:<br/><br/>First Stage: Raw Natural Gas is first refined to: <br/>- 50% Natural Gas<br/>- 40% Propane<br/>- 10% Sour Gas<br/>Second Stage: Propane is mixed with Hydrogen resulting in a complete conversion to Methane<br/>Third Stage reacts the remaining Sour Gas with Nitric Acid, producing Ammonia Gas.
 ### Info
 | ![Chemical_RawGasRefineryStaged](/assets/images/buildings/Chemical_RawGasRefineryStaged.png){width="200"} | |
 |-|-|
@@ -709,12 +666,7 @@ Third Stage reacts the remaining Sour Gas with Nitric Acid, producing Ammonia Ga
 ## Naphtha Reformer
 An industrial petrochemical plant responsible for rearranging hydrocarbon molecules of Naphtha in to Petroleum.
 
-This second stage refinement plant is capable of furter refining Naphtha:
- - 45% Petroleum
-- 10% Natural Gas
-- 45% Bitumen.
-
-The process requires Hydrogen to buffer the reaction.IMPORTANT: The building require all pipes ports to be connected with their respective pipes in order for it to operate.
+This second stage refinement plant is capable of furter refining Naphtha:<br/> - 45% Petroleum<br/>- 10% Natural Gas<br/>- 45% Bitumen.<br/><br/>The process requires Hydrogen to buffer the reaction.IMPORTANT: The building require all pipes ports to be connected with their respective pipes in order for it to operate.
 ### Info
 | ![Chemical_NaphthaReformer](/assets/images/buildings/Chemical_NaphthaReformer.png){width="200"} | |
 |-|-|
@@ -772,11 +724,7 @@ Produces industrial grade Nitric Acid using provided Sulfuric Acid and Ammonia.
 ## Plasma Furnace
 An advanced pyrometallurgical furnace that uses an extremely hot thermal plasma generated by a carrier gas jet. The high energy consumption is compensated by the quality and the yield of the refining process.
 
-An advanced method for the refinement of Metal Ores and other Raw Minerals.
-
-Produces significant amounts of Heat and consumes carrier gases during manufacturing.
-
-Main products are dispensed in molten state directly in the floor below the building while the liquid waste is released in a separated port.
+An advanced method for the refinement of Metal Ores and other Raw Minerals.<br/><br/>Produces significant amounts of Heat and consumes carrier gases during manufacturing.<br/><br/>Main products are dispensed in molten state directly in the floor below the building while the liquid waste is released in a separated port.
 ### Info
 | ![Metallurgy_PlasmaFurnace](/assets/images/buildings/Metallurgy_PlasmaFurnace.png){width="200"} | |
 |-|-|
@@ -826,13 +774,7 @@ Main products are dispensed in molten state directly in the floor below the buil
 ## Propane Reformer
 An industrial petrochemical plant responsible for oxidative steam reforming process of Propane to Hydrogen.
 
-Reforming process of Propane in to:
- - 60% Hydrogen
-- 30% Polluted Water waste
-- 10% Carbon Dioxide waste
-The process require Steam for the operation.
-
-IMPORTANT: The building require all pipes ports to be connected with their respective pipes in order for it to operate.
+Reforming process of Propane in to:<br/> - 60% Hydrogen<br/>- 30% Polluted Water waste<br/>- 10% Carbon Dioxide waste<br/>The process require Steam for the operation.<br/><br/>IMPORTANT: The building require all pipes ports to be connected with their respective pipes in order for it to operate.
 ### Info
 | ![Chemical_PropaneReformer](/assets/images/buildings/Chemical_PropaneReformer.png){width="200"} | |
 |-|-|
@@ -883,13 +825,7 @@ Cook Wood to Coal.
 ## Raw Gas Refinery
 An industrial process plant responsible for refining the impure raw natural gas extracted from wells.
 
-This refinement plant is capable of the following production: 
- - 50% Natural Gas
-- 35% Propane
-- 15% Sour Water waste
-The process requires Steam for the operation.
-
-IMPORTANT: The building require all pipes ports to be connected with their respective pipes in order for it to operate.
+This refinement plant is capable of the following production: <br/> - 50% Natural Gas<br/>- 35% Propane<br/>- 15% Sour Water waste<br/>The process requires Steam for the operation.<br/><br/>IMPORTANT: The building require all pipes ports to be connected with their respective pipes in order for it to operate.
 ### Info
 | ![Chemical_RawGasRefinery](/assets/images/buildings/Chemical_RawGasRefinery.png){width="200"} | |
 |-|-|
@@ -1046,10 +982,7 @@ A solid material mixer designed for agricultural purpose, mainly for the product
 ## Sour Water Stripper
 A heavy industrial device that uses a combination of pH control and heat, direct injection of steam to drives off the ammonia and hydrogen sulfide from the water. Also fitted with a filter mechanism to ensure the quality of the stripped water.
 
-Separate clean Water from Sour Water using hot Steam.
- The stripping process also produces Sour Gas from the separation.
-Sand is required to further filter the water from any other contaminants it may still have, which is then released as  Polluted Dirty afterwards.
-IMPORTANT: The building require all pipes ports to be connected with their respective pipes in order for it to operate.
+Separate clean Water from Sour Water using hot Steam.<br/> The stripping process also produces Sour Gas from the separation.<br/>Sand is required to further filter the water from any other contaminants it may still have, which is then released as  Polluted Dirty afterwards.<br/>IMPORTANT: The building require all pipes ports to be connected with their respective pipes in order for it to operate.
 ### Info
 | ![Chemical_SourWaterStripper](/assets/images/buildings/Chemical_SourWaterStripper.png){width="200"} | |
 |-|-|
@@ -1201,11 +1134,7 @@ Boils Water to Steam at 200 °C. This particular boiler uses Wood as fuel.
 ## Metal Refinery (Modified)
 Refined metals are necessary to build advanced electronics and technologies.
 
-Produces Refined Metals from raw Metal Ore.
-
-Significantly Heats and outputs the Liquid piped into it.
-
-Duplicants will not fabricate items unless recipes are queued.
+Produces Refined Metals from raw Metal Ore.<br/><br/>Significantly Heats and outputs the Liquid piped into it.<br/><br/>Duplicants will not fabricate items unless recipes are queued.
 ### Info
 | ![MetalRefinery](/assets/images/buildings/MetalRefinery.png){width="200"} | |
 |-|-|
@@ -1258,9 +1187,7 @@ Duplicants will not fabricate items unless recipes are queued.
 ## Oil Well (Modified)
 Water pumped into an oil reservoir cannot be recovered.
 
-Extracts Crude Oil using clean Water.
-
-Must be built atop an Oil Reservoir.
+Extracts Crude Oil using clean Water.<br/><br/>Must be built atop an Oil Reservoir.
 ### Info
 | ![OilWellCap](/assets/images/buildings/OilWellCap.png){width="200"} | |
 |-|-|

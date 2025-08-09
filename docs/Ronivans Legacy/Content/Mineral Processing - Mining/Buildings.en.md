@@ -2,9 +2,7 @@
 ## Asteroid Auger Drill
 Drills into Deep Mineral Deposits to extract solid resources.
 
-A strong drilling apparatus engineered with self guidance sensors for mineral ores, and retrieval of resources while operational.
-The type of the drill head determines the dept of the drilling, retriving resources from other parts of the Asteroid that are inaccessible by normal means.
-The drill sensors have a limited range, and retrieval of useful ores are not guaranteed.
+A strong drilling apparatus engineered with self guidance sensors for mineral ores, and retrieval of resources while operational.<br/>The type of the drill head determines the dept of the drilling, retriving resources from other parts of the Asteroid that are inaccessible by normal means.<br/>The drill sensors have a limited range, and retrieval of useful ores are not guaranteed.
 ### Info
 | ![Mining_MineralDrill](/assets/images/buildings/Mining_MineralDrill.png){width="200"} | |
 |-|-|
@@ -28,13 +26,7 @@ The drill sensors have a limited range, and retrieval of useful ores are not gua
 ## Asteroid Drill Rig Mk-II
 A giant machinery engineered in the old world for asteroid mining. Has a self propelled drilling head fitted with a sensorial system and actuators that helps it to travel through the asteroid crust in search for resources of interest.
 
-This rig uses specialized Drillbits to mine useful resources from the asteroid crust.
-Retrived resources are released upon the Drill Head return.
-
-Require a constant supply of Combustable Fuel to function.
-
-Results: resources that are delivered upon Drillhead return.
-Occurrence: resources that are generated during Drillhead operation.
+This rig uses specialized Drillbits to mine useful resources from the asteroid crust.<br/>Retrived resources are released upon the Drill Head return.<br/><br/>Require a constant supply of Combustable Fuel to function.<br/><br/>Results: resources that are delivered upon Drillhead return.<br/>Occurrence: resources that are generated during Drillhead operation.
 ### Info
 | ![Mining_AugerDrill](/assets/images/buildings/Mining_AugerDrill.png){width="200"} | |
 |-|-|

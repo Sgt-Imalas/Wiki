@@ -2,8 +2,7 @@
 ## Custom Carbon Generator
 A small, custom Refined Carbon generator. This rather versatile generator has piped outputs.
 
-Converts Refined Carbon into Power.
-The waste products are either released into the world or inserted into pipes.
+Converts Refined Carbon into Power.<br/>The waste products are either released into the world or inserted into pipes.
 ### Info
 | ![CustomSolidGenerator](/assets/images/buildings/CustomSolidGenerator.png){width="200"} | |
 |-|-|
@@ -30,8 +29,7 @@ The waste products are either released into the world or inserted into pipes.
 ## Custom Combustion Generator
 A small, custom Combustible Liquid generator. This rather versatile generator has piped outputs.
 
-Converts Combustable Fuel into Power.
-The waste products are either released into the world or inserted into pipes.
+Converts Combustable Fuel into Power.<br/>The waste products are either released into the world or inserted into pipes.
 ### Info
 | ![CustomPetroleumGenerator](/assets/images/buildings/CustomPetroleumGenerator.png){width="200"} | |
 |-|-|
@@ -59,8 +57,7 @@ The waste products are either released into the world or inserted into pipes.
 ## Custom Gas Generator
 A small, custom Combustible Gas generator. This rather versatile generator has piped outputs.
 
-Converts Combustible Gas into Power.
-The waste products are either released into the world or inserted into pipes.
+Converts Combustible Gas into Power.<br/>The waste products are either released into the world or inserted into pipes.
 ### Info
 | ![CustomMethaneGenerator](/assets/images/buildings/CustomMethaneGenerator.png){width="200"} | |
 |-|-|
@@ -88,9 +85,7 @@ The waste products are either released into the world or inserted into pipes.
 ## Custom Solar Panel
 Solar panels convert high intensity sunlight into power and produce zero waste.
 
-Converts Sunlight into electrical Power.
-
-Can be rotated.
+Converts Sunlight into electrical Power.<br/><br/>Can be rotated.
 ### Info
 | ![CustomSolarPanel](/assets/images/buildings/CustomSolarPanel.png){width="200"} | |
 |-|-|
@@ -106,9 +101,7 @@ Can be rotated.
 ## Custom Steam Turbine
 Useful for converting the geothermal energy into usable power.
 
-Draws in Steam from the tiles directly below the machine's foundation and uses it to generate electrical Power.
-
-Outputs Water.
+Draws in Steam from the tiles directly below the machine's foundation and uses it to generate electrical Power.<br/><br/>Outputs Water.
 ### Info
 | ![CustomSteamGenerator](/assets/images/buildings/CustomSteamGenerator.png){width="200"} | |
 |-|-|
