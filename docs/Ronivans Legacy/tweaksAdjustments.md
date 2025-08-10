@@ -158,3 +158,5 @@ LIST WIP.
 ## Nuclear Processing
 
 - fixed building hitbox of light reactor
+- made rad projector 3 high to have the emitter in the center of the animation again
+- restored radiation emission values from mod page
