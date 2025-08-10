@@ -17,7 +17,7 @@
 |装饰|装饰度：+10（范围：2格）|
 
 
-## 高温气态汞喷孔
+## 高温汞蒸汽喷孔
 | ![GeyserGeneric_HotMercuryGasVent](/assets/images/geysers/GeyserGeneric_HotMercuryGasVent.png){width="100"} |周期性喷发气态汞高温高压喷孔。|
 |-|-|
 |尺寸: | 宽 4 x 高 2|
@@ -42,7 +42,7 @@
 
 
 ## 高温原料气喷孔
-| ![GeyserGeneric_RawGasVent](/assets/images/geysers/GeyserGeneric_RawGasVent.png){width="100"} |周期性喷发原料气.的高压地热喷口。|
+| ![GeyserGeneric_RawGasVent](/assets/images/geysers/GeyserGeneric_RawGasVent.png){width="100"} |周期性喷发原料气的高压地热喷口。|
 |-|-|
 |尺寸: | 宽 4 x 高 2|
 |排放 | 原料(天然)气 于 500°C|
@@ -50,7 +50,7 @@
 
 
 ## 酸水间歇泉
-| ![GeyserGeneric_SourWaterGeyser](/assets/images/geysers/GeyserGeneric_SourWaterGeyser.png){width="100"} |周期性喷发酸水低温高压喷泉。|
+| ![GeyserGeneric_SourWaterGeyser](/assets/images/geysers/GeyserGeneric_SourWaterGeyser.png){width="100"} |周期性喷发酸水的低温高压喷泉。|
 |-|-|
 |尺寸: | 宽 4 x 高 2|
 |排放 | 原料(天然)气 于 5°C|

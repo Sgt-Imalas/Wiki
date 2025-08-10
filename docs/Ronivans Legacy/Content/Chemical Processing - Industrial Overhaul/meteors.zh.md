@@ -17,8 +17,8 @@ TBA, localize several new meteors.
 |材料属性|一般建造材料, 固体, 抗菌物, 矿石, 金属矿石|
 
 
-## 锌矿陨石
-| ![ZincComet](/assets/images/entities/ZincComet.png){width="100"} |锌矿陨石|
+## 绿铜锌矿
+| ![ZincComet](/assets/images/entities/ZincComet.png){width="100"} |绿铜锌矿|
 |-|-|
 |材料|锌矿|
 |质量|1|

@@ -48,7 +48,9 @@ LIST WIP.
 
 - Anaerobic digester recipes are now generated dynamically based on the underlying formula instead of being hardcoded. This will automatically include new food types now.
 - New PPP food recipes have been added to the Expeller Press
-- Expeller press seed recipes are now dynamic and grouped into one entry
+- expeller press seed recipes are now dynamic and grouped into one entry
+- expeller press seed recipes now use 10 seeds at once
+- reduced expeller press working time
 - The Algae Growing Basins light requirement has been restored. It can now have its production speed boosted by high light intensity
 
 ## Chemical Processing - Industrial Overhaul
@@ -63,6 +65,7 @@ LIST WIP.
 - Isopropane (a supercoolant level gas) has been restored
 - Rayon Fabric now works generally as a substitute to Reed fiber
 - Zinc and silver ore now can be acquired in certain meteor showers from new meteor types
+- heavy meteors (source of meteor ore) have been added to additional appropriate spaced out meteor shower types
 - Metal diet of hatches now includes silver and zinc ore
 
 ### Buildings

@@ -178,6 +178,18 @@ Extract Vegetable Oil from raw food ingredients. The amount of oil, and the soli
 |Ingredients:| Time: | Products:|
 |-|-|-|
 |Meal Lice (1000 g)<br>|25s|Vegetable Oil (1500 g)<br>Compressed Biomass (15 kg)<br>|
+|Sleet Wheat Grain (x1)<br>|25s|Vegetable Oil (1310 g)<br>Compressed Biomass (1250 g)<br>|
+|Nosh Bean (x1)<br>|25s|Vegetable Oil (2800 g)<br>Compressed Biomass (1750 g)<br>|
+|Pincha Peppernut (1000 g)<br>|25s|Vegetable Oil (4720 g)<br>Compressed Biomass (4500 g)<br>|
+|Balm Lily Flower (1000 g)<br>|25s|Vegetable Oil (350 g)<br>Compressed Biomass (650 g)<br>|
+|Grubfruit (1000 g)<br>|25s|Vegetable Oil (1060 g)<br>Compressed Biomass (3400 g)<br>|
+|Pikeapple (1000 g)<br>|25s|Vegetable Oil (1020 g)<br>Compressed Biomass (6 kg)<br>|
+|Plume Squash (1000 g)<br>|25s|Vegetable Oil (900 g)<br>Compressed Biomass (27 kg)<br>|
+|Gas Grass (1000 g)<br>|25s|Vegetable Oil (6.1 kg)<br>Compressed Biomass (20.4 kg)<br>|
+|Plant Meat (1000 g)<br>|25s|Vegetable Oil (900 g)<br>Compressed Biomass (12 kg)<br>|
+|Spindly Grubfruit (1000 g)<br>|25s|Vegetable Oil (7.2 kg)<br>Compressed Biomass (6 kg)<br>|
+|Sweatcorn (1000 g)<br>|25s|Vegetable Oil (10.5 kg)<br>Compressed Biomass (7.5 kg)<br>|
+|Seakomb Leaf (10 kg)<br>|25s|Vegetable Oil (10 kg)<br>Compressed Biomass (3650 g)<br>|
 |Saturn Critter Trap Seed (x10)<br>|10s|Vegetable Oil (9.5 kg)<br>Compressed Biomass (500 g)<br>|
 |Wort Seed (x10)<br>|10s|Vegetable Oil (9.5 kg)<br>Compressed Biomass (500 g)<br>|
 |Plume Squash Seed (x10)<br>|10s|Vegetable Oil (9.5 kg)<br>Compressed Biomass (500 g)<br>|
@@ -203,18 +215,6 @@ Extract Vegetable Oil from raw food ingredients. The amount of oil, and the soli
 |Pincha Pepper Seed (x10)<br>|10s|Vegetable Oil (9.5 kg)<br>Compressed Biomass (500 g)<br>|
 |Fungal Spore (x10)<br>|10s|Vegetable Oil (9.5 kg)<br>Compressed Biomass (500 g)<br>|
 |Seakomb Seed (x10)<br>|10s|Vegetable Oil (9.5 kg)<br>Compressed Biomass (500 g)<br>|
-|Sleet Wheat Grain (x1)<br>|25s|Vegetable Oil (1310 g)<br>Compressed Biomass (1250 g)<br>|
-|Nosh Bean (x1)<br>|25s|Vegetable Oil (2800 g)<br>Compressed Biomass (1750 g)<br>|
-|Pincha Peppernut (1000 g)<br>|25s|Vegetable Oil (4720 g)<br>Compressed Biomass (4500 g)<br>|
-|Balm Lily Flower (1000 g)<br>|25s|Vegetable Oil (350 g)<br>Compressed Biomass (650 g)<br>|
-|Grubfruit (1000 g)<br>|25s|Vegetable Oil (1060 g)<br>Compressed Biomass (3400 g)<br>|
-|Pikeapple (1000 g)<br>|25s|Vegetable Oil (1020 g)<br>Compressed Biomass (6 kg)<br>|
-|Plume Squash (1000 g)<br>|25s|Vegetable Oil (900 g)<br>Compressed Biomass (27 kg)<br>|
-|Gas Grass (1000 g)<br>|25s|Vegetable Oil (6.1 kg)<br>Compressed Biomass (20.4 kg)<br>|
-|Plant Meat (1000 g)<br>|25s|Vegetable Oil (900 g)<br>Compressed Biomass (12 kg)<br>|
-|Spindly Grubfruit (1000 g)<br>|25s|Vegetable Oil (7.2 kg)<br>Compressed Biomass (6 kg)<br>|
-|Sweatcorn (1000 g)<br>|25s|Vegetable Oil (10.5 kg)<br>Compressed Biomass (7.5 kg)<br>|
-|Seakomb Leaf (10 kg)<br>|25s|Vegetable Oil (10 kg)<br>Compressed Biomass (3650 g)<br>|
 
 
 
