@@ -162,6 +162,21 @@ A solid window wrought from steel and fitted with thick layers of glass. Hermeti
 |Steel or Hardened Alloy|15 kg|
 
 
+## Large Structure Frame
+A large sized structural frame.
+
+Provides background support for buildings, or least gives the nice appearance of doing so. Doesn't prevent gases or liquid from leaking in to the void.
+### Info
+| ![StructureFrameLarge](/assets/images/buildings/StructureFrameLarge.png){width="200"} | |
+|-|-|
+|**Dimensions:** | 2 wide x 2 high|
+|**Research Required:**| Smelting|
+
+|**<font size="+1">Material Costs:</font>**| |
+|-|-|
+|Refined Metal|40 kg|
+
+
 ## Marble Tile
 A fine tile made from polished quality stones.
 
@@ -239,6 +254,21 @@ A simple door made with Glass panels. Encloses areas without blocking Liquid or 
 |-|-|
 |Refined Metal|100 kg|
 |Transparent|25 kg|
+
+
+## Small Structure Frame
+A small sized structural frame.
+
+Provides background support for buildings, or least gives the nice appearance of doing so. Doesn't prevent gases or liquid from leaking in to the void.
+### Info
+| ![StructureFrameSmall](/assets/images/buildings/StructureFrameSmall.png){width="200"} | |
+|-|-|
+|**Dimensions:** | 1 wide x 1 high|
+|**Research Required:**| Smelting|
+
+|**<font size="+1">Material Costs:</font>**| |
+|-|-|
+|Refined Metal|15 kg|
 
 
 ## Solid Spacer Tile

@@ -91,7 +91,7 @@ Converts Renewable Diesel into electrical Power.<br/><br/>Produces only Polluted
 |-|-|
 |Renewable Diesel Input Pipe|Liquid Output Pipe|
 
-### Element Conversion
+### Fuel Conversion
 |Inputs:|Outputs:|
 |-|-|
 |Renewable Diesel (380 g/s)<br>| Polluted Water (144.3 g/s at 40°C)<br>|

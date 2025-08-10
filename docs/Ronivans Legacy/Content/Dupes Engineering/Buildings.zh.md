@@ -162,6 +162,21 @@
 |钢 或 硬化合金|15 kg|
 
 
+## MISSING.STRINGS.BUILDINGS.PREFABS.STRUCTUREFRAMELARGE.NAME
+MISSING.STRINGS.BUILDINGS.PREFABS.STRUCTUREFRAMELARGE.DESC
+
+MISSING.STRINGS.BUILDINGS.PREFABS.STRUCTUREFRAMELARGE.EFFECT
+### 信息
+| ![StructureFrameLarge](/assets/images/buildings/StructureFrameLarge.png){width="200"} | |
+|-|-|
+|**尺寸:** | 宽 2 x 高 2|
+|**科技:**| 熔炼|
+
+|**<font size="+1">建造材料:</font>**| |
+|-|-|
+|精炼金属|40 kg|
+
+
 ## 镶边砖
 镶边是用于墙体和建筑的纯装饰性衬垫。
 
@@ -239,6 +254,21 @@
 |-|-|
 |精炼金属|100 kg|
 |透明体|25 kg|
+
+
+## MISSING.STRINGS.BUILDINGS.PREFABS.STRUCTUREFRAMESMALL.NAME
+MISSING.STRINGS.BUILDINGS.PREFABS.STRUCTUREFRAMESMALL.DESC
+
+MISSING.STRINGS.BUILDINGS.PREFABS.STRUCTUREFRAMESMALL.EFFECT
+### 信息
+| ![StructureFrameSmall](/assets/images/buildings/StructureFrameSmall.png){width="200"} | |
+|-|-|
+|**尺寸:** | 宽 1 x 高 1|
+|**科技:**| 熔炼|
+
+|**<font size="+1">建造材料:</font>**| |
+|-|-|
+|精炼金属|15 kg|
 
 
 ## 太空砖

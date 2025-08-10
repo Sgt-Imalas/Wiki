@@ -19,7 +19,7 @@ Converts Refined Carbon into Power.<br/>The waste products are either released i
 |-|-|
 |-|Carbon Dioxide Output Pipe|
 
-### Element Conversion
+### Fuel Conversion
 |Inputs:|Outputs:|
 |-|-|
 |Refined Carbon (750 g/s)<br>| Carbon Dioxide (10 g/s at 110°C)<br>|
@@ -47,7 +47,7 @@ Converts Combustable Fuel into Power.<br/>The waste products are either released
 |Combustible Liquid Input Pipe|Carbon Dioxide Output Pipe|
 |-|Polluted Water Output Pipe|
 
-### Element Conversion
+### Fuel Conversion
 |Inputs:|Outputs:|
 |-|-|
 |Combustible Liquid (666.7 g/s)<br>| Carbon Dioxide (166.7 g/s at 110°C)<br>Polluted Water (250 g/s at 40°C)<br>|
@@ -75,7 +75,7 @@ Converts Combustible Gas into Power.<br/>The waste products are either released 
 |Combustible Gas Input Pipe|Carbon Dioxide Output Pipe|
 |-|Polluted Water Output Pipe|
 
-### Element Conversion
+### Fuel Conversion
 |Inputs:|Outputs:|
 |-|-|
 |Combustible Gas (30 g/s)<br>| Carbon Dioxide (7.5 g/s at 110°C)<br>Polluted Water (22.5 g/s at 40°C)<br>|
