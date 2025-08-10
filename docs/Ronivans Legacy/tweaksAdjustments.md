@@ -1,4 +1,4 @@
-# Adjustments and Tweaks
+# Tweaks and Additions
 
 This page lists the tweaks, adjustments and additions that have been made to the mods
 items found in the sources of Ronivans mods that were hidden, broke or were temporarily removed
