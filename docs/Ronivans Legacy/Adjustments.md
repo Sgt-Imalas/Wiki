@@ -7,8 +7,9 @@ LIST WIP.
 
 ## General
 
-### UI
+### UX / UI
 
+- All mod content is now translatable. A template can be found in the mod folder
 - The codex now contains pages for several added material tags
 - connection lines on the research screen no longer overlap
 - research screen items with too many entries now get collapsed when not hovered to preserve space
@@ -32,6 +33,8 @@ LIST WIP.
 - added sounds to most modded buildings
 - all fridge type buildings now list their energy saver wattage in the build menu
 - all pipe and conveyor rail buildings now list their transfer capacity in the build menu
+- fixed foreground layering of a few animation
+- building ports that take in a specific element will have that specified in their "input missing"-tooltip
 
 ## Chemical Processing - Biochemistry
 
@@ -45,6 +48,7 @@ LIST WIP.
 
 - Anaerobic digester recipes are now generated dynamically based on the underlying formula instead of being hardcoded. This will automatically include new food types now.
 - New PPP food recipes have been added to the Expeller Press
+- Expeller press seed recipes are now dynamic and grouped into one entry
 - The Algae Growing Basins light requirement has been restored. It can now have its production speed boosted by high light intensity
 
 ## Chemical Processing - Industrial Overhaul
@@ -59,6 +63,7 @@ LIST WIP.
 - Isopropane (a supercoolant level gas) has been restored
 - Rayon Fabric now works generally as a substitute to Reed fiber
 - Zinc and silver ore now can be acquired in certain meteor showers from new meteor types
+- Metal diet of hatches now includes silver and zinc ore
 
 ### Buildings
 
@@ -70,6 +75,7 @@ LIST WIP.
 - fixed building hitbox of naphta reformer and raw gas reformer
 - boiler buildings have been tweaked to better serve as an alternative power source: combined with steam turbines, they allow extracting at least 50% more power from their respective burn material
 - coal boiler can now burn peat as an alternative to coal
+- The old Raw Gas Refinery and Crude Oil Refinery buildings have been restored as "Multi-Staged-[...]" buildings (they have each been split into two newer buildings)
 
 ## Custom Generators
 
@@ -115,6 +121,7 @@ LIST WIP.
 - added valve building to transfer items from a regular to a logistic rail without dropping items.
 - the logistic sweeper now rotates slightly slower than the regular sweeper
 - Storage Cabinets now have a rail input
+- logistic rails are now slightly tinted in green in the conveyor overlay
 
 ## Mineral Processing - Metallurgy
 
@@ -146,6 +153,7 @@ LIST WIP.
 - Optimized high pressure pipe logic in a few spots
 - high pressure pumps now have their center input tile at the position the animation shows it
 - Decompression valves now always output the regular capacity amount
+- increased internal storage of high pressure pumps to ensure continuous operation
 
 ## Nuclear Processing
 
