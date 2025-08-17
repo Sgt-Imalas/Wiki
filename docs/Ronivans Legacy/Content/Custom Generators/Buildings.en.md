@@ -22,7 +22,7 @@ Converts Refined Carbon into Power.<br/>The waste products are either released i
 ### Fuel Conversion
 |Inputs:|Outputs:|
 |-|-|
-|Refined Carbon (750 g/s)<br>| Carbon Dioxide (10 g/s at 110°C)<br>|
+| ![RefinedCarbon](/assets/images/elements/RefinedCarbon.png){.inline-icon} Refined Carbon (750 g/s)<br>|  ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} Carbon Dioxide (10 g/s at 110°C)<br>|
 
 
 
@@ -50,7 +50,7 @@ Converts Combustable Fuel into Power.<br/>The waste products are either released
 ### Fuel Conversion
 |Inputs:|Outputs:|
 |-|-|
-|Combustible Liquid (666.7 g/s)<br>| Carbon Dioxide (166.7 g/s at 110°C)<br>Polluted Water (250 g/s at 40°C)<br>|
+| ![CombustibleLiquid](/assets/images/entities/CombustibleLiquid.png){.inline-icon} Combustible Liquid (666.7 g/s)<br>|  ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} Carbon Dioxide (166.7 g/s at 110°C)<br> ![DirtyWater](/assets/images/elements/DirtyWater.png){.inline-icon} Polluted Water (250 g/s at 40°C)<br>|
 
 
 
@@ -78,7 +78,7 @@ Converts Combustible Gas into Power.<br/>The waste products are either released 
 ### Fuel Conversion
 |Inputs:|Outputs:|
 |-|-|
-|Combustible Gas (30 g/s)<br>| Carbon Dioxide (7.5 g/s at 110°C)<br>Polluted Water (22.5 g/s at 40°C)<br>|
+| ![CombustibleGas](/assets/images/entities/CombustibleGas.png){.inline-icon} Combustible Gas (30 g/s)<br>|  ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} Carbon Dioxide (7.5 g/s at 110°C)<br> ![DirtyWater](/assets/images/elements/DirtyWater.png){.inline-icon} Polluted Water (22.5 g/s at 40°C)<br>|
 
 
 

@@ -22,7 +22,7 @@ Grows Algae using a constant supply of  Vegetable Oil that serves as serves as n
 ### Element Conversion
 |Inputs:|Outputs:|
 |-|-|
-|Vegetable Oil (100 g/s)<br>Dirt (400 g/s)<br>|Algae (500 g/s at 23°C)<br>|
+| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} Vegetable Oil (100 g/s)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} Dirt (400 g/s)<br>| ![Algae](/assets/images/elements/Algae.png){.inline-icon} Algae (500 g/s at 23°C)<br>|
 
 
 
@@ -49,25 +49,25 @@ Breaks down most basic Food stored within to  Natural Gas<br/>The amount produce
 ### Recipes
 |Ingredients:| Time: | Products:|
 |-|-|-|
-|Grubfruit (10 kg)<br>Sand (50 kg)<br>Water (1000 g)<br>|50s|Natural Gas (805.2 g)<br>Dirt (50 kg)<br>|
-|Spindly Grubfruit (10 kg)<br>Sand (50 kg)<br>Water (1000 g)<br>|50s|Natural Gas (2576.6 g)<br>Dirt (50 kg)<br>|
-|Ovagro Fig (10 kg)<br>Sand (50 kg)<br>Water (1000 g)<br>|50s|Natural Gas (1046.8 g)<br>Dirt (50 kg)<br>|
-|Bog Jelly (5 kg)<br>Sand (50 kg)<br>Water (1000 g)<br>|50s|Natural Gas (2963.1 g)<br>Dirt (50 kg)<br>|
-|Muckroot (10 kg)<br>Sand (50 kg)<br>Water (1000 g)<br>|50s|Natural Gas (2576.6 g)<br>Dirt (50 kg)<br>|
-|Snac Fruit (10 kg)<br>Sand (50 kg)<br>Water (1000 g)<br>|50s|Natural Gas (2576.6 g)<br>Dirt (50 kg)<br>|
-|Sweatcorn (10 kg)<br>Sand (50 kg)<br>Water (1000 g)<br>|50s|Natural Gas (2576.6 g)<br>Dirt (50 kg)<br>|
-|Hexalent Fruit (2000 g)<br>Sand (50 kg)<br>Water (1000 g)<br>|50s|Natural Gas (4122.6 g)<br>Dirt (50 kg)<br>|
-|Pikeapple (10 kg)<br>Sand (50 kg)<br>Water (1000 g)<br>|50s|Natural Gas (2576.6 g)<br>Dirt (50 kg)<br>|
-|Sherberry (10 kg)<br>Sand (50 kg)<br>Water (1000 g)<br>|50s|Natural Gas (2576.6 g)<br>Dirt (50 kg)<br>|
-|Lettuce (10 kg)<br>Sand (50 kg)<br>Water (1000 g)<br>|50s|Natural Gas (1288.3 g)<br>Dirt (50 kg)<br>|
-|Bristle Berry (6 kg)<br>Sand (50 kg)<br>Water (1000 g)<br>|50s|Natural Gas (3092 g)<br>Dirt (50 kg)<br>|
-|Plant Meat (8 kg)<br>Sand (50 kg)<br>Water (1000 g)<br>|50s|Natural Gas (3092 g)<br>Dirt (50 kg)<br>|
-|Mushroom (4000 g)<br>Sand (50 kg)<br>Water (1000 g)<br>|50s|Natural Gas (3092 g)<br>Dirt (50 kg)<br>|
-|Swamp Chard Heart (4000 g)<br>Sand (50 kg)<br>Water (1000 g)<br>|50s|Natural Gas (3092 g)<br>Dirt (50 kg)<br>|
-|Meal Lice (10 kg)<br>Sand (50 kg)<br>Water (1000 g)<br>|50s|Natural Gas (1932.5 g)<br>Dirt (50 kg)<br>|
-|Plume Squash (3000 g)<br>Sand (50 kg)<br>Water (1000 g)<br>|50s|Natural Gas (3865 g)<br>Dirt (50 kg)<br>|
-|Compressed Biomass (20 kg)<br>Sand (30 kg)<br>Water (1000 g)<br>|50s|Natural Gas (1000 g)<br>Dirt (50 kg)<br>|
-|Algae (20 kg)<br>Sand (30 kg)<br>Water (1000 g)<br>|50s|Natural Gas (1000 g)<br>Dirt (50 kg)<br>|
+| ![WormSuperFruit](/assets/images/entities/WormSuperFruit.png){.inline-icon} Grubfruit (10 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (50 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} Water (1000 g)<br>|50s| ![Methane](/assets/images/elements/Methane.png){.inline-icon} Natural Gas (805.2 g)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} Dirt (50 kg)<br>|
+| ![WormBasicFruit](/assets/images/entities/WormBasicFruit.png){.inline-icon} Spindly Grubfruit (10 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (50 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} Water (1000 g)<br>|50s| ![Methane](/assets/images/elements/Methane.png){.inline-icon} Natural Gas (2576.6 g)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} Dirt (50 kg)<br>|
+| ![VineFruit](/assets/images/entities/VineFruit.png){.inline-icon} Ovagro Fig (10 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (50 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} Water (1000 g)<br>|50s| ![Methane](/assets/images/elements/Methane.png){.inline-icon} Natural Gas (1046.8 g)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} Dirt (50 kg)<br>|
+| ![SwampFruit](/assets/images/entities/SwampFruit.png){.inline-icon} Bog Jelly (5 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (50 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} Water (1000 g)<br>|50s| ![Methane](/assets/images/elements/Methane.png){.inline-icon} Natural Gas (2963.1 g)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} Dirt (50 kg)<br>|
+| ![BasicForagePlant](/assets/images/entities/BasicForagePlant.png){.inline-icon} Muckroot (10 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (50 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} Water (1000 g)<br>|50s| ![Methane](/assets/images/elements/Methane.png){.inline-icon} Natural Gas (2576.6 g)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} Dirt (50 kg)<br>|
+| ![GardenForagePlant](/assets/images/entities/GardenForagePlant.png){.inline-icon} Snac Fruit (10 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (50 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} Water (1000 g)<br>|50s| ![Methane](/assets/images/elements/Methane.png){.inline-icon} Natural Gas (2576.6 g)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} Dirt (50 kg)<br>|
+| ![GardenFoodPlantFood](/assets/images/entities/GardenFoodPlantFood.png){.inline-icon} Sweatcorn (10 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (50 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} Water (1000 g)<br>|50s| ![Methane](/assets/images/elements/Methane.png){.inline-icon} Natural Gas (2576.6 g)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} Dirt (50 kg)<br>|
+| ![ForestForagePlant](/assets/images/entities/ForestForagePlant.png){.inline-icon} Hexalent Fruit (2000 g)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (50 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} Water (1000 g)<br>|50s| ![Methane](/assets/images/elements/Methane.png){.inline-icon} Natural Gas (4122.6 g)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} Dirt (50 kg)<br>|
+| ![HardSkinBerry](/assets/images/entities/HardSkinBerry.png){.inline-icon} Pikeapple (10 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (50 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} Water (1000 g)<br>|50s| ![Methane](/assets/images/elements/Methane.png){.inline-icon} Natural Gas (2576.6 g)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} Dirt (50 kg)<br>|
+| ![IceCavesForagePlant](/assets/images/entities/IceCavesForagePlant.png){.inline-icon} Sherberry (10 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (50 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} Water (1000 g)<br>|50s| ![Methane](/assets/images/elements/Methane.png){.inline-icon} Natural Gas (2576.6 g)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} Dirt (50 kg)<br>|
+| ![Lettuce](/assets/images/entities/Lettuce.png){.inline-icon} Lettuce (10 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (50 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} Water (1000 g)<br>|50s| ![Methane](/assets/images/elements/Methane.png){.inline-icon} Natural Gas (1288.3 g)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} Dirt (50 kg)<br>|
+| ![PrickleFruit](/assets/images/entities/PrickleFruit.png){.inline-icon} Bristle Berry (6 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (50 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} Water (1000 g)<br>|50s| ![Methane](/assets/images/elements/Methane.png){.inline-icon} Natural Gas (3092 g)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} Dirt (50 kg)<br>|
+| ![PlantMeat](/assets/images/entities/PlantMeat.png){.inline-icon} Plant Meat (8 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (50 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} Water (1000 g)<br>|50s| ![Methane](/assets/images/elements/Methane.png){.inline-icon} Natural Gas (3092 g)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} Dirt (50 kg)<br>|
+| ![Mushroom](/assets/images/entities/Mushroom.png){.inline-icon} Mushroom (4000 g)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (50 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} Water (1000 g)<br>|50s| ![Methane](/assets/images/elements/Methane.png){.inline-icon} Natural Gas (3092 g)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} Dirt (50 kg)<br>|
+| ![SwampForagePlant](/assets/images/entities/SwampForagePlant.png){.inline-icon} Swamp Chard Heart (4000 g)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (50 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} Water (1000 g)<br>|50s| ![Methane](/assets/images/elements/Methane.png){.inline-icon} Natural Gas (3092 g)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} Dirt (50 kg)<br>|
+| ![BasicPlantFood](/assets/images/entities/BasicPlantFood.png){.inline-icon} Meal Lice (10 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (50 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} Water (1000 g)<br>|50s| ![Methane](/assets/images/elements/Methane.png){.inline-icon} Natural Gas (1932.5 g)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} Dirt (50 kg)<br>|
+| ![Carrot](/assets/images/entities/Carrot.png){.inline-icon} Plume Squash (3000 g)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (50 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} Water (1000 g)<br>|50s| ![Methane](/assets/images/elements/Methane.png){.inline-icon} Natural Gas (3865 g)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} Dirt (50 kg)<br>|
+| ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} Compressed Biomass (20 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (30 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} Water (1000 g)<br>|50s| ![Methane](/assets/images/elements/Methane.png){.inline-icon} Natural Gas (1000 g)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} Dirt (50 kg)<br>|
+| ![Algae](/assets/images/elements/Algae.png){.inline-icon} Algae (20 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (30 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} Water (1000 g)<br>|50s| ![Methane](/assets/images/elements/Methane.png){.inline-icon} Natural Gas (1000 g)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} Dirt (50 kg)<br>|
 
 
 
@@ -94,7 +94,7 @@ Converts Renewable Diesel into electrical Power.<br/><br/>Produces only Polluted
 ### Fuel Conversion
 |Inputs:|Outputs:|
 |-|-|
-|Renewable Diesel (380 g/s)<br>| Polluted Water (144.3 g/s at 40°C)<br>|
+| ![LiquidBiodiesel](/assets/images/elements/LiquidBiodiesel.png){.inline-icon} Renewable Diesel (380 g/s)<br>|  ![DirtyWater](/assets/images/elements/DirtyWater.png){.inline-icon} Polluted Water (144.3 g/s at 40°C)<br>|
 
 
 
@@ -122,7 +122,7 @@ Transesterify Renewable Diesel from Vegetable Oil and Ethanol.
 ### Element Conversion
 |Inputs:|Outputs:|
 |-|-|
-|Vegetable Oil (437.5 g/s)<br>Ethanol (187.5 g/s)<br>|Renewable Diesel (587.5 g/s at 52°C)<br>Polluted Water (37.5 g/s at 42°C)<br>|
+| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} Vegetable Oil (437.5 g/s)<br> ![Ethanol](/assets/images/elements/Ethanol.png){.inline-icon} Ethanol (187.5 g/s)<br>| ![LiquidBiodiesel](/assets/images/elements/LiquidBiodiesel.png){.inline-icon} Renewable Diesel (587.5 g/s at 52°C)<br> ![DirtyWater](/assets/images/elements/DirtyWater.png){.inline-icon} Polluted Water (37.5 g/s at 42°C)<br>|
 
 
 
@@ -150,7 +150,7 @@ Synthesizes Bioplastic from Vegetable Oil and Carbon Dioxide.<br/>The enzymes re
 ### Element Conversion
 |Inputs:|Outputs:|
 |-|-|
-|Vegetable Oil (400 g/s)<br>Carbon Dioxide (100 g/s)<br>Mush Bar (2000 mg/s)<br>|Bioplastic (500 g/s at 23°C)<br>|
+| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} Vegetable Oil (400 g/s)<br> ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} Carbon Dioxide (100 g/s)<br> ![MushBar](/assets/images/entities/MushBar.png){.inline-icon} Mush Bar (2000 mg/s)<br>| ![Bioplastic](/assets/images/elements/Bioplastic.png){.inline-icon} Bioplastic (500 g/s at 23°C)<br>|
 
 
 
@@ -177,44 +177,44 @@ Extract Vegetable Oil from raw food ingredients. The amount of oil, and the soli
 ### Recipes
 |Ingredients:| Time: | Products:|
 |-|-|-|
-|Meal Lice (1000 g)<br>|25s|Vegetable Oil (1500 g)<br>Compressed Biomass (15 kg)<br>|
-|Sleet Wheat Grain (x1)<br>|25s|Vegetable Oil (1310 g)<br>Compressed Biomass (1250 g)<br>|
-|Nosh Bean (x1)<br>|25s|Vegetable Oil (2800 g)<br>Compressed Biomass (1750 g)<br>|
-|Pincha Peppernut (1000 g)<br>|25s|Vegetable Oil (4720 g)<br>Compressed Biomass (4500 g)<br>|
-|Balm Lily Flower (1000 g)<br>|25s|Vegetable Oil (350 g)<br>Compressed Biomass (650 g)<br>|
-|Grubfruit (1000 g)<br>|25s|Vegetable Oil (1060 g)<br>Compressed Biomass (3400 g)<br>|
-|Pikeapple (1000 g)<br>|25s|Vegetable Oil (1020 g)<br>Compressed Biomass (6 kg)<br>|
-|Plume Squash (1000 g)<br>|25s|Vegetable Oil (900 g)<br>Compressed Biomass (27 kg)<br>|
-|Gas Grass (1000 g)<br>|25s|Vegetable Oil (6.1 kg)<br>Compressed Biomass (20.4 kg)<br>|
-|Plant Meat (1000 g)<br>|25s|Vegetable Oil (900 g)<br>Compressed Biomass (12 kg)<br>|
-|Spindly Grubfruit (1000 g)<br>|25s|Vegetable Oil (7.2 kg)<br>Compressed Biomass (6 kg)<br>|
-|Sweatcorn (1000 g)<br>|25s|Vegetable Oil (10.5 kg)<br>Compressed Biomass (7.5 kg)<br>|
-|Seakomb Leaf (10 kg)<br>|25s|Vegetable Oil (10 kg)<br>Compressed Biomass (3650 g)<br>|
-|Saturn Critter Trap Seed (x10)<br>|10s|Vegetable Oil (9.5 kg)<br>Compressed Biomass (500 g)<br>|
-|Wort Seed (x10)<br>|10s|Vegetable Oil (9.5 kg)<br>Compressed Biomass (500 g)<br>|
-|Plume Squash Seed (x10)<br>|10s|Vegetable Oil (9.5 kg)<br>Compressed Biomass (500 g)<br>|
-|Mimillet (x10)<br>|10s|Vegetable Oil (9.5 kg)<br>Compressed Biomass (500 g)<br>|
-|Alveo Vera Seed (x10)<br>|10s|Vegetable Oil (9.5 kg)<br>Compressed Biomass (500 g)<br>|
-|Mealwood Seed (x10)<br>|10s|Vegetable Oil (9.5 kg)<br>Compressed Biomass (500 g)<br>|
-|Dew Seed (x10)<br>|10s|Vegetable Oil (9.5 kg)<br>Compressed Biomass (500 g)<br>|
-|Megafrond Spore (x10)<br>|10s|Vegetable Oil (9.5 kg)<br>Compressed Biomass (500 g)<br>|
-|Gas Grass Seed (x10)<br>|10s|Vegetable Oil (9.5 kg)<br>Compressed Biomass (500 g)<br>|
-|Sweatcorn Seed (x10)<br>|10s|Vegetable Oil (9.5 kg)<br>Compressed Biomass (500 g)<br>|
-|Arbor Acorn (x10)<br>|10s|Vegetable Oil (9.5 kg)<br>Compressed Biomass (500 g)<br>|
-|Lura Seed (x10)<br>|10s|Vegetable Oil (9.5 kg)<br>Compressed Biomass (500 g)<br>|
-|Hydrocactus Seed (x10)<br>|10s|Vegetable Oil (9.5 kg)<br>Compressed Biomass (500 g)<br>|
-|Pikeapple Bush Seed (x10)<br>|10s|Vegetable Oil (9.5 kg)<br>Compressed Biomass (500 g)<br>|
-|Oxyfern Seed (x10)<br>|10s|Vegetable Oil (9.5 kg)<br>Compressed Biomass (500 g)<br>|
-|Grubfruit Seed (x10)<br>|10s|Vegetable Oil (9.5 kg)<br>Compressed Biomass (500 g)<br>|
-|Blossom Seed (x10)<br>|10s|Vegetable Oil (9.5 kg)<br>Compressed Biomass (500 g)<br>|
-|Ovagro Node Seed (x10)<br>|10s|Vegetable Oil (9.5 kg)<br>Compressed Biomass (500 g)<br>|
-|Dasha Saltvine Seed (x10)<br>|10s|Vegetable Oil (9.5 kg)<br>Compressed Biomass (500 g)<br>|
-|Balm Lily Seed (x10)<br>|10s|Vegetable Oil (9.5 kg)<br>Compressed Biomass (500 g)<br>|
-|Bog Bucket Seed (x10)<br>|10s|Vegetable Oil (9.5 kg)<br>Compressed Biomass (500 g)<br>|
-|Bonbon Tree Seed (x10)<br>|10s|Vegetable Oil (9.5 kg)<br>Compressed Biomass (500 g)<br>|
-|Pincha Pepper Seed (x10)<br>|10s|Vegetable Oil (9.5 kg)<br>Compressed Biomass (500 g)<br>|
-|Fungal Spore (x10)<br>|10s|Vegetable Oil (9.5 kg)<br>Compressed Biomass (500 g)<br>|
-|Seakomb Seed (x10)<br>|10s|Vegetable Oil (9.5 kg)<br>Compressed Biomass (500 g)<br>|
+| ![BasicPlantFood](/assets/images/entities/BasicPlantFood.png){.inline-icon} Meal Lice (1000 g)<br>|25s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} Vegetable Oil (1500 g)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} Compressed Biomass (15 kg)<br>|
+| ![ColdWheatSeed](/assets/images/entities/ColdWheatSeed.png){.inline-icon} Sleet Wheat Grain (x1)<br>|25s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} Vegetable Oil (1310 g)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} Compressed Biomass (1250 g)<br>|
+| ![BeanPlantSeed](/assets/images/entities/BeanPlantSeed.png){.inline-icon} Nosh Bean (x1)<br>|25s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} Vegetable Oil (2800 g)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} Compressed Biomass (1750 g)<br>|
+| ![SpiceNut](/assets/images/entities/SpiceNut.png){.inline-icon} Pincha Peppernut (1000 g)<br>|25s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} Vegetable Oil (4720 g)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} Compressed Biomass (4500 g)<br>|
+| ![SwampLilyFlower](/assets/images/entities/SwampLilyFlower.png){.inline-icon} Balm Lily Flower (1000 g)<br>|25s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} Vegetable Oil (350 g)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} Compressed Biomass (650 g)<br>|
+| ![WormSuperFruit](/assets/images/entities/WormSuperFruit.png){.inline-icon} Grubfruit (1000 g)<br>|25s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} Vegetable Oil (1060 g)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} Compressed Biomass (3400 g)<br>|
+| ![HardSkinBerry](/assets/images/entities/HardSkinBerry.png){.inline-icon} Pikeapple (1000 g)<br>|25s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} Vegetable Oil (1020 g)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} Compressed Biomass (6 kg)<br>|
+| ![Carrot](/assets/images/entities/Carrot.png){.inline-icon} Plume Squash (1000 g)<br>|25s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} Vegetable Oil (900 g)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} Compressed Biomass (27 kg)<br>|
+| ![GasGrassHarvested](/assets/images/entities/GasGrassHarvested.png){.inline-icon} Gas Grass (1000 g)<br>|25s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} Vegetable Oil (6.1 kg)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} Compressed Biomass (20.4 kg)<br>|
+| ![PlantMeat](/assets/images/entities/PlantMeat.png){.inline-icon} Plant Meat (1000 g)<br>|25s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} Vegetable Oil (900 g)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} Compressed Biomass (12 kg)<br>|
+| ![WormBasicFruit](/assets/images/entities/WormBasicFruit.png){.inline-icon} Spindly Grubfruit (1000 g)<br>|25s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} Vegetable Oil (7.2 kg)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} Compressed Biomass (6 kg)<br>|
+| ![GardenFoodPlantFood](/assets/images/entities/GardenFoodPlantFood.png){.inline-icon} Sweatcorn (1000 g)<br>|25s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} Vegetable Oil (10.5 kg)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} Compressed Biomass (7.5 kg)<br>|
+| ![Kelp](/assets/images/entities/Kelp.png){.inline-icon} Seakomb Leaf (10 kg)<br>|25s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} Vegetable Oil (10 kg)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} Compressed Biomass (3650 g)<br>|
+| ![CritterTrapPlantSeed](/assets/images/entities/CritterTrapPlantSeed.png){.inline-icon} Saturn Critter Trap Seed (x10)<br>|10s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} Vegetable Oil (9.5 kg)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} Compressed Biomass (500 g)<br>|
+| ![ColdBreatherSeed](/assets/images/entities/ColdBreatherSeed.png){.inline-icon} Wort Seed (x10)<br>|10s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} Vegetable Oil (9.5 kg)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} Compressed Biomass (500 g)<br>|
+| ![CarrotPlantSeed](/assets/images/entities/CarrotPlantSeed.png){.inline-icon} Plume Squash Seed (x10)<br>|10s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} Vegetable Oil (9.5 kg)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} Compressed Biomass (500 g)<br>|
+| ![ButterflyPlantSeed](/assets/images/entities/ButterflyPlantSeed.png){.inline-icon} Mimillet (x10)<br>|10s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} Vegetable Oil (9.5 kg)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} Compressed Biomass (500 g)<br>|
+| ![BlueGrassSeed](/assets/images/entities/BlueGrassSeed.png){.inline-icon} Alveo Vera Seed (x10)<br>|10s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} Vegetable Oil (9.5 kg)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} Compressed Biomass (500 g)<br>|
+| ![BasicSingleHarvestPlantSeed](/assets/images/entities/BasicSingleHarvestPlantSeed.png){.inline-icon} Mealwood Seed (x10)<br>|10s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} Vegetable Oil (9.5 kg)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} Compressed Biomass (500 g)<br>|
+| ![DewDripperPlantSeed](/assets/images/entities/DewDripperPlantSeed.png){.inline-icon} Dew Seed (x10)<br>|10s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} Vegetable Oil (9.5 kg)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} Compressed Biomass (500 g)<br>|
+| ![DinofernSeed](/assets/images/entities/DinofernSeed.png){.inline-icon} Megafrond Spore (x10)<br>|10s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} Vegetable Oil (9.5 kg)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} Compressed Biomass (500 g)<br>|
+| ![GasGrassSeed](/assets/images/entities/GasGrassSeed.png){.inline-icon} Gas Grass Seed (x10)<br>|10s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} Vegetable Oil (9.5 kg)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} Compressed Biomass (500 g)<br>|
+| ![GardenFoodPlantSeed](/assets/images/entities/GardenFoodPlantSeed.png){.inline-icon} Sweatcorn Seed (x10)<br>|10s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} Vegetable Oil (9.5 kg)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} Compressed Biomass (500 g)<br>|
+| ![ForestTreeSeed](/assets/images/entities/ForestTreeSeed.png){.inline-icon} Arbor Acorn (x10)<br>|10s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} Vegetable Oil (9.5 kg)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} Compressed Biomass (500 g)<br>|
+| ![FlyTrapPlantSeed](/assets/images/entities/FlyTrapPlantSeed.png){.inline-icon} Lura Seed (x10)<br>|10s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} Vegetable Oil (9.5 kg)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} Compressed Biomass (500 g)<br>|
+| ![FilterPlantSeed](/assets/images/entities/FilterPlantSeed.png){.inline-icon} Hydrocactus Seed (x10)<br>|10s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} Vegetable Oil (9.5 kg)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} Compressed Biomass (500 g)<br>|
+| ![HardSkinBerryPlantSeed](/assets/images/entities/HardSkinBerryPlantSeed.png){.inline-icon} Pikeapple Bush Seed (x10)<br>|10s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} Vegetable Oil (9.5 kg)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} Compressed Biomass (500 g)<br>|
+| ![OxyfernSeed](/assets/images/entities/OxyfernSeed.png){.inline-icon} Oxyfern Seed (x10)<br>|10s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} Vegetable Oil (9.5 kg)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} Compressed Biomass (500 g)<br>|
+| ![WormPlantSeed](/assets/images/entities/WormPlantSeed.png){.inline-icon} Grubfruit Seed (x10)<br>|10s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} Vegetable Oil (9.5 kg)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} Compressed Biomass (500 g)<br>|
+| ![PrickleFlowerSeed](/assets/images/entities/PrickleFlowerSeed.png){.inline-icon} Blossom Seed (x10)<br>|10s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} Vegetable Oil (9.5 kg)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} Compressed Biomass (500 g)<br>|
+| ![VineMotherSeed](/assets/images/entities/VineMotherSeed.png){.inline-icon} Ovagro Node Seed (x10)<br>|10s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} Vegetable Oil (9.5 kg)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} Compressed Biomass (500 g)<br>|
+| ![SaltPlantSeed](/assets/images/entities/SaltPlantSeed.png){.inline-icon} Dasha Saltvine Seed (x10)<br>|10s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} Vegetable Oil (9.5 kg)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} Compressed Biomass (500 g)<br>|
+| ![SwampLilySeed](/assets/images/entities/SwampLilySeed.png){.inline-icon} Balm Lily Seed (x10)<br>|10s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} Vegetable Oil (9.5 kg)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} Compressed Biomass (500 g)<br>|
+| ![SwampHarvestPlantSeed](/assets/images/entities/SwampHarvestPlantSeed.png){.inline-icon} Bog Bucket Seed (x10)<br>|10s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} Vegetable Oil (9.5 kg)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} Compressed Biomass (500 g)<br>|
+| ![SpaceTreeSeed](/assets/images/entities/SpaceTreeSeed.png){.inline-icon} Bonbon Tree Seed (x10)<br>|10s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} Vegetable Oil (9.5 kg)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} Compressed Biomass (500 g)<br>|
+| ![SpiceVineSeed](/assets/images/entities/SpiceVineSeed.png){.inline-icon} Pincha Pepper Seed (x10)<br>|10s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} Vegetable Oil (9.5 kg)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} Compressed Biomass (500 g)<br>|
+| ![MushroomSeed](/assets/images/entities/MushroomSeed.png){.inline-icon} Fungal Spore (x10)<br>|10s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} Vegetable Oil (9.5 kg)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} Compressed Biomass (500 g)<br>|
+| ![KelpPlantSeed](/assets/images/entities/KelpPlantSeed.png){.inline-icon} Seakomb Seed (x10)<br>|10s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} Vegetable Oil (9.5 kg)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} Compressed Biomass (500 g)<br>|
 
 
 

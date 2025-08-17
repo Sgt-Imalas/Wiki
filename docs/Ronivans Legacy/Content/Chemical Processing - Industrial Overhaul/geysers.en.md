@@ -5,7 +5,7 @@ Enabling this mod in the config adds several new random geysers to the game.<br/
 | ![GeyserGeneric_AmmoniaGeyser](/assets/images/geysers/GeyserGeneric_AmmoniaGeyser.png){width="100"} |A highly pressurized cryogeyser that periodically erupts with cold liquid Ammonia.|
 |-|-|
 |Dimensions: | 4 wide x 2 high|
-|Venting  | Liquid Ammonia at -63°C|
+|Venting  |  ![LiquidAmmonia](/assets/images/elements/LiquidAmmonia.png){.inline-icon} Liquid Ammonia at -63°C|
 |Decor|Decor: +10 (Radius: 2 tiles)|
 
 
@@ -13,7 +13,7 @@ Enabling this mod in the config adds several new random geysers to the game.<br/
 | ![GeyserGeneric_AmmoniumWaterGeyser](/assets/images/geysers/GeyserGeneric_AmmoniumWaterGeyser.png){width="100"} |A highly pressurized cryogeyser that periodically erupts with cold Ammonium Water.|
 |-|-|
 |Dimensions: | 4 wide x 2 high|
-|Venting  | Ammonium Water at -1°C|
+|Venting  |  ![AmmoniumWater](/assets/images/elements/AmmoniumWater.png){.inline-icon} Ammonium Water at -1°C|
 |Decor|Decor: +10 (Radius: 2 tiles)|
 
 
@@ -21,7 +21,7 @@ Enabling this mod in the config adds several new random geysers to the game.<br/
 | ![GeyserGeneric_HotMercuryGasVent](/assets/images/geysers/GeyserGeneric_HotMercuryGasVent.png){width="100"} |A highly pressurized geothermal vent that periodically erupts with hot Mercury Gas.|
 |-|-|
 |Dimensions: | 4 wide x 2 high|
-|Venting  | Mercury Gas at 447°C|
+|Venting  |  ![MercuryGas](/assets/images/elements/MercuryGas.png){.inline-icon} Mercury Gas at 447°C|
 |Decor|Decor: +10 (Radius: 2 tiles)|
 
 
@@ -29,7 +29,7 @@ Enabling this mod in the config adds several new random geysers to the game.<br/
 | ![GeyserGeneric_MoltenSaltGeyser](/assets/images/geysers/GeyserGeneric_MoltenSaltGeyser.png){width="100"} |A highly pressurized hot fissure that periodically erupts with Molten Salt.|
 |-|-|
 |Dimensions: | 4 wide x 2 high|
-|Venting  | Molten Salt at 1027°C|
+|Venting  |  ![MoltenSalt](/assets/images/elements/MoltenSalt.png){.inline-icon} Molten Salt at 1027°C|
 |Decor|Decor: +10 (Radius: 2 tiles)|
 
 
@@ -37,7 +37,7 @@ Enabling this mod in the config adds several new random geysers to the game.<br/
 | ![GeyserGeneric_PhosphorusGeyser](/assets/images/geysers/GeyserGeneric_PhosphorusGeyser.png){width="100"} |A highly pressurized hot fissure that periodically erupts with Liquid Phosphorus.|
 |-|-|
 |Dimensions: | 4 wide x 2 high|
-|Venting  | Liquid Phosphorus at 119°C|
+|Venting  |  ![LiquidPhosphorus](/assets/images/elements/LiquidPhosphorus.png){.inline-icon} Liquid Phosphorus at 119°C|
 |Decor|Decor: +10 (Radius: 2 tiles)|
 
 
@@ -45,7 +45,7 @@ Enabling this mod in the config adds several new random geysers to the game.<br/
 | ![GeyserGeneric_RawGasVent](/assets/images/geysers/GeyserGeneric_RawGasVent.png){width="100"} |A highly pressurized geothermal vent that periodically erupts with hot Raw Natural Gas.|
 |-|-|
 |Dimensions: | 4 wide x 2 high|
-|Venting  | Raw Natural Gas at 500°C|
+|Venting  |  ![RawNaturalGas](/assets/images/elements/RawNaturalGas.png){.inline-icon} Raw Natural Gas at 500°C|
 |Decor|Decor: +10 (Radius: 2 tiles)|
 
 
@@ -53,7 +53,7 @@ Enabling this mod in the config adds several new random geysers to the game.<br/
 | ![GeyserGeneric_SourWaterGeyser](/assets/images/geysers/GeyserGeneric_SourWaterGeyser.png){width="100"} |A highly pressurized geyser that periodically erupts with cold Sour Water.|
 |-|-|
 |Dimensions: | 4 wide x 2 high|
-|Venting  | Raw Natural Gas at 5°C|
+|Venting  |  ![SourWater](/assets/images/elements/SourWater.png){.inline-icon} Sour Water at 5°C|
 |Decor|Decor: +10 (Radius: 2 tiles)|
 
 
@@ -61,6 +61,6 @@ Enabling this mod in the config adds several new random geysers to the game.<br/
 | ![GeyserGeneric_NitrogenVent](/assets/images/geysers/GeyserGeneric_NitrogenVent.png){width="100"} |A highly pressurized vent that periodically erupts with Nitrogen.|
 |-|-|
 |Dimensions: | 2 wide x 4 high|
-|Venting  | Nitrogen at 400°C|
+|Venting  |  ![NitrogenGas](/assets/images/elements/NitrogenGas.png){.inline-icon} Nitrogen at 400°C|
 |Decor|Decor: +10 (Radius: 2 tiles)|
 

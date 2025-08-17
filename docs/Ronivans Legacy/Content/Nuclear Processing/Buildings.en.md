@@ -42,7 +42,7 @@ This device uses Uranium Ore. As the fuel decays, it turns to liquid Nuclear Was
 ### Element Conversion
 |Inputs:|Outputs:|
 |-|-|
-|Uranium Ore (8 g/s)<br>|Liquid Nuclear Waste (8 g/s at -273.15°C)<br>|
+| ![UraniumOre](/assets/images/elements/UraniumOre.png){.inline-icon} Uranium Ore (8 g/s)<br>| ![NuclearWaste](/assets/images/elements/NuclearWaste.png){.inline-icon} Liquid Nuclear Waste (8 g/s at -273.15°C)<br>|
 
 
 
@@ -65,8 +65,8 @@ An advanced kiln capable of volumetric oxidation with heavy nuclear waste by alt
 ### Recipes
 |Ingredients:| Time: | Products:|
 |-|-|-|
-|Uranium Ore (100 kg)<br>Oxylite (100 kg)<br>20x  Radbolts<br>|80s|Yellowcake (100 kg)<br>|
-|Depleted Uranium (10 kg)<br>Solid Nuclear Waste (90 kg)<br>Oxylite (100 kg)<br>50x  Radbolts<br>|80s|Yellowcake (100 kg)<br>|
+| ![UraniumOre](/assets/images/elements/UraniumOre.png){.inline-icon} Uranium Ore (100 kg)<br> ![OxyRock](/assets/images/elements/OxyRock.png){.inline-icon} Oxylite (100 kg)<br>20x  Radbolts<br>|80s| ![Yellowcake](/assets/images/elements/Yellowcake.png){.inline-icon} Yellowcake (100 kg)<br>|
+| ![DepletedUranium](/assets/images/elements/DepletedUranium.png){.inline-icon} Depleted Uranium (10 kg)<br> ![SolidNuclearWaste](/assets/images/elements/SolidNuclearWaste.png){.inline-icon} Solid Nuclear Waste (90 kg)<br> ![OxyRock](/assets/images/elements/OxyRock.png){.inline-icon} Oxylite (100 kg)<br>50x  Radbolts<br>|80s| ![Yellowcake](/assets/images/elements/Yellowcake.png){.inline-icon} Yellowcake (100 kg)<br>|
 
 
 
@@ -89,7 +89,7 @@ The Zippe-type centrifuge is a gas device designed to enrich the rare fissile En
 ### Element Conversion
 |Inputs:|Outputs:|
 |-|-|
-|Yellowcake (50 g/s)<br>|Enriched Uranium (35 g/s at -273.15°C)<br>Depleted Uranium (15 g/s at -273.15°C)<br>|
+| ![Yellowcake](/assets/images/elements/Yellowcake.png){.inline-icon} Yellowcake (50 g/s)<br>| ![EnrichedUranium](/assets/images/elements/EnrichedUranium.png){.inline-icon} Enriched Uranium (35 g/s at -273.15°C)<br> ![DepletedUranium](/assets/images/elements/DepletedUranium.png){.inline-icon} Depleted Uranium (15 g/s at -273.15°C)<br>|
 
 
 

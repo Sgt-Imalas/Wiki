@@ -19,7 +19,10 @@
         border-top: 0 !important;
         padding: 2px !important;
     }
-    
+.inline-icon {
+  vertical-align: text-top;
+  width: 16px;  
+}   
 
 /*
 table {

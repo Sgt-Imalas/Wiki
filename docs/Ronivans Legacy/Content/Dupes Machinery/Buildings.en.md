@@ -24,12 +24,12 @@ Algae patch needs Water to grow, producing a fair amount of clean Oxygen as resu
 ### Element Conversion
 |Inputs:|Outputs:|
 |-|-|
-|Algae (75 g/s)<br>Water (800 g/s)<br>|Oxygen (200 g/s at 30°C)<br>Polluted Water (962.5 g/s at 30°C)<br>|
+| ![Algae](/assets/images/elements/Algae.png){.inline-icon} Algae (75 g/s)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} Water (800 g/s)<br>| ![Oxygen](/assets/images/elements/Oxygen.png){.inline-icon} Oxygen (200 g/s at 30°C)<br> ![DirtyWater](/assets/images/elements/DirtyWater.png){.inline-icon} Polluted Water (962.5 g/s at 30°C)<br>|
 
 
 |Inputs:|Outputs:|
 |-|-|
-|Carbon Dioxide (8.5 g/s)<br>|Polluted Water (30 g/s at 30°C)<br>|
+| ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} Carbon Dioxide (8.5 g/s)<br>| ![DirtyWater](/assets/images/elements/DirtyWater.png){.inline-icon} Polluted Water (30 g/s at 30°C)<br>|
 
 
 
@@ -57,7 +57,7 @@ Boils Water to Steam at 200 °C.<br/>This particular boiler uses Combustustable 
 ### Element Conversion
 |Inputs:|Outputs:|
 |-|-|
-|Combustible Solid (1500 g/s)<br>Water (4000 g/s)<br>|Steam (4000 g/s at 200°C)<br>Carbon Dioxide (200 g/s at 110°C)<br>|
+| ![CombustibleSolid](/assets/images/entities/CombustibleSolid.png){.inline-icon} Combustible Solid (1500 g/s)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} Water (4000 g/s)<br>| ![Steam](/assets/images/elements/Steam.png){.inline-icon} Steam (4000 g/s at 200°C)<br> ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} Carbon Dioxide (200 g/s at 110°C)<br>|
 
 
 
@@ -106,17 +106,17 @@ Coral colony needs Salt Water or Brine to grow, producing a fair amount of clean
 ### Element Conversion
 |Inputs:|Outputs:|
 |-|-|
-|Salt Water (2000 g/s)<br>Sand (50 g/s)<br>|Water (1860 g/s at -273.15°C)<br>Bleach Stone (22.4 g/s at -273.15°C)<br>|
+| ![SaltWater](/assets/images/elements/SaltWater.png){.inline-icon} Salt Water (2000 g/s)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (50 g/s)<br>| ![Water](/assets/images/elements/Water.png){.inline-icon} Water (1860 g/s at -273.15°C)<br> ![BleachStone](/assets/images/elements/BleachStone.png){.inline-icon} Bleach Stone (22.4 g/s at -273.15°C)<br>|
 
 
 |Inputs:|Outputs:|
 |-|-|
-|Brine (2000 g/s)<br>Sand (50 g/s)<br>|Water (1400 g/s at 40°C)<br>Bleach Stone (96 g/s at 40°C)<br>|
+| ![Brine](/assets/images/elements/Brine.png){.inline-icon} Brine (2000 g/s)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (50 g/s)<br>| ![Water](/assets/images/elements/Water.png){.inline-icon} Water (1400 g/s at 40°C)<br> ![BleachStone](/assets/images/elements/BleachStone.png){.inline-icon} Bleach Stone (96 g/s at 40°C)<br>|
 
 
 |Inputs:|Outputs:|
 |-|-|
-|Chlorine Gas (50 g/s)<br>Sand (100 g/s)<br>|Bleach Stone (8 g/s at 30°C)<br>|
+| ![ChlorineGas](/assets/images/elements/ChlorineGas.png){.inline-icon} Chlorine Gas (50 g/s)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (100 g/s)<br>| ![BleachStone](/assets/images/elements/BleachStone.png){.inline-icon} Bleach Stone (8 g/s at 30°C)<br>|
 
 
 
@@ -145,7 +145,7 @@ Boils Water to Steam at 106 °C. This particular boiler uses electricity.
 ### Element Conversion
 |Inputs:|Outputs:|
 |-|-|
-|Water (1000 g/s)<br>|Steam (1000 g/s at 106°C)<br>|
+| ![Water](/assets/images/elements/Water.png){.inline-icon} Water (1000 g/s)<br>| ![Steam](/assets/images/elements/Steam.png){.inline-icon} Steam (1000 g/s at 106°C)<br>|
 
 
 
@@ -173,7 +173,7 @@ Special modifications allows the polymerization of Ethanol into raw Plasticwith 
 ### Element Conversion
 |Inputs:|Outputs:|
 |-|-|
-|Ethanol (2500 g/s)<br>Chlorine Gas (100 g/s)<br>|Plastic (500 g/s at 75°C)<br>Steam (250 g/s at 200°C)<br>|
+| ![Ethanol](/assets/images/elements/Ethanol.png){.inline-icon} Ethanol (2500 g/s)<br> ![ChlorineGas](/assets/images/elements/ChlorineGas.png){.inline-icon} Chlorine Gas (100 g/s)<br>| ![Polypropylene](/assets/images/elements/Polypropylene.png){.inline-icon} Plastic (500 g/s at 75°C)<br> ![Steam](/assets/images/elements/Steam.png){.inline-icon} Steam (250 g/s at 200°C)<br>|
 
 
 
@@ -200,7 +200,7 @@ Distills Ethanol from a fermented mixture of Sucrose and Water. The fermenting p
 ### Element Conversion
 |Inputs:|Outputs:|
 |-|-|
-|Sucrose (200 g/s)<br>Water (1000 g/s)<br>Slime (50 g/s)<br>|Ethanol (800 g/s at 74°C)<br>Carbon Dioxide (200 g/s at 42°C)<br>Polluted Mud (200 g/s at 54°C)<br>|
+| ![Sucrose](/assets/images/elements/Sucrose.png){.inline-icon} Sucrose (200 g/s)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} Water (1000 g/s)<br> ![SlimeMold](/assets/images/elements/SlimeMold.png){.inline-icon} Slime (50 g/s)<br>| ![Ethanol](/assets/images/elements/Ethanol.png){.inline-icon} Ethanol (800 g/s at 74°C)<br> ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} Carbon Dioxide (200 g/s at 42°C)<br> ![ToxicMud](/assets/images/elements/ToxicMud.png){.inline-icon} Polluted Mud (200 g/s at 54°C)<br>|
 
 
 
@@ -230,12 +230,12 @@ Treat Polluted Water or Toxic Slurry using special filter and chemicals. Sieve p
 ### Element Conversion
 |Inputs:|Outputs:|
 |-|-|
-|Polluted Water (5 kg/s)<br>Chlorine Gas (2500 mg/s)<br>Crushed Rock (24 g/s)<br>Refined Carbon (34 g/s)<br>Sand (42 g/s)<br>|Water (4900 g/s at -273.15°C)<br>Clay (110 g/s at -273.15°C)<br>|
+| ![DirtyWater](/assets/images/elements/DirtyWater.png){.inline-icon} Polluted Water (5 kg/s)<br> ![ChlorineGas](/assets/images/elements/ChlorineGas.png){.inline-icon} Chlorine Gas (2500 mg/s)<br> ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} Crushed Rock (24 g/s)<br> ![RefinedCarbon](/assets/images/elements/RefinedCarbon.png){.inline-icon} Refined Carbon (34 g/s)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (42 g/s)<br>| ![Water](/assets/images/elements/Water.png){.inline-icon} Water (4900 g/s at -273.15°C)<br> ![Clay](/assets/images/elements/Clay.png){.inline-icon} Clay (110 g/s at -273.15°C)<br>|
 
 
 |Inputs:|Outputs:|
 |-|-|
-|Toxic Slurry (5 kg/s)<br>Chlorine Gas (2500 mg/s)<br>Crushed Rock (24 g/s)<br>Refined Carbon (34 g/s)<br>Sand (42 g/s)<br>|Water (2000 g/s at -273.15°C)<br>Slag (3100 g/s at -273.15°C)<br>|
+| ![ToxicSlurry](/assets/images/elements/ToxicSlurry.png){.inline-icon} Toxic Slurry (5 kg/s)<br> ![ChlorineGas](/assets/images/elements/ChlorineGas.png){.inline-icon} Chlorine Gas (2500 mg/s)<br> ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} Crushed Rock (24 g/s)<br> ![RefinedCarbon](/assets/images/elements/RefinedCarbon.png){.inline-icon} Refined Carbon (34 g/s)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (42 g/s)<br>| ![Water](/assets/images/elements/Water.png){.inline-icon} Water (2000 g/s at -273.15°C)<br> ![SolidSlag](/assets/images/elements/SolidSlag.png){.inline-icon} Slag (3100 g/s at -273.15°C)<br>|
 
 
 
@@ -264,7 +264,7 @@ Boils Water to Steam at 200 °C. This particular boiler uses Combustible Gases a
 ### Element Conversion
 |Inputs:|Outputs:|
 |-|-|
-|Combustible Gas (101.3 g/s)<br>Water (4000 g/s)<br>|Steam (4000 g/s at 200°C)<br>Carbon Dioxide (200 g/s at 110°C)<br>|
+| ![CombustibleGas](/assets/images/entities/CombustibleGas.png){.inline-icon} Combustible Gas (101.3 g/s)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} Water (4000 g/s)<br>| ![Steam](/assets/images/elements/Steam.png){.inline-icon} Steam (4000 g/s at 200°C)<br> ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} Carbon Dioxide (200 g/s at 110°C)<br>|
 
 
 
@@ -291,7 +291,7 @@ Produces Salt Water using provided Water and Salt.
 ### Element Conversion
 |Inputs:|Outputs:|
 |-|-|
-|Water (4650 g/s)<br>Salt (350 g/s)<br>|Salt Water (5 kg/s at 27°C)<br>|
+| ![Water](/assets/images/elements/Water.png){.inline-icon} Water (4650 g/s)<br> ![Salt](/assets/images/elements/Salt.png){.inline-icon} Salt (350 g/s)<br>| ![SaltWater](/assets/images/elements/SaltWater.png){.inline-icon} Salt Water (5 kg/s at 27°C)<br>|
 
 
 
@@ -319,12 +319,12 @@ Slime Vat needs Water and Mush Bar to grow, producing Slime outgrowth that is co
 ### Element Conversion
 |Inputs:|Outputs:|
 |-|-|
-|Mush Bar (10 g/s)<br>Water (50 g/s)<br>|Slime (60 g/s at -273.15°C)<br>|
+| ![MushBar](/assets/images/entities/MushBar.png){.inline-icon} Mush Bar (10 g/s)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} Water (50 g/s)<br>| ![SlimeMold](/assets/images/elements/SlimeMold.png){.inline-icon} Slime (60 g/s at -273.15°C)<br>|
 
 
 |Inputs:|Outputs:|
 |-|-|
-|Polluted Oxygen (25 g/s)<br>Mush Bar (5 g/s)<br>Dirt (50 g/s)<br>|Slime (50 g/s at -273.15°C)<br>|
+| ![ContaminatedOxygen](/assets/images/elements/ContaminatedOxygen.png){.inline-icon} Polluted Oxygen (25 g/s)<br> ![MushBar](/assets/images/entities/MushBar.png){.inline-icon} Mush Bar (5 g/s)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} Dirt (50 g/s)<br>| ![SlimeMold](/assets/images/elements/SlimeMold.png){.inline-icon} Slime (50 g/s at -273.15°C)<br>|
 
 
 
@@ -352,7 +352,7 @@ Boils Water to Steam at 200 °C. This particular boiler uses Wood as fuel.
 ### Element Conversion
 |Inputs:|Outputs:|
 |-|-|
-|Wood (3600 g/s)<br>Water (4000 g/s)<br>|Steam (4000 g/s at 200°C)<br>Carbon Dioxide (500 g/s at 110°C)<br>|
+| ![WoodLog](/assets/images/elements/WoodLog.png){.inline-icon} Wood (3600 g/s)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} Water (4000 g/s)<br>| ![Steam](/assets/images/elements/Steam.png){.inline-icon} Steam (4000 g/s at 200°C)<br> ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} Carbon Dioxide (500 g/s at 110°C)<br>|
 
 
 

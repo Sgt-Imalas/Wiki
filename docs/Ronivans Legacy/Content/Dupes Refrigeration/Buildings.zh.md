@@ -24,7 +24,7 @@
 ### 元素转换
 |输入:|输出:|
 |-|-|
-|二氧化碳 (500 g/秒)<br>|液态二氧化碳 (500 g/秒 于 -56°C)<br>|
+| ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} 二氧化碳 (500 g/秒)<br>| ![LiquidCarbonDioxide](/assets/images/elements/LiquidCarbonDioxide.png){.inline-icon} 液态二氧化碳 (500 g/秒 于 -56°C)<br>|
 
 
 

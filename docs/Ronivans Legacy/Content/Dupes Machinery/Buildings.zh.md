@@ -24,12 +24,12 @@
 ### 元素转换
 |输入:|输出:|
 |-|-|
-|藻类 (75 g/秒)<br>水 (800 g/秒)<br>|氧气 (200 g/秒 于 30°C)<br>污染水 (962.5 g/秒 于 30°C)<br>|
+| ![Algae](/assets/images/elements/Algae.png){.inline-icon} 藻类 (75 g/秒)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (800 g/秒)<br>| ![Oxygen](/assets/images/elements/Oxygen.png){.inline-icon} 氧气 (200 g/秒 于 30°C)<br> ![DirtyWater](/assets/images/elements/DirtyWater.png){.inline-icon} 污染水 (962.5 g/秒 于 30°C)<br>|
 
 
 |输入:|输出:|
 |-|-|
-|二氧化碳 (8.5 g/秒)<br>|污染水 (30 g/秒 于 30°C)<br>|
+| ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} 二氧化碳 (8.5 g/秒)<br>| ![DirtyWater](/assets/images/elements/DirtyWater.png){.inline-icon} 污染水 (30 g/秒 于 30°C)<br>|
 
 
 
@@ -57,7 +57,7 @@
 ### 元素转换
 |输入:|输出:|
 |-|-|
-|可燃固体 (1500 g/秒)<br>水 (4000 g/秒)<br>|蒸汽 (4000 g/秒 于 200°C)<br>二氧化碳 (200 g/秒 于 110°C)<br>|
+| ![CombustibleSolid](/assets/images/entities/CombustibleSolid.png){.inline-icon} 可燃固体 (1500 g/秒)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (4000 g/秒)<br>| ![Steam](/assets/images/elements/Steam.png){.inline-icon} 蒸汽 (4000 g/秒 于 200°C)<br> ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} 二氧化碳 (200 g/秒 于 110°C)<br>|
 
 
 
@@ -106,17 +106,17 @@
 ### 元素转换
 |输入:|输出:|
 |-|-|
-|盐水 (2000 g/秒)<br>沙子 (50 g/秒)<br>|水 (1860 g/秒 于 -273.15°C)<br>漂白石 (22.4 g/秒 于 -273.15°C)<br>|
+| ![SaltWater](/assets/images/elements/SaltWater.png){.inline-icon} 盐水 (2000 g/秒)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (50 g/秒)<br>| ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (1860 g/秒 于 -273.15°C)<br> ![BleachStone](/assets/images/elements/BleachStone.png){.inline-icon} 漂白石 (22.4 g/秒 于 -273.15°C)<br>|
 
 
 |输入:|输出:|
 |-|-|
-|浓盐水 (2000 g/秒)<br>沙子 (50 g/秒)<br>|水 (1400 g/秒 于 40°C)<br>漂白石 (96 g/秒 于 40°C)<br>|
+| ![Brine](/assets/images/elements/Brine.png){.inline-icon} 浓盐水 (2000 g/秒)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (50 g/秒)<br>| ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (1400 g/秒 于 40°C)<br> ![BleachStone](/assets/images/elements/BleachStone.png){.inline-icon} 漂白石 (96 g/秒 于 40°C)<br>|
 
 
 |输入:|输出:|
 |-|-|
-|氯气 (50 g/秒)<br>沙子 (100 g/秒)<br>|漂白石 (8 g/秒 于 30°C)<br>|
+| ![ChlorineGas](/assets/images/elements/ChlorineGas.png){.inline-icon} 氯气 (50 g/秒)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (100 g/秒)<br>| ![BleachStone](/assets/images/elements/BleachStone.png){.inline-icon} 漂白石 (8 g/秒 于 30°C)<br>|
 
 
 
@@ -145,7 +145,7 @@
 ### 元素转换
 |输入:|输出:|
 |-|-|
-|水 (1000 g/秒)<br>|蒸汽 (1000 g/秒 于 106°C)<br>|
+| ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (1000 g/秒)<br>| ![Steam](/assets/images/elements/Steam.png){.inline-icon} 蒸汽 (1000 g/秒 于 106°C)<br>|
 
 
 
@@ -173,7 +173,7 @@
 ### 元素转换
 |输入:|输出:|
 |-|-|
-|乙醇 (2500 g/秒)<br>氯气 (100 g/秒)<br>|塑料 (500 g/秒 于 75°C)<br>蒸汽 (250 g/秒 于 200°C)<br>|
+| ![Ethanol](/assets/images/elements/Ethanol.png){.inline-icon} 乙醇 (2500 g/秒)<br> ![ChlorineGas](/assets/images/elements/ChlorineGas.png){.inline-icon} 氯气 (100 g/秒)<br>| ![Polypropylene](/assets/images/elements/Polypropylene.png){.inline-icon} 塑料 (500 g/秒 于 75°C)<br> ![Steam](/assets/images/elements/Steam.png){.inline-icon} 蒸汽 (250 g/秒 于 200°C)<br>|
 
 
 
@@ -200,7 +200,7 @@
 ### 元素转换
 |输入:|输出:|
 |-|-|
-|蔗糖 (200 g/秒)<br>水 (1000 g/秒)<br>菌泥 (50 g/秒)<br>|乙醇 (800 g/秒 于 74°C)<br>二氧化碳 (200 g/秒 于 42°C)<br>污染泥 (200 g/秒 于 54°C)<br>|
+| ![Sucrose](/assets/images/elements/Sucrose.png){.inline-icon} 蔗糖 (200 g/秒)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (1000 g/秒)<br> ![SlimeMold](/assets/images/elements/SlimeMold.png){.inline-icon} 菌泥 (50 g/秒)<br>| ![Ethanol](/assets/images/elements/Ethanol.png){.inline-icon} 乙醇 (800 g/秒 于 74°C)<br> ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} 二氧化碳 (200 g/秒 于 42°C)<br> ![ToxicMud](/assets/images/elements/ToxicMud.png){.inline-icon} 污染泥 (200 g/秒 于 54°C)<br>|
 
 
 
@@ -230,12 +230,12 @@
 ### 元素转换
 |输入:|输出:|
 |-|-|
-|污染水 (5 kg/秒)<br>氯气 (2500 mg/秒)<br>碎岩 (24 g/秒)<br>精炼碳 (34 g/秒)<br>沙子 (42 g/秒)<br>|水 (4900 g/秒 于 -273.15°C)<br>粘土 (110 g/秒 于 -273.15°C)<br>|
+| ![DirtyWater](/assets/images/elements/DirtyWater.png){.inline-icon} 污染水 (5 kg/秒)<br> ![ChlorineGas](/assets/images/elements/ChlorineGas.png){.inline-icon} 氯气 (2500 mg/秒)<br> ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} 碎岩 (24 g/秒)<br> ![RefinedCarbon](/assets/images/elements/RefinedCarbon.png){.inline-icon} 精炼碳 (34 g/秒)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (42 g/秒)<br>| ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (4900 g/秒 于 -273.15°C)<br> ![Clay](/assets/images/elements/Clay.png){.inline-icon} 粘土 (110 g/秒 于 -273.15°C)<br>|
 
 
 |输入:|输出:|
 |-|-|
-|有毒泥浆 (5 kg/秒)<br>氯气 (2500 mg/秒)<br>碎岩 (24 g/秒)<br>精炼碳 (34 g/秒)<br>沙子 (42 g/秒)<br>|水 (2000 g/秒 于 -273.15°C)<br>炉渣 (3100 g/秒 于 -273.15°C)<br>|
+| ![ToxicSlurry](/assets/images/elements/ToxicSlurry.png){.inline-icon} 有毒泥浆 (5 kg/秒)<br> ![ChlorineGas](/assets/images/elements/ChlorineGas.png){.inline-icon} 氯气 (2500 mg/秒)<br> ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} 碎岩 (24 g/秒)<br> ![RefinedCarbon](/assets/images/elements/RefinedCarbon.png){.inline-icon} 精炼碳 (34 g/秒)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (42 g/秒)<br>| ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (2000 g/秒 于 -273.15°C)<br> ![SolidSlag](/assets/images/elements/SolidSlag.png){.inline-icon} 炉渣 (3100 g/秒 于 -273.15°C)<br>|
 
 
 
@@ -264,7 +264,7 @@
 ### 元素转换
 |输入:|输出:|
 |-|-|
-|可燃气体 (101.3 g/秒)<br>水 (4000 g/秒)<br>|蒸汽 (4000 g/秒 于 200°C)<br>二氧化碳 (200 g/秒 于 110°C)<br>|
+| ![CombustibleGas](/assets/images/entities/CombustibleGas.png){.inline-icon} 可燃气体 (101.3 g/秒)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (4000 g/秒)<br>| ![Steam](/assets/images/elements/Steam.png){.inline-icon} 蒸汽 (4000 g/秒 于 200°C)<br> ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} 二氧化碳 (200 g/秒 于 110°C)<br>|
 
 
 
@@ -291,7 +291,7 @@
 ### 元素转换
 |输入:|输出:|
 |-|-|
-|水 (4650 g/秒)<br>盐 (350 g/秒)<br>|盐水 (5 kg/秒 于 27°C)<br>|
+| ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (4650 g/秒)<br> ![Salt](/assets/images/elements/Salt.png){.inline-icon} 盐 (350 g/秒)<br>| ![SaltWater](/assets/images/elements/SaltWater.png){.inline-icon} 盐水 (5 kg/秒 于 27°C)<br>|
 
 
 
@@ -319,12 +319,12 @@
 ### 元素转换
 |输入:|输出:|
 |-|-|
-|软泥膏 (10 g/秒)<br>水 (50 g/秒)<br>|菌泥 (60 g/秒 于 -273.15°C)<br>|
+| ![MushBar](/assets/images/entities/MushBar.png){.inline-icon} 软泥膏 (10 g/秒)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (50 g/秒)<br>| ![SlimeMold](/assets/images/elements/SlimeMold.png){.inline-icon} 菌泥 (60 g/秒 于 -273.15°C)<br>|
 
 
 |输入:|输出:|
 |-|-|
-|污染氧 (25 g/秒)<br>软泥膏 (5 g/秒)<br>泥土 (50 g/秒)<br>|菌泥 (50 g/秒 于 -273.15°C)<br>|
+| ![ContaminatedOxygen](/assets/images/elements/ContaminatedOxygen.png){.inline-icon} 污染氧 (25 g/秒)<br> ![MushBar](/assets/images/entities/MushBar.png){.inline-icon} 软泥膏 (5 g/秒)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} 泥土 (50 g/秒)<br>| ![SlimeMold](/assets/images/elements/SlimeMold.png){.inline-icon} 菌泥 (50 g/秒 于 -273.15°C)<br>|
 
 
 
@@ -352,7 +352,7 @@
 ### 元素转换
 |输入:|输出:|
 |-|-|
-|木材 (3600 g/秒)<br>水 (4000 g/秒)<br>|蒸汽 (4000 g/秒 于 200°C)<br>二氧化碳 (500 g/秒 于 110°C)<br>|
+| ![WoodLog](/assets/images/elements/WoodLog.png){.inline-icon} 木材 (3600 g/秒)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (4000 g/秒)<br>| ![Steam](/assets/images/elements/Steam.png){.inline-icon} 蒸汽 (4000 g/秒 于 200°C)<br> ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} 二氧化碳 (500 g/秒 于 110°C)<br>|
 
 
 

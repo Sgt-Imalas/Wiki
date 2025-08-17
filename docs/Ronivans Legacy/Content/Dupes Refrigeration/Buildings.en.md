@@ -24,7 +24,7 @@ Compresses Carbon Dioxide gas and cool it down toLiquid Carbon Dioxide. This dev
 ### Element Conversion
 |Inputs:|Outputs:|
 |-|-|
-|Carbon Dioxide (500 g/s)<br>|Liquid Carbon Dioxide (500 g/s at -56°C)<br>|
+| ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} Carbon Dioxide (500 g/s)<br>| ![LiquidCarbonDioxide](/assets/images/elements/LiquidCarbonDioxide.png){.inline-icon} Liquid Carbon Dioxide (500 g/s at -56°C)<br>|
 
 
 

@@ -22,7 +22,7 @@
 ### 燃料转换
 |输入:|输出:|
 |-|-|
-|精炼碳 (750 g/秒)<br>| 二氧化碳 (10 g/秒 于 110°C)<br>|
+| ![RefinedCarbon](/assets/images/elements/RefinedCarbon.png){.inline-icon} 精炼碳 (750 g/秒)<br>|  ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} 二氧化碳 (10 g/秒 于 110°C)<br>|
 
 
 
@@ -50,7 +50,7 @@
 ### 燃料转换
 |输入:|输出:|
 |-|-|
-|可燃液体 (666.7 g/秒)<br>| 二氧化碳 (166.7 g/秒 于 110°C)<br>污染水 (250 g/秒 于 40°C)<br>|
+| ![CombustibleLiquid](/assets/images/entities/CombustibleLiquid.png){.inline-icon} 可燃液体 (666.7 g/秒)<br>|  ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} 二氧化碳 (166.7 g/秒 于 110°C)<br> ![DirtyWater](/assets/images/elements/DirtyWater.png){.inline-icon} 污染水 (250 g/秒 于 40°C)<br>|
 
 
 
@@ -78,7 +78,7 @@
 ### 燃料转换
 |输入:|输出:|
 |-|-|
-|可燃气体 (30 g/秒)<br>| 二氧化碳 (7.5 g/秒 于 110°C)<br>污染水 (22.5 g/秒 于 40°C)<br>|
+| ![CombustibleGas](/assets/images/entities/CombustibleGas.png){.inline-icon} 可燃气体 (30 g/秒)<br>|  ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} 二氧化碳 (7.5 g/秒 于 110°C)<br> ![DirtyWater](/assets/images/elements/DirtyWater.png){.inline-icon} 污染水 (22.5 g/秒 于 40°C)<br>|
 
 
 

@@ -22,7 +22,7 @@
 ### 元素转换
 |输入:|输出:|
 |-|-|
-|植物油 (100 g/秒)<br>泥土 (400 g/秒)<br>|藻类 (500 g/秒 于 23°C)<br>|
+| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} 植物油 (100 g/秒)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} 泥土 (400 g/秒)<br>| ![Algae](/assets/images/elements/Algae.png){.inline-icon} 藻类 (500 g/秒 于 23°C)<br>|
 
 
 
@@ -49,25 +49,25 @@
 ### 配方
 |材料:| 耗时: | 产物:|
 |-|-|-|
-|虫果 (10 kg)<br>沙子 (50 kg)<br>水 (1000 g)<br>|50s|天然气 (805.2 g)<br>泥土 (50 kg)<br>|
-|贫瘠虫果 (10 kg)<br>沙子 (50 kg)<br>水 (1000 g)<br>|50s|天然气 (2576.6 g)<br>泥土 (50 kg)<br>|
-|漫花果 (10 kg)<br>沙子 (50 kg)<br>水 (1000 g)<br>|50s|天然气 (1046.8 g)<br>泥土 (50 kg)<br>|
-|沼浆果冻 (5 kg)<br>沙子 (50 kg)<br>水 (1000 g)<br>|50s|天然气 (2963.1 g)<br>泥土 (50 kg)<br>|
-|淤泥根 (10 kg)<br>沙子 (50 kg)<br>水 (1000 g)<br>|50s|天然气 (2576.6 g)<br>泥土 (50 kg)<br>|
-|菌斑果 (10 kg)<br>沙子 (50 kg)<br>水 (1000 g)<br>|50s|天然气 (2576.6 g)<br>泥土 (50 kg)<br>|
-|汗甜玉米 (10 kg)<br>沙子 (50 kg)<br>水 (1000 g)<br>|50s|天然气 (2576.6 g)<br>泥土 (50 kg)<br>|
-|六角根果实 (2000 g)<br>沙子 (50 kg)<br>水 (1000 g)<br>|50s|天然气 (4122.6 g)<br>泥土 (50 kg)<br>|
-|刺壳果 (10 kg)<br>沙子 (50 kg)<br>水 (1000 g)<br>|50s|天然气 (2576.6 g)<br>泥土 (50 kg)<br>|
-|雪莓 (10 kg)<br>沙子 (50 kg)<br>水 (1000 g)<br>|50s|天然气 (2576.6 g)<br>泥土 (50 kg)<br>|
-|海生菜 (10 kg)<br>沙子 (50 kg)<br>水 (1000 g)<br>|50s|天然气 (1288.3 g)<br>泥土 (50 kg)<br>|
-|毛刺浆果 (6 kg)<br>沙子 (50 kg)<br>水 (1000 g)<br>|50s|天然气 (3092 g)<br>泥土 (50 kg)<br>|
-|植物肉 (8 kg)<br>沙子 (50 kg)<br>水 (1000 g)<br>|50s|天然气 (3092 g)<br>泥土 (50 kg)<br>|
-|蘑菇 (4000 g)<br>沙子 (50 kg)<br>水 (1000 g)<br>|50s|天然气 (3092 g)<br>泥土 (50 kg)<br>|
-|沼泽甜菜心 (4000 g)<br>沙子 (50 kg)<br>水 (1000 g)<br>|50s|天然气 (3092 g)<br>泥土 (50 kg)<br>|
-|米虱 (10 kg)<br>沙子 (50 kg)<br>水 (1000 g)<br>|50s|天然气 (1932.5 g)<br>泥土 (50 kg)<br>|
-|羽叶果薯 (3000 g)<br>沙子 (50 kg)<br>水 (1000 g)<br>|50s|天然气 (3865 g)<br>泥土 (50 kg)<br>|
-|压缩生物质 (20 kg)<br>沙子 (30 kg)<br>水 (1000 g)<br>|50s|天然气 (1000 g)<br>泥土 (50 kg)<br>|
-|藻类 (20 kg)<br>沙子 (30 kg)<br>水 (1000 g)<br>|50s|天然气 (1000 g)<br>泥土 (50 kg)<br>|
+| ![WormSuperFruit](/assets/images/entities/WormSuperFruit.png){.inline-icon} 虫果 (10 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (50 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (1000 g)<br>|50s| ![Methane](/assets/images/elements/Methane.png){.inline-icon} 天然气 (805.2 g)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} 泥土 (50 kg)<br>|
+| ![WormBasicFruit](/assets/images/entities/WormBasicFruit.png){.inline-icon} 贫瘠虫果 (10 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (50 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (1000 g)<br>|50s| ![Methane](/assets/images/elements/Methane.png){.inline-icon} 天然气 (2576.6 g)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} 泥土 (50 kg)<br>|
+| ![VineFruit](/assets/images/entities/VineFruit.png){.inline-icon} 漫花果 (10 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (50 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (1000 g)<br>|50s| ![Methane](/assets/images/elements/Methane.png){.inline-icon} 天然气 (1046.8 g)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} 泥土 (50 kg)<br>|
+| ![SwampFruit](/assets/images/entities/SwampFruit.png){.inline-icon} 沼浆果冻 (5 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (50 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (1000 g)<br>|50s| ![Methane](/assets/images/elements/Methane.png){.inline-icon} 天然气 (2963.1 g)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} 泥土 (50 kg)<br>|
+| ![BasicForagePlant](/assets/images/entities/BasicForagePlant.png){.inline-icon} 淤泥根 (10 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (50 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (1000 g)<br>|50s| ![Methane](/assets/images/elements/Methane.png){.inline-icon} 天然气 (2576.6 g)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} 泥土 (50 kg)<br>|
+| ![GardenForagePlant](/assets/images/entities/GardenForagePlant.png){.inline-icon} 菌斑果 (10 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (50 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (1000 g)<br>|50s| ![Methane](/assets/images/elements/Methane.png){.inline-icon} 天然气 (2576.6 g)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} 泥土 (50 kg)<br>|
+| ![GardenFoodPlantFood](/assets/images/entities/GardenFoodPlantFood.png){.inline-icon} 汗甜玉米 (10 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (50 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (1000 g)<br>|50s| ![Methane](/assets/images/elements/Methane.png){.inline-icon} 天然气 (2576.6 g)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} 泥土 (50 kg)<br>|
+| ![ForestForagePlant](/assets/images/entities/ForestForagePlant.png){.inline-icon} 六角根果实 (2000 g)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (50 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (1000 g)<br>|50s| ![Methane](/assets/images/elements/Methane.png){.inline-icon} 天然气 (4122.6 g)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} 泥土 (50 kg)<br>|
+| ![HardSkinBerry](/assets/images/entities/HardSkinBerry.png){.inline-icon} 刺壳果 (10 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (50 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (1000 g)<br>|50s| ![Methane](/assets/images/elements/Methane.png){.inline-icon} 天然气 (2576.6 g)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} 泥土 (50 kg)<br>|
+| ![IceCavesForagePlant](/assets/images/entities/IceCavesForagePlant.png){.inline-icon} 雪莓 (10 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (50 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (1000 g)<br>|50s| ![Methane](/assets/images/elements/Methane.png){.inline-icon} 天然气 (2576.6 g)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} 泥土 (50 kg)<br>|
+| ![Lettuce](/assets/images/entities/Lettuce.png){.inline-icon} 海生菜 (10 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (50 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (1000 g)<br>|50s| ![Methane](/assets/images/elements/Methane.png){.inline-icon} 天然气 (1288.3 g)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} 泥土 (50 kg)<br>|
+| ![PrickleFruit](/assets/images/entities/PrickleFruit.png){.inline-icon} 毛刺浆果 (6 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (50 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (1000 g)<br>|50s| ![Methane](/assets/images/elements/Methane.png){.inline-icon} 天然气 (3092 g)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} 泥土 (50 kg)<br>|
+| ![PlantMeat](/assets/images/entities/PlantMeat.png){.inline-icon} 植物肉 (8 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (50 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (1000 g)<br>|50s| ![Methane](/assets/images/elements/Methane.png){.inline-icon} 天然气 (3092 g)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} 泥土 (50 kg)<br>|
+| ![Mushroom](/assets/images/entities/Mushroom.png){.inline-icon} 蘑菇 (4000 g)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (50 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (1000 g)<br>|50s| ![Methane](/assets/images/elements/Methane.png){.inline-icon} 天然气 (3092 g)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} 泥土 (50 kg)<br>|
+| ![SwampForagePlant](/assets/images/entities/SwampForagePlant.png){.inline-icon} 沼泽甜菜心 (4000 g)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (50 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (1000 g)<br>|50s| ![Methane](/assets/images/elements/Methane.png){.inline-icon} 天然气 (3092 g)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} 泥土 (50 kg)<br>|
+| ![BasicPlantFood](/assets/images/entities/BasicPlantFood.png){.inline-icon} 米虱 (10 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (50 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (1000 g)<br>|50s| ![Methane](/assets/images/elements/Methane.png){.inline-icon} 天然气 (1932.5 g)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} 泥土 (50 kg)<br>|
+| ![Carrot](/assets/images/entities/Carrot.png){.inline-icon} 羽叶果薯 (3000 g)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (50 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (1000 g)<br>|50s| ![Methane](/assets/images/elements/Methane.png){.inline-icon} 天然气 (3865 g)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} 泥土 (50 kg)<br>|
+| ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} 压缩生物质 (20 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (30 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (1000 g)<br>|50s| ![Methane](/assets/images/elements/Methane.png){.inline-icon} 天然气 (1000 g)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} 泥土 (50 kg)<br>|
+| ![Algae](/assets/images/elements/Algae.png){.inline-icon} 藻类 (20 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (30 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (1000 g)<br>|50s| ![Methane](/assets/images/elements/Methane.png){.inline-icon} 天然气 (1000 g)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} 泥土 (50 kg)<br>|
 
 
 
@@ -94,7 +94,7 @@
 ### 燃料转换
 |输入:|输出:|
 |-|-|
-|可再生柴油 (380 g/秒)<br>| 污染水 (144.3 g/秒 于 40°C)<br>|
+| ![LiquidBiodiesel](/assets/images/elements/LiquidBiodiesel.png){.inline-icon} 可再生柴油 (380 g/秒)<br>|  ![DirtyWater](/assets/images/elements/DirtyWater.png){.inline-icon} 污染水 (144.3 g/秒 于 40°C)<br>|
 
 
 
@@ -122,7 +122,7 @@
 ### 元素转换
 |输入:|输出:|
 |-|-|
-|植物油 (437.5 g/秒)<br>乙醇 (187.5 g/秒)<br>|可再生柴油 (587.5 g/秒 于 52°C)<br>污染水 (37.5 g/秒 于 42°C)<br>|
+| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} 植物油 (437.5 g/秒)<br> ![Ethanol](/assets/images/elements/Ethanol.png){.inline-icon} 乙醇 (187.5 g/秒)<br>| ![LiquidBiodiesel](/assets/images/elements/LiquidBiodiesel.png){.inline-icon} 可再生柴油 (587.5 g/秒 于 52°C)<br> ![DirtyWater](/assets/images/elements/DirtyWater.png){.inline-icon} 污染水 (37.5 g/秒 于 42°C)<br>|
 
 
 
@@ -150,7 +150,7 @@
 ### 元素转换
 |输入:|输出:|
 |-|-|
-|植物油 (400 g/秒)<br>二氧化碳 (100 g/秒)<br>软泥膏 (2000 mg/秒)<br>|生物塑料 (500 g/秒 于 23°C)<br>|
+| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} 植物油 (400 g/秒)<br> ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} 二氧化碳 (100 g/秒)<br> ![MushBar](/assets/images/entities/MushBar.png){.inline-icon} 软泥膏 (2000 mg/秒)<br>| ![Bioplastic](/assets/images/elements/Bioplastic.png){.inline-icon} 生物塑料 (500 g/秒 于 23°C)<br>|
 
 
 
@@ -177,44 +177,44 @@
 ### 配方
 |材料:| 耗时: | 产物:|
 |-|-|-|
-|米虱 (1000 g)<br>|25s|植物油 (1500 g)<br>压缩生物质 (15 kg)<br>|
-|冰霜麦粒 (x1)<br>|25s|植物油 (1310 g)<br>压缩生物质 (1250 g)<br>|
-|小吃豆 (x1)<br>|25s|植物油 (2800 g)<br>压缩生物质 (1750 g)<br>|
-|火椒粒 (1000 g)<br>|25s|植物油 (4720 g)<br>压缩生物质 (4500 g)<br>|
-|芳香百合花 (1000 g)<br>|25s|植物油 (350 g)<br>压缩生物质 (650 g)<br>|
-|虫果 (1000 g)<br>|25s|植物油 (1060 g)<br>压缩生物质 (3400 g)<br>|
-|刺壳果 (1000 g)<br>|25s|植物油 (1020 g)<br>压缩生物质 (6 kg)<br>|
-|羽叶果薯 (1000 g)<br>|25s|植物油 (900 g)<br>压缩生物质 (27 kg)<br>|
-|释气草 (1000 g)<br>|25s|植物油 (6.1 kg)<br>压缩生物质 (20.4 kg)<br>|
-|植物肉 (1000 g)<br>|25s|植物油 (900 g)<br>压缩生物质 (12 kg)<br>|
-|贫瘠虫果 (1000 g)<br>|25s|植物油 (7.2 kg)<br>压缩生物质 (6 kg)<br>|
-|汗甜玉米 (1000 g)<br>|25s|植物油 (10.5 kg)<br>压缩生物质 (7.5 kg)<br>|
-|海梳蕨叶 (10 kg)<br>|25s|植物油 (10 kg)<br>压缩生物质 (3650 g)<br>|
-|土星动物捕草种子 (x10)<br>|10s|植物油 (9.5 kg)<br>压缩生物质 (500 g)<br>|
-|冰息萝卜种子 (x10)<br>|10s|植物油 (9.5 kg)<br>压缩生物质 (500 g)<br>|
-|羽叶果薯种子 (x10)<br>|10s|植物油 (9.5 kg)<br>压缩生物质 (500 g)<br>|
-|拟种 (x10)<br>|10s|植物油 (9.5 kg)<br>压缩生物质 (500 g)<br>|
-|气囊芦荟种子 (x10)<br>|10s|植物油 (9.5 kg)<br>压缩生物质 (500 g)<br>|
-|米虱木种子 (x10)<br>|10s|植物油 (9.5 kg)<br>压缩生物质 (500 g)<br>|
-|露珠藤种子 (x10)<br>|10s|植物油 (9.5 kg)<br>压缩生物质 (500 g)<br>|
-|巨蕨孢子 (x10)<br>|10s|植物油 (9.5 kg)<br>压缩生物质 (500 g)<br>|
-|释气草种子 (x10)<br>|10s|植物油 (9.5 kg)<br>压缩生物质 (500 g)<br>|
-|汗甜玉米种子 (x10)<br>|10s|植物油 (9.5 kg)<br>压缩生物质 (500 g)<br>|
-|乔木橡实 (x10)<br>|10s|植物油 (9.5 kg)<br>压缩生物质 (500 g)<br>|
-|露饵花种子 (x10)<br>|10s|植物油 (9.5 kg)<br>压缩生物质 (500 g)<br>|
-|仙水掌种子 (x10)<br>|10s|植物油 (9.5 kg)<br>压缩生物质 (500 g)<br>|
-|刺壳果灌木种子 (x10)<br>|10s|植物油 (9.5 kg)<br>压缩生物质 (500 g)<br>|
-|氧齿蕨种子 (x10)<br>|10s|植物油 (9.5 kg)<br>压缩生物质 (500 g)<br>|
-|虫果种子 (x10)<br>|10s|植物油 (9.5 kg)<br>压缩生物质 (500 g)<br>|
-|毛刺花种子 (x10)<br>|10s|植物油 (9.5 kg)<br>压缩生物质 (500 g)<br>|
-|漫殖藤主干种子 (x10)<br>|10s|植物油 (9.5 kg)<br>压缩生物质 (500 g)<br>|
-|沙盐藤种子 (x10)<br>|10s|植物油 (9.5 kg)<br>压缩生物质 (500 g)<br>|
-|芳香百合种子 (x10)<br>|10s|植物油 (9.5 kg)<br>压缩生物质 (500 g)<br>|
-|沼浆笼种子 (x10)<br>|10s|植物油 (9.5 kg)<br>压缩生物质 (500 g)<br>|
-|糖心树种子 (x10)<br>|10s|植物油 (9.5 kg)<br>压缩生物质 (500 g)<br>|
-|火椒种子 (x10)<br>|10s|植物油 (9.5 kg)<br>压缩生物质 (500 g)<br>|
-|夜幕菇孢子 (x10)<br>|10s|植物油 (9.5 kg)<br>压缩生物质 (500 g)<br>|
-|海梳蕨种子 (x10)<br>|10s|植物油 (9.5 kg)<br>压缩生物质 (500 g)<br>|
+| ![BasicPlantFood](/assets/images/entities/BasicPlantFood.png){.inline-icon} 米虱 (1000 g)<br>|25s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} 植物油 (1500 g)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} 压缩生物质 (15 kg)<br>|
+| ![ColdWheatSeed](/assets/images/entities/ColdWheatSeed.png){.inline-icon} 冰霜麦粒 (x1)<br>|25s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} 植物油 (1310 g)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} 压缩生物质 (1250 g)<br>|
+| ![BeanPlantSeed](/assets/images/entities/BeanPlantSeed.png){.inline-icon} 小吃豆 (x1)<br>|25s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} 植物油 (2800 g)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} 压缩生物质 (1750 g)<br>|
+| ![SpiceNut](/assets/images/entities/SpiceNut.png){.inline-icon} 火椒粒 (1000 g)<br>|25s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} 植物油 (4720 g)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} 压缩生物质 (4500 g)<br>|
+| ![SwampLilyFlower](/assets/images/entities/SwampLilyFlower.png){.inline-icon} 芳香百合花 (1000 g)<br>|25s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} 植物油 (350 g)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} 压缩生物质 (650 g)<br>|
+| ![WormSuperFruit](/assets/images/entities/WormSuperFruit.png){.inline-icon} 虫果 (1000 g)<br>|25s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} 植物油 (1060 g)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} 压缩生物质 (3400 g)<br>|
+| ![HardSkinBerry](/assets/images/entities/HardSkinBerry.png){.inline-icon} 刺壳果 (1000 g)<br>|25s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} 植物油 (1020 g)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} 压缩生物质 (6 kg)<br>|
+| ![Carrot](/assets/images/entities/Carrot.png){.inline-icon} 羽叶果薯 (1000 g)<br>|25s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} 植物油 (900 g)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} 压缩生物质 (27 kg)<br>|
+| ![GasGrassHarvested](/assets/images/entities/GasGrassHarvested.png){.inline-icon} 释气草 (1000 g)<br>|25s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} 植物油 (6.1 kg)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} 压缩生物质 (20.4 kg)<br>|
+| ![PlantMeat](/assets/images/entities/PlantMeat.png){.inline-icon} 植物肉 (1000 g)<br>|25s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} 植物油 (900 g)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} 压缩生物质 (12 kg)<br>|
+| ![WormBasicFruit](/assets/images/entities/WormBasicFruit.png){.inline-icon} 贫瘠虫果 (1000 g)<br>|25s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} 植物油 (7.2 kg)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} 压缩生物质 (6 kg)<br>|
+| ![GardenFoodPlantFood](/assets/images/entities/GardenFoodPlantFood.png){.inline-icon} 汗甜玉米 (1000 g)<br>|25s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} 植物油 (10.5 kg)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} 压缩生物质 (7.5 kg)<br>|
+| ![Kelp](/assets/images/entities/Kelp.png){.inline-icon} 海梳蕨叶 (10 kg)<br>|25s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} 植物油 (10 kg)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} 压缩生物质 (3650 g)<br>|
+| ![CritterTrapPlantSeed](/assets/images/entities/CritterTrapPlantSeed.png){.inline-icon} 土星动物捕草种子 (x10)<br>|10s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} 植物油 (9.5 kg)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} 压缩生物质 (500 g)<br>|
+| ![ColdBreatherSeed](/assets/images/entities/ColdBreatherSeed.png){.inline-icon} 冰息萝卜种子 (x10)<br>|10s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} 植物油 (9.5 kg)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} 压缩生物质 (500 g)<br>|
+| ![CarrotPlantSeed](/assets/images/entities/CarrotPlantSeed.png){.inline-icon} 羽叶果薯种子 (x10)<br>|10s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} 植物油 (9.5 kg)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} 压缩生物质 (500 g)<br>|
+| ![ButterflyPlantSeed](/assets/images/entities/ButterflyPlantSeed.png){.inline-icon} 拟种 (x10)<br>|10s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} 植物油 (9.5 kg)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} 压缩生物质 (500 g)<br>|
+| ![BlueGrassSeed](/assets/images/entities/BlueGrassSeed.png){.inline-icon} 气囊芦荟种子 (x10)<br>|10s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} 植物油 (9.5 kg)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} 压缩生物质 (500 g)<br>|
+| ![BasicSingleHarvestPlantSeed](/assets/images/entities/BasicSingleHarvestPlantSeed.png){.inline-icon} 米虱木种子 (x10)<br>|10s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} 植物油 (9.5 kg)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} 压缩生物质 (500 g)<br>|
+| ![DewDripperPlantSeed](/assets/images/entities/DewDripperPlantSeed.png){.inline-icon} 露珠藤种子 (x10)<br>|10s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} 植物油 (9.5 kg)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} 压缩生物质 (500 g)<br>|
+| ![DinofernSeed](/assets/images/entities/DinofernSeed.png){.inline-icon} 巨蕨孢子 (x10)<br>|10s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} 植物油 (9.5 kg)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} 压缩生物质 (500 g)<br>|
+| ![GasGrassSeed](/assets/images/entities/GasGrassSeed.png){.inline-icon} 释气草种子 (x10)<br>|10s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} 植物油 (9.5 kg)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} 压缩生物质 (500 g)<br>|
+| ![GardenFoodPlantSeed](/assets/images/entities/GardenFoodPlantSeed.png){.inline-icon} 汗甜玉米种子 (x10)<br>|10s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} 植物油 (9.5 kg)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} 压缩生物质 (500 g)<br>|
+| ![ForestTreeSeed](/assets/images/entities/ForestTreeSeed.png){.inline-icon} 乔木橡实 (x10)<br>|10s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} 植物油 (9.5 kg)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} 压缩生物质 (500 g)<br>|
+| ![FlyTrapPlantSeed](/assets/images/entities/FlyTrapPlantSeed.png){.inline-icon} 露饵花种子 (x10)<br>|10s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} 植物油 (9.5 kg)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} 压缩生物质 (500 g)<br>|
+| ![FilterPlantSeed](/assets/images/entities/FilterPlantSeed.png){.inline-icon} 仙水掌种子 (x10)<br>|10s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} 植物油 (9.5 kg)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} 压缩生物质 (500 g)<br>|
+| ![HardSkinBerryPlantSeed](/assets/images/entities/HardSkinBerryPlantSeed.png){.inline-icon} 刺壳果灌木种子 (x10)<br>|10s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} 植物油 (9.5 kg)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} 压缩生物质 (500 g)<br>|
+| ![OxyfernSeed](/assets/images/entities/OxyfernSeed.png){.inline-icon} 氧齿蕨种子 (x10)<br>|10s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} 植物油 (9.5 kg)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} 压缩生物质 (500 g)<br>|
+| ![WormPlantSeed](/assets/images/entities/WormPlantSeed.png){.inline-icon} 虫果种子 (x10)<br>|10s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} 植物油 (9.5 kg)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} 压缩生物质 (500 g)<br>|
+| ![PrickleFlowerSeed](/assets/images/entities/PrickleFlowerSeed.png){.inline-icon} 毛刺花种子 (x10)<br>|10s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} 植物油 (9.5 kg)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} 压缩生物质 (500 g)<br>|
+| ![VineMotherSeed](/assets/images/entities/VineMotherSeed.png){.inline-icon} 漫殖藤主干种子 (x10)<br>|10s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} 植物油 (9.5 kg)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} 压缩生物质 (500 g)<br>|
+| ![SaltPlantSeed](/assets/images/entities/SaltPlantSeed.png){.inline-icon} 沙盐藤种子 (x10)<br>|10s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} 植物油 (9.5 kg)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} 压缩生物质 (500 g)<br>|
+| ![SwampLilySeed](/assets/images/entities/SwampLilySeed.png){.inline-icon} 芳香百合种子 (x10)<br>|10s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} 植物油 (9.5 kg)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} 压缩生物质 (500 g)<br>|
+| ![SwampHarvestPlantSeed](/assets/images/entities/SwampHarvestPlantSeed.png){.inline-icon} 沼浆笼种子 (x10)<br>|10s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} 植物油 (9.5 kg)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} 压缩生物质 (500 g)<br>|
+| ![SpaceTreeSeed](/assets/images/entities/SpaceTreeSeed.png){.inline-icon} 糖心树种子 (x10)<br>|10s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} 植物油 (9.5 kg)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} 压缩生物质 (500 g)<br>|
+| ![SpiceVineSeed](/assets/images/entities/SpiceVineSeed.png){.inline-icon} 火椒种子 (x10)<br>|10s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} 植物油 (9.5 kg)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} 压缩生物质 (500 g)<br>|
+| ![MushroomSeed](/assets/images/entities/MushroomSeed.png){.inline-icon} 夜幕菇孢子 (x10)<br>|10s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} 植物油 (9.5 kg)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} 压缩生物质 (500 g)<br>|
+| ![KelpPlantSeed](/assets/images/entities/KelpPlantSeed.png){.inline-icon} 海梳蕨种子 (x10)<br>|10s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} 植物油 (9.5 kg)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} 压缩生物质 (500 g)<br>|
 
 
 

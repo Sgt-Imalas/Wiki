@@ -52,17 +52,17 @@ A device that can homogeneously combine several solid and liquid ingredients use
 ### Recipes
 |Ingredients:| Time: | Products:|
 |-|-|-|
-|Shale (25 kg)<br>Sand (60 kg)<br>Lime (5 kg)<br>|40s|Cement (100 kg)<br>|
-|Ceramic (25 kg)<br>Sand (60 kg)<br>Lime (5 kg)<br>|40s|Cement (100 kg)<br>|
-|Obsidian (25 kg)<br>Sand (60 kg)<br>Lime (5 kg)<br>|40s|Cement (100 kg)<br>|
-|Igneous Rock (25 kg)<br>Sand (60 kg)<br>Lime (5 kg)<br>|40s|Cement (100 kg)<br>|
-|Brick (25 kg)<br>Sand (60 kg)<br>Lime (5 kg)<br>|40s|Cement (100 kg)<br>|
-|Granite (25 kg)<br>Sand (60 kg)<br>Lime (5 kg)<br>|40s|Cement (100 kg)<br>|
-|Sedimentary Rock (25 kg)<br>Sand (60 kg)<br>Lime (5 kg)<br>|40s|Cement (100 kg)<br>|
-|Sandstone (25 kg)<br>Sand (60 kg)<br>Lime (5 kg)<br>|40s|Cement (100 kg)<br>|
-|Mafic Rock (25 kg)<br>Sand (60 kg)<br>Lime (5 kg)<br>|40s|Cement (100 kg)<br>|
-|Crushed Rock (25 kg)<br>Sand (60 kg)<br>Lime (5 kg)<br>|40s|Cement (100 kg)<br>|
-|Cement (100 kg)<br>Sand (200 kg)<br>Crushed Rock (300 kg)<br>Water (25 kg)<br>|30s|Concrete Block (600 kg)<br>|
+| ![Shale](/assets/images/elements/Shale.png){.inline-icon} Shale (25 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (60 kg)<br> ![Lime](/assets/images/elements/Lime.png){.inline-icon} Lime (5 kg)<br>|40s| ![Cement](/assets/images/elements/Cement.png){.inline-icon} Cement (100 kg)<br>|
+| ![Ceramic](/assets/images/elements/Ceramic.png){.inline-icon} Ceramic (25 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (60 kg)<br> ![Lime](/assets/images/elements/Lime.png){.inline-icon} Lime (5 kg)<br>|40s| ![Cement](/assets/images/elements/Cement.png){.inline-icon} Cement (100 kg)<br>|
+| ![Obsidian](/assets/images/elements/Obsidian.png){.inline-icon} Obsidian (25 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (60 kg)<br> ![Lime](/assets/images/elements/Lime.png){.inline-icon} Lime (5 kg)<br>|40s| ![Cement](/assets/images/elements/Cement.png){.inline-icon} Cement (100 kg)<br>|
+| ![IgneousRock](/assets/images/elements/IgneousRock.png){.inline-icon} Igneous Rock (25 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (60 kg)<br> ![Lime](/assets/images/elements/Lime.png){.inline-icon} Lime (5 kg)<br>|40s| ![Cement](/assets/images/elements/Cement.png){.inline-icon} Cement (100 kg)<br>|
+| ![Brick](/assets/images/elements/Brick.png){.inline-icon} Brick (25 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (60 kg)<br> ![Lime](/assets/images/elements/Lime.png){.inline-icon} Lime (5 kg)<br>|40s| ![Cement](/assets/images/elements/Cement.png){.inline-icon} Cement (100 kg)<br>|
+| ![Granite](/assets/images/elements/Granite.png){.inline-icon} Granite (25 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (60 kg)<br> ![Lime](/assets/images/elements/Lime.png){.inline-icon} Lime (5 kg)<br>|40s| ![Cement](/assets/images/elements/Cement.png){.inline-icon} Cement (100 kg)<br>|
+| ![SedimentaryRock](/assets/images/elements/SedimentaryRock.png){.inline-icon} Sedimentary Rock (25 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (60 kg)<br> ![Lime](/assets/images/elements/Lime.png){.inline-icon} Lime (5 kg)<br>|40s| ![Cement](/assets/images/elements/Cement.png){.inline-icon} Cement (100 kg)<br>|
+| ![SandStone](/assets/images/elements/SandStone.png){.inline-icon} Sandstone (25 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (60 kg)<br> ![Lime](/assets/images/elements/Lime.png){.inline-icon} Lime (5 kg)<br>|40s| ![Cement](/assets/images/elements/Cement.png){.inline-icon} Cement (100 kg)<br>|
+| ![MaficRock](/assets/images/elements/MaficRock.png){.inline-icon} Mafic Rock (25 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (60 kg)<br> ![Lime](/assets/images/elements/Lime.png){.inline-icon} Lime (5 kg)<br>|40s| ![Cement](/assets/images/elements/Cement.png){.inline-icon} Cement (100 kg)<br>|
+| ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} Crushed Rock (25 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (60 kg)<br> ![Lime](/assets/images/elements/Lime.png){.inline-icon} Lime (5 kg)<br>|40s| ![Cement](/assets/images/elements/Cement.png){.inline-icon} Cement (100 kg)<br>|
+| ![Cement](/assets/images/elements/Cement.png){.inline-icon} Cement (100 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (200 kg)<br> ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} Crushed Rock (300 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} Water (25 kg)<br>|30s| ![ConcreteBlock](/assets/images/elements/ConcreteBlock.png){.inline-icon} Concrete Block (600 kg)<br>|
 
 
 

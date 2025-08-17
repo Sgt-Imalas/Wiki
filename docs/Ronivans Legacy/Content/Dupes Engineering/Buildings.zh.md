@@ -52,17 +52,17 @@
 ### 配方
 |材料:| 耗时: | 产物:|
 |-|-|-|
-|页岩 (25 kg)<br>沙子 (60 kg)<br>石灰 (5 kg)<br>|40s|水泥 (100 kg)<br>|
-|陶瓷 (25 kg)<br>沙子 (60 kg)<br>石灰 (5 kg)<br>|40s|水泥 (100 kg)<br>|
-|黑曜石 (25 kg)<br>沙子 (60 kg)<br>石灰 (5 kg)<br>|40s|水泥 (100 kg)<br>|
-|火成岩 (25 kg)<br>沙子 (60 kg)<br>石灰 (5 kg)<br>|40s|水泥 (100 kg)<br>|
-|砖料 (25 kg)<br>沙子 (60 kg)<br>石灰 (5 kg)<br>|40s|水泥 (100 kg)<br>|
-|花岗岩 (25 kg)<br>沙子 (60 kg)<br>石灰 (5 kg)<br>|40s|水泥 (100 kg)<br>|
-|沉积岩 (25 kg)<br>沙子 (60 kg)<br>石灰 (5 kg)<br>|40s|水泥 (100 kg)<br>|
-|砂岩 (25 kg)<br>沙子 (60 kg)<br>石灰 (5 kg)<br>|40s|水泥 (100 kg)<br>|
-|镁铁质岩 (25 kg)<br>沙子 (60 kg)<br>石灰 (5 kg)<br>|40s|水泥 (100 kg)<br>|
-|碎岩 (25 kg)<br>沙子 (60 kg)<br>石灰 (5 kg)<br>|40s|水泥 (100 kg)<br>|
-|水泥 (100 kg)<br>沙子 (200 kg)<br>碎岩 (300 kg)<br>水 (25 kg)<br>|30s|混凝土砖 (600 kg)<br>|
+| ![Shale](/assets/images/elements/Shale.png){.inline-icon} 页岩 (25 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (60 kg)<br> ![Lime](/assets/images/elements/Lime.png){.inline-icon} 石灰 (5 kg)<br>|40s| ![Cement](/assets/images/elements/Cement.png){.inline-icon} 水泥 (100 kg)<br>|
+| ![Ceramic](/assets/images/elements/Ceramic.png){.inline-icon} 陶瓷 (25 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (60 kg)<br> ![Lime](/assets/images/elements/Lime.png){.inline-icon} 石灰 (5 kg)<br>|40s| ![Cement](/assets/images/elements/Cement.png){.inline-icon} 水泥 (100 kg)<br>|
+| ![Obsidian](/assets/images/elements/Obsidian.png){.inline-icon} 黑曜石 (25 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (60 kg)<br> ![Lime](/assets/images/elements/Lime.png){.inline-icon} 石灰 (5 kg)<br>|40s| ![Cement](/assets/images/elements/Cement.png){.inline-icon} 水泥 (100 kg)<br>|
+| ![IgneousRock](/assets/images/elements/IgneousRock.png){.inline-icon} 火成岩 (25 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (60 kg)<br> ![Lime](/assets/images/elements/Lime.png){.inline-icon} 石灰 (5 kg)<br>|40s| ![Cement](/assets/images/elements/Cement.png){.inline-icon} 水泥 (100 kg)<br>|
+| ![Brick](/assets/images/elements/Brick.png){.inline-icon} 砖料 (25 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (60 kg)<br> ![Lime](/assets/images/elements/Lime.png){.inline-icon} 石灰 (5 kg)<br>|40s| ![Cement](/assets/images/elements/Cement.png){.inline-icon} 水泥 (100 kg)<br>|
+| ![Granite](/assets/images/elements/Granite.png){.inline-icon} 花岗岩 (25 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (60 kg)<br> ![Lime](/assets/images/elements/Lime.png){.inline-icon} 石灰 (5 kg)<br>|40s| ![Cement](/assets/images/elements/Cement.png){.inline-icon} 水泥 (100 kg)<br>|
+| ![SedimentaryRock](/assets/images/elements/SedimentaryRock.png){.inline-icon} 沉积岩 (25 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (60 kg)<br> ![Lime](/assets/images/elements/Lime.png){.inline-icon} 石灰 (5 kg)<br>|40s| ![Cement](/assets/images/elements/Cement.png){.inline-icon} 水泥 (100 kg)<br>|
+| ![SandStone](/assets/images/elements/SandStone.png){.inline-icon} 砂岩 (25 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (60 kg)<br> ![Lime](/assets/images/elements/Lime.png){.inline-icon} 石灰 (5 kg)<br>|40s| ![Cement](/assets/images/elements/Cement.png){.inline-icon} 水泥 (100 kg)<br>|
+| ![MaficRock](/assets/images/elements/MaficRock.png){.inline-icon} 镁铁质岩 (25 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (60 kg)<br> ![Lime](/assets/images/elements/Lime.png){.inline-icon} 石灰 (5 kg)<br>|40s| ![Cement](/assets/images/elements/Cement.png){.inline-icon} 水泥 (100 kg)<br>|
+| ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} 碎岩 (25 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (60 kg)<br> ![Lime](/assets/images/elements/Lime.png){.inline-icon} 石灰 (5 kg)<br>|40s| ![Cement](/assets/images/elements/Cement.png){.inline-icon} 水泥 (100 kg)<br>|
+| ![Cement](/assets/images/elements/Cement.png){.inline-icon} 水泥 (100 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (200 kg)<br> ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} 碎岩 (300 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (25 kg)<br>|30s| ![ConcreteBlock](/assets/images/elements/ConcreteBlock.png){.inline-icon} 混凝土砖 (600 kg)<br>|
 
 
 
