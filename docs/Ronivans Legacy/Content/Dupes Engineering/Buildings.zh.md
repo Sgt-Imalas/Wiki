@@ -165,7 +165,7 @@
 ## 大型框架墙
 一种大尺寸的框架结构。
 
-MISSING.STRINGS.BUILDINGS.PREFABS.STRUCTUREFRAMELARGE.EFFECT
+为建筑物提供支撑，或者至少表面上看起来是这样。不能阻止气体或液体泄漏到虚空中。
 ### 信息
 | ![StructureFrameLarge](/assets/images/buildings/StructureFrameLarge.png){width="200"} | |
 |-|-|

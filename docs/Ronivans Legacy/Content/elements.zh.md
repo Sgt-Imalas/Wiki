@@ -1,5 +1,13 @@
 # 元素
 在配置中启用以下mod将为游戏添加对应新元素。
+## 新元素类别
+
+|<font size="+1">材料</font> | <font size="+1">元素</font> | |
+|:-:|:-:|:-|
+|<font size="+1">硬化合金</font> <br/> <br/>|硬化合金是两种或多种材料的熔合产物。<br/>其高强度特性使其可作为钢的替代材料使用。| ![PhosphorBronze](/assets/images/elements/PhosphorBronze.png){width="20"} 磷青铜<br/> ![Plasteel](/assets/images/elements/Plasteel.png){width="20"} 塑晶钢<br/>|
+|<font size="+1">载气</font> <br/> <br/>|载气是一类用于等离子体相关工艺的惰性或半惰性气体。| ![Helium](/assets/images/elements/Helium.png){width="20"} 氦气<br/> ![Hydrogen](/assets/images/elements/Hydrogen.png){width="20"} 氢气<br/> ![NitrogenGas](/assets/images/elements/NitrogenGas.png){width="20"} 氮气<br/>|
+|<font size="+1">金属砂</font> <br/> <br/>|由不同数量的金属颗粒组成的砂质材料| ![BaseGradeSand](/assets/images/elements/BaseGradeSand.png){width="20"} 中级金属砂<br/> ![LowGradeSand](/assets/images/elements/LowGradeSand.png){width="20"} 低级金属砂<br/> ![HighGradeSand](/assets/images/elements/HighGradeSand.png){width="20"} 高级金属砂<br/>|
+
 ## 化学工艺-工业革命
 ### 新 元素
 

@@ -35,6 +35,7 @@ LIST WIP.
 - all pipe and conveyor rail buildings now list their transfer capacity in the build menu
 - fixed foreground layering of a few animation
 - building ports that take in a specific element will have that specified in their "input missing"-tooltip
+- added hysteresis storage mod integration to storage and loader buildings
 
 ## Chemical Processing - Biochemistry
 
@@ -94,6 +95,7 @@ LIST WIP.
 - medium reservoirs no longer require the any port to be connected to function
 - condensed the two variants of the small reservoirs into one build menu entry, swappable via blueprint selector
 - all reserovir capacities can be tweaked in the building editor of the config
+- medium reservoirs can now be flipped
 
 ## Dupes Engineering
 

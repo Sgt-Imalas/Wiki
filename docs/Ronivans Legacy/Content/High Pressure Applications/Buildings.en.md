@@ -152,7 +152,7 @@ Loads Solid Materials onto Heavy-Duty Rail for transport.<br/><br/>Only loads th
 ### Info
 | ![HPA_InBox](/assets/images/buildings/HPA_InBox.png){width="200"} | |
 |-|-|
-|**Dimensions:** | 1 wide x 3 high|
+|**Dimensions:** | 3 wide x 1 high|
 |**Power Consumption:**| 960 W|
 |**Research Required:**| High-Capacity Solid Transport|
 |**Storage Capacity:**| 10 t|

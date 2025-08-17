@@ -1,5 +1,13 @@
 # Elements
 Enabling the following mods in the config will add several new elements to the game.<br/><br/>A few of them will also be added to the starmap pois for mining or spawn during worldgen.
+## New Element Categories
+
+|<font size="+1">Material</font> | <font size="+1">Elements</font> | |
+|:-:|:-:|:-|
+|<font size="+1">Carrier Gas</font> <br/> <br/>|Carrier Gases are inert or semi-inert gases that are used in plasma related processes.| ![Helium](/assets/images/elements/Helium.png){width="20"} Helium<br/> ![Hydrogen](/assets/images/elements/Hydrogen.png){width="20"} Hydrogen Gas<br/> ![NitrogenGas](/assets/images/elements/NitrogenGas.png){width="20"} Nitrogen<br/>|
+|<font size="+1">Hardened Alloy</font> <br/> <br/>|Hardened Alloys are a fusion of two or more materials.<br/>Their high material strength allows them to be used as a substitute to Steel| ![PhosphorBronze](/assets/images/elements/PhosphorBronze.png){width="20"} Phosphor Bronze<br/> ![Plasteel](/assets/images/elements/Plasteel.png){width="20"} Plasteel<br/>|
+|<font size="+1">Metallic Sand</font> <br/> <br/>|Sandy materials composed of a various number of metallic grains| ![BaseGradeSand](/assets/images/elements/BaseGradeSand.png){width="20"} Base-Grade Metallic Sand<br/> ![LowGradeSand](/assets/images/elements/LowGradeSand.png){width="20"} Low-Grade Metallic Sand<br/> ![HighGradeSand](/assets/images/elements/HighGradeSand.png){width="20"} High-Grade Metallic Sand<br/>|
+
 ## Chemical Processing - Industrial Overhaul
 ### New Elements
 

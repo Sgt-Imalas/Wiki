@@ -559,7 +559,6 @@ Crush down Raw Minerals in to useful materials and industrial ingredients.
 |Chloroschist (100 kg)<br>|50s|Crushed Rock (65 kg)<br>Sand (20 kg)<br>Bleach Stone (500 g)<br>Salt (14.5 kg)<br>|
 |Shale (100 kg)<br>|40s|Crushed Rock (100 kg)<br>|
 |Ceramic (100 kg)<br>|40s|Crushed Rock (100 kg)<br>|
-|Obsidian (100 kg)<br>|40s|Crushed Rock (100 kg)<br>|
 |Igneous Rock (100 kg)<br>|40s|Crushed Rock (100 kg)<br>|
 |Brick (100 kg)<br>|40s|Crushed Rock (100 kg)<br>|
 |Granite (100 kg)<br>|40s|Crushed Rock (100 kg)<br>|

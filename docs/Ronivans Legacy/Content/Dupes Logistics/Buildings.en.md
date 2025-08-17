@@ -62,7 +62,7 @@ Loads Solid Materials onto Logistic Conveyor Rails for transport.<br/><br/>Only 
 |**Dimensions:** | 1 wide x 2 high|
 |**Power Consumption:**| 60 W|
 |**Research Required:**| Smart Storage|
-|**Storage Capacity:**| 500 kg|
+|**Storage Capacity:**| 600 kg|
 
 |**<font size="+1">Material Costs:</font>**| |
 |-|-|
