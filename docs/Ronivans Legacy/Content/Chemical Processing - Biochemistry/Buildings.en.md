@@ -4,7 +4,7 @@
 
 A wide, automated biological tank design to grow organic masses of algae.
 
-Grows Algae using a constant supply of Vegetable Oil that serves as serves as nourishment for the photosynthetic organisms within.<br/>Requires Light and a strict control of Temperature as to provide proper environment for the production.
+Grows Algae using a constant supply of Vegetable Oil that serves as serves as nourishment for the photosynthetic organisms within.<br/> Requires Light and a strict control of Temperature as to provide proper environment for the production.
 
 |                                                                                                                            |                                         |                              |
 | -------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- | ---------------------------- |
