@@ -3,16 +3,13 @@
 适用于广泛的工业和化学领域应用。
 
 一种先进的隔热式电窑，其热量通过金属的感应加热方式传递。<br/>感应式窑炉的一个优点是，与大多数其他燃料加热方式相比，其加热过程更加清洁、节能且可控性更强。
-### 信息
-| ![Chemical_AdvancedKiln](/assets/images/buildings/Chemical_AdvancedKiln.png){width="200"} | |
-|-|-|
-|**尺寸:** | 宽 3 x 高 3|
-|**耗电:**| 800 W|
-|**科技:**| 熔炼|
 
-|**<font size="+1">建造材料:</font>**| |
-|-|-|
-|精炼金属|200 kg|
+| | | |
+|-|-|-|
+| ![Chemical_AdvancedKiln](/assets/images/buildings/Chemical_AdvancedKiln.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 3 x 高 3|
+|**耗电:**| 800 W|&#8288 {: style="padding:0"}|
+|**科技:**| 熔炼|&#8288 {: style="padding:0"}| 
+|**<font size="+1">建造材料:</font>**|<table><tr><td>精炼金属</td><td>200 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 ### 配方
 |材料:| 耗时: | 产物:|
@@ -35,22 +32,14 @@
 一座经过改进的精炼器，能够采用大规模熔炼工艺，并具备独家的金属生产能力。
 
 一种从原始金属矿石中生产精炼金属的先进方法。<br/>该方法能显著加热金属，并且只使用通过管道输送的超级冷却剂。<br/>复制人不会制造物品，除非有相应的配方已在队列。
-### 信息
-| ![Chemical_AdvancedMetalRefinery](/assets/images/buildings/Chemical_AdvancedMetalRefinery.png){width="200"} | |
-|-|-|
-|**尺寸:** | 宽 3 x 高 5|
-|**耗电:**| 3000 W|
-|**科技:**| 超热锻造|
 
-|**<font size="+1">建造材料:</font>**| |
-|-|-|
-|钢 或 硬化合金|1000 kg|
-|陶瓷|600 kg|
-
-### 建筑接口
-|输入:|输出:|
-|-|-|
-|超级冷却剂 输入管道|液体 输出管道|
+| | | |
+|-|-|-|
+| ![Chemical_AdvancedMetalRefinery](/assets/images/buildings/Chemical_AdvancedMetalRefinery.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 3 x 高 5|
+|**耗电:**| 3000 W|&#8288 {: style="padding:0"}|
+|**科技:**| 超热锻造|&#8288 {: style="padding:0"}| 
+|**<font size="+1">建造材料:</font>**|<table><tr><td>钢 或 硬化合金</td><td>1000 kg</td></tr><tr><td>陶瓷</td><td>600 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+| **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>超级冷却剂 输入管道</td><td>液体 输出管道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 ### 配方
 |材料:| 耗时: | 产物:|
@@ -76,16 +65,13 @@
 一座大型的工业加工厂，利用钢球和特殊的振动分离装置来破碎原始矿石，并从中筛选出可能有用的资源。
 
 将矿物原料粉碎成有用的材料和工业原料。
-### 信息
-| ![Metallurgy_BallCrusherMill](/assets/images/buildings/Metallurgy_BallCrusherMill.png){width="200"} | |
-|-|-|
-|**尺寸:** | 宽 5 x 高 3|
-|**耗电:**| 800 W|
-|**科技:**| 超热锻造|
 
-|**<font size="+1">建造材料:</font>**| |
-|-|-|
-|钢 或 硬化合金|1000 kg|
+| | | |
+|-|-|-|
+| ![Metallurgy_BallCrusherMill](/assets/images/buildings/Metallurgy_BallCrusherMill.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 5 x 高 3|
+|**耗电:**| 800 W|&#8288 {: style="padding:0"}|
+|**科技:**| 超热锻造|&#8288 {: style="padding:0"}| 
+|**<font size="+1">建造材料:</font>**|<table><tr><td>钢 或 硬化合金</td><td>1000 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 ### 配方
 |材料:| 耗时: | 随机产物:|
@@ -104,25 +90,16 @@
 一种基础的原油精炼厂，其热源来自燃烧的固体物质。
 
 将原油通过煤炭作为热源转化为石油。<br/><br/>该精炼过程会产生天然气和二氧化碳<br/><br/>重要提示：气体输出端的管道是可选的。如果没有将气体管道连接到这些端口上，那么输出的气体将直接排放到环境中。
-### 信息
-| ![Metallurgy_BasicOilRefinery](/assets/images/buildings/Metallurgy_BasicOilRefinery.png){width="200"} | |
-|-|-|
-|**尺寸:** | 宽 3 x 高 4|
-|**耗电:**| 90 W|
-|**科技:**| 化石燃料|
 
-|**<font size="+1">建造材料:</font>**| |
-|-|-|
-|金属矿石|200 kg|
+| | | |
+|-|-|-|
+| ![Metallurgy_BasicOilRefinery](/assets/images/buildings/Metallurgy_BasicOilRefinery.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 3 x 高 4|
+|**耗电:**| 90 W|&#8288 {: style="padding:0"}|
+|**科技:**| 化石燃料|&#8288 {: style="padding:0"}| 
+|**<font size="+1">建造材料:</font>**|<table><tr><td>金属矿石</td><td>200 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+| **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>原油 输入管道</td><td>液体 输出管道</td></tr><tr><td>-</td><td>二氧化碳 输出管道</td></tr><tr><td>-</td><td>天然气 输出管道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
-### 建筑接口
-|输入:|输出:|
-|-|-|
-|原油 输入管道|液体 输出管道|
-|-|二氧化碳 输出管道|
-|-|天然气 输出管道|
-
-### 元素转换
+#### 元素转换
 |输入:|输出:|
 |-|-|
 | ![CrudeOil](/assets/images/elements/CrudeOil.png){.inline-icon} 原油 (5 kg/秒)<br> ![CombustibleSolid](/assets/images/entities/CombustibleSolid.png){.inline-icon} 可燃固体 (100 g/秒)<br>| ![Petroleum](/assets/images/elements/Petroleum.png){.inline-icon} 石油 (2500 g/秒 于 98°C)<br> ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} 二氧化碳 (50 g/秒)<br> ![Methane](/assets/images/elements/Methane.png){.inline-icon} 天然气 (90 g/秒 于 115°C)<br>|
@@ -133,22 +110,14 @@
 等离子弧炉利用由电弧加热器（等离子体发生器）产生的低温等离子体流来工作。
 
 这个技术先进的玻璃熔炉不仅能够将沙子熔化成熔融玻璃，还能用于众多其他领域。
-### 信息
-| ![Chemical_GlassFoundry](/assets/images/buildings/Chemical_GlassFoundry.png){width="200"} | |
-|-|-|
-|**尺寸:** | 宽 3 x 高 3|
-|**耗电:**| 2400 W|
-|**科技:**| 超热锻造|
 
-|**<font size="+1">建造材料:</font>**| |
-|-|-|
-|陶瓷|500 kg|
-|精炼金属|200 kg|
-
-### 建筑接口
-|输入:|输出:|
-|-|-|
-|-|液体 输出管道|
+| | | |
+|-|-|-|
+| ![Chemical_GlassFoundry](/assets/images/buildings/Chemical_GlassFoundry.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 3 x 高 3|
+|**耗电:**| 2400 W|&#8288 {: style="padding:0"}|
+|**科技:**| 超热锻造|&#8288 {: style="padding:0"}| 
+|**<font size="+1">建造材料:</font>**|<table><tr><td>陶瓷</td><td>500 kg</td></tr><tr><td>精炼金属</td><td>200 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+| **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>-</td><td>液体 输出管道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 ### 配方
 |材料:| 耗时: | 产物:|
@@ -167,16 +136,13 @@
 颚式破碎机利用强筋的咬合力来破碎石头及矿物原料。
 
 将矿物原料粉碎成有用的材料和工业原料。
-### 信息
-| ![Chemical_SmallCrusherMill](/assets/images/buildings/Chemical_SmallCrusherMill.png){width="200"} | |
-|-|-|
-|**尺寸:** | 宽 3 x 高 2|
-|**耗电:**| 120 W|
-|**科技:**| 蛮力精炼|
 
-|**<font size="+1">建造材料:</font>**| |
-|-|-|
-|金属矿石|200 kg|
+| | | |
+|-|-|-|
+| ![Chemical_SmallCrusherMill](/assets/images/buildings/Chemical_SmallCrusherMill.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 3 x 高 2|
+|**耗电:**| 120 W|&#8288 {: style="padding:0"}|
+|**科技:**| 蛮力精炼|&#8288 {: style="padding:0"}| 
+|**<font size="+1">建造材料:</font>**|<table><tr><td>金属矿石</td><td>200 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 ### 配方
 |材料:| 耗时: | 产物:|
@@ -220,25 +186,16 @@
 先进熔炼冶金炉，其利用由载气喷射产生的极高温度的热等离子体进行工作。高昂的能耗通过精炼过程的质量和产量得到了弥补。
 
 采用先进技术精炼金属矿石及其他矿物原料。<br/><br/>在制造过程中产生大量的热量并消耗载气。<br/><br/>主要产物以熔融态直排至建筑下方地面，液态废料通过独立端口排出。
-### 信息
-| ![Metallurgy_PlasmaFurnace](/assets/images/buildings/Metallurgy_PlasmaFurnace.png){width="200"} | |
-|-|-|
-|**尺寸:** | 宽 5 x 高 5|
-|**耗电:**| 5000 W|
-|**科技:**| 催化剂|
 
-|**<font size="+1">建造材料:</font>**| |
-|-|-|
-|陶瓷|2000 kg|
-|钨|1000 kg|
+| | | |
+|-|-|-|
+| ![Metallurgy_PlasmaFurnace](/assets/images/buildings/Metallurgy_PlasmaFurnace.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 5 x 高 5|
+|**耗电:**| 5000 W|&#8288 {: style="padding:0"}|
+|**科技:**| 催化剂|&#8288 {: style="padding:0"}| 
+|**<font size="+1">建造材料:</font>**|<table><tr><td>陶瓷</td><td>2000 kg</td></tr><tr><td>钨</td><td>1000 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+| **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>载气 输入管道</td><td>玻璃 输出管道</td></tr><tr><td>-</td><td>玻璃 输出管道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
-### 建筑接口
-|输入:|输出:|
-|-|-|
-|载气 输入管道|玻璃 输出管道|
-|-|玻璃 输出管道|
-
-### 元素转换
+#### 元素转换
 |输入:|输出:|
 |-|-|
 | ![AIO_CarrierGas](/assets/images/entities/AIO_CarrierGas.png){.inline-icon} 载气 (100 g/秒)<br>| ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} 二氧化碳 (25 g/秒 于 75°C)<br>|
@@ -270,17 +227,15 @@
 一种基本的窑炉，它通过热解过程将木料转化为可用的煤炭。
 
 将木材热解为煤炭。
-### 信息
-| ![Metallurgy_PyrolysisKiln](/assets/images/buildings/Metallurgy_PyrolysisKiln.png){width="200"} | |
-|-|-|
-|**尺寸:** | 宽 1 x 高 2|
-|**科技:**| 蛮力精炼|
 
-|**<font size="+1">建造材料:</font>**| |
-|-|-|
-|金属矿石|200 kg|
+| | | |
+|-|-|-|
+| ![Metallurgy_PyrolysisKiln](/assets/images/buildings/Metallurgy_PyrolysisKiln.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 1 x 高 2|
+|**耗电:**| 0 W|&#8288 {: style="padding:0"}|
+|**科技:**| 蛮力精炼|&#8288 {: style="padding:0"}| 
+|**<font size="+1">建造材料:</font>**|<table><tr><td>金属矿石</td><td>200 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
-### 元素转换
+#### 元素转换
 |输入:|输出:|
 |-|-|
 | ![WoodLog](/assets/images/elements/WoodLog.png){.inline-icon} 木材 (1000 g/秒)<br>| ![Carbon](/assets/images/elements/Carbon.png){.inline-icon} 煤炭 (330 g/秒 于 39°C)<br> ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} 二氧化碳 (100 g/秒 于 97°C)<br>|
@@ -291,23 +246,14 @@
 一种用于将多种固体材料均匀混合的设备，同时还会对这些材料进行化学处理。
 
 一款专为农业用途设计的坚固型物料混合器，主要用于生产泥土和肥料。
-### 信息
-| ![Chemical_SoilMixer](/assets/images/buildings/Chemical_SoilMixer.png){width="200"} | |
-|-|-|
-|**尺寸:** | 宽 4 x 高 4|
-|**耗电:**| 480 W|
-|**科技:**| 农业|
 
-|**<font size="+1">建造材料:</font>**| |
-|-|-|
-|精炼金属|400 kg|
-
-### 建筑接口
-|输入:|输出:|
-|-|-|
-|污染水 输入管道|-|
-|水 输入管道|-|
-|氨 输入管道|-|
+| | | |
+|-|-|-|
+| ![Chemical_SoilMixer](/assets/images/buildings/Chemical_SoilMixer.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 4 x 高 4|
+|**耗电:**| 480 W|&#8288 {: style="padding:0"}|
+|**科技:**| 农业|&#8288 {: style="padding:0"}| 
+|**<font size="+1">建造材料:</font>**|<table><tr><td>精炼金属</td><td>400 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+| **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>污染水 输入管道</td><td>-</td></tr><tr><td>水 输入管道</td><td>-</td></tr><tr><td>氨 输入管道</td><td>-</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 ### 配方
 |材料:| 耗时: | 产物:|

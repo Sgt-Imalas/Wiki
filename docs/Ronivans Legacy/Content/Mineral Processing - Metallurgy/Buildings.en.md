@@ -3,16 +3,13 @@
 Adress a wide range of industrial and chemical applications.
 
 An advanced insulated electrical kiln in which the heat is applied by induction heating of metal.<br/>The advantage of the induction kiln is a clean, energy-efficient and well-controllable heating process compared to most other means of fuel heating.
-### Info
-| ![Chemical_AdvancedKiln](/assets/images/buildings/Chemical_AdvancedKiln.png){width="200"} | |
-|-|-|
-|**Dimensions:** | 3 wide x 3 high|
-|**Power Consumption:**| 800 W|
-|**Research Required:**| Smelting|
 
-|**<font size="+1">Material Costs:</font>**| |
-|-|-|
-|Refined Metal|200 kg|
+| | | |
+|-|-|-|
+| ![Chemical_AdvancedKiln](/assets/images/buildings/Chemical_AdvancedKiln.png){height="100"} {rowspan="3"}|**Dimensions:** | 3 wide x 3 high|
+|**Power Consumption:**| 800 W|&#8288 {: style="padding:0"}|
+|**Research Required:**| Smelting|&#8288 {: style="padding:0"}| 
+|**<font size="+1">Material Costs:</font>**|<table><tr><td>Refined Metal</td><td>200 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 ### Recipes
 |Ingredients:| Time: | Products:|
@@ -35,22 +32,14 @@ An advanced insulated electrical kiln in which the heat is applied by induction 
 An improved refinery capable of bulk smelting process, as well exclusive metal production.
 
 An advanced method for production of Refined Metals from raw Metal Ore.<br/><br/>Significantly Heats and exclusively uses Super Coolant piped into it.<br/><br/>Duplicants will not fabricate items unless recipes are queued.
-### Info
-| ![Chemical_AdvancedMetalRefinery](/assets/images/buildings/Chemical_AdvancedMetalRefinery.png){width="200"} | |
-|-|-|
-|**Dimensions:** | 3 wide x 5 high|
-|**Power Consumption:**| 3000 W|
-|**Research Required:**| Superheated Forging|
 
-|**<font size="+1">Material Costs:</font>**| |
-|-|-|
-|Steel or Hardened Alloy|1000 kg|
-|Ceramic|600 kg|
-
-### Building Ports
-|Inputs:|Outputs:|
-|-|-|
-|Super Coolant Input Pipe|Liquid Output Pipe|
+| | | |
+|-|-|-|
+| ![Chemical_AdvancedMetalRefinery](/assets/images/buildings/Chemical_AdvancedMetalRefinery.png){height="100"} {rowspan="3"}|**Dimensions:** | 3 wide x 5 high|
+|**Power Consumption:**| 3000 W|&#8288 {: style="padding:0"}|
+|**Research Required:**| Superheated Forging|&#8288 {: style="padding:0"}| 
+|**<font size="+1">Material Costs:</font>**|<table><tr><td>Steel or Hardened Alloy</td><td>1000 kg</td></tr><tr><td>Ceramic</td><td>600 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+| **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Super Coolant Input Pipe</td><td>Liquid Output Pipe</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 ### Recipes
 |Ingredients:| Time: | Products:|
@@ -76,16 +65,13 @@ An advanced method for production of Refined Metals from raw Metal Ore.<br/><br/
 A large sized industrial mill that crushes raw ores using steel balls and special vibrating separation device to sort out possible useful resources.
 
 Crush down Raw Minerals in to useful materials and industrial ingredients.
-### Info
-| ![Metallurgy_BallCrusherMill](/assets/images/buildings/Metallurgy_BallCrusherMill.png){width="200"} | |
-|-|-|
-|**Dimensions:** | 5 wide x 3 high|
-|**Power Consumption:**| 800 W|
-|**Research Required:**| Superheated Forging|
 
-|**<font size="+1">Material Costs:</font>**| |
-|-|-|
-|Steel or Hardened Alloy|1000 kg|
+| | | |
+|-|-|-|
+| ![Metallurgy_BallCrusherMill](/assets/images/buildings/Metallurgy_BallCrusherMill.png){height="100"} {rowspan="3"}|**Dimensions:** | 5 wide x 3 high|
+|**Power Consumption:**| 800 W|&#8288 {: style="padding:0"}|
+|**Research Required:**| Superheated Forging|&#8288 {: style="padding:0"}| 
+|**<font size="+1">Material Costs:</font>**|<table><tr><td>Steel or Hardened Alloy</td><td>1000 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 ### Recipes
 |Ingredients:| Time: | Random Products:|
@@ -104,25 +90,16 @@ Crush down Raw Minerals in to useful materials and industrial ingredients.
 A basic oil refinery that uses burning solids as heat source.
 
 Refines Crude Oil to Petroleum using Coal as heat source. <br/>The refinement process produces Natural Gas and Carbon Dioxide.<br/><br/>IMPORTANT: The Gases output ports piping is optional. If no Gas Pipe is attached to them, the output gases will be released directly on the environment.
-### Info
-| ![Metallurgy_BasicOilRefinery](/assets/images/buildings/Metallurgy_BasicOilRefinery.png){width="200"} | |
-|-|-|
-|**Dimensions:** | 3 wide x 4 high|
-|**Power Consumption:**| 90 W|
-|**Research Required:**| Fossil Fuels|
 
-|**<font size="+1">Material Costs:</font>**| |
-|-|-|
-|Metal Ore|200 kg|
+| | | |
+|-|-|-|
+| ![Metallurgy_BasicOilRefinery](/assets/images/buildings/Metallurgy_BasicOilRefinery.png){height="100"} {rowspan="3"}|**Dimensions:** | 3 wide x 4 high|
+|**Power Consumption:**| 90 W|&#8288 {: style="padding:0"}|
+|**Research Required:**| Fossil Fuels|&#8288 {: style="padding:0"}| 
+|**<font size="+1">Material Costs:</font>**|<table><tr><td>Metal Ore</td><td>200 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+| **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Crude Oil Input Pipe</td><td>Liquid Output Pipe</td></tr><tr><td>-</td><td>Carbon Dioxide Output Pipe</td></tr><tr><td>-</td><td>Natural Gas Output Pipe</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
-### Building Ports
-|Inputs:|Outputs:|
-|-|-|
-|Crude Oil Input Pipe|Liquid Output Pipe|
-|-|Carbon Dioxide Output Pipe|
-|-|Natural Gas Output Pipe|
-
-### Element Conversion
+#### Element Conversion
 |Inputs:|Outputs:|
 |-|-|
 | ![CrudeOil](/assets/images/elements/CrudeOil.png){.inline-icon} Crude Oil (5 kg/s)<br> ![CombustibleSolid](/assets/images/entities/CombustibleSolid.png){.inline-icon} Combustible Solid (100 g/s)<br>| ![Petroleum](/assets/images/elements/Petroleum.png){.inline-icon} Petroleum (2500 g/s at 98°C)<br> ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} Carbon Dioxide (50 g/s)<br> ![Methane](/assets/images/elements/Methane.png){.inline-icon} Natural Gas (90 g/s at 115°C)<br>|
@@ -133,22 +110,14 @@ Refines Crude Oil to Petroleum using Coal as heat source. <br/>The refinement pr
 A plasma arc furnace uses low-temperature plasma flow created by an electric arc heater (plasmatron).
 
 This techlogical advanced glass foundry is capable more than melt Sand in to Molten Glass, but a wide range of other applications.
-### Info
-| ![Chemical_GlassFoundry](/assets/images/buildings/Chemical_GlassFoundry.png){width="200"} | |
-|-|-|
-|**Dimensions:** | 3 wide x 3 high|
-|**Power Consumption:**| 2400 W|
-|**Research Required:**| Superheated Forging|
 
-|**<font size="+1">Material Costs:</font>**| |
-|-|-|
-|Ceramic|500 kg|
-|Refined Metal|200 kg|
-
-### Building Ports
-|Inputs:|Outputs:|
-|-|-|
-|-|Liquid Output Pipe|
+| | | |
+|-|-|-|
+| ![Chemical_GlassFoundry](/assets/images/buildings/Chemical_GlassFoundry.png){height="100"} {rowspan="3"}|**Dimensions:** | 3 wide x 3 high|
+|**Power Consumption:**| 2400 W|&#8288 {: style="padding:0"}|
+|**Research Required:**| Superheated Forging|&#8288 {: style="padding:0"}| 
+|**<font size="+1">Material Costs:</font>**|<table><tr><td>Ceramic</td><td>500 kg</td></tr><tr><td>Refined Metal</td><td>200 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+| **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>-</td><td>Liquid Output Pipe</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 ### Recipes
 |Ingredients:| Time: | Products:|
@@ -167,16 +136,13 @@ This techlogical advanced glass foundry is capable more than melt Sand in to Mol
 A jaw crusher uses compressive force for breaking of stone and other raw minerals.
 
 Crush down Raw Minerals in to useful materials and industrial ingredients.
-### Info
-| ![Chemical_SmallCrusherMill](/assets/images/buildings/Chemical_SmallCrusherMill.png){width="200"} | |
-|-|-|
-|**Dimensions:** | 3 wide x 2 high|
-|**Power Consumption:**| 120 W|
-|**Research Required:**| Brute-Force Refinement|
 
-|**<font size="+1">Material Costs:</font>**| |
-|-|-|
-|Metal Ore|200 kg|
+| | | |
+|-|-|-|
+| ![Chemical_SmallCrusherMill](/assets/images/buildings/Chemical_SmallCrusherMill.png){height="100"} {rowspan="3"}|**Dimensions:** | 3 wide x 2 high|
+|**Power Consumption:**| 120 W|&#8288 {: style="padding:0"}|
+|**Research Required:**| Brute-Force Refinement|&#8288 {: style="padding:0"}| 
+|**<font size="+1">Material Costs:</font>**|<table><tr><td>Metal Ore</td><td>200 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 ### Recipes
 |Ingredients:| Time: | Products:|
@@ -220,25 +186,16 @@ Crush down Raw Minerals in to useful materials and industrial ingredients.
 An advanced pyrometallurgical furnace that uses an extremely hot thermal plasma generated by a carrier gas jet. The high energy consumption is compensated by the quality and the yield of the refining process.
 
 An advanced method for the refinement of Metal Ores and other Raw Minerals.<br/><br/>Produces significant amounts of Heat and consumes carrier gases during manufacturing.<br/><br/>Main products are dispensed in molten state directly in the floor below the building while the liquid waste is released in a separated port.
-### Info
-| ![Metallurgy_PlasmaFurnace](/assets/images/buildings/Metallurgy_PlasmaFurnace.png){width="200"} | |
-|-|-|
-|**Dimensions:** | 5 wide x 5 high|
-|**Power Consumption:**| 5000 W|
-|**Research Required:**| Catalytics|
 
-|**<font size="+1">Material Costs:</font>**| |
-|-|-|
-|Ceramic|2000 kg|
-|Tungsten|1000 kg|
+| | | |
+|-|-|-|
+| ![Metallurgy_PlasmaFurnace](/assets/images/buildings/Metallurgy_PlasmaFurnace.png){height="100"} {rowspan="3"}|**Dimensions:** | 5 wide x 5 high|
+|**Power Consumption:**| 5000 W|&#8288 {: style="padding:0"}|
+|**Research Required:**| Catalytics|&#8288 {: style="padding:0"}| 
+|**<font size="+1">Material Costs:</font>**|<table><tr><td>Ceramic</td><td>2000 kg</td></tr><tr><td>Tungsten</td><td>1000 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+| **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Carrier Gas Input Pipe</td><td>Glass Output Pipe</td></tr><tr><td>-</td><td>Glass Output Pipe</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
-### Building Ports
-|Inputs:|Outputs:|
-|-|-|
-|Carrier Gas Input Pipe|Glass Output Pipe|
-|-|Glass Output Pipe|
-
-### Element Conversion
+#### Element Conversion
 |Inputs:|Outputs:|
 |-|-|
 | ![AIO_CarrierGas](/assets/images/entities/AIO_CarrierGas.png){.inline-icon} Carrier Gas (100 g/s)<br>| ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} Carbon Dioxide (25 g/s at 75°C)<br>|
@@ -270,17 +227,15 @@ An advanced method for the refinement of Metal Ores and other Raw Minerals.<br/>
 A basic kiln that uses pyrolysis process to convert woodlogs to usable coal.
 
 Cook Wood to Coal.
-### Info
-| ![Metallurgy_PyrolysisKiln](/assets/images/buildings/Metallurgy_PyrolysisKiln.png){width="200"} | |
-|-|-|
-|**Dimensions:** | 1 wide x 2 high|
-|**Research Required:**| Brute-Force Refinement|
 
-|**<font size="+1">Material Costs:</font>**| |
-|-|-|
-|Metal Ore|200 kg|
+| | | |
+|-|-|-|
+| ![Metallurgy_PyrolysisKiln](/assets/images/buildings/Metallurgy_PyrolysisKiln.png){height="100"} {rowspan="3"}|**Dimensions:** | 1 wide x 2 high|
+|**Power Consumption:**| 0 W|&#8288 {: style="padding:0"}|
+|**Research Required:**| Brute-Force Refinement|&#8288 {: style="padding:0"}| 
+|**<font size="+1">Material Costs:</font>**|<table><tr><td>Metal Ore</td><td>200 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
-### Element Conversion
+#### Element Conversion
 |Inputs:|Outputs:|
 |-|-|
 | ![WoodLog](/assets/images/elements/WoodLog.png){.inline-icon} Wood (1000 g/s)<br>| ![Carbon](/assets/images/elements/Carbon.png){.inline-icon} Coal (330 g/s at 39°C)<br> ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} Carbon Dioxide (100 g/s at 97°C)<br>|
@@ -291,23 +246,14 @@ Cook Wood to Coal.
 A mixer designed for uniform blending of a wide variety of solid materials, while treating them with chemicals.
 
 A solid material mixer designed for agricultural purpose, mainly for the production of Dirt and Fertilizer.
-### Info
-| ![Chemical_SoilMixer](/assets/images/buildings/Chemical_SoilMixer.png){width="200"} | |
-|-|-|
-|**Dimensions:** | 4 wide x 4 high|
-|**Power Consumption:**| 480 W|
-|**Research Required:**| Agriculture|
 
-|**<font size="+1">Material Costs:</font>**| |
-|-|-|
-|Refined Metal|400 kg|
-
-### Building Ports
-|Inputs:|Outputs:|
-|-|-|
-|Polluted Water Input Pipe|-|
-|Water Input Pipe|-|
-|Ammonia Input Pipe|-|
+| | | |
+|-|-|-|
+| ![Chemical_SoilMixer](/assets/images/buildings/Chemical_SoilMixer.png){height="100"} {rowspan="3"}|**Dimensions:** | 4 wide x 4 high|
+|**Power Consumption:**| 480 W|&#8288 {: style="padding:0"}|
+|**Research Required:**| Agriculture|&#8288 {: style="padding:0"}| 
+|**<font size="+1">Material Costs:</font>**|<table><tr><td>Refined Metal</td><td>400 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+| **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Polluted Water Input Pipe</td><td>-</td></tr><tr><td>Water Input Pipe</td><td>-</td></tr><tr><td>Ammonia Input Pipe</td><td>-</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 ### Recipes
 |Ingredients:| Time: | Products:|

@@ -3,16 +3,13 @@
 Drills into Deep Mineral Deposits to extract solid resources.
 
 A strong drilling apparatus engineered with self guidance sensors for mineral ores, and retrieval of resources while operational.<br/>The type of the drill head determines the dept of the drilling, retriving resources from other parts of the Asteroid that are inaccessible by normal means.<br/>The drill sensors have a limited range, and retrieval of useful ores are not guaranteed.
-### Info
-| ![Mining_MineralDrill](/assets/images/buildings/Mining_MineralDrill.png){width="200"} | |
-|-|-|
-|**Dimensions:** | 4 wide x 5 high|
-|**Power Consumption:**| 1200 W|
-|**Research Required:**| Solid Management|
 
-|**<font size="+1">Material Costs:</font>**| |
-|-|-|
-|Steel or Hardened Alloy|1200 kg|
+| | | |
+|-|-|-|
+| ![Mining_MineralDrill](/assets/images/buildings/Mining_MineralDrill.png){height="100"} {rowspan="3"}|**Dimensions:** | 4 wide x 5 high|
+|**Power Consumption:**| 1200 W|&#8288 {: style="padding:0"}|
+|**Research Required:**| Solid Management|&#8288 {: style="padding:0"}| 
+|**<font size="+1">Material Costs:</font>**|<table><tr><td>Steel or Hardened Alloy</td><td>1200 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 ### Recipes
 |Ingredients:| Time: | Products:|Random Occurences:|
@@ -27,22 +24,16 @@ A strong drilling apparatus engineered with self guidance sensors for mineral or
 A giant machinery engineered in the old world for asteroid mining. Has a self propelled drilling head fitted with a sensorial system and actuators that helps it to travel through the asteroid crust in search for resources of interest.
 
 This rig uses specialized Drillbits to mine useful resources from the asteroid crust.<br/>Retrived resources are released upon the Drill Head return.<br/><br/>Require a constant supply of Combustable Fuel to function.<br/><br/>Results: resources that are delivered upon Drillhead return.<br/>Occurrence: resources that are generated during Drillhead operation.
-### Info
-| ![Mining_AugerDrill](/assets/images/buildings/Mining_AugerDrill.png){width="200"} | |
-|-|-|
-|**Dimensions:** | 13 wide x 8 high|
-|**Research Required:**| Solid Management|
 
-|**<font size="+1">Material Costs:</font>**| |
-|-|-|
-|Steel or Hardened Alloy|5 t|
+| | | |
+|-|-|-|
+| ![Mining_AugerDrill](/assets/images/buildings/Mining_AugerDrill.png){height="100"} {rowspan="3"}|**Dimensions:** | 13 wide x 8 high|
+|**Power Consumption:**| 0 W|&#8288 {: style="padding:0"}|
+|**Research Required:**| Solid Management|&#8288 {: style="padding:0"}| 
+|**<font size="+1">Material Costs:</font>**|<table><tr><td>Steel or Hardened Alloy</td><td>5 t</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+| **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Combustible Liquid Input Pipe</td><td>Solid Output Rail</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
-### Building Ports
-|Inputs:|Outputs:|
-|-|-|
-|Combustible Liquid Input Pipe|Solid Output Rail|
-
-### Element Conversion
+#### Element Conversion
 |Inputs:|Outputs:|
 |-|-|
 | ![CombustibleLiquid](/assets/images/entities/CombustibleLiquid.png){.inline-icon} Combustible Liquid (3000 g/s)<br>| ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} Carbon Dioxide (750 g/s at 80°C)<br>|
@@ -67,16 +58,13 @@ This rig uses specialized Drillbits to mine useful resources from the asteroid c
 An advanced CNC (Computer Numerical Control) Machining production station. Capable of managing different tools using specific directives by graphical computer-aided design software.
 
 Capable of producing specialty gadgets and other advanced tools. Requires the Mechatronics Engineering knowledge skill to be operated.
-### Info
-| ![Mining_CNCMachine](/assets/images/buildings/Mining_CNCMachine.png){width="200"} | |
-|-|-|
-|**Dimensions:** | 7 wide x 4 high|
-|**Power Consumption:**| 1000 W|
-|**Research Required:**| Solid Management|
 
-|**<font size="+1">Material Costs:</font>**| |
-|-|-|
-|Metal Ore|200 kg|
+| | | |
+|-|-|-|
+| ![Mining_CNCMachine](/assets/images/buildings/Mining_CNCMachine.png){height="100"} {rowspan="3"}|**Dimensions:** | 7 wide x 4 high|
+|**Power Consumption:**| 1000 W|&#8288 {: style="padding:0"}|
+|**Research Required:**| Solid Management|&#8288 {: style="padding:0"}| 
+|**<font size="+1">Material Costs:</font>**|<table><tr><td>Metal Ore</td><td>200 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 ### Recipes
 |Ingredients:| Time: | Products:|

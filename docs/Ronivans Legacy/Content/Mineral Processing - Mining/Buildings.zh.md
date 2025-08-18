@@ -3,16 +3,13 @@
 钻探深层矿床以获取固体资源。
 
 配备自导传感器的强力钻探设备，可实时回收矿物资源。<br/>钻头类型决定钻探深度，能获取常规手段无法触及的小行星深层资源。<br/>钻探传感器范围有限，不保证能每次都能获取高价值矿石。
-### 信息
-| ![Mining_MineralDrill](/assets/images/buildings/Mining_MineralDrill.png){width="200"} | |
-|-|-|
-|**尺寸:** | 宽 4 x 高 5|
-|**耗电:**| 1200 W|
-|**科技:**| 固体管理|
 
-|**<font size="+1">建造材料:</font>**| |
-|-|-|
-|钢 或 硬化合金|1200 kg|
+| | | |
+|-|-|-|
+| ![Mining_MineralDrill](/assets/images/buildings/Mining_MineralDrill.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 4 x 高 5|
+|**耗电:**| 1200 W|&#8288 {: style="padding:0"}|
+|**科技:**| 固体管理|&#8288 {: style="padding:0"}| 
+|**<font size="+1">建造材料:</font>**|<table><tr><td>钢 或 硬化合金</td><td>1200 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 ### 配方
 |材料:| 耗时: | 产物:|随机概率:|
@@ -27,22 +24,16 @@
 源自旧世界的巨型采矿设备，专用于小行星开采。它配备了一个可自行移动的钻头，该钻头内置有传感系统和制动器，能够帮助其在小行星地壳中穿梭，以寻找有价值的资源。
 
 该钻机使用专门的钻头从小行星地壳中开采有用资源。所获取的资源会在钻头返回时释放出来。<br/><br/>其正常运行需要持续供应可燃液体。<br/><br/>产物：资源会在钻头返回时送达。<br/>产出方式：资源在钻头运行过程中生成。
-### 信息
-| ![Mining_AugerDrill](/assets/images/buildings/Mining_AugerDrill.png){width="200"} | |
-|-|-|
-|**尺寸:** | 宽 13 x 高 8|
-|**科技:**| 固体管理|
 
-|**<font size="+1">建造材料:</font>**| |
-|-|-|
-|钢 或 硬化合金|5 t|
+| | | |
+|-|-|-|
+| ![Mining_AugerDrill](/assets/images/buildings/Mining_AugerDrill.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 13 x 高 8|
+|**耗电:**| 0 W|&#8288 {: style="padding:0"}|
+|**科技:**| 固体管理|&#8288 {: style="padding:0"}| 
+|**<font size="+1">建造材料:</font>**|<table><tr><td>钢 或 硬化合金</td><td>5 t</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+| **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>可燃液体 输入管道</td><td>固体 输出轨道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
-### 建筑接口
-|输入:|输出:|
-|-|-|
-|可燃液体 输入管道|固体 输出轨道|
-
-### 元素转换
+#### 元素转换
 |输入:|输出:|
 |-|-|
 | ![CombustibleLiquid](/assets/images/entities/CombustibleLiquid.png){.inline-icon} 可燃液体 (3000 g/秒)<br>| ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} 二氧化碳 (750 g/秒 于 80°C)<br>|
@@ -67,16 +58,13 @@
 一台先进的数控（计算机数字控制）加工生产线。能够通过图形化的计算机辅助设计软件使用特定指令来管理各种工具。
 
 能够生产特殊设备和各类先进工具。需要具备机电一体化工程方面的知识技能才能操作。
-### 信息
-| ![Mining_CNCMachine](/assets/images/buildings/Mining_CNCMachine.png){width="200"} | |
-|-|-|
-|**尺寸:** | 宽 7 x 高 4|
-|**耗电:**| 1000 W|
-|**科技:**| 固体管理|
 
-|**<font size="+1">建造材料:</font>**| |
-|-|-|
-|金属矿石|200 kg|
+| | | |
+|-|-|-|
+| ![Mining_CNCMachine](/assets/images/buildings/Mining_CNCMachine.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 7 x 高 4|
+|**耗电:**| 1000 W|&#8288 {: style="padding:0"}|
+|**科技:**| 固体管理|&#8288 {: style="padding:0"}| 
+|**<font size="+1">建造材料:</font>**|<table><tr><td>金属矿石</td><td>200 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 ### 配方
 |材料:| 耗时: | 产物:|

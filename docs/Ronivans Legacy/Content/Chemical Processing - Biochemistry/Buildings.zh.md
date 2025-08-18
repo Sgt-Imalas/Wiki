@@ -3,23 +3,16 @@
 一种宽大的、自动化的生物反应器，用于培育大量的藻类。
 
 通过持续供应的植物油培育藻类，该油料作为内部光合作用生物的营养源。<br/>需提供光照并严格调控温度，以确保最佳生产环境。
-### 信息
-| ![Biochemistry_AlgaeGrowingBasin](/assets/images/buildings/Biochemistry_AlgaeGrowingBasin.png){width="200"} | |
-|-|-|
-|**尺寸:** | 宽 9 x 高 3|
-|**耗电:**| 90 W|
-|**科技:**| 农业|
 
-|**<font size="+1">建造材料:</font>**| |
-|-|-|
-|精炼金属|400 kg|
+| | | |
+|-|-|-|
+| ![Biochemistry_AlgaeGrowingBasin](/assets/images/buildings/Biochemistry_AlgaeGrowingBasin.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 9 x 高 3|
+|**耗电:**| 90 W|&#8288 {: style="padding:0"}|
+|**科技:**| 农业|&#8288 {: style="padding:0"}| 
+|**<font size="+1">建造材料:</font>**|<table><tr><td>精炼金属</td><td>400 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+| **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>植物油 输入管道</td><td>-</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
-### 建筑接口
-|输入:|输出:|
-|-|-|
-|植物油 输入管道|-|
-
-### 元素转换
+#### 元素转换
 |输入:|输出:|
 |-|-|
 | ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} 植物油 (100 g/秒)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} 泥土 (400 g/秒)<br>| ![Algae](/assets/images/elements/Algae.png){.inline-icon} 藻类 (500 g/秒 于 23°C)<br>|
@@ -30,44 +23,37 @@
 厌氧消化是一种微生物在无氧环境下分解可生物降解有机物质的过程。
 
 将存储在其中的基本食物分解为天然气<br/>产量取决于所选用的食材。
-### 信息
-| ![Biochemistry_AnaerobicDigester](/assets/images/buildings/Biochemistry_AnaerobicDigester.png){width="200"} | |
-|-|-|
-|**尺寸:** | 宽 5 x 高 3|
-|**耗电:**| 90 W|
-|**科技:**| 食物再利用|
 
-|**<font size="+1">建造材料:</font>**| |
-|-|-|
-|金属矿石|200 kg|
-
-### 建筑接口
-|输入:|输出:|
-|-|-|
-|-|气体 输出管道|
+| | | |
+|-|-|-|
+| ![Biochemistry_AnaerobicDigester](/assets/images/buildings/Biochemistry_AnaerobicDigester.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 5 x 高 3|
+|**耗电:**| 90 W|&#8288 {: style="padding:0"}|
+|**科技:**| 食物再利用|&#8288 {: style="padding:0"}| 
+|**<font size="+1">建造材料:</font>**|<table><tr><td>金属矿石</td><td>200 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+| **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>-</td><td>气体 输出管道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 ### 配方
 |材料:| 耗时: | 产物:|
 |-|-|-|
-| ![WormSuperFruit](/assets/images/entities/WormSuperFruit.png){.inline-icon} 虫果 (10 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (50 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (1000 g)<br>|50s| ![Methane](/assets/images/elements/Methane.png){.inline-icon} 天然气 (805.2 g)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} 泥土 (50 kg)<br>|
-| ![WormBasicFruit](/assets/images/entities/WormBasicFruit.png){.inline-icon} 贫瘠虫果 (10 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (50 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (1000 g)<br>|50s| ![Methane](/assets/images/elements/Methane.png){.inline-icon} 天然气 (2576.6 g)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} 泥土 (50 kg)<br>|
-| ![VineFruit](/assets/images/entities/VineFruit.png){.inline-icon} 漫花果 (10 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (50 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (1000 g)<br>|50s| ![Methane](/assets/images/elements/Methane.png){.inline-icon} 天然气 (1046.8 g)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} 泥土 (50 kg)<br>|
-| ![SwampFruit](/assets/images/entities/SwampFruit.png){.inline-icon} 沼浆果冻 (5 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (50 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (1000 g)<br>|50s| ![Methane](/assets/images/elements/Methane.png){.inline-icon} 天然气 (2963.1 g)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} 泥土 (50 kg)<br>|
-| ![BasicForagePlant](/assets/images/entities/BasicForagePlant.png){.inline-icon} 淤泥根 (10 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (50 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (1000 g)<br>|50s| ![Methane](/assets/images/elements/Methane.png){.inline-icon} 天然气 (2576.6 g)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} 泥土 (50 kg)<br>|
-| ![GardenForagePlant](/assets/images/entities/GardenForagePlant.png){.inline-icon} 菌斑果 (10 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (50 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (1000 g)<br>|50s| ![Methane](/assets/images/elements/Methane.png){.inline-icon} 天然气 (2576.6 g)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} 泥土 (50 kg)<br>|
-| ![GardenFoodPlantFood](/assets/images/entities/GardenFoodPlantFood.png){.inline-icon} 汗甜玉米 (10 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (50 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (1000 g)<br>|50s| ![Methane](/assets/images/elements/Methane.png){.inline-icon} 天然气 (2576.6 g)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} 泥土 (50 kg)<br>|
-| ![ForestForagePlant](/assets/images/entities/ForestForagePlant.png){.inline-icon} 六角根果实 (2000 g)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (50 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (1000 g)<br>|50s| ![Methane](/assets/images/elements/Methane.png){.inline-icon} 天然气 (4122.6 g)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} 泥土 (50 kg)<br>|
-| ![HardSkinBerry](/assets/images/entities/HardSkinBerry.png){.inline-icon} 刺壳果 (10 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (50 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (1000 g)<br>|50s| ![Methane](/assets/images/elements/Methane.png){.inline-icon} 天然气 (2576.6 g)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} 泥土 (50 kg)<br>|
-| ![IceCavesForagePlant](/assets/images/entities/IceCavesForagePlant.png){.inline-icon} 雪莓 (10 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (50 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (1000 g)<br>|50s| ![Methane](/assets/images/elements/Methane.png){.inline-icon} 天然气 (2576.6 g)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} 泥土 (50 kg)<br>|
-| ![Lettuce](/assets/images/entities/Lettuce.png){.inline-icon} 海生菜 (10 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (50 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (1000 g)<br>|50s| ![Methane](/assets/images/elements/Methane.png){.inline-icon} 天然气 (1288.3 g)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} 泥土 (50 kg)<br>|
-| ![PrickleFruit](/assets/images/entities/PrickleFruit.png){.inline-icon} 毛刺浆果 (6 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (50 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (1000 g)<br>|50s| ![Methane](/assets/images/elements/Methane.png){.inline-icon} 天然气 (3092 g)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} 泥土 (50 kg)<br>|
-| ![PlantMeat](/assets/images/entities/PlantMeat.png){.inline-icon} 植物肉 (8 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (50 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (1000 g)<br>|50s| ![Methane](/assets/images/elements/Methane.png){.inline-icon} 天然气 (3092 g)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} 泥土 (50 kg)<br>|
-| ![Mushroom](/assets/images/entities/Mushroom.png){.inline-icon} 蘑菇 (4000 g)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (50 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (1000 g)<br>|50s| ![Methane](/assets/images/elements/Methane.png){.inline-icon} 天然气 (3092 g)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} 泥土 (50 kg)<br>|
-| ![SwampForagePlant](/assets/images/entities/SwampForagePlant.png){.inline-icon} 沼泽甜菜心 (4000 g)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (50 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (1000 g)<br>|50s| ![Methane](/assets/images/elements/Methane.png){.inline-icon} 天然气 (3092 g)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} 泥土 (50 kg)<br>|
-| ![BasicPlantFood](/assets/images/entities/BasicPlantFood.png){.inline-icon} 米虱 (10 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (50 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (1000 g)<br>|50s| ![Methane](/assets/images/elements/Methane.png){.inline-icon} 天然气 (1932.5 g)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} 泥土 (50 kg)<br>|
-| ![Carrot](/assets/images/entities/Carrot.png){.inline-icon} 羽叶果薯 (3000 g)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (50 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (1000 g)<br>|50s| ![Methane](/assets/images/elements/Methane.png){.inline-icon} 天然气 (3865 g)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} 泥土 (50 kg)<br>|
-| ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} 压缩生物质 (20 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (30 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (1000 g)<br>|50s| ![Methane](/assets/images/elements/Methane.png){.inline-icon} 天然气 (1000 g)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} 泥土 (50 kg)<br>|
-| ![Algae](/assets/images/elements/Algae.png){.inline-icon} 藻类 (20 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (30 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (1000 g)<br>|50s| ![Methane](/assets/images/elements/Methane.png){.inline-icon} 天然气 (1000 g)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} 泥土 (50 kg)<br>|
+| ![WormSuperFruit](/assets/images/entities/WormSuperFruit.png){.inline-icon} 虫果 (10 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (50 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (1000 g)<br>|50s| ![Methane](/assets/images/elements/Methane.png){.inline-icon} 天然气 (8.1 kg)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} 泥土 (50 kg)<br>|
+| ![WormBasicFruit](/assets/images/entities/WormBasicFruit.png){.inline-icon} 贫瘠虫果 (10 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (50 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (1000 g)<br>|50s| ![Methane](/assets/images/elements/Methane.png){.inline-icon} 天然气 (25.8 kg)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} 泥土 (50 kg)<br>|
+| ![VineFruit](/assets/images/entities/VineFruit.png){.inline-icon} 漫花果 (10 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (50 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (1000 g)<br>|50s| ![Methane](/assets/images/elements/Methane.png){.inline-icon} 天然气 (10.5 kg)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} 泥土 (50 kg)<br>|
+| ![SwampFruit](/assets/images/entities/SwampFruit.png){.inline-icon} 沼浆果冻 (5 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (50 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (1000 g)<br>|50s| ![Methane](/assets/images/elements/Methane.png){.inline-icon} 天然气 (29.6 kg)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} 泥土 (50 kg)<br>|
+| ![BasicForagePlant](/assets/images/entities/BasicForagePlant.png){.inline-icon} 淤泥根 (10 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (50 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (1000 g)<br>|50s| ![Methane](/assets/images/elements/Methane.png){.inline-icon} 天然气 (25.8 kg)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} 泥土 (50 kg)<br>|
+| ![GardenForagePlant](/assets/images/entities/GardenForagePlant.png){.inline-icon} 菌斑果 (10 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (50 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (1000 g)<br>|50s| ![Methane](/assets/images/elements/Methane.png){.inline-icon} 天然气 (25.8 kg)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} 泥土 (50 kg)<br>|
+| ![GardenFoodPlantFood](/assets/images/entities/GardenFoodPlantFood.png){.inline-icon} 汗甜玉米 (10 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (50 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (1000 g)<br>|50s| ![Methane](/assets/images/elements/Methane.png){.inline-icon} 天然气 (25.8 kg)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} 泥土 (50 kg)<br>|
+| ![ForestForagePlant](/assets/images/entities/ForestForagePlant.png){.inline-icon} 六角根果实 (2000 g)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (50 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (1000 g)<br>|50s| ![Methane](/assets/images/elements/Methane.png){.inline-icon} 天然气 (41.2 kg)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} 泥土 (50 kg)<br>|
+| ![HardSkinBerry](/assets/images/entities/HardSkinBerry.png){.inline-icon} 刺壳果 (10 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (50 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (1000 g)<br>|50s| ![Methane](/assets/images/elements/Methane.png){.inline-icon} 天然气 (25.8 kg)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} 泥土 (50 kg)<br>|
+| ![IceCavesForagePlant](/assets/images/entities/IceCavesForagePlant.png){.inline-icon} 雪莓 (10 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (50 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (1000 g)<br>|50s| ![Methane](/assets/images/elements/Methane.png){.inline-icon} 天然气 (25.8 kg)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} 泥土 (50 kg)<br>|
+| ![Lettuce](/assets/images/entities/Lettuce.png){.inline-icon} 海生菜 (10 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (50 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (1000 g)<br>|50s| ![Methane](/assets/images/elements/Methane.png){.inline-icon} 天然气 (12.9 kg)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} 泥土 (50 kg)<br>|
+| ![PrickleFruit](/assets/images/entities/PrickleFruit.png){.inline-icon} 毛刺浆果 (6 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (50 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (1000 g)<br>|50s| ![Methane](/assets/images/elements/Methane.png){.inline-icon} 天然气 (30.9 kg)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} 泥土 (50 kg)<br>|
+| ![PlantMeat](/assets/images/entities/PlantMeat.png){.inline-icon} 植物肉 (8 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (50 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (1000 g)<br>|50s| ![Methane](/assets/images/elements/Methane.png){.inline-icon} 天然气 (30.9 kg)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} 泥土 (50 kg)<br>|
+| ![Mushroom](/assets/images/entities/Mushroom.png){.inline-icon} 蘑菇 (4000 g)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (50 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (1000 g)<br>|50s| ![Methane](/assets/images/elements/Methane.png){.inline-icon} 天然气 (30.9 kg)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} 泥土 (50 kg)<br>|
+| ![SwampForagePlant](/assets/images/entities/SwampForagePlant.png){.inline-icon} 沼泽甜菜心 (4000 g)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (50 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (1000 g)<br>|50s| ![Methane](/assets/images/elements/Methane.png){.inline-icon} 天然气 (30.9 kg)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} 泥土 (50 kg)<br>|
+| ![BasicPlantFood](/assets/images/entities/BasicPlantFood.png){.inline-icon} 米虱 (10 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (50 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (1000 g)<br>|50s| ![Methane](/assets/images/elements/Methane.png){.inline-icon} 天然气 (19.3 kg)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} 泥土 (50 kg)<br>|
+| ![Carrot](/assets/images/entities/Carrot.png){.inline-icon} 羽叶果薯 (3000 g)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (50 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (1000 g)<br>|50s| ![Methane](/assets/images/elements/Methane.png){.inline-icon} 天然气 (38.6 kg)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} 泥土 (50 kg)<br>|
+| ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} 压缩生物质 (20 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (30 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (1000 g)<br>|50s| ![Methane](/assets/images/elements/Methane.png){.inline-icon} 天然气 (10 kg)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} 泥土 (50 kg)<br>|
+| ![Algae](/assets/images/elements/Algae.png){.inline-icon} 藻类 (20 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (30 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (1000 g)<br>|50s| ![Methane](/assets/images/elements/Methane.png){.inline-icon} 天然气 (10 kg)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} 泥土 (50 kg)<br>|
 
 
 
@@ -75,23 +61,16 @@
 一种采用生物燃料的先进发电装置。其内置有净化系统，能够避免产生任何废气。
 
 将可再生柴油转换为电力。<br/><br/>仅产出污染水。
-### 信息
-| ![Biochemistry_BiodieselGenerator](/assets/images/buildings/Biochemistry_BiodieselGenerator.png){width="200"} | |
-|-|-|
-|**尺寸:** | 宽 7 x 高 4|
-|**发电:**| 3200 W|
-|**科技:**| 可再生燃料|
 
-|**<font size="+1">建造材料:</font>**| |
-|-|-|
-|精炼金属|400 kg|
+| | | |
+|-|-|-|
+| ![Biochemistry_BiodieselGenerator](/assets/images/buildings/Biochemistry_BiodieselGenerator.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 7 x 高 4|
+|**发电:**| 3200 W|&#8288 {: style="padding:0"}|
+|**科技:**| 可再生燃料|&#8288 {: style="padding:0"}| 
+|**<font size="+1">建造材料:</font>**|<table><tr><td>精炼金属</td><td>400 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+| **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>可再生柴油 输入管道</td><td>液体 输出管道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
-### 建筑接口
-|输入:|输出:|
-|-|-|
-|可再生柴油 输入管道|液体 输出管道|
-
-### 燃料转换
+#### 燃料转换
 |输入:|输出:|
 |-|-|
 | ![LiquidBiodiesel](/assets/images/elements/LiquidBiodiesel.png){.inline-icon} 可再生柴油 (380 g/秒)<br>|  ![DirtyWater](/assets/images/elements/DirtyWater.png){.inline-icon} 污染水 (144.3 g/秒 于 40°C)<br>|
@@ -102,24 +81,16 @@
 一座能够将有机油进行酯交换反应，转化为长链脂肪酸的单烷基酯混合物的精炼装置。
 
 将有机油和乙醇转化为可再生柴油。
-### 信息
-| ![Biochemistry_BiodieselRefinery](/assets/images/buildings/Biochemistry_BiodieselRefinery.png){width="200"} | |
-|-|-|
-|**尺寸:** | 宽 7 x 高 5|
-|**耗电:**| 60 W|
-|**科技:**| 可再生燃料|
 
-|**<font size="+1">建造材料:</font>**| |
-|-|-|
-|金属矿石|400 kg|
+| | | |
+|-|-|-|
+| ![Biochemistry_BiodieselRefinery](/assets/images/buildings/Biochemistry_BiodieselRefinery.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 7 x 高 5|
+|**耗电:**| 60 W|&#8288 {: style="padding:0"}|
+|**科技:**| 可再生燃料|&#8288 {: style="padding:0"}| 
+|**<font size="+1">建造材料:</font>**|<table><tr><td>金属矿石</td><td>400 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+| **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>植物油 输入管道</td><td>液体 输出管道</td></tr><tr><td>乙醇 输入管道</td><td>污染水 输出管道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
-### 建筑接口
-|输入:|输出:|
-|-|-|
-|植物油 输入管道|液体 输出管道|
-|乙醇 输入管道|污染水 输出管道|
-
-### 元素转换
+#### 元素转换
 |输入:|输出:|
 |-|-|
 | ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} 植物油 (437.5 g/秒)<br> ![Ethanol](/assets/images/elements/Ethanol.png){.inline-icon} 乙醇 (187.5 g/秒)<br>| ![LiquidBiodiesel](/assets/images/elements/LiquidBiodiesel.png){.inline-icon} 可再生柴油 (587.5 g/秒 于 52°C)<br> ![DirtyWater](/assets/images/elements/DirtyWater.png){.inline-icon} 污染水 (37.5 g/秒 于 42°C)<br>|
@@ -130,24 +101,16 @@
 一种利用有机油和细菌酶来打印出由脂质衍生的生物聚合物薄片的装置，这些薄片会被压缩成一个固体块。
 
 利用有机油与二氧化碳合成生物塑料。<br/>该过程所需的酶需以软泥糕形式提供给其中的微生物培养基。
-### 信息
-| ![Biochemistry_BioplasticPrinter](/assets/images/buildings/Biochemistry_BioplasticPrinter.png){width="200"} | |
-|-|-|
-|**尺寸:** | 宽 4 x 高 4|
-|**耗电:**| 240 W|
-|**科技:**| 塑料制造|
 
-|**<font size="+1">建造材料:</font>**| |
-|-|-|
-|金属矿石|400 kg|
+| | | |
+|-|-|-|
+| ![Biochemistry_BioplasticPrinter](/assets/images/buildings/Biochemistry_BioplasticPrinter.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 4 x 高 4|
+|**耗电:**| 240 W|&#8288 {: style="padding:0"}|
+|**科技:**| 塑料制造|&#8288 {: style="padding:0"}| 
+|**<font size="+1">建造材料:</font>**|<table><tr><td>金属矿石</td><td>400 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+| **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>植物油 输入管道</td><td>-</td></tr><tr><td>二氧化碳 输入管道</td><td>-</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
-### 建筑接口
-|输入:|输出:|
-|-|-|
-|植物油 输入管道|-|
-|二氧化碳 输入管道|-|
-
-### 元素转换
+#### 元素转换
 |输入:|输出:|
 |-|-|
 | ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} 植物油 (400 g/秒)<br> ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} 二氧化碳 (100 g/秒)<br> ![MushBar](/assets/images/entities/MushBar.png){.inline-icon} 软泥膏 (2000 mg/秒)<br>| ![Bioplastic](/assets/images/elements/Bioplastic.png){.inline-icon} 生物塑料 (500 g/秒 于 23°C)<br>|
@@ -158,21 +121,14 @@
 一种用于从原材料中提取油的机械装置。这些原材料在高压作用下通过一个有隔板的类似桶状的腔体被挤压出来。
 
 从原始食材中提取植物油。所提取的油量以及以压缩生物质形式存在的固体废弃物的量取决于所选择的食材。<br/>可以用水稀释为植物油。
-### 信息
-| ![Biochemistry_ExpellerPress](/assets/images/buildings/Biochemistry_ExpellerPress.png){width="200"} | |
-|-|-|
-|**尺寸:** | 宽 5 x 高 3|
-|**耗电:**| 120 W|
-|**科技:**| 蛮力精炼|
 
-|**<font size="+1">建造材料:</font>**| |
-|-|-|
-|金属矿石|200 kg|
-
-### 建筑接口
-|输入:|输出:|
-|-|-|
-|-|液体 输出管道|
+| | | |
+|-|-|-|
+| ![Biochemistry_ExpellerPress](/assets/images/buildings/Biochemistry_ExpellerPress.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 5 x 高 3|
+|**耗电:**| 120 W|&#8288 {: style="padding:0"}|
+|**科技:**| 蛮力精炼|&#8288 {: style="padding:0"}| 
+|**<font size="+1">建造材料:</font>**|<table><tr><td>金属矿石</td><td>200 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+| **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>-</td><td>液体 输出管道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 ### 配方
 |材料:| 耗时: | 产物:|

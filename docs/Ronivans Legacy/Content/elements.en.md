@@ -2,7 +2,7 @@
 Enabling the following mods in the config will add several new elements to the game.<br/><br/>A few of them will also be added to the starmap pois for mining or spawn during worldgen.
 ## New Element Categories
 
-|<font size="+1">Material</font> | <font size="+1">Elements</font> | |
+|<font size="+1">Material</font> | | <font size="+1">Elements</font> |
 |:-:|:-:|:-|
 |<font size="+1">Carrier Gas</font> <br/> <br/>|Carrier Gases are inert or semi-inert gases that are used in plasma related processes.| ![Helium](/assets/images/elements/Helium.png){.inline-icon} Helium<br/> ![Hydrogen](/assets/images/elements/Hydrogen.png){.inline-icon} Hydrogen Gas<br/> ![NitrogenGas](/assets/images/elements/NitrogenGas.png){.inline-icon} Nitrogen<br/>|
 |<font size="+1">Hardened Alloy</font> <br/> <br/>|Hardened Alloys are a fusion of two or more materials.<br/>Their high material strength allows them to be used as a substitute to Steel| ![PhosphorBronze](/assets/images/elements/PhosphorBronze.png){.inline-icon} Phosphor Bronze<br/> ![Plasteel](/assets/images/elements/Plasteel.png){.inline-icon} Plasteel<br/>|
@@ -11,92 +11,505 @@ Enabling the following mods in the config will add several new elements to the g
 ## Chemical Processing - Industrial Overhaul
 ### New Elements
 
-|<font size="+1">Element</font> | <font size="+1">Material Properties</font> | |
-|:-:|:-:|:-:|
-|<font size="+2">Ammonia</font> <br/> <br/> ![AmmoniaGas](/assets/images/elements/AmmoniaGas.png){width="200"}  <br/>(NH<sub>3</sub>) Ammonia is an inorganic compound of nitrogen and hydrogen. A stable binary hydride, and the simplest pnictogen hydride, ammonia is a gas with a distinct pungent smell.|<br/>Resource Type: Unbreathable Gas<br/><br/>Condensation point: -33.6°C<br/>-> ![LiquidAmmonia](/assets/images/elements/LiquidAmmonia.png){.inline-icon} Liquid Ammonia<br/><br/><br/>Properties: <br/>Gas|<br/>Specific Heat Capacity: <br/>2.175 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>0.507 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.3<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
-|<font size="+2">Ammonia Snow</font> <br/> <br/> ![SolidAmmonia](/assets/images/elements/SolidAmmonia.png){width="200"}  <br/>(NH<sub>3</sub>) Ammonia is an inorganic compound of nitrogen and hydrogen, currently its its cold, solid state.|<br/>Resource Type: Liquefiable<br/><br/>Melting point: -77.73°C<br/>-> ![LiquidAmmonia](/assets/images/elements/LiquidAmmonia.png){.inline-icon} Liquid Ammonia<br/><br/>Hardness: 2<br/><br/>Properties: <br/>Solid|<br/>Specific Heat Capacity: <br/>4.744 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>0.507 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.5<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
-|<font size="+2">Ammonium Water</font> <br/> <br/> ![AmmoniumWater](/assets/images/elements/AmmoniumWater.png){width="200"}  <br/>(NH<sub>4</sub>OH) Ammonium hydroxide is a solution of Ammonia and Salt Water.|<br/>Resource Type: Liquid<br/><br/>Freezing point: -58°C<br/>11 %  ![Brine](/assets/images/elements/Brine.png){.inline-icon} Brine,<br/>89 % ![AmmoniaGas](/assets/images/elements/AmmoniaGas.png){.inline-icon} Ammonia<br/><br/>Evaporation point: 38°C<br/>11 %  ![Brine](/assets/images/elements/Brine.png){.inline-icon} Brine,<br/>89 % ![AmmoniaGas](/assets/images/elements/AmmoniaGas.png){.inline-icon} Ammonia<br/><br/><br/>Properties: <br/>Mixture, Water Based|<br/>Specific Heat Capacity: <br/>4.500 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>0.600 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.3<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
-|<font size="+2">Base-Grade Metallic Sand</font> <br/> <br/> ![BaseGradeSand](/assets/images/elements/BaseGradeSand.png){width="200"}  <br/>A heavy sandy material composed mostly of common metallic grains, mixed with other finer mineral particles.|<br/>Resource Type: Refined Mineral<br/><br/>Melting point: 2249°C<br/>58 %  ![RockGas](/assets/images/elements/RockGas.png){.inline-icon} Rock Gas,<br/>42 % ![SolidSlag](/assets/images/elements/SolidSlag.png){.inline-icon} Slag<br/><br/>Hardness: 32<br/><br/>Properties: <br/>General Buildable, Metallic Sand, Ore, Solid, Uncrushable, Unstable|<br/>Specific Heat Capacity: <br/>8.660 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>12.320 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.46<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
-|<font size="+2">Borax</font> <br/> <br/> ![SolidBorax](/assets/images/elements/SolidBorax.png){width="200"}  <br/>Borax, also known as sodium borate, is an important boron compound, mainly used in the manufacture of Fiberglass, and as a flux in metallurgy.|<br/>Resource Type: Consumable Ore<br/><br/>Melting point: 963°C<br/>-> ![MoltenSalt](/assets/images/elements/MoltenSalt.png){.inline-icon} Molten Salt<br/><br/>Hardness: 1<br/><br/>Properties: <br/>Solid|<br/>Specific Heat Capacity: <br/>0.240 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>0.660 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.46<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
-|<font size="+2">Brass</font> <br/> <br/> ![SolidBrass](/assets/images/elements/SolidBrass.png){width="200"}  <br/>Brass is an alloy of Copper and Zinc, widely used to make utensils due to properties such as having a low melting point, high workability, durability, and electrical and thermal conductivity.|<br/>Resource Type: Manufactured Material<br/><br/>Melting point: 920°C<br/>30 %  ![ZincGas](/assets/images/elements/ZincGas.png){.inline-icon} Zinc Gas,<br/>70 % ![MoltenCopper](/assets/images/elements/MoltenCopper.png){.inline-icon} Molten Copper<br/><br/>Hardness: 35<br/><br/>Properties: <br/>General Buildable, Metal Ore, Refined Metal, Solid, Uncrushable|<br/>Specific Heat Capacity: <br/>0.380 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>208.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.7<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
-|<font size="+2">Carbon Composite</font> <br/> <br/> ![CarbonFiber](/assets/images/elements/CarbonFiber.png){width="200"}  <br/>Carbon fiber-reinforced polymers blocks are extremely strong and light fiber-reinforced plastics that contain carbon fibers. Used on wherever high strength-to-weight ratio and stiffness (rigidity) are required, such as aerospace. Its composition of allotropes of carbon make it extremely resistant to heat.|<br/>Resource Type: Manufactured Material<br/><br/>Melting point: 4726.85°C<br/>-> ![MoltenCarbon](/assets/images/elements/MoltenCarbon.png){.inline-icon} Liquid Carbon<br/><br/>Hardness: 250<br/><br/>Properties: <br/>General Buildable, Insulator, Metal Ore, Plumbable, Refined Metal, Solid, Uncrushable|<br/>Specific Heat Capacity: <br/>0.239 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>0.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 1<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
-|<font size="+2">Chloroschist</font> <br/> <br/> ![Chloroschist](/assets/images/elements/Chloroschist.png){width="200"}  <br/>A dense medium-grained metamorphic rock showing pronounced schistosity. This sample has a high content of chloride minerals within its compacted layers.|<br/>Resource Type: Raw Mineral<br/><br/>Melting point: 1409.85°C<br/>90 %  ![Magma](/assets/images/elements/Magma.png){.inline-icon} Magma,<br/>10 % ![Chlorine](/assets/images/elements/Chlorine.png){.inline-icon} Liquid Chlorine<br/><br/>Hardness: 25<br/><br/>Properties: <br/>General Buildable, Plumbable, Solid|<br/>Specific Heat Capacity: <br/>1.000 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>2.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.53<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
-|<font size="+2">Concrete Block</font> <br/> <br/> ![ConcreteBlock](/assets/images/elements/ConcreteBlock.png){width="200"}  <br/>Concrete blocks are standard-size rectangular blocks used in building construction. A versatile component made from different aggregates that are often considered waste products.|<br/>Resource Type: Manufactured Material<br/><br/>Melting point: 1409.85°C<br/>-> ![Magma](/assets/images/elements/Magma.png){.inline-icon} Magma<br/><br/>Hardness: 50<br/><br/>Properties: <br/>General Buildable, Insulator, Raw Mineral, Solid|<br/>Specific Heat Capacity: <br/>0.880 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>0.920 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.7<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
-|<font size="+2">Fiberglass</font> <br/> <br/> ![SolidFiberglass](/assets/images/elements/SolidFiberglass.png){width="200"}  <br/>Fiberglass is a thermoset polymer matrix made by a poltrusion of boronsilicate Glass and Plastic. Although the fiber is weak in compression, this composite material has moderate insulating properties, and can be easily used in many different applications due to its relative flexibility.|<br/>Resource Type: Manufactured Material<br/><br/>Melting point: 1426.85°C<br/>-> ![MoltenGlass](/assets/images/elements/MoltenGlass.png){.inline-icon} Molten Glass<br/><br/>Hardness: 45<br/><br/>Properties: <br/>General Buildable, Insulator, Plastics, Plumbable, Raw Mineral, Solid|<br/>Specific Heat Capacity: <br/>0.400 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>1.070 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.01<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
-|<font size="+2">Galena</font> <br/> <br/> ![Galena](/assets/images/elements/Galena.png){width="200"}  <br/>Galena is the natural mineral form of lead(II) sulfide (PbS).It is the most important ore of Lead and an important source of Silver.|<br/>Resource Type: Metal Ore<br/><br/>Melting point: 1114°C<br/>40 %  ![MoltenLead](/assets/images/elements/MoltenLead.png){.inline-icon} Molten Lead,<br/>60 % ![SolidSilver](/assets/images/elements/SolidSilver.png){.inline-icon} Silver<br/><br/>Hardness: 25<br/><br/>Properties: <br/>General Buildable, Ore, Solid|<br/>Specific Heat Capacity: <br/>0.311 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>3.600 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.46<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
-|<font size="+2">High-Grade Metallic Sand</font> <br/> <br/> ![HighGradeSand](/assets/images/elements/HighGradeSand.png){width="200"}  <br/>A glimmering sandy material composed mostly of high quality metallic grains, mixed with other finer mineral particles.|<br/>Resource Type: Refined Mineral<br/><br/>Melting point: 2249°C<br/>58 %  ![RockGas](/assets/images/elements/RockGas.png){.inline-icon} Rock Gas,<br/>42 % ![SolidSlag](/assets/images/elements/SolidSlag.png){.inline-icon} Slag<br/><br/>Hardness: 32<br/><br/>Properties: <br/>General Buildable, Metallic Sand, Ore, Solid, Uncrushable, Unstable|<br/>Specific Heat Capacity: <br/>8.660 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>12.320 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.46<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
-|<font size="+2">Isopropane</font> <br/> <br/> ![IsopropaneGas](/assets/images/elements/IsopropaneGas.png){width="200"}  <br/>(HC(CH<sub>3</sub>)<sub>3</sub>) Isopropane is a petrochemical refrigerant gas suitable for a variety of purposes. Degrades to Propane at higher temperatures.|<br/>Resource Type: Unbreathable Gas<br/><br/>Melting point: 90°C<br/>99 %  ![Propane](/assets/images/elements/Propane.png){.inline-icon} Propane Gas,<br/>1 % ![Fullerene](/assets/images/elements/Fullerene.png){.inline-icon} Fullerene<br/><br/>Hardness: 0<br/><br/>Properties: <br/>Gas|<br/>Specific Heat Capacity: <br/>9.760 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>12.720 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.3<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
-|<font size="+2">Liquid Ammonia</font> <br/> <br/> ![LiquidAmmonia](/assets/images/elements/LiquidAmmonia.png){width="200"}  <br/>(NH<sub>3</sub>) Ammonia is an inorganic compound of nitrogen and hydrogen, currently in its cold, liquid state.|<br/>Resource Type: Liquid<br/><br/>Freezing point: -77.63°C<br/>-> ![SolidAmmonia](/assets/images/elements/SolidAmmonia.png){.inline-icon} Ammonia Snow<br/><br/>Evaporation point: -33.34°C<br/>-> ![AmmoniaGas](/assets/images/elements/AmmoniaGas.png){.inline-icon} Ammonia<br/><br/><br/>|<br/>Specific Heat Capacity: <br/>4.744 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>0.507 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.3<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
-|<font size="+2">Liquid Nitrogen</font> <br/> <br/> ![LiquidNitrogen](/assets/images/elements/LiquidNitrogen.png){width="200"}  <br/>(N<sub>2</sub>) Nitrogen is a nonmetal and the lightest member of group 15 of the periodic table, currently in its cold, liquid state.|<br/>Resource Type: Liquid<br/><br/>Freezing point: -209.9°C<br/>-> ![SolidNitrogen](/assets/images/elements/SolidNitrogen.png){.inline-icon} Solid Nitrogen<br/><br/>Evaporation point: -195.5°C<br/>-> ![NitrogenGas](/assets/images/elements/NitrogenGas.png){.inline-icon} Nitrogen<br/><br/><br/>|<br/>Specific Heat Capacity: <br/>2.000 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>0.259 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.3<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
-|<font size="+2">Low-Grade Metallic Sand</font> <br/> <br/> ![LowGradeSand](/assets/images/elements/LowGradeSand.png){width="200"}  <br/>A sandy material composed mostly of low quality metallic grains, mixed with other finer mineral particles.|<br/>Resource Type: Refined Mineral<br/><br/>Melting point: 2249°C<br/>58 %  ![RockGas](/assets/images/elements/RockGas.png){.inline-icon} Rock Gas,<br/>42 % ![SolidSlag](/assets/images/elements/SolidSlag.png){.inline-icon} Slag<br/><br/>Hardness: 32<br/><br/>Properties: <br/>General Buildable, Metallic Sand, Ore, Solid, Uncrushable, Unstable|<br/>Specific Heat Capacity: <br/>8.660 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>12.320 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.46<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
-|<font size="+2">Meteor Ore</font> <br/> <br/> ![MeteorOre](/assets/images/elements/MeteorOre.png){width="200"}  <br/>A dense stony mass formed when various types of dust and small grains in the early Solar System accreted to form primitive asteroids. Despite their stony nature, these collision remnants contain traces of rare metals.|<br/>Resource Type: Raw Mineral<br/><br/>Melting point: 1410°C<br/>-> ![Magma](/assets/images/elements/Magma.png){.inline-icon} Magma<br/><br/>Hardness: 3<br/><br/>Properties: <br/>General Buildable, Plumbable, Precious Rock, Solid|<br/>Specific Heat Capacity: <br/>0.830 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>2.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.84<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
-|<font size="+2">Molten Silver</font> <br/> <br/> ![MoltenSilver](/assets/images/elements/MoltenSilver.png){width="200"}  <br/>(Ag) Silver is soft, white, lustrous transition metal, in its molten state.|<br/>Resource Type: Liquid<br/><br/>Freezing point: 960°C<br/>-> ![SolidSilver](/assets/images/elements/SolidSilver.png){.inline-icon} Silver<br/><br/>Evaporation point: 2162°C<br/>-> ![SilverGas](/assets/images/elements/SilverGas.png){.inline-icon} Silver Gas<br/><br/><br/>Properties: <br/>Antiseptic, Light Emitter, Metal Ore, Refined Metal|<br/>Specific Heat Capacity: <br/>0.129 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>7.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.3<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
-|<font size="+2">Molten Slag</font> <br/> <br/> ![MoltenSlag](/assets/images/elements/MoltenSlag.png){width="200"}  <br/>Molten Slag is a by-product of smelting (pyrometallurgical) ores and used metals. Present in molten state, this waste materail needs to be cooled down to solid Slag before can be used.|<br/>Resource Type: Liquid<br/><br/>Freezing point: 1399°C<br/>-> ![SolidSlag](/assets/images/elements/SolidSlag.png){.inline-icon} Slag<br/><br/>Evaporation point: 2460°C<br/>-> ![RockGas](/assets/images/elements/RockGas.png){.inline-icon} Rock Gas<br/><br/><br/>Properties: <br/>Light Emitter|<br/>Specific Heat Capacity: <br/>0.850 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>1.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.8<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
-|<font size="+2">Molten Zinc</font> <br/> <br/> ![MoltenZinc](/assets/images/elements/MoltenZinc.png){width="200"}  <br/>(Zn) Zinc is a bluish-white, lustrous, diamagnetic metal in its molten state.|<br/>Resource Type: Liquid<br/><br/>Freezing point: 417°C<br/>-> ![SolidZinc](/assets/images/elements/SolidZinc.png){.inline-icon} Zinc<br/><br/>Evaporation point: 907°C<br/>-> ![ZincGas](/assets/images/elements/ZincGas.png){.inline-icon} Zinc Gas<br/><br/><br/>Properties: <br/>Light Emitter, Metal Ore, Refined Metal|<br/>Specific Heat Capacity: <br/>0.129 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>7.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.3<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
-|<font size="+2">Nitrate Nodules</font> <br/> <br/> ![AmmoniumSalt](/assets/images/elements/AmmoniumSalt.png){width="200"}  <br/>(NH<sub>4</sub>NO<sub>3</sub>) Nodules of dirt containing high concentrations of Ammonium Nitrate.|<br/>Resource Type: Consumable Ore<br/><br/>Melting point: 613°C<br/>-> ![AmmoniaGas](/assets/images/elements/AmmoniaGas.png){.inline-icon} Ammonia<br/><br/>Hardness: 1<br/><br/>Properties: <br/>Solid|<br/>Specific Heat Capacity: <br/>0.500 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>3.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.5<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
-|<font size="+2">Nitric Acid</font> <br/> <br/> ![LiquidNitric](/assets/images/elements/LiquidNitric.png){width="200"}  <br/>(HNO<sub>3</sub>) An inorganic mineral acid composed of the elements nitrogen, oxygen and hydrogen. Presented in its liquid state, is the primary reagent used for nitration – the addition of a nitro group, typically to an organic molecule.|<br/>Resource Type: Liquid<br/><br/>Freezing point: -42°C<br/>50 %  ![NitrogenGas](/assets/images/elements/NitrogenGas.png){.inline-icon} Nitrogen,<br/>50 % ![DirtyIce](/assets/images/elements/DirtyIce.png){.inline-icon} Polluted Ice<br/><br/>Evaporation point: 121°C<br/>50 %  ![NitrogenGas](/assets/images/elements/NitrogenGas.png){.inline-icon} Nitrogen,<br/>50 % ![Water](/assets/images/elements/Water.png){.inline-icon} Water<br/><br/><br/>Properties: <br/>Mixture|<br/>Specific Heat Capacity: <br/>0.998 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>0.889 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.3<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
-|<font size="+2">Nitrogen</font> <br/> <br/> ![NitrogenGas](/assets/images/elements/NitrogenGas.png){width="200"}  <br/>(N<sub>2</sub>) Nitrogen is a nonmetal and the lightest member of group 15 of the periodic table.|<br/>Resource Type: Unbreathable Gas<br/><br/>Condensation point: -195.8°C<br/>-> ![LiquidNitrogen](/assets/images/elements/LiquidNitrogen.png){.inline-icon} Liquid Nitrogen<br/><br/><br/>Properties: <br/>Carrier Gas, Gas|<br/>Specific Heat Capacity: <br/>1.850 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>0.175 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.3<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
-|<font size="+2">Oil Shale</font> <br/> <br/> ![SolidOilShale](/assets/images/elements/SolidOilShale.png){width="200"}  <br/>Oil shale is an organic-rich fine-grained sedimentary rock containing heavy crude oil, sulfur compounds and heavy metals.|<br/>Resource Type: Consumable Ore<br/><br/>Melting point: 120°C<br/>20 %  ![SourGas](/assets/images/elements/SourGas.png){.inline-icon} Sour Gas,<br/>80 % ![CrudeOil](/assets/images/elements/CrudeOil.png){.inline-icon} Crude Oil<br/><br/>Hardness: 2<br/><br/>Properties: <br/>Solid|<br/>Specific Heat Capacity: <br/>1.760 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>22.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.7<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
-|<font size="+2">Phosphor Bronze</font> <br/> <br/> ![PhosphorBronze](/assets/images/elements/PhosphorBronze.png){width="200"}  <br/>An alloy composed of Copper, Lead and Phosphorus. Among copper based alloys it is remarkable tough, and has a relative low thermal conductivity.|<br/>Resource Type: Manufactured Material<br/><br/>Melting point: 1049°C<br/>20 %  ![MoltenLead](/assets/images/elements/MoltenLead.png){.inline-icon} Molten Lead,<br/>80 % ![MoltenCopper](/assets/images/elements/MoltenCopper.png){.inline-icon} Molten Copper<br/><br/>Hardness: 35<br/><br/>Properties: <br/>General Buildable, Hardened Alloy, Metal Ore, Refined Metal, Solid, Uncrushable|<br/>Specific Heat Capacity: <br/>0.380 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>20.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.5<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
-|<font size="+2">Plasteel</font> <br/> <br/> ![Plasteel](/assets/images/elements/Plasteel.png){width="200"}  <br/>A composite of Plastic stabilized fibers grown into a Steel crystal structure. It is much more stronger and lighter than standard metals alloys, and has a very low thermal conductivity.|<br/>Resource Type: Manufactured Material<br/><br/>Melting point: 2576.85°C<br/>3 %  ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} Carbon Dioxide,<br/>97 % ![MoltenSteel](/assets/images/elements/MoltenSteel.png){.inline-icon} Molten Steel<br/><br/>Hardness: 70<br/><br/>Properties: <br/>General Buildable, Hardened Alloy, Metal Ore, Refined Metal, Solid, Uncrushable|<br/>Specific Heat Capacity: <br/>0.210 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>6.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.9<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
-|<font size="+2">Raw Natural Gas</font> <br/> <br/> ![RawNaturalGas](/assets/images/elements/RawNaturalGas.png){width="200"}  <br/>A fossil gas consisting of gaseous hydrocarbons and other impurites. The majority of the gas mass is composed of Methane, Propane and Sour Gas.|<br/>Resource Type: Unbreathable Gas<br/><br/>Condensation point: -184.5°C<br/>67 %  ![LiquidMethane](/assets/images/elements/LiquidMethane.png){.inline-icon} Liquid Methane,<br/>33 % ![Sulfur](/assets/images/elements/Sulfur.png){.inline-icon} Sulfur<br/><br/><br/>Properties: <br/>Gas|<br/>Specific Heat Capacity: <br/>2.760 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>0.057 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.3<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
-|<font size="+2">Silver</font> <br/> <br/> ![SolidSilver](/assets/images/elements/SolidSilver.png){width="200"}  <br/>(Ag) Silver is soft, white, lustrous transition metal, that exhibits a high electrical and thermal conductivity.|<br/>Resource Type: Refined Metal<br/><br/>Melting point: 961°C<br/>-> ![MoltenSilver](/assets/images/elements/MoltenSilver.png){.inline-icon} Molten Silver<br/><br/>Hardness: 2<br/><br/>Properties: <br/>Antiseptic, General Buildable, Solid|<br/>Specific Heat Capacity: <br/>0.223 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>220.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.5<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
-|<font size="+2">Silver Gas</font> <br/> <br/> ![SilverGas](/assets/images/elements/SilverGas.png){width="200"}  <br/>(Ag) Silver is soft, white, lustrous transition metal, in its gaseous state.|<br/>Resource Type: Unbreathable Gas<br/><br/>Condensation point: 2161°C<br/>-> ![MoltenSilver](/assets/images/elements/MoltenSilver.png){.inline-icon} Molten Silver<br/><br/><br/>Properties: <br/>Antiseptic, Gas, Light Emitter, Metal Ore, Refined Metal|<br/>Specific Heat Capacity: <br/>0.223 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>1.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.3<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
-|<font size="+2">Silver Ore</font> <br/> <br/> ![ArgentiteOre](/assets/images/elements/ArgentiteOre.png){width="200"}  <br/>(Ag<sub>2</sub>S) Argentite is a cubic silver sulfide is a conductive metal, and the main source of refined Silver metal.|<br/>Resource Type: Metal Ore<br/><br/>Melting point: 963°C<br/>80 %  ![MoltenSilver](/assets/images/elements/MoltenSilver.png){.inline-icon} Molten Silver,<br/>20 % ![SulfurGas](/assets/images/elements/SulfurGas.png){.inline-icon} Sulfur Gas<br/><br/>Hardness: 25<br/><br/>Properties: <br/>Antiseptic, General Buildable, Ore, Solid|<br/>Specific Heat Capacity: <br/>0.411 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>5.600 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.46<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
-|<font size="+2">Slag</font> <br/> <br/> ![SolidSlag](/assets/images/elements/SolidSlag.png){width="200"}  <br/>Slag is a by-product of smelting (pyrometallurgical) ores and used metals. Despite being a waste product, it has many applications, such as aggregate in Concrete Blocks.|<br/>Resource Type: Refined Mineral<br/><br/>Melting point: 1400°C<br/>-> ![MoltenSlag](/assets/images/elements/MoltenSlag.png){.inline-icon} Molten Slag<br/><br/>Hardness: 1<br/><br/>Properties: <br/>Solid|<br/>Specific Heat Capacity: <br/>1.660 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>0.320 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.46<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
-|<font size="+2">Solid Nitrogen</font> <br/> <br/> ![SolidNitrogen](/assets/images/elements/SolidNitrogen.png){width="200"}  <br/>(N<sub>2</sub>) Nitrogen is a nonmetal and the lightest member of group 15 of the periodic table, currently its its cold, solid state.|<br/>Resource Type: Liquefiable<br/><br/>Melting point: -209.7°C<br/>-> ![LiquidNitrogen](/assets/images/elements/LiquidNitrogen.png){.inline-icon} Liquid Nitrogen<br/><br/>Hardness: 2<br/><br/>Properties: <br/>Solid|<br/>Specific Heat Capacity: <br/>92.000 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>72.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.5<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
-|<font size="+2">Sour Water</font> <br/> <br/> ![SourWater](/assets/images/elements/SourWater.png){width="200"}  <br/>An aqueous solution of Hydrogen Sulfide (H<sub>2</sub>S>) and Ammonia (NH<sub>3</sub>). May occur naturally from aquifers exposed to hydrogen sulfide sources, but it is more common as a wastewater from industrial processes.|<br/>Resource Type: Liquid<br/><br/>Freezing point: -21°C<br/>50 %  ![DirtyWater](/assets/images/elements/DirtyWater.png){.inline-icon} Polluted Water,<br/>50 % ![SourGas](/assets/images/elements/SourGas.png){.inline-icon} Sour Gas<br/><br/>Evaporation point: 88°C<br/>50 %  ![DirtyWater](/assets/images/elements/DirtyWater.png){.inline-icon} Polluted Water,<br/>50 % ![SourGas](/assets/images/elements/SourGas.png){.inline-icon} Sour Gas<br/><br/><br/>Properties: <br/>Mixture|<br/>Specific Heat Capacity: <br/>3.477 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>0.909 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.3<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
-|<font size="+2">Sulfuric Acid</font> <br/> <br/> ![LiquidSulfuric](/assets/images/elements/LiquidSulfuric.png){width="200"}  <br/>(H<sub>2</sub>SO<sub>4</sub>) A mineral acid composed of the elements sulfur, oxygen and hydrogen. Presented in its liquid state, it is a very dangerous chemical for its corrosive nature.|<br/>Resource Type: Liquid<br/><br/>Freezing point: 10.31°C<br/>82 %  ![DirtyWater](/assets/images/elements/DirtyWater.png){.inline-icon} Polluted Water,<br/>18 % ![Sulfur](/assets/images/elements/Sulfur.png){.inline-icon} Sulfur<br/><br/>Evaporation point: 337°C<br/>-> ![SulfuricGas](/assets/images/elements/SulfuricGas.png){.inline-icon} Sulfuric Gas<br/><br/><br/>Properties: <br/>Mixture|<br/>Specific Heat Capacity: <br/>0.335 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>4.221 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.3<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
-|<font size="+2">Sulfuric Gas</font> <br/> <br/> ![SulfuricGas](/assets/images/elements/SulfuricGas.png){width="200"}  <br/>(H<sub>2</sub>SO<sub>4</sub>) An acidic gas composed of the elements sulfur, oxygen and hydrogen. Presented in its gaseous state, it is a very dangerous chemical for its corrosive nature.|<br/>Resource Type: Unbreathable Gas<br/><br/>Condensation point: 336°C<br/>-> ![LiquidSulfuric](/assets/images/elements/LiquidSulfuric.png){.inline-icon} Sulfuric Acid<br/><br/><br/>Properties: <br/>Gas|<br/>Specific Heat Capacity: <br/>0.882 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>0.122 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.3<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
-|<font size="+2">Toxic Clay</font> <br/> <br/> ![ToxicClay](/assets/images/elements/ToxicClay.png){width="200"}  <br/>A sick looking, brittle clay produced as waste product from industrial operations, composed of many different chemical substances.|<br/>Resource Type: Manufactured Material<br/><br/>Melting point: 16°C<br/>-> ![ToxicSlurry](/assets/images/elements/ToxicSlurry.png){.inline-icon} Toxic Slurry<br/><br/>Hardness: 1<br/><br/>Properties: <br/>Solid|<br/>Specific Heat Capacity: <br/>1.554 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>11.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.5<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
-|<font size="+2">Toxic Gas</font> <br/> <br/> ![ToxicGas](/assets/images/elements/ToxicGas.png){width="200"}  <br/>A heavy, foul smelling gas produced as waste product from industrial operations, composed of many different chemical substances.|<br/>Resource Type: Unbreathable Gas<br/><br/>Condensation point: 212°C<br/>-> ![ToxicSlurry](/assets/images/elements/ToxicSlurry.png){.inline-icon} Toxic Slurry<br/><br/><br/>Properties: <br/>Gas|<br/>Specific Heat Capacity: <br/>2.330 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>0.822 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.3<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
-|<font size="+2">Toxic Slurry</font> <br/> <br/> ![ToxicSlurry](/assets/images/elements/ToxicSlurry.png){width="200"}  <br/>A thick, toxic slurry produced as waste product from industrial operations, composed of many different chemical substances.|<br/>Resource Type: Liquid<br/><br/>Freezing point: 15°C<br/>-> ![ToxicClay](/assets/images/elements/ToxicClay.png){.inline-icon} Toxic Clay<br/><br/>Evaporation point: 213°C<br/>-> ![ToxicGas](/assets/images/elements/ToxicGas.png){.inline-icon} Toxic Gas<br/><br/><br/>Properties: <br/>Mixture, Water Based|<br/>Specific Heat Capacity: <br/>0.129 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>7.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.3<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
-|<font size="+2">Zinc</font> <br/> <br/> ![SolidZinc](/assets/images/elements/SolidZinc.png){width="200"}  <br/>(Zn) Zinc is a bluish-white, lustrous, diamagnetic metal, slightly brittle metal.|<br/>Resource Type: Refined Metal<br/><br/>Melting point: 420°C<br/>-> ![MoltenZinc](/assets/images/elements/MoltenZinc.png){.inline-icon} Molten Zinc<br/><br/>Hardness: 2<br/><br/>Properties: <br/>General Buildable, Solid|<br/>Specific Heat Capacity: <br/>0.387 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>60.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.5<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
-|<font size="+2">Zinc Gas</font> <br/> <br/> ![ZincGas](/assets/images/elements/ZincGas.png){width="200"}  <br/>(Zn) Zinc is a bluish-white, lustrous, diamagnetic metal in its gaseous state.|<br/>Resource Type: Unbreathable Gas<br/><br/>Condensation point: 905°C<br/>-> ![MoltenZinc](/assets/images/elements/MoltenZinc.png){.inline-icon} Molten Zinc<br/><br/><br/>Properties: <br/>Gas, Light Emitter, Metal Ore, Refined Metal|<br/>Specific Heat Capacity: <br/>0.223 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>1.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.3<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
-|<font size="+2">Zinc Ore</font> <br/> <br/> ![AurichalciteOre](/assets/images/elements/AurichalciteOre.png){width="200"}  <br/>((Zn,Cu)<sub>5</sub>(CO<sub>3</sub>)<sub>2</sub>(OH)<sub>6</sub>) Aurichalcite is a carbonate mineral, and the main source of refined Zinc metal.|<br/>Resource Type: Metal Ore<br/><br/>Melting point: 919°C<br/>60 %  ![MoltenZinc](/assets/images/elements/MoltenZinc.png){.inline-icon} Molten Zinc,<br/>40 % ![MoltenCopper](/assets/images/elements/MoltenCopper.png){.inline-icon} Molten Copper<br/><br/>Hardness: 25<br/><br/>Properties: <br/>General Buildable, Ore, Solid|<br/>Specific Heat Capacity: <br/>0.411 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>3.600 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.46<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+#### Ammonia
+
+(NH<sub>3</sub>) Ammonia is an inorganic compound of nitrogen and hydrogen. A stable binary hydride, and the simplest pnictogen hydride, ammonia is a gas with a distinct pungent smell.
+
+| |<font size="+1">Material Properties</font>| |
+|-|-|-|
+| ![AmmoniaGas](/assets/images/elements/AmmoniaGas.png){width="200"} |<br/>Resource Type: Unbreathable Gas<br/><br/>Condensation point: -33.6°C<br/>-> ![LiquidAmmonia](/assets/images/elements/LiquidAmmonia.png){.inline-icon} Liquid Ammonia<br/><br/><br/>Properties: <br/>Gas|<br/>Specific Heat Capacity: <br/>2.175 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>0.507 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.3<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+
+#### Ammonia Snow
+
+(NH<sub>3</sub>) Ammonia is an inorganic compound of nitrogen and hydrogen, currently its its cold, solid state.
+
+| |<font size="+1">Material Properties</font>| |
+|-|-|-|
+| ![SolidAmmonia](/assets/images/elements/SolidAmmonia.png){width="200"} |<br/>Resource Type: Liquefiable<br/><br/>Melting point: -77.73°C<br/>-> ![LiquidAmmonia](/assets/images/elements/LiquidAmmonia.png){.inline-icon} Liquid Ammonia<br/><br/>Hardness: 2<br/><br/>Properties: <br/>Solid|<br/>Specific Heat Capacity: <br/>4.744 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>0.507 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.5<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+
+#### Ammonium Water
+
+(NH<sub>4</sub>OH) Ammonium hydroxide is a solution of Ammonia and Salt Water.
+
+| |<font size="+1">Material Properties</font>| |
+|-|-|-|
+| ![AmmoniumWater](/assets/images/elements/AmmoniumWater.png){width="200"} |<br/>Resource Type: Liquid<br/><br/>Freezing point: -58°C<br/>11 %  ![Brine](/assets/images/elements/Brine.png){.inline-icon} Brine,<br/>89 % ![AmmoniaGas](/assets/images/elements/AmmoniaGas.png){.inline-icon} Ammonia<br/><br/>Evaporation point: 38°C<br/>11 %  ![Brine](/assets/images/elements/Brine.png){.inline-icon} Brine,<br/>89 % ![AmmoniaGas](/assets/images/elements/AmmoniaGas.png){.inline-icon} Ammonia<br/><br/><br/>Properties: <br/>Mixture, Water Based|<br/>Specific Heat Capacity: <br/>4.500 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>0.600 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.3<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+
+#### Base-Grade Metallic Sand
+
+A heavy sandy material composed mostly of common metallic grains, mixed with other finer mineral particles.
+
+| |<font size="+1">Material Properties</font>| |
+|-|-|-|
+| ![BaseGradeSand](/assets/images/elements/BaseGradeSand.png){width="200"} |<br/>Resource Type: Refined Mineral<br/><br/>Melting point: 2249°C<br/>58 %  ![RockGas](/assets/images/elements/RockGas.png){.inline-icon} Rock Gas,<br/>42 % ![SolidSlag](/assets/images/elements/SolidSlag.png){.inline-icon} Slag<br/><br/>Hardness: 32<br/><br/>Properties: <br/>General Buildable, Metallic Sand, Ore, Solid, Uncrushable, Unstable|<br/>Specific Heat Capacity: <br/>8.660 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>12.320 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.46<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+
+#### Borax
+
+Borax, also known as sodium borate, is an important boron compound, mainly used in the manufacture of Fiberglass, and as a flux in metallurgy.
+
+| |<font size="+1">Material Properties</font>| |
+|-|-|-|
+| ![SolidBorax](/assets/images/elements/SolidBorax.png){width="200"} |<br/>Resource Type: Consumable Ore<br/><br/>Melting point: 963°C<br/>-> ![MoltenSalt](/assets/images/elements/MoltenSalt.png){.inline-icon} Molten Salt<br/><br/>Hardness: 1<br/><br/>Properties: <br/>Solid|<br/>Specific Heat Capacity: <br/>0.240 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>0.660 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.46<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+
+#### Brass
+
+Brass is an alloy of Copper and Zinc, widely used to make utensils due to properties such as having a low melting point, high workability, durability, and electrical and thermal conductivity.
+
+| |<font size="+1">Material Properties</font>| |
+|-|-|-|
+| ![SolidBrass](/assets/images/elements/SolidBrass.png){width="200"} |<br/>Resource Type: Manufactured Material<br/><br/>Melting point: 920°C<br/>30 %  ![ZincGas](/assets/images/elements/ZincGas.png){.inline-icon} Zinc Gas,<br/>70 % ![MoltenCopper](/assets/images/elements/MoltenCopper.png){.inline-icon} Molten Copper<br/><br/>Hardness: 35<br/><br/>Properties: <br/>General Buildable, Metal Ore, Refined Metal, Solid, Uncrushable|<br/>Specific Heat Capacity: <br/>0.380 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>208.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.7<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+
+#### Carbon Composite
+
+Carbon fiber-reinforced polymers blocks are extremely strong and light fiber-reinforced plastics that contain carbon fibers. Used on wherever high strength-to-weight ratio and stiffness (rigidity) are required, such as aerospace. Its composition of allotropes of carbon make it extremely resistant to heat.
+
+| |<font size="+1">Material Properties</font>| |
+|-|-|-|
+| ![CarbonFiber](/assets/images/elements/CarbonFiber.png){width="200"} |<br/>Resource Type: Manufactured Material<br/><br/>Melting point: 4726.85°C<br/>-> ![MoltenCarbon](/assets/images/elements/MoltenCarbon.png){.inline-icon} Liquid Carbon<br/><br/>Hardness: 250<br/><br/>Properties: <br/>General Buildable, Insulator, Metal Ore, Plumbable, Refined Metal, Solid, Uncrushable|<br/>Specific Heat Capacity: <br/>0.239 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>0.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 1<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+
+#### Chloroschist
+
+A dense medium-grained metamorphic rock showing pronounced schistosity. This sample has a high content of chloride minerals within its compacted layers.
+
+| |<font size="+1">Material Properties</font>| |
+|-|-|-|
+| ![Chloroschist](/assets/images/elements/Chloroschist.png){width="200"} |<br/>Resource Type: Raw Mineral<br/><br/>Melting point: 1409.85°C<br/>90 %  ![Magma](/assets/images/elements/Magma.png){.inline-icon} Magma,<br/>10 % ![Chlorine](/assets/images/elements/Chlorine.png){.inline-icon} Liquid Chlorine<br/><br/>Hardness: 25<br/><br/>Properties: <br/>General Buildable, Plumbable, Solid|<br/>Specific Heat Capacity: <br/>1.000 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>2.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.53<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+
+#### Concrete Block
+
+Concrete blocks are standard-size rectangular blocks used in building construction. A versatile component made from different aggregates that are often considered waste products.
+
+| |<font size="+1">Material Properties</font>| |
+|-|-|-|
+| ![ConcreteBlock](/assets/images/elements/ConcreteBlock.png){width="200"} |<br/>Resource Type: Manufactured Material<br/><br/>Melting point: 1409.85°C<br/>-> ![Magma](/assets/images/elements/Magma.png){.inline-icon} Magma<br/><br/>Hardness: 50<br/><br/>Properties: <br/>General Buildable, Insulator, Raw Mineral, Solid|<br/>Specific Heat Capacity: <br/>0.880 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>0.920 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.7<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+
+#### Fiberglass
+
+Fiberglass is a thermoset polymer matrix made by a poltrusion of boronsilicate Glass and Plastic. Although the fiber is weak in compression, this composite material has moderate insulating properties, and can be easily used in many different applications due to its relative flexibility.
+
+| |<font size="+1">Material Properties</font>| |
+|-|-|-|
+| ![SolidFiberglass](/assets/images/elements/SolidFiberglass.png){width="200"} |<br/>Resource Type: Manufactured Material<br/><br/>Melting point: 1426.85°C<br/>-> ![MoltenGlass](/assets/images/elements/MoltenGlass.png){.inline-icon} Molten Glass<br/><br/>Hardness: 45<br/><br/>Properties: <br/>General Buildable, Insulator, Plastics, Plumbable, Raw Mineral, Solid|<br/>Specific Heat Capacity: <br/>0.400 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>1.070 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.01<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+
+#### Galena
+
+Galena is the natural mineral form of lead(II) sulfide (PbS).It is the most important ore of Lead and an important source of Silver.
+
+| |<font size="+1">Material Properties</font>| |
+|-|-|-|
+| ![Galena](/assets/images/elements/Galena.png){width="200"} |<br/>Resource Type: Metal Ore<br/><br/>Melting point: 1114°C<br/>40 %  ![MoltenLead](/assets/images/elements/MoltenLead.png){.inline-icon} Molten Lead,<br/>60 % ![SolidSilver](/assets/images/elements/SolidSilver.png){.inline-icon} Silver<br/><br/>Hardness: 25<br/><br/>Properties: <br/>General Buildable, Ore, Solid|<br/>Specific Heat Capacity: <br/>0.311 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>3.600 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.46<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+
+#### High-Grade Metallic Sand
+
+A glimmering sandy material composed mostly of high quality metallic grains, mixed with other finer mineral particles.
+
+| |<font size="+1">Material Properties</font>| |
+|-|-|-|
+| ![HighGradeSand](/assets/images/elements/HighGradeSand.png){width="200"} |<br/>Resource Type: Refined Mineral<br/><br/>Melting point: 2249°C<br/>58 %  ![RockGas](/assets/images/elements/RockGas.png){.inline-icon} Rock Gas,<br/>42 % ![SolidSlag](/assets/images/elements/SolidSlag.png){.inline-icon} Slag<br/><br/>Hardness: 32<br/><br/>Properties: <br/>General Buildable, Metallic Sand, Ore, Solid, Uncrushable, Unstable|<br/>Specific Heat Capacity: <br/>8.660 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>12.320 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.46<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+
+#### Isopropane
+
+(HC(CH<sub>3</sub>)<sub>3</sub>) Isopropane is a petrochemical refrigerant gas suitable for a variety of purposes. Degrades to Propane at higher temperatures.
+
+| |<font size="+1">Material Properties</font>| |
+|-|-|-|
+| ![IsopropaneGas](/assets/images/elements/IsopropaneGas.png){width="200"} |<br/>Resource Type: Unbreathable Gas<br/><br/>Melting point: 90°C<br/>99 %  ![Propane](/assets/images/elements/Propane.png){.inline-icon} Propane Gas,<br/>1 % ![Fullerene](/assets/images/elements/Fullerene.png){.inline-icon} Fullerene<br/><br/>Hardness: 0<br/><br/>Properties: <br/>Gas|<br/>Specific Heat Capacity: <br/>9.760 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>12.720 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.3<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+
+#### Liquid Ammonia
+
+(NH<sub>3</sub>) Ammonia is an inorganic compound of nitrogen and hydrogen, currently in its cold, liquid state.
+
+| |<font size="+1">Material Properties</font>| |
+|-|-|-|
+| ![LiquidAmmonia](/assets/images/elements/LiquidAmmonia.png){width="200"} |<br/>Resource Type: Liquid<br/><br/>Freezing point: -77.63°C<br/>-> ![SolidAmmonia](/assets/images/elements/SolidAmmonia.png){.inline-icon} Ammonia Snow<br/><br/>Evaporation point: -33.34°C<br/>-> ![AmmoniaGas](/assets/images/elements/AmmoniaGas.png){.inline-icon} Ammonia<br/><br/><br/>|<br/>Specific Heat Capacity: <br/>4.744 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>0.507 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.3<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+
+#### Liquid Nitrogen
+
+(N<sub>2</sub>) Nitrogen is a nonmetal and the lightest member of group 15 of the periodic table, currently in its cold, liquid state.
+
+| |<font size="+1">Material Properties</font>| |
+|-|-|-|
+| ![LiquidNitrogen](/assets/images/elements/LiquidNitrogen.png){width="200"} |<br/>Resource Type: Liquid<br/><br/>Freezing point: -209.9°C<br/>-> ![SolidNitrogen](/assets/images/elements/SolidNitrogen.png){.inline-icon} Solid Nitrogen<br/><br/>Evaporation point: -195.5°C<br/>-> ![NitrogenGas](/assets/images/elements/NitrogenGas.png){.inline-icon} Nitrogen<br/><br/><br/>|<br/>Specific Heat Capacity: <br/>2.000 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>0.259 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.3<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+
+#### Low-Grade Metallic Sand
+
+A sandy material composed mostly of low quality metallic grains, mixed with other finer mineral particles.
+
+| |<font size="+1">Material Properties</font>| |
+|-|-|-|
+| ![LowGradeSand](/assets/images/elements/LowGradeSand.png){width="200"} |<br/>Resource Type: Refined Mineral<br/><br/>Melting point: 2249°C<br/>58 %  ![RockGas](/assets/images/elements/RockGas.png){.inline-icon} Rock Gas,<br/>42 % ![SolidSlag](/assets/images/elements/SolidSlag.png){.inline-icon} Slag<br/><br/>Hardness: 32<br/><br/>Properties: <br/>General Buildable, Metallic Sand, Ore, Solid, Uncrushable, Unstable|<br/>Specific Heat Capacity: <br/>8.660 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>12.320 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.46<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+
+#### Meteor Ore
+
+A dense stony mass formed when various types of dust and small grains in the early Solar System accreted to form primitive asteroids. Despite their stony nature, these collision remnants contain traces of rare metals.
+
+| |<font size="+1">Material Properties</font>| |
+|-|-|-|
+| ![MeteorOre](/assets/images/elements/MeteorOre.png){width="200"} |<br/>Resource Type: Raw Mineral<br/><br/>Melting point: 1410°C<br/>-> ![Magma](/assets/images/elements/Magma.png){.inline-icon} Magma<br/><br/>Hardness: 3<br/><br/>Properties: <br/>General Buildable, Plumbable, Precious Rock, Solid|<br/>Specific Heat Capacity: <br/>0.830 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>2.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.84<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+
+#### Molten Silver
+
+(Ag) Silver is soft, white, lustrous transition metal, in its molten state.
+
+| |<font size="+1">Material Properties</font>| |
+|-|-|-|
+| ![MoltenSilver](/assets/images/elements/MoltenSilver.png){width="200"} |<br/>Resource Type: Liquid<br/><br/>Freezing point: 960°C<br/>-> ![SolidSilver](/assets/images/elements/SolidSilver.png){.inline-icon} Silver<br/><br/>Evaporation point: 2162°C<br/>-> ![SilverGas](/assets/images/elements/SilverGas.png){.inline-icon} Silver Gas<br/><br/><br/>Properties: <br/>Antiseptic, Light Emitter, Metal Ore, Refined Metal|<br/>Specific Heat Capacity: <br/>0.129 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>7.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.3<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+
+#### Molten Slag
+
+Molten Slag is a by-product of smelting (pyrometallurgical) ores and used metals. Present in molten state, this waste materail needs to be cooled down to solid Slag before can be used.
+
+| |<font size="+1">Material Properties</font>| |
+|-|-|-|
+| ![MoltenSlag](/assets/images/elements/MoltenSlag.png){width="200"} |<br/>Resource Type: Liquid<br/><br/>Freezing point: 1399°C<br/>-> ![SolidSlag](/assets/images/elements/SolidSlag.png){.inline-icon} Slag<br/><br/>Evaporation point: 2460°C<br/>-> ![RockGas](/assets/images/elements/RockGas.png){.inline-icon} Rock Gas<br/><br/><br/>Properties: <br/>Light Emitter|<br/>Specific Heat Capacity: <br/>0.850 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>1.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.8<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+
+#### Molten Zinc
+
+(Zn) Zinc is a bluish-white, lustrous, diamagnetic metal in its molten state.
+
+| |<font size="+1">Material Properties</font>| |
+|-|-|-|
+| ![MoltenZinc](/assets/images/elements/MoltenZinc.png){width="200"} |<br/>Resource Type: Liquid<br/><br/>Freezing point: 417°C<br/>-> ![SolidZinc](/assets/images/elements/SolidZinc.png){.inline-icon} Zinc<br/><br/>Evaporation point: 907°C<br/>-> ![ZincGas](/assets/images/elements/ZincGas.png){.inline-icon} Zinc Gas<br/><br/><br/>Properties: <br/>Light Emitter, Metal Ore, Refined Metal|<br/>Specific Heat Capacity: <br/>0.129 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>7.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.3<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+
+#### Nitrate Nodules
+
+(NH<sub>4</sub>NO<sub>3</sub>) Nodules of dirt containing high concentrations of Ammonium Nitrate.
+
+| |<font size="+1">Material Properties</font>| |
+|-|-|-|
+| ![AmmoniumSalt](/assets/images/elements/AmmoniumSalt.png){width="200"} |<br/>Resource Type: Consumable Ore<br/><br/>Melting point: 613°C<br/>-> ![AmmoniaGas](/assets/images/elements/AmmoniaGas.png){.inline-icon} Ammonia<br/><br/>Hardness: 1<br/><br/>Properties: <br/>Solid|<br/>Specific Heat Capacity: <br/>0.500 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>3.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.5<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+
+#### Nitric Acid
+
+(HNO<sub>3</sub>) An inorganic mineral acid composed of the elements nitrogen, oxygen and hydrogen. Presented in its liquid state, is the primary reagent used for nitration – the addition of a nitro group, typically to an organic molecule.
+
+| |<font size="+1">Material Properties</font>| |
+|-|-|-|
+| ![LiquidNitric](/assets/images/elements/LiquidNitric.png){width="200"} |<br/>Resource Type: Liquid<br/><br/>Freezing point: -42°C<br/>50 %  ![NitrogenGas](/assets/images/elements/NitrogenGas.png){.inline-icon} Nitrogen,<br/>50 % ![DirtyIce](/assets/images/elements/DirtyIce.png){.inline-icon} Polluted Ice<br/><br/>Evaporation point: 121°C<br/>50 %  ![NitrogenGas](/assets/images/elements/NitrogenGas.png){.inline-icon} Nitrogen,<br/>50 % ![Water](/assets/images/elements/Water.png){.inline-icon} Water<br/><br/><br/>Properties: <br/>Mixture|<br/>Specific Heat Capacity: <br/>0.998 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>0.889 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.3<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+
+#### Nitrogen
+
+(N<sub>2</sub>) Nitrogen is a nonmetal and the lightest member of group 15 of the periodic table.
+
+| |<font size="+1">Material Properties</font>| |
+|-|-|-|
+| ![NitrogenGas](/assets/images/elements/NitrogenGas.png){width="200"} |<br/>Resource Type: Unbreathable Gas<br/><br/>Condensation point: -195.8°C<br/>-> ![LiquidNitrogen](/assets/images/elements/LiquidNitrogen.png){.inline-icon} Liquid Nitrogen<br/><br/><br/>Properties: <br/>Carrier Gas, Gas|<br/>Specific Heat Capacity: <br/>1.850 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>0.175 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.3<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+
+#### Oil Shale
+
+Oil shale is an organic-rich fine-grained sedimentary rock containing heavy crude oil, sulfur compounds and heavy metals.
+
+| |<font size="+1">Material Properties</font>| |
+|-|-|-|
+| ![SolidOilShale](/assets/images/elements/SolidOilShale.png){width="200"} |<br/>Resource Type: Consumable Ore<br/><br/>Melting point: 120°C<br/>20 %  ![SourGas](/assets/images/elements/SourGas.png){.inline-icon} Sour Gas,<br/>80 % ![CrudeOil](/assets/images/elements/CrudeOil.png){.inline-icon} Crude Oil<br/><br/>Hardness: 2<br/><br/>Properties: <br/>Solid|<br/>Specific Heat Capacity: <br/>1.760 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>22.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.7<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+
+#### Phosphor Bronze
+
+An alloy composed of Copper, Lead and Phosphorus. Among copper based alloys it is remarkable tough, and has a relative low thermal conductivity.
+
+| |<font size="+1">Material Properties</font>| |
+|-|-|-|
+| ![PhosphorBronze](/assets/images/elements/PhosphorBronze.png){width="200"} |<br/>Resource Type: Manufactured Material<br/><br/>Melting point: 1049°C<br/>20 %  ![MoltenLead](/assets/images/elements/MoltenLead.png){.inline-icon} Molten Lead,<br/>80 % ![MoltenCopper](/assets/images/elements/MoltenCopper.png){.inline-icon} Molten Copper<br/><br/>Hardness: 35<br/><br/>Properties: <br/>General Buildable, Hardened Alloy, Metal Ore, Refined Metal, Solid, Uncrushable|<br/>Specific Heat Capacity: <br/>0.380 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>20.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.5<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+
+#### Plasteel
+
+A composite of Plastic stabilized fibers grown into a Steel crystal structure. It is much more stronger and lighter than standard metals alloys, and has a very low thermal conductivity.
+
+| |<font size="+1">Material Properties</font>| |
+|-|-|-|
+| ![Plasteel](/assets/images/elements/Plasteel.png){width="200"} |<br/>Resource Type: Manufactured Material<br/><br/>Melting point: 2576.85°C<br/>3 %  ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} Carbon Dioxide,<br/>97 % ![MoltenSteel](/assets/images/elements/MoltenSteel.png){.inline-icon} Molten Steel<br/><br/>Hardness: 70<br/><br/>Properties: <br/>General Buildable, Hardened Alloy, Metal Ore, Refined Metal, Solid, Uncrushable|<br/>Specific Heat Capacity: <br/>0.210 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>6.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.9<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+
+#### Raw Natural Gas
+
+A fossil gas consisting of gaseous hydrocarbons and other impurites. The majority of the gas mass is composed of Methane, Propane and Sour Gas.
+
+| |<font size="+1">Material Properties</font>| |
+|-|-|-|
+| ![RawNaturalGas](/assets/images/elements/RawNaturalGas.png){width="200"} |<br/>Resource Type: Unbreathable Gas<br/><br/>Condensation point: -184.5°C<br/>67 %  ![LiquidMethane](/assets/images/elements/LiquidMethane.png){.inline-icon} Liquid Methane,<br/>33 % ![Sulfur](/assets/images/elements/Sulfur.png){.inline-icon} Sulfur<br/><br/><br/>Properties: <br/>Gas|<br/>Specific Heat Capacity: <br/>2.760 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>0.057 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.3<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+
+#### Silver
+
+(Ag) Silver is soft, white, lustrous transition metal, that exhibits a high electrical and thermal conductivity.
+
+| |<font size="+1">Material Properties</font>| |
+|-|-|-|
+| ![SolidSilver](/assets/images/elements/SolidSilver.png){width="200"} |<br/>Resource Type: Refined Metal<br/><br/>Melting point: 961°C<br/>-> ![MoltenSilver](/assets/images/elements/MoltenSilver.png){.inline-icon} Molten Silver<br/><br/>Hardness: 2<br/><br/>Properties: <br/>Antiseptic, General Buildable, Solid|<br/>Specific Heat Capacity: <br/>0.223 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>220.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.5<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+
+#### Silver Gas
+
+(Ag) Silver is soft, white, lustrous transition metal, in its gaseous state.
+
+| |<font size="+1">Material Properties</font>| |
+|-|-|-|
+| ![SilverGas](/assets/images/elements/SilverGas.png){width="200"} |<br/>Resource Type: Unbreathable Gas<br/><br/>Condensation point: 2161°C<br/>-> ![MoltenSilver](/assets/images/elements/MoltenSilver.png){.inline-icon} Molten Silver<br/><br/><br/>Properties: <br/>Antiseptic, Gas, Light Emitter, Metal Ore, Refined Metal|<br/>Specific Heat Capacity: <br/>0.223 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>1.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.3<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+
+#### Silver Ore
+
+(Ag<sub>2</sub>S) Argentite is a cubic silver sulfide is a conductive metal, and the main source of refined Silver metal.
+
+| |<font size="+1">Material Properties</font>| |
+|-|-|-|
+| ![ArgentiteOre](/assets/images/elements/ArgentiteOre.png){width="200"} |<br/>Resource Type: Metal Ore<br/><br/>Melting point: 963°C<br/>80 %  ![MoltenSilver](/assets/images/elements/MoltenSilver.png){.inline-icon} Molten Silver,<br/>20 % ![SulfurGas](/assets/images/elements/SulfurGas.png){.inline-icon} Sulfur Gas<br/><br/>Hardness: 25<br/><br/>Properties: <br/>Antiseptic, General Buildable, Ore, Solid|<br/>Specific Heat Capacity: <br/>0.411 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>5.600 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.46<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+
+#### Slag
+
+Slag is a by-product of smelting (pyrometallurgical) ores and used metals. Despite being a waste product, it has many applications, such as aggregate in Concrete Blocks.
+
+| |<font size="+1">Material Properties</font>| |
+|-|-|-|
+| ![SolidSlag](/assets/images/elements/SolidSlag.png){width="200"} |<br/>Resource Type: Refined Mineral<br/><br/>Melting point: 1400°C<br/>-> ![MoltenSlag](/assets/images/elements/MoltenSlag.png){.inline-icon} Molten Slag<br/><br/>Hardness: 1<br/><br/>Properties: <br/>Solid|<br/>Specific Heat Capacity: <br/>1.660 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>0.320 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.46<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+
+#### Solid Nitrogen
+
+(N<sub>2</sub>) Nitrogen is a nonmetal and the lightest member of group 15 of the periodic table, currently its its cold, solid state.
+
+| |<font size="+1">Material Properties</font>| |
+|-|-|-|
+| ![SolidNitrogen](/assets/images/elements/SolidNitrogen.png){width="200"} |<br/>Resource Type: Liquefiable<br/><br/>Melting point: -209.7°C<br/>-> ![LiquidNitrogen](/assets/images/elements/LiquidNitrogen.png){.inline-icon} Liquid Nitrogen<br/><br/>Hardness: 2<br/><br/>Properties: <br/>Solid|<br/>Specific Heat Capacity: <br/>92.000 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>72.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.5<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+
+#### Sour Water
+
+An aqueous solution of Hydrogen Sulfide (H<sub>2</sub>S>) and Ammonia (NH<sub>3</sub>). May occur naturally from aquifers exposed to hydrogen sulfide sources, but it is more common as a wastewater from industrial processes.
+
+| |<font size="+1">Material Properties</font>| |
+|-|-|-|
+| ![SourWater](/assets/images/elements/SourWater.png){width="200"} |<br/>Resource Type: Liquid<br/><br/>Freezing point: -21°C<br/>50 %  ![DirtyWater](/assets/images/elements/DirtyWater.png){.inline-icon} Polluted Water,<br/>50 % ![SourGas](/assets/images/elements/SourGas.png){.inline-icon} Sour Gas<br/><br/>Evaporation point: 88°C<br/>50 %  ![DirtyWater](/assets/images/elements/DirtyWater.png){.inline-icon} Polluted Water,<br/>50 % ![SourGas](/assets/images/elements/SourGas.png){.inline-icon} Sour Gas<br/><br/><br/>Properties: <br/>Mixture|<br/>Specific Heat Capacity: <br/>3.477 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>0.909 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.3<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+
+#### Sulfuric Acid
+
+(H<sub>2</sub>SO<sub>4</sub>) A mineral acid composed of the elements sulfur, oxygen and hydrogen. Presented in its liquid state, it is a very dangerous chemical for its corrosive nature.
+
+| |<font size="+1">Material Properties</font>| |
+|-|-|-|
+| ![LiquidSulfuric](/assets/images/elements/LiquidSulfuric.png){width="200"} |<br/>Resource Type: Liquid<br/><br/>Freezing point: 10.31°C<br/>82 %  ![DirtyWater](/assets/images/elements/DirtyWater.png){.inline-icon} Polluted Water,<br/>18 % ![Sulfur](/assets/images/elements/Sulfur.png){.inline-icon} Sulfur<br/><br/>Evaporation point: 337°C<br/>-> ![SulfuricGas](/assets/images/elements/SulfuricGas.png){.inline-icon} Sulfuric Gas<br/><br/><br/>Properties: <br/>Mixture|<br/>Specific Heat Capacity: <br/>0.335 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>4.221 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.3<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+
+#### Sulfuric Gas
+
+(H<sub>2</sub>SO<sub>4</sub>) An acidic gas composed of the elements sulfur, oxygen and hydrogen. Presented in its gaseous state, it is a very dangerous chemical for its corrosive nature.
+
+| |<font size="+1">Material Properties</font>| |
+|-|-|-|
+| ![SulfuricGas](/assets/images/elements/SulfuricGas.png){width="200"} |<br/>Resource Type: Unbreathable Gas<br/><br/>Condensation point: 336°C<br/>-> ![LiquidSulfuric](/assets/images/elements/LiquidSulfuric.png){.inline-icon} Sulfuric Acid<br/><br/><br/>Properties: <br/>Gas|<br/>Specific Heat Capacity: <br/>0.882 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>0.122 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.3<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+
+#### Toxic Clay
+
+A sick looking, brittle clay produced as waste product from industrial operations, composed of many different chemical substances.
+
+| |<font size="+1">Material Properties</font>| |
+|-|-|-|
+| ![ToxicClay](/assets/images/elements/ToxicClay.png){width="200"} |<br/>Resource Type: Manufactured Material<br/><br/>Melting point: 16°C<br/>-> ![ToxicSlurry](/assets/images/elements/ToxicSlurry.png){.inline-icon} Toxic Slurry<br/><br/>Hardness: 1<br/><br/>Properties: <br/>Solid|<br/>Specific Heat Capacity: <br/>1.554 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>11.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.5<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+
+#### Toxic Gas
+
+A heavy, foul smelling gas produced as waste product from industrial operations, composed of many different chemical substances.
+
+| |<font size="+1">Material Properties</font>| |
+|-|-|-|
+| ![ToxicGas](/assets/images/elements/ToxicGas.png){width="200"} |<br/>Resource Type: Unbreathable Gas<br/><br/>Condensation point: 212°C<br/>-> ![ToxicSlurry](/assets/images/elements/ToxicSlurry.png){.inline-icon} Toxic Slurry<br/><br/><br/>Properties: <br/>Gas|<br/>Specific Heat Capacity: <br/>2.330 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>0.822 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.3<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+
+#### Toxic Slurry
+
+A thick, toxic slurry produced as waste product from industrial operations, composed of many different chemical substances.
+
+| |<font size="+1">Material Properties</font>| |
+|-|-|-|
+| ![ToxicSlurry](/assets/images/elements/ToxicSlurry.png){width="200"} |<br/>Resource Type: Liquid<br/><br/>Freezing point: 15°C<br/>-> ![ToxicClay](/assets/images/elements/ToxicClay.png){.inline-icon} Toxic Clay<br/><br/>Evaporation point: 213°C<br/>-> ![ToxicGas](/assets/images/elements/ToxicGas.png){.inline-icon} Toxic Gas<br/><br/><br/>Properties: <br/>Mixture, Water Based|<br/>Specific Heat Capacity: <br/>0.129 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>7.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.3<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+
+#### Zinc
+
+(Zn) Zinc is a bluish-white, lustrous, diamagnetic metal, slightly brittle metal.
+
+| |<font size="+1">Material Properties</font>| |
+|-|-|-|
+| ![SolidZinc](/assets/images/elements/SolidZinc.png){width="200"} |<br/>Resource Type: Refined Metal<br/><br/>Melting point: 420°C<br/>-> ![MoltenZinc](/assets/images/elements/MoltenZinc.png){.inline-icon} Molten Zinc<br/><br/>Hardness: 2<br/><br/>Properties: <br/>General Buildable, Solid|<br/>Specific Heat Capacity: <br/>0.387 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>60.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.5<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+
+#### Zinc Gas
+
+(Zn) Zinc is a bluish-white, lustrous, diamagnetic metal in its gaseous state.
+
+| |<font size="+1">Material Properties</font>| |
+|-|-|-|
+| ![ZincGas](/assets/images/elements/ZincGas.png){width="200"} |<br/>Resource Type: Unbreathable Gas<br/><br/>Condensation point: 905°C<br/>-> ![MoltenZinc](/assets/images/elements/MoltenZinc.png){.inline-icon} Molten Zinc<br/><br/><br/>Properties: <br/>Gas, Light Emitter, Metal Ore, Refined Metal|<br/>Specific Heat Capacity: <br/>0.223 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>1.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.3<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+
+#### Zinc Ore
+
+((Zn,Cu)<sub>5</sub>(CO<sub>3</sub>)<sub>2</sub>(OH)<sub>6</sub>) Aurichalcite is a carbonate mineral, and the main source of refined Zinc metal.
+
+| |<font size="+1">Material Properties</font>| |
+|-|-|-|
+| ![AurichalciteOre](/assets/images/elements/AurichalciteOre.png){width="200"} |<br/>Resource Type: Metal Ore<br/><br/>Melting point: 919°C<br/>60 %  ![MoltenZinc](/assets/images/elements/MoltenZinc.png){.inline-icon} Molten Zinc,<br/>40 % ![MoltenCopper](/assets/images/elements/MoltenCopper.png){.inline-icon} Molten Copper<br/><br/>Hardness: 25<br/><br/>Properties: <br/>General Buildable, Ore, Solid|<br/>Specific Heat Capacity: <br/>0.411 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>3.600 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.46<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
 
 ### Reenabled Elements
 These vanilla elements have been reenabled or partially adjusted
 
-|<font size="+1">Element</font> | <font size="+1">Material Properties</font> | |
-|:-:|:-:|:-:|
-|<font size="+2">Crushed Rock</font> <br/> <br/> ![CrushedRock](/assets/images/elements/CrushedRock.png){width="200"}  <br/>Crushed Rock is Igneous Rock crushed into a mechanical mixture.|<br/>Resource Type: Refined Mineral<br/><br/>Melting point: 1409.85°C<br/>-> ![Magma](/assets/images/elements/Magma.png){.inline-icon} Magma<br/><br/>Hardness: 10<br/><br/>Properties: <br/>Consumable Ore, Solid, Unstable|<br/>Specific Heat Capacity: <br/>0.200 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>2.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.7<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
-|<font size="+2">Electrum</font> <br/> <br/> ![Electrum](/assets/images/elements/Electrum.png){width="200"}  <br/>Electrum is a conductive Metal alloy composed of gold and silver.<br/><br/>It is suitable for building Power systems.|<br/>Resource Type: Metal Ore<br/><br/>Melting point: 1063.85°C<br/>40 %  ![MoltenGold](/assets/images/elements/MoltenGold.png){.inline-icon} Molten Gold,<br/>60 % ![SolidSilver](/assets/images/elements/SolidSilver.png){.inline-icon} Silver<br/><br/>Hardness: 2<br/><br/>Properties: <br/>General Buildable, Ore, Solid|<br/>Specific Heat Capacity: <br/>0.150 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>2.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.35<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
-|<font size="+2">Liquid Naphtha</font> <br/> <br/> ![Naphtha](/assets/images/elements/Naphtha.png){width="200"}  <br/>Naphtha a distilled hydrocarbon mixture produced from the burning of Plastic.|<br/>Resource Type: Liquid<br/><br/>Freezing point: -50.15°C<br/>-> ![SolidNaphtha](/assets/images/elements/SolidNaphtha.png){.inline-icon} Solid Naphtha<br/><br/>Evaporation point: 538.85°C<br/>-> ![SourGas](/assets/images/elements/SourGas.png){.inline-icon} Sour Gas<br/><br/><br/>Properties: <br/>Combustible Liquid, Hydrocarbon, Rocket Fuel|<br/>Specific Heat Capacity: <br/>2.191 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>0.200 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.6<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
-|<font size="+2">Liquid Propane</font> <br/> <br/> ![LiquidPropane](/assets/images/elements/LiquidPropane.png){width="200"}  <br/>(C<sub>3</sub>H<sub>8</sub>) Propane is an alkane.<br/><br/>This selection is in a Liquid state.<br/><br/>It is useful in Power production.|<br/>Resource Type: Liquid<br/><br/>Freezing point: -188.15°C<br/>-> ![SolidPropane](/assets/images/elements/SolidPropane.png){.inline-icon} Solid Propane<br/><br/>Evaporation point: -42.15°C<br/>-> ![Propane](/assets/images/elements/Propane.png){.inline-icon} Propane Gas<br/><br/><br/>|<br/>Specific Heat Capacity: <br/>2.400 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>0.100 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.75<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
-|<font size="+2">Phosphate Nodules</font> <br/> <br/> ![PhosphateNodules](/assets/images/elements/PhosphateNodules.png){width="200"}  <br/>(PO<sup>3-</sup><sub>4</sub>) Nodules of sedimentary rock containing high concentrations of phosphate.|<br/>Resource Type: Agriculture<br/><br/>Melting point: 426.85°C<br/>-> ![LiquidPhosphorus](/assets/images/elements/LiquidPhosphorus.png){.inline-icon} Liquid Phosphorus<br/><br/>Hardness: 25<br/><br/>Properties: <br/>Consumable Ore, Manufactured Material, Solid|<br/>Specific Heat Capacity: <br/>0.150 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>2.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.75<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
-|<font size="+2">Propane Gas</font> <br/> <br/> ![Propane](/assets/images/elements/Propane.png){width="200"}  <br/>(C<sub>3</sub>H<sub>8</sub>) Propane Gas is a natural alkane.<br/><br/>This selection is in a Gaseous state.<br/><br/>It is useful in Power production.|<br/>Resource Type: Unbreathable Gas<br/><br/>Condensation point: -42.15°C<br/>-> ![LiquidPropane](/assets/images/elements/LiquidPropane.png){.inline-icon} Liquid Propane<br/><br/><br/>Properties: <br/>Combustible Gas, Gas|<br/>Specific Heat Capacity: <br/>2.400 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>0.015 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.07<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
-|<font size="+2">Solid Propane</font> <br/> <br/> ![SolidPropane](/assets/images/elements/SolidPropane.png){width="200"}  <br/>(C<sub>3</sub>H<sub>8</sub>) Solid Propane is a natural gas in a Solid state.|<br/>Resource Type: Liquefiable<br/><br/>Melting point: -188.15°C<br/>-> ![LiquidPropane](/assets/images/elements/LiquidPropane.png){.inline-icon} Liquid Propane<br/><br/>Hardness: 10<br/><br/>Properties: <br/>General Buildable, Solid|<br/>Specific Heat Capacity: <br/>2.400 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>1.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.75<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
-|<font size="+2">Synthesis Gas</font> <br/> <br/> ![Syngas](/assets/images/elements/Syngas.png){width="200"}  <br/>Synthesis Gas is an artificial, unbreathable Gas.<br/><br/>It can be converted into an efficient fuel.|<br/>Resource Type: Unbreathable Gas<br/><br/>Condensation point: -252.15°C<br/>-> ![MoltenSyngas](/assets/images/elements/MoltenSyngas.png){.inline-icon} Molten Synthesis Gas<br/><br/><br/>Properties: <br/>Combustible Gas, Gas|<br/>Specific Heat Capacity: <br/>2.400 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>0.168 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.07<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+#### Crushed Rock
+
+Crushed Rock is Igneous Rock crushed into a mechanical mixture.
+
+| |<font size="+1">Material Properties</font>| |
+|-|-|-|
+| ![CrushedRock](/assets/images/elements/CrushedRock.png){width="200"} |<br/>Resource Type: Refined Mineral<br/><br/>Melting point: 1409.85°C<br/>-> ![Magma](/assets/images/elements/Magma.png){.inline-icon} Magma<br/><br/>Hardness: 10<br/><br/>Properties: <br/>Consumable Ore, Solid, Unstable|<br/>Specific Heat Capacity: <br/>0.200 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>2.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.7<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+
+#### Electrum
+
+Electrum is a conductive Metal alloy composed of gold and silver.<br/><br/>It is suitable for building Power systems.
+
+| |<font size="+1">Material Properties</font>| |
+|-|-|-|
+| ![Electrum](/assets/images/elements/Electrum.png){width="200"} |<br/>Resource Type: Metal Ore<br/><br/>Melting point: 1063.85°C<br/>40 %  ![MoltenGold](/assets/images/elements/MoltenGold.png){.inline-icon} Molten Gold,<br/>60 % ![SolidSilver](/assets/images/elements/SolidSilver.png){.inline-icon} Silver<br/><br/>Hardness: 2<br/><br/>Properties: <br/>General Buildable, Ore, Solid|<br/>Specific Heat Capacity: <br/>0.150 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>2.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.35<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+
+#### Liquid Naphtha
+
+Naphtha a distilled hydrocarbon mixture produced from the burning of Plastic.
+
+| |<font size="+1">Material Properties</font>| |
+|-|-|-|
+| ![Naphtha](/assets/images/elements/Naphtha.png){width="200"} |<br/>Resource Type: Liquid<br/><br/>Freezing point: -50.15°C<br/>-> ![SolidNaphtha](/assets/images/elements/SolidNaphtha.png){.inline-icon} Solid Naphtha<br/><br/>Evaporation point: 538.85°C<br/>-> ![SourGas](/assets/images/elements/SourGas.png){.inline-icon} Sour Gas<br/><br/><br/>Properties: <br/>Combustible Liquid, Hydrocarbon, Rocket Fuel|<br/>Specific Heat Capacity: <br/>2.191 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>0.200 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.6<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+
+#### Liquid Propane
+
+(C<sub>3</sub>H<sub>8</sub>) Propane is an alkane.<br/><br/>This selection is in a Liquid state.<br/><br/>It is useful in Power production.
+
+| |<font size="+1">Material Properties</font>| |
+|-|-|-|
+| ![LiquidPropane](/assets/images/elements/LiquidPropane.png){width="200"} |<br/>Resource Type: Liquid<br/><br/>Freezing point: -188.15°C<br/>-> ![SolidPropane](/assets/images/elements/SolidPropane.png){.inline-icon} Solid Propane<br/><br/>Evaporation point: -42.15°C<br/>-> ![Propane](/assets/images/elements/Propane.png){.inline-icon} Propane Gas<br/><br/><br/>|<br/>Specific Heat Capacity: <br/>2.400 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>0.100 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.75<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+
+#### Phosphate Nodules
+
+(PO<sup>3-</sup><sub>4</sub>) Nodules of sedimentary rock containing high concentrations of phosphate.
+
+| |<font size="+1">Material Properties</font>| |
+|-|-|-|
+| ![PhosphateNodules](/assets/images/elements/PhosphateNodules.png){width="200"} |<br/>Resource Type: Agriculture<br/><br/>Melting point: 426.85°C<br/>-> ![LiquidPhosphorus](/assets/images/elements/LiquidPhosphorus.png){.inline-icon} Liquid Phosphorus<br/><br/>Hardness: 25<br/><br/>Properties: <br/>Consumable Ore, Manufactured Material, Solid|<br/>Specific Heat Capacity: <br/>0.150 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>2.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.75<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+
+#### Propane Gas
+
+(C<sub>3</sub>H<sub>8</sub>) Propane Gas is a natural alkane.<br/><br/>This selection is in a Gaseous state.<br/><br/>It is useful in Power production.
+
+| |<font size="+1">Material Properties</font>| |
+|-|-|-|
+| ![Propane](/assets/images/elements/Propane.png){width="200"} |<br/>Resource Type: Unbreathable Gas<br/><br/>Condensation point: -42.15°C<br/>-> ![LiquidPropane](/assets/images/elements/LiquidPropane.png){.inline-icon} Liquid Propane<br/><br/><br/>Properties: <br/>Combustible Gas, Gas|<br/>Specific Heat Capacity: <br/>2.400 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>0.015 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.07<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+
+#### Solid Propane
+
+(C<sub>3</sub>H<sub>8</sub>) Solid Propane is a natural gas in a Solid state.
+
+| |<font size="+1">Material Properties</font>| |
+|-|-|-|
+| ![SolidPropane](/assets/images/elements/SolidPropane.png){width="200"} |<br/>Resource Type: Liquefiable<br/><br/>Melting point: -188.15°C<br/>-> ![LiquidPropane](/assets/images/elements/LiquidPropane.png){.inline-icon} Liquid Propane<br/><br/>Hardness: 10<br/><br/>Properties: <br/>General Buildable, Solid|<br/>Specific Heat Capacity: <br/>2.400 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>1.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.75<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+
+#### Synthesis Gas
+
+Synthesis Gas is an artificial, unbreathable Gas.<br/><br/>It can be converted into an efficient fuel.
+
+| |<font size="+1">Material Properties</font>| |
+|-|-|-|
+| ![Syngas](/assets/images/elements/Syngas.png){width="200"} |<br/>Resource Type: Unbreathable Gas<br/><br/>Condensation point: -252.15°C<br/>-> ![MoltenSyngas](/assets/images/elements/MoltenSyngas.png){.inline-icon} Molten Synthesis Gas<br/><br/><br/>Properties: <br/>Combustible Gas, Gas|<br/>Specific Heat Capacity: <br/>2.400 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>0.168 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.07<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
 
 ## Chemical Processing - Biochemistry
 ### New Elements
 
-|<font size="+1">Element</font> | <font size="+1">Material Properties</font> | |
-|:-:|:-:|:-:|
-|<font size="+2">Bioplastic</font> <br/> <br/> ![Bioplastic](/assets/images/elements/Bioplastic.png){width="200"}  <br/>A synthetic biopolymer produced from renewable biomass sources, such as vegetable fats and oils, and enzymes from bacterial biosynthesis. Unlike traditional plastics, which are derived from fossil fuels, bioplastics are obtained from renewable resources.|<br/>Resource Type: Manufactured Material<br/><br/>Melting point: 104°C<br/>80 %  ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} Vegetable Oil,<br/>20 % ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} Carbon Dioxide<br/><br/>Hardness: 2<br/><br/>Properties: <br/>Antiseptic, General Buildable, Plastics, Solid|<br/>Specific Heat Capacity: <br/>1.220 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>0.750 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.8<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
-|<font size="+2">Compressed Biomass</font> <br/> <br/> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){width="200"}  <br/>A dried, hard pressed clump of organic mass from vegetable origin. Has almost no moisture and can be used as burnable fuel or can be turned to dirt through composting.|<br/>Resource Type: Organic<br/><br/>Melting point: 250°C<br/>-> ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} Carbon Dioxide<br/><br/>Hardness: 2<br/><br/>Properties: <br/>Compostable, Solid|<br/>Specific Heat Capacity: <br/>0.880 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>1.250 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.5<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
-|<font size="+2">Frozen Renewable Diesel</font> <br/> <br/> ![SolidBiodiesel](/assets/images/elements/SolidBiodiesel.png){width="200"}  <br/>Biodiesel is a renewable biofuel from biological sources like vegetable oils. Frozen solid on its present form.|<br/>Resource Type: Liquefiable<br/><br/>Melting point: 2°C<br/>-> ![LiquidBiodiesel](/assets/images/elements/LiquidBiodiesel.png){.inline-icon} Renewable Diesel<br/><br/>Hardness: 1<br/><br/>Properties: <br/>Solid|<br/>Specific Heat Capacity: <br/>1.920 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>22.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.8<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
-|<font size="+2">Frozen Vegetable Oil</font> <br/> <br/> ![SolidVegeOil](/assets/images/elements/SolidVegeOil.png){width="200"}  <br/>Frozen solid oil extracted from vegetable biomass, composed of triglycerides and monounsaturated fatty acids.|<br/>Resource Type: Liquefiable<br/><br/>Melting point: -15°C<br/>-> ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} Vegetable Oil<br/><br/>Hardness: 1<br/><br/>Properties: <br/>Solid|<br/>Specific Heat Capacity: <br/>1.920 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>32.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.8<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
-|<font size="+2">Oily Gas</font> <br/> <br/> ![VegeOilGas](/assets/images/elements/VegeOilGas.png){width="200"}  <br/>Gaseous oil extracted from vegetable biomass, composed of triglycerides and monounsaturated fatty acids.|<br/>Resource Type: Unbreathable Gas<br/><br/>Condensation point: 299°C<br/>-> ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} Vegetable Oil<br/><br/><br/>Properties: <br/>Gas|<br/>Specific Heat Capacity: <br/>0.846 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>0.015 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.8<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
-|<font size="+2">Renewable Diesel</font> <br/> <br/> ![LiquidBiodiesel](/assets/images/elements/LiquidBiodiesel.png){width="200"}  <br/>Renewable diesel is a renewable biofuel from biological sources like vegetable oils. Used as an alternative to fossil fuels.|<br/>Resource Type: Liquid<br/><br/>Freezing point: 1°C<br/>-> ![SolidBiodiesel](/assets/images/elements/SolidBiodiesel.png){.inline-icon} Frozen Renewable Diesel<br/><br/>Evaporation point: 357°C<br/>70 %  ![VegeOilGas](/assets/images/elements/VegeOilGas.png){.inline-icon} Oily Gas,<br/>30 % ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} Carbon Dioxide<br/><br/><br/>Properties: <br/>Combustible Liquid, Rocket Fuel, Slippery|<br/>Specific Heat Capacity: <br/>0.234 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>7.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.8<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
-|<font size="+2">Vegetable Oil</font> <br/> <br/> ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){width="200"}  <br/>Liquid oil extracted from vegetable biomass, composed of triglycerides and monounsaturated fatty acids.|<br/>Resource Type: Liquid<br/><br/>Freezing point: -16°C<br/>-> ![SolidVegeOil](/assets/images/elements/SolidVegeOil.png){.inline-icon} Frozen Vegetable Oil<br/><br/>Evaporation point: 301°C<br/>-> ![VegeOilGas](/assets/images/elements/VegeOilGas.png){.inline-icon} Oily Gas<br/><br/><br/>Properties: <br/>Gear Oil, Slippery, Unrefined Oil|<br/>Specific Heat Capacity: <br/>1.070 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>2.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.8<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+#### Bioplastic
 
-### Reenabled Elements
-These vanilla elements have been reenabled or partially adjusted
+A synthetic biopolymer produced from renewable biomass sources, such as vegetable fats and oils, and enzymes from bacterial biosynthesis. Unlike traditional plastics, which are derived from fossil fuels, bioplastics are obtained from renewable resources.
 
-|<font size="+1">Element</font> | <font size="+1">Material Properties</font> | |
-|:-:|:-:|:-:|
-|<font size="+2">Radium</font> <br/> <br/> ![Radium](/assets/images/elements/Radium.png){width="200"}  <br/>(Ra) Radium is a Light emitting radioactive substance.<br/><br/>It is useful as a Power source.|<br/>Resource Type: Solid<br/><br/>Melting point: 959.85°C<br/>-> ![Magma](/assets/images/elements/Magma.png){.inline-icon} Magma<br/><br/>Hardness: 250<br/><br/>Properties: <br/>Consumable Ore|<br/>Specific Heat Capacity: <br/>1.000 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>20.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.25<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
-|<font size="+2">Yellowcake</font> <br/> <br/> ![Yellowcake](/assets/images/elements/Yellowcake.png){width="200"}  <br/>(U<sub>3</sub>O<sub>8</sub>) Yellowcake is a byproduct of Uranium mining.<br/><br/>It is useful in preparing fuel for Research Reactors.<br/><br/>Note: Do not eat.|<br/>Resource Type: Solid<br/><br/>Melting point: 858.85°C<br/>-> ![MoltenUranium](/assets/images/elements/MoltenUranium.png){.inline-icon} Liquid Uranium<br/><br/>Hardness: 250<br/><br/>Properties: <br/>Manufactured Material|<br/>Specific Heat Capacity: <br/>1.000 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>20.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.3<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+| |<font size="+1">Material Properties</font>| |
+|-|-|-|
+| ![Bioplastic](/assets/images/elements/Bioplastic.png){width="200"} |<br/>Resource Type: Manufactured Material<br/><br/>Melting point: 104°C<br/>80 %  ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} Vegetable Oil,<br/>20 % ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} Carbon Dioxide<br/><br/>Hardness: 2<br/><br/>Properties: <br/>Antiseptic, General Buildable, Plastics, Solid|<br/>Specific Heat Capacity: <br/>1.220 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>0.750 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.8<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+
+#### Compressed Biomass
+
+A dried, hard pressed clump of organic mass from vegetable origin. Has almost no moisture and can be used as burnable fuel or can be turned to dirt through composting.
+
+| |<font size="+1">Material Properties</font>| |
+|-|-|-|
+| ![SolidBiomass](/assets/images/elements/SolidBiomass.png){width="200"} |<br/>Resource Type: Organic<br/><br/>Melting point: 250°C<br/>-> ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} Carbon Dioxide<br/><br/>Hardness: 2<br/><br/>Properties: <br/>Compostable, Solid|<br/>Specific Heat Capacity: <br/>0.880 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>1.250 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.5<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+
+#### Frozen Renewable Diesel
+
+Biodiesel is a renewable biofuel from biological sources like vegetable oils. Frozen solid on its present form.
+
+| |<font size="+1">Material Properties</font>| |
+|-|-|-|
+| ![SolidBiodiesel](/assets/images/elements/SolidBiodiesel.png){width="200"} |<br/>Resource Type: Liquefiable<br/><br/>Melting point: 2°C<br/>-> ![LiquidBiodiesel](/assets/images/elements/LiquidBiodiesel.png){.inline-icon} Renewable Diesel<br/><br/>Hardness: 1<br/><br/>Properties: <br/>Solid|<br/>Specific Heat Capacity: <br/>1.920 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>22.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.8<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+
+#### Frozen Vegetable Oil
+
+Frozen solid oil extracted from vegetable biomass, composed of triglycerides and monounsaturated fatty acids.
+
+| |<font size="+1">Material Properties</font>| |
+|-|-|-|
+| ![SolidVegeOil](/assets/images/elements/SolidVegeOil.png){width="200"} |<br/>Resource Type: Liquefiable<br/><br/>Melting point: -15°C<br/>-> ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} Vegetable Oil<br/><br/>Hardness: 1<br/><br/>Properties: <br/>Solid|<br/>Specific Heat Capacity: <br/>1.920 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>32.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.8<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+
+#### Oily Gas
+
+Gaseous oil extracted from vegetable biomass, composed of triglycerides and monounsaturated fatty acids.
+
+| |<font size="+1">Material Properties</font>| |
+|-|-|-|
+| ![VegeOilGas](/assets/images/elements/VegeOilGas.png){width="200"} |<br/>Resource Type: Unbreathable Gas<br/><br/>Condensation point: 299°C<br/>-> ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} Vegetable Oil<br/><br/><br/>Properties: <br/>Gas|<br/>Specific Heat Capacity: <br/>0.846 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>0.015 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.8<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+
+#### Renewable Diesel
+
+Renewable diesel is a renewable biofuel from biological sources like vegetable oils. Used as an alternative to fossil fuels.
+
+| |<font size="+1">Material Properties</font>| |
+|-|-|-|
+| ![LiquidBiodiesel](/assets/images/elements/LiquidBiodiesel.png){width="200"} |<br/>Resource Type: Liquid<br/><br/>Freezing point: 1°C<br/>-> ![SolidBiodiesel](/assets/images/elements/SolidBiodiesel.png){.inline-icon} Frozen Renewable Diesel<br/><br/>Evaporation point: 357°C<br/>70 %  ![VegeOilGas](/assets/images/elements/VegeOilGas.png){.inline-icon} Oily Gas,<br/>30 % ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} Carbon Dioxide<br/><br/><br/>Properties: <br/>Combustible Liquid, Rocket Fuel, Slippery|<br/>Specific Heat Capacity: <br/>0.234 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>7.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.8<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+
+#### Vegetable Oil
+
+Liquid oil extracted from vegetable biomass, composed of triglycerides and monounsaturated fatty acids.
+
+| |<font size="+1">Material Properties</font>| |
+|-|-|-|
+| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){width="200"} |<br/>Resource Type: Liquid<br/><br/>Freezing point: -16°C<br/>-> ![SolidVegeOil](/assets/images/elements/SolidVegeOil.png){.inline-icon} Frozen Vegetable Oil<br/><br/>Evaporation point: 301°C<br/>-> ![VegeOilGas](/assets/images/elements/VegeOilGas.png){.inline-icon} Oily Gas<br/><br/><br/>Properties: <br/>Gear Oil, Slippery, Unrefined Oil|<br/>Specific Heat Capacity: <br/>1.070 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>2.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.8<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
 
 ## Dupes Engineering
 ### Reenabled Elements
 These vanilla elements have been reenabled or partially adjusted
 
-|<font size="+1">Element</font> | <font size="+1">Material Properties</font> | |
-|:-:|:-:|:-:|
-|<font size="+2">Brick</font> <br/> <br/> ![Brick](/assets/images/elements/Brick.png){width="200"}  <br/>Brick is a hard, brittle material formed from heated Clay.<br/><br/>It is a reliable <b>Construction Material</b>.|<br/>Resource Type: Refined Mineral<br/><br/>Melting point: 1726.85°C<br/>-> ![Magma](/assets/images/elements/Magma.png){.inline-icon} Magma<br/><br/>Hardness: 50<br/><br/>Properties: <br/>Crushable, General Buildable, Insulator, Raw Mineral, Solid|<br/>Specific Heat Capacity: <br/>0.840 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>0.620 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.8<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
-|<font size="+2">Cement</font> <br/> <br/> ![Cement](/assets/images/elements/Cement.png){width="200"}  <br/>Cement is a refined building material used for assembling advanced buildings.|<br/>Resource Type: Refined Mineral<br/><br/>Melting point: 1409.85°C<br/>-> ![Magma](/assets/images/elements/Magma.png){.inline-icon} Magma<br/><br/>Hardness: 200<br/><br/>Properties: <br/>General Buildable, Solid|<br/>Specific Heat Capacity: <br/>1.550 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>3.110 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 1<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
-|<font size="+2">Crushed Rock</font> <br/> <br/> ![CrushedRock](/assets/images/elements/CrushedRock.png){width="200"}  <br/>Crushed Rock is Igneous Rock crushed into a mechanical mixture.|<br/>Resource Type: Refined Mineral<br/><br/>Melting point: 1409.85°C<br/>-> ![Magma](/assets/images/elements/Magma.png){.inline-icon} Magma<br/><br/>Hardness: 10<br/><br/>Properties: <br/>Consumable Ore, Solid, Unstable|<br/>Specific Heat Capacity: <br/>0.200 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>2.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.7<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+#### Brick
+
+Brick is a hard, brittle material formed from heated Clay.<br/><br/>It is a reliable <b>Construction Material</b>.
+
+| |<font size="+1">Material Properties</font>| |
+|-|-|-|
+| ![Brick](/assets/images/elements/Brick.png){width="200"} |<br/>Resource Type: Refined Mineral<br/><br/>Melting point: 1726.85°C<br/>-> ![Magma](/assets/images/elements/Magma.png){.inline-icon} Magma<br/><br/>Hardness: 50<br/><br/>Properties: <br/>Crushable, General Buildable, Insulator, Raw Mineral, Solid|<br/>Specific Heat Capacity: <br/>0.840 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>0.620 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.8<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+
+#### Cement
+
+Cement is a refined building material used for assembling advanced buildings.
+
+| |<font size="+1">Material Properties</font>| |
+|-|-|-|
+| ![Cement](/assets/images/elements/Cement.png){width="200"} |<br/>Resource Type: Refined Mineral<br/><br/>Melting point: 1409.85°C<br/>-> ![Magma](/assets/images/elements/Magma.png){.inline-icon} Magma<br/><br/>Hardness: 200<br/><br/>Properties: <br/>General Buildable, Solid|<br/>Specific Heat Capacity: <br/>1.550 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>3.110 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 1<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+
+#### Crushed Rock
+
+Crushed Rock is Igneous Rock crushed into a mechanical mixture.
+
+| |<font size="+1">Material Properties</font>| |
+|-|-|-|
+| ![CrushedRock](/assets/images/elements/CrushedRock.png){width="200"} |<br/>Resource Type: Refined Mineral<br/><br/>Melting point: 1409.85°C<br/>-> ![Magma](/assets/images/elements/Magma.png){.inline-icon} Magma<br/><br/>Hardness: 10<br/><br/>Properties: <br/>Consumable Ore, Solid, Unstable|<br/>Specific Heat Capacity: <br/>0.200 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>2.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.7<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+
+## Nuclear Processing
+### Reenabled Elements
+These vanilla elements have been reenabled or partially adjusted
+
+#### Radium
+
+(Ra) Radium is a Light emitting radioactive substance.<br/><br/>It is useful as a Power source.
+
+| |<font size="+1">Material Properties</font>| |
+|-|-|-|
+| ![Radium](/assets/images/elements/Radium.png){width="200"} |<br/>Resource Type: Solid<br/><br/>Melting point: 959.85°C<br/>-> ![Magma](/assets/images/elements/Magma.png){.inline-icon} Magma<br/><br/>Hardness: 250<br/><br/>Properties: <br/>Consumable Ore|<br/>Specific Heat Capacity: <br/>1.000 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>20.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.25<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+
+#### Yellowcake
+
+(U<sub>3</sub>O<sub>8</sub>) Yellowcake is a byproduct of Uranium mining.<br/><br/>It is useful in preparing fuel for Research Reactors.<br/><br/>Note: Do not eat.
+
+| |<font size="+1">Material Properties</font>| |
+|-|-|-|
+| ![Yellowcake](/assets/images/elements/Yellowcake.png){width="200"} |<br/>Resource Type: Solid<br/><br/>Melting point: 858.85°C<br/>-> ![MoltenUranium](/assets/images/elements/MoltenUranium.png){.inline-icon} Liquid Uranium<br/><br/>Hardness: 250<br/><br/>Properties: <br/>Manufactured Material|<br/>Specific Heat Capacity: <br/>1.000 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>20.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.3<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
 
