@@ -1,5 +1,5 @@
 # 元素
-在配置中启用以下mod将为游戏添加对应新元素。
+在配置文件中启用此模组将为游戏添加多个新元素，或重新启用被禁用的原版元素。<br/><br/>其中部分元素还将被添加到星图的POI中用于采矿，或在世界生成时随机生成。
 ## 新元素类别
 
 |<font size="+1">材料</font> | | <font size="+1">元素</font> |
@@ -8,8 +8,7 @@
 |<font size="+1">载气</font> <br/> <br/>|载气是一类用于等离子体相关工艺的惰性或半惰性气体。| ![Helium](/assets/images/elements/Helium.png){.inline-icon} 氦气<br/> ![Hydrogen](/assets/images/elements/Hydrogen.png){.inline-icon} 氢气<br/> ![NitrogenGas](/assets/images/elements/NitrogenGas.png){.inline-icon} 氮气<br/>|
 |<font size="+1">金属砂</font> <br/> <br/>|由不同数量的金属颗粒组成的砂质材料| ![BaseGradeSand](/assets/images/elements/BaseGradeSand.png){.inline-icon} 中级金属砂<br/> ![LowGradeSand](/assets/images/elements/LowGradeSand.png){.inline-icon} 低级金属砂<br/> ![HighGradeSand](/assets/images/elements/HighGradeSand.png){.inline-icon} 高级金属砂<br/>|
 
-## 化学工艺-工业革命
-### 新 元素
+## 新 元素
 
 #### 中级金属砂
 
@@ -339,7 +338,7 @@
 |-|-|-|
 | ![SolidBrass](/assets/images/elements/SolidBrass.png){width="200"} |<br/>资源种类：人造材料<br/><br/>熔点：920°C<br/>30 %  ![ZincGas](/assets/images/elements/ZincGas.png){.inline-icon} 气态锌,<br/>70 % ![MoltenCopper](/assets/images/elements/MoltenCopper.png){.inline-icon} 熔融铜<br/><br/>硬度：35<br/><br/>属性：<br/>一般建造材料, 不可粉碎物, 固体, 精炼金属, 金属矿石|<br/>比热容：<br/>0.380 (DTU/g)/ ºC<br/><br/>热导率：<br/>208.000 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.7<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
 
-### 重新启用的 元素
+## 重新启用的 元素
 这些元素已被重新激活或部分调整。
 
 #### 丙烷
@@ -406,110 +405,19 @@
 |-|-|-|
 | ![Electrum](/assets/images/elements/Electrum.png){width="200"} |<br/>资源种类：金属矿石<br/><br/>熔点：1063.85°C<br/>40 %  ![MoltenGold](/assets/images/elements/MoltenGold.png){.inline-icon} 熔融金,<br/>60 % ![SolidSilver](/assets/images/elements/SolidSilver.png){.inline-icon} 银<br/><br/>硬度：2<br/><br/>属性：<br/>一般建造材料, 固体, 矿石|<br/>比热容：<br/>0.150 (DTU/g)/ ºC<br/><br/>热导率：<br/>2.000 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.35<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
 
-## 化学工艺-生物化学
-### 新 元素
+## 动物饮食扩展
 
-#### 凝冻可再生柴油
-
-生物柴油是一种由植物油等生物资源制成的可再生生物燃料。（固态）
-
-| |<font size="+1">材料属性</font>| |
+|输入:|只小动物|输出:|
 |-|-|-|
-| ![SolidBiodiesel](/assets/images/elements/SolidBiodiesel.png){width="200"} |<br/>资源种类：可液化物<br/><br/>熔点：2°C<br/>-> ![LiquidBiodiesel](/assets/images/elements/LiquidBiodiesel.png){.inline-icon} 可再生柴油<br/><br/>硬度：1<br/><br/>属性：<br/>固体|<br/>比热容：<br/>1.920 (DTU/g)/ ºC<br/><br/>热导率：<br/>22.000 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.8<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
-
-#### 凝冻植物油
-
-从植物生物质中提取的完全凝固的油脂，由甘油三酯和单不饱和脂肪酸组成。
-
-| |<font size="+1">材料属性</font>| |
-|-|-|-|
-| ![SolidVegeOil](/assets/images/elements/SolidVegeOil.png){width="200"} |<br/>资源种类：可液化物<br/><br/>熔点：-15°C<br/>-> ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} 植物油<br/><br/>硬度：1<br/><br/>属性：<br/>固体|<br/>比热容：<br/>1.920 (DTU/g)/ ºC<br/><br/>热导率：<br/>32.000 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.8<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
-
-#### 压缩生物质
-
-一种由植物来源制成的干燥、坚硬的有机物质团块。其含水量极少，可用作燃料，或者通过堆肥处理转化为泥土。
-
-| |<font size="+1">材料属性</font>| |
-|-|-|-|
-| ![SolidBiomass](/assets/images/elements/SolidBiomass.png){width="200"} |<br/>资源种类：有机物<br/><br/>熔点：250°C<br/>-> ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} 二氧化碳<br/><br/>硬度：2<br/><br/>属性：<br/>可堆肥物, 固体|<br/>比热容：<br/>0.880 (DTU/g)/ ºC<br/><br/>热导率：<br/>1.250 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.5<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
-
-#### 可再生柴油
-
-可再生柴油是一种源自植物油等生物资源的可再生生物燃料，可作为化石燃料的替代品使用。
-
-| |<font size="+1">材料属性</font>| |
-|-|-|-|
-| ![LiquidBiodiesel](/assets/images/elements/LiquidBiodiesel.png){width="200"} |<br/>资源种类：液体<br/><br/>冰点：1°C<br/>-> ![SolidBiodiesel](/assets/images/elements/SolidBiodiesel.png){.inline-icon} 凝冻可再生柴油<br/><br/>沸点：357°C<br/>70 %  ![VegeOilGas](/assets/images/elements/VegeOilGas.png){.inline-icon} 气态植物油,<br/>30 % ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} 二氧化碳<br/><br/><br/>属性：<br/>可燃液体, 溜滑|<br/>比热容：<br/>0.234 (DTU/g)/ ºC<br/><br/>热导率：<br/>7.000 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.8<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
-
-#### 植物油
-
-从植物生物质中提取的液态油脂，由甘油三酯和单不饱和脂肪酸组成。
-
-| |<font size="+1">材料属性</font>| |
-|-|-|-|
-| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){width="200"} |<br/>资源种类：液体<br/><br/>冰点：-16°C<br/>-> ![SolidVegeOil](/assets/images/elements/SolidVegeOil.png){.inline-icon} 凝冻植物油<br/><br/>沸点：301°C<br/>-> ![VegeOilGas](/assets/images/elements/VegeOilGas.png){.inline-icon} 气态植物油<br/><br/><br/>属性：<br/>未精炼油, 溜滑, 齿轮油|<br/>比热容：<br/>1.070 (DTU/g)/ ºC<br/><br/>热导率：<br/>2.000 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.8<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
-
-#### 气态植物油
-
-从植物生物质中提取的气态油，由甘油三酯和单不饱和脂肪酸组成。
-
-| |<font size="+1">材料属性</font>| |
-|-|-|-|
-| ![VegeOilGas](/assets/images/elements/VegeOilGas.png){width="200"} |<br/>资源种类：不可呼吸的气体<br/><br/>凝点：299°C<br/>-> ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} 植物油<br/><br/><br/>属性：<br/>气体|<br/>比热容：<br/>0.846 (DTU/g)/ ºC<br/><br/>热导率：<br/>0.015 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.8<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
-
-#### 生物塑料
-
-一种由可再生生物质来源（如植物油脂和油类）以及细菌生物合成产生的合成生物聚合物。与传统塑料（由化石燃料）制成不同，生物塑料是通过可再生资源获取的。
-
-| |<font size="+1">材料属性</font>| |
-|-|-|-|
-| ![Bioplastic](/assets/images/elements/Bioplastic.png){width="200"} |<br/>资源种类：人造材料<br/><br/>熔点：104°C<br/>80 %  ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} 植物油,<br/>20 % ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} 二氧化碳<br/><br/>硬度：2<br/><br/>属性：<br/>一般建造材料, 固体, 塑料, 抗菌物|<br/>比热容：<br/>1.220 (DTU/g)/ ºC<br/><br/>热导率：<br/>0.750 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.8<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
-
-## 复制人的新工程
-### 重新启用的 元素
-这些元素已被重新激活或部分调整。
-
-#### 水泥
-
-水泥是一种精制的建造材料，用于装配高级建筑。
-
-| |<font size="+1">材料属性</font>| |
-|-|-|-|
-| ![Cement](/assets/images/elements/Cement.png){width="200"} |<br/>资源种类：精炼矿物<br/><br/>熔点：1409.85°C<br/>-> ![Magma](/assets/images/elements/Magma.png){.inline-icon} 岩浆<br/><br/>硬度：200<br/><br/>属性：<br/>一般建造材料, 固体|<br/>比热容：<br/>1.550 (DTU/g)/ ºC<br/><br/>热导率：<br/>3.110 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：1<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
-
-#### 砖料
-
-砖料是一种通过加热粘土形成的坚硬脆性材料。<br/><br/>它是一种可靠的<b>建造材料</b>。
-
-| |<font size="+1">材料属性</font>| |
-|-|-|-|
-| ![Brick](/assets/images/elements/Brick.png){width="200"} |<br/>资源种类：精炼矿物<br/><br/>熔点：1726.85°C<br/>-> ![Magma](/assets/images/elements/Magma.png){.inline-icon} 岩浆<br/><br/>硬度：50<br/><br/>属性：<br/>一般建造材料, 可粉碎物, 固体, 矿物原料, 隔热体|<br/>比热容：<br/>0.840 (DTU/g)/ ºC<br/><br/>热导率：<br/>0.620 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.8<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
-
-#### 碎岩
-
-碎石是一种由火成岩粉碎成的机械性混合物。
-
-| |<font size="+1">材料属性</font>| |
-|-|-|-|
-| ![CrushedRock](/assets/images/elements/CrushedRock.png){width="200"} |<br/>资源种类：精炼矿物<br/><br/>熔点：1409.85°C<br/>-> ![Magma](/assets/images/elements/Magma.png){.inline-icon} 岩浆<br/><br/>硬度：10<br/><br/>属性：<br/>不稳定, 固体, 消耗性矿石|<br/>比热容：<br/>0.200 (DTU/g)/ ºC<br/><br/>热导率：<br/>2.000 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.7<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
-
-## 核子工艺
-### 重新启用的 元素
-这些元素已被重新激活或部分调整。
-
-#### 镭
-
-(Ra) 镭是一种发光的放射性物质。<br/><br/>它可用作电力能源。
-
-| |<font size="+1">材料属性</font>| |
-|-|-|-|
-| ![Radium](/assets/images/elements/Radium.png){width="200"} |<br/>资源种类：固体<br/><br/>熔点：959.85°C<br/>-> ![Magma](/assets/images/elements/Magma.png){.inline-icon} 岩浆<br/><br/>硬度：250<br/><br/>属性：<br/>消耗性矿石|<br/>比热容：<br/>1.000 (DTU/g)/ ºC<br/><br/>热导率：<br/>20.000 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.25<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
-
-#### 黄饼
-
-(U<sub>3</sub>O<sub>8</sub>) 黄饼是一种开采铀时的副产物。<br/><br/>用于制备研究性反应堆的燃料。<br/><br/>注意：不是吃的。
-
-| |<font size="+1">材料属性</font>| |
-|-|-|-|
-| ![Yellowcake](/assets/images/elements/Yellowcake.png){width="200"} |<br/>资源种类：固体<br/><br/>熔点：858.85°C<br/>-> ![MoltenUranium](/assets/images/elements/MoltenUranium.png){.inline-icon} 熔融铀<br/><br/>硬度：250<br/><br/>属性：<br/>人造材料|<br/>比热容：<br/>1.000 (DTU/g)/ ºC<br/><br/>热导率：<br/>20.000 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.3<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
+ ![SolidSlag](/assets/images/elements/SolidSlag.png){.inline-icon} 炉渣 |  ![CrabWood](/assets/images/entities/CrabWood.png){.inline-icon} Oakshell | 75%  ![AmmoniumSalt](/assets/images/elements/AmmoniumSalt.png){.inline-icon} 硝酸盐结晶|
+ ![SolidSlag](/assets/images/elements/SolidSlag.png){.inline-icon} 炉渣 |  ![HatchVeggie](/assets/images/entities/HatchVeggie.png){.inline-icon} Sage Hatch | 90%  ![AmmoniumSalt](/assets/images/elements/AmmoniumSalt.png){.inline-icon} 硝酸盐结晶|
+ ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} 碎岩 |  ![HatchVeggie](/assets/images/entities/HatchVeggie.png){.inline-icon} Sage Hatch | 100%  ![Carbon](/assets/images/elements/Carbon.png){.inline-icon} 煤炭|
+ ![Chloroschist](/assets/images/elements/Chloroschist.png){.inline-icon} 绿片岩 |  ![HatchVeggie](/assets/images/entities/HatchVeggie.png){.inline-icon} Sage Hatch | 25%  ![BleachStone](/assets/images/elements/BleachStone.png){.inline-icon} 漂白石|
+ ![SolidSlag](/assets/images/elements/SolidSlag.png){.inline-icon} 炉渣 |  ![CrabFreshWater](/assets/images/entities/CrabFreshWater.png){.inline-icon} Sanishell | 75%  ![AmmoniumSalt](/assets/images/elements/AmmoniumSalt.png){.inline-icon} 硝酸盐结晶|
+ ![ArgentiteOre](/assets/images/elements/ArgentiteOre.png){.inline-icon} 辉银矿 |  ![HatchMetal](/assets/images/entities/HatchMetal.png){.inline-icon} Smooth Hatch | 75%  ![SolidSilver](/assets/images/elements/SolidSilver.png){.inline-icon} 银|
+ ![AurichalciteOre](/assets/images/elements/AurichalciteOre.png){.inline-icon} 锌矿 |  ![HatchMetal](/assets/images/entities/HatchMetal.png){.inline-icon} Smooth Hatch | 75%  ![SolidZinc](/assets/images/elements/SolidZinc.png){.inline-icon} 锌|
+ ![Salt](/assets/images/elements/Salt.png){.inline-icon} 盐 |  ![HatchHard](/assets/images/entities/HatchHard.png){.inline-icon} Stone Hatch | 50%  ![SolidBorax](/assets/images/elements/SolidBorax.png){.inline-icon} 硼砂|
+ ![ArgentiteOre](/assets/images/elements/ArgentiteOre.png){.inline-icon} 辉银矿 |  ![HatchHard](/assets/images/entities/HatchHard.png){.inline-icon} Stone Hatch | 25%  ![Carbon](/assets/images/elements/Carbon.png){.inline-icon} 煤炭|
+ ![AurichalciteOre](/assets/images/elements/AurichalciteOre.png){.inline-icon} 锌矿 |  ![HatchHard](/assets/images/entities/HatchHard.png){.inline-icon} Stone Hatch | 25%  ![Carbon](/assets/images/elements/Carbon.png){.inline-icon} 煤炭|
+ ![SolidSlag](/assets/images/elements/SolidSlag.png){.inline-icon} 炉渣 |  ![Crab](/assets/images/entities/Crab.png){.inline-icon} 抛壳蟹 | 75%  ![AmmoniumSalt](/assets/images/elements/AmmoniumSalt.png){.inline-icon} 硝酸盐结晶|
 

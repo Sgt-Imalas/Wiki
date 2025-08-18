@@ -7,9 +7,9 @@
 | | | |
 |-|-|-|
 | ![LightReactor](/assets/images/buildings/LightReactor.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 2 x 高 6|
-|**耗电:**| 0 W|&#8288 {: style="padding:0"}|
+|**耗电:**|  -  |&#8288 {: style="padding:0"}|
 |**科技:**| 辐射精炼|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>精炼金属</td><td>800 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>精炼金属</td><td>800千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>水基物 输入管道</td><td>-</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 
@@ -21,15 +21,15 @@
 | | | |
 |-|-|-|
 | ![HepProjector](/assets/images/buildings/HepProjector.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 3 x 高 1|
-|**耗电:**| 0 W|&#8288 {: style="padding:0"}|
+|**耗电:**|  -  |&#8288 {: style="padding:0"}|
 |**科技:**| 辐射精炼|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>精炼金属</td><td>100 kg</td></tr><tr><td>塑料</td><td>50 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>精炼金属</td><td>100千克</td></tr><tr><td>塑料</td><td>50千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>-</td><td>液体 输出管道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 #### 元素转换
 |输入:|输出:|
 |-|-|
-| ![UraniumOre](/assets/images/elements/UraniumOre.png){.inline-icon} 铀矿 (8 g/秒)<br>| ![NuclearWaste](/assets/images/elements/NuclearWaste.png){.inline-icon} 液态核废料 (8 g/秒 于 -273.15°C)<br>|
+| ![UraniumOre](/assets/images/elements/UraniumOre.png){.inline-icon} 铀矿 (8克/秒)<br>| ![NuclearWaste](/assets/images/elements/NuclearWaste.png){.inline-icon} 液态核废料 (8克/秒 于 -273.15°C)<br>|
 
 
 
@@ -41,15 +41,15 @@
 | | | |
 |-|-|-|
 | ![HepCalcinator](/assets/images/buildings/HepCalcinator.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 7 x 高 3|
-|**耗电:**| 3000 W|&#8288 {: style="padding:0"}|
+|**耗电:**| 3千瓦 |&#8288 {: style="padding:0"}|
 |**科技:**| 辐射精炼|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>精炼金属</td><td>1000 kg</td></tr><tr><td>陶瓷</td><td>600 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>精炼金属</td><td>1000千克</td></tr><tr><td>陶瓷</td><td>600千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 ### 配方
 |材料:| 耗时: | 产物:|
 |-|-|-|
-| ![UraniumOre](/assets/images/elements/UraniumOre.png){.inline-icon} 铀矿 (100 kg)<br> ![OxyRock](/assets/images/elements/OxyRock.png){.inline-icon} 氧石 (100 kg)<br>20x 单位粒子<br>|80s| ![Yellowcake](/assets/images/elements/Yellowcake.png){.inline-icon} 黄饼 (100 kg)<br>|
-| ![DepletedUranium](/assets/images/elements/DepletedUranium.png){.inline-icon} 贫铀 (10 kg)<br> ![SolidNuclearWaste](/assets/images/elements/SolidNuclearWaste.png){.inline-icon} 固态核废料 (90 kg)<br> ![OxyRock](/assets/images/elements/OxyRock.png){.inline-icon} 氧石 (100 kg)<br>50x 单位粒子<br>|80s| ![Yellowcake](/assets/images/elements/Yellowcake.png){.inline-icon} 黄饼 (100 kg)<br>|
+| ![UraniumOre](/assets/images/elements/UraniumOre.png){.inline-icon} 铀矿 (100千克)<br> ![OxyRock](/assets/images/elements/OxyRock.png){.inline-icon} 氧石 (100千克)<br>20x 单位粒子<br>|80s| ![Yellowcake](/assets/images/elements/Yellowcake.png){.inline-icon} 黄饼 (100千克)<br>|
+| ![DepletedUranium](/assets/images/elements/DepletedUranium.png){.inline-icon} 贫铀 (10千克)<br> ![SolidNuclearWaste](/assets/images/elements/SolidNuclearWaste.png){.inline-icon} 固态核废料 (90千克)<br> ![OxyRock](/assets/images/elements/OxyRock.png){.inline-icon} 氧石 (100千克)<br>50x 单位粒子<br>|80s| ![Yellowcake](/assets/images/elements/Yellowcake.png){.inline-icon} 黄饼 (100千克)<br>|
 
 
 
@@ -61,14 +61,14 @@
 | | | |
 |-|-|-|
 | ![HepCentrifuge](/assets/images/buildings/HepCentrifuge.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 3 x 高 6|
-|**耗电:**| 800 W|&#8288 {: style="padding:0"}|
+|**耗电:**| 800瓦 |&#8288 {: style="padding:0"}|
 |**科技:**| 辐射精炼|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>精炼金属</td><td>400 kg</td></tr><tr><td>塑料</td><td>200 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>精炼金属</td><td>400千克</td></tr><tr><td>塑料</td><td>200千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 #### 元素转换
 |输入:|输出:|
 |-|-|
-| ![Yellowcake](/assets/images/elements/Yellowcake.png){.inline-icon} 黄饼 (50 g/秒)<br>| ![EnrichedUranium](/assets/images/elements/EnrichedUranium.png){.inline-icon} 浓缩铀 (35 g/秒 于 -273.15°C)<br> ![DepletedUranium](/assets/images/elements/DepletedUranium.png){.inline-icon} 贫铀 (15 g/秒 于 -273.15°C)<br>|
+| ![Yellowcake](/assets/images/elements/Yellowcake.png){.inline-icon} 黄饼 (50克/秒)<br>| ![EnrichedUranium](/assets/images/elements/EnrichedUranium.png){.inline-icon} 浓缩铀 (35克/秒 于 -273.15°C)<br> ![DepletedUranium](/assets/images/elements/DepletedUranium.png){.inline-icon} 贫铀 (15克/秒 于 -273.15°C)<br>|
 
 
 

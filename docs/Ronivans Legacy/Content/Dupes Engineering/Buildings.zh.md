@@ -7,9 +7,9 @@
 | | | |
 |-|-|-|
 | ![LogicAlertLight](/assets/images/buildings/LogicAlertLight.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 1 x 高 1|
-|**耗电:**| 8 W|&#8288 {: style="padding:0"}|
+|**耗电:**| 8瓦 |&#8288 {: style="padding:0"}|
 |**科技:**| 智能家居|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>精炼金属</td><td>25 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>精炼金属</td><td>25千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 ### 蓝图
 | ![AlertLightGreen](/assets/images/buildings/AlertLightGreen.png){width="100"} |
@@ -39,24 +39,24 @@
 | | | |
 |-|-|-|
 | ![CementMixer](/assets/images/buildings/CementMixer.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 2 x 高 2|
-|**耗电:**| 120 W|&#8288 {: style="padding:0"}|
+|**耗电:**| 120瓦 |&#8288 {: style="padding:0"}|
 |**科技:**| 蛮力精炼|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>金属矿石</td><td>200 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>金属矿石</td><td>200千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 ### 配方
 |材料:| 耗时: | 产物:|
 |-|-|-|
-| ![Shale](/assets/images/elements/Shale.png){.inline-icon} 页岩 (25 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (60 kg)<br> ![Lime](/assets/images/elements/Lime.png){.inline-icon} 石灰 (5 kg)<br>|40s| ![Cement](/assets/images/elements/Cement.png){.inline-icon} 水泥 (100 kg)<br>|
-| ![Ceramic](/assets/images/elements/Ceramic.png){.inline-icon} 陶瓷 (25 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (60 kg)<br> ![Lime](/assets/images/elements/Lime.png){.inline-icon} 石灰 (5 kg)<br>|40s| ![Cement](/assets/images/elements/Cement.png){.inline-icon} 水泥 (100 kg)<br>|
-| ![Obsidian](/assets/images/elements/Obsidian.png){.inline-icon} 黑曜石 (25 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (60 kg)<br> ![Lime](/assets/images/elements/Lime.png){.inline-icon} 石灰 (5 kg)<br>|40s| ![Cement](/assets/images/elements/Cement.png){.inline-icon} 水泥 (100 kg)<br>|
-| ![IgneousRock](/assets/images/elements/IgneousRock.png){.inline-icon} 火成岩 (25 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (60 kg)<br> ![Lime](/assets/images/elements/Lime.png){.inline-icon} 石灰 (5 kg)<br>|40s| ![Cement](/assets/images/elements/Cement.png){.inline-icon} 水泥 (100 kg)<br>|
-| ![Brick](/assets/images/elements/Brick.png){.inline-icon} 砖料 (25 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (60 kg)<br> ![Lime](/assets/images/elements/Lime.png){.inline-icon} 石灰 (5 kg)<br>|40s| ![Cement](/assets/images/elements/Cement.png){.inline-icon} 水泥 (100 kg)<br>|
-| ![Granite](/assets/images/elements/Granite.png){.inline-icon} 花岗岩 (25 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (60 kg)<br> ![Lime](/assets/images/elements/Lime.png){.inline-icon} 石灰 (5 kg)<br>|40s| ![Cement](/assets/images/elements/Cement.png){.inline-icon} 水泥 (100 kg)<br>|
-| ![SedimentaryRock](/assets/images/elements/SedimentaryRock.png){.inline-icon} 沉积岩 (25 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (60 kg)<br> ![Lime](/assets/images/elements/Lime.png){.inline-icon} 石灰 (5 kg)<br>|40s| ![Cement](/assets/images/elements/Cement.png){.inline-icon} 水泥 (100 kg)<br>|
-| ![SandStone](/assets/images/elements/SandStone.png){.inline-icon} 砂岩 (25 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (60 kg)<br> ![Lime](/assets/images/elements/Lime.png){.inline-icon} 石灰 (5 kg)<br>|40s| ![Cement](/assets/images/elements/Cement.png){.inline-icon} 水泥 (100 kg)<br>|
-| ![MaficRock](/assets/images/elements/MaficRock.png){.inline-icon} 镁铁质岩 (25 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (60 kg)<br> ![Lime](/assets/images/elements/Lime.png){.inline-icon} 石灰 (5 kg)<br>|40s| ![Cement](/assets/images/elements/Cement.png){.inline-icon} 水泥 (100 kg)<br>|
-| ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} 碎岩 (25 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (60 kg)<br> ![Lime](/assets/images/elements/Lime.png){.inline-icon} 石灰 (5 kg)<br>|40s| ![Cement](/assets/images/elements/Cement.png){.inline-icon} 水泥 (100 kg)<br>|
-| ![Cement](/assets/images/elements/Cement.png){.inline-icon} 水泥 (100 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (200 kg)<br> ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} 碎岩 (300 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (25 kg)<br>|30s| ![ConcreteBlock](/assets/images/elements/ConcreteBlock.png){.inline-icon} 混凝土砖 (600 kg)<br>|
+| ![Shale](/assets/images/elements/Shale.png){.inline-icon} 页岩 (25千克)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (60千克)<br> ![Lime](/assets/images/elements/Lime.png){.inline-icon} 石灰 (5千克)<br>|40s| ![Cement](/assets/images/elements/Cement.png){.inline-icon} 水泥 (100千克)<br>|
+| ![Ceramic](/assets/images/elements/Ceramic.png){.inline-icon} 陶瓷 (25千克)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (60千克)<br> ![Lime](/assets/images/elements/Lime.png){.inline-icon} 石灰 (5千克)<br>|40s| ![Cement](/assets/images/elements/Cement.png){.inline-icon} 水泥 (100千克)<br>|
+| ![Obsidian](/assets/images/elements/Obsidian.png){.inline-icon} 黑曜石 (25千克)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (60千克)<br> ![Lime](/assets/images/elements/Lime.png){.inline-icon} 石灰 (5千克)<br>|40s| ![Cement](/assets/images/elements/Cement.png){.inline-icon} 水泥 (100千克)<br>|
+| ![IgneousRock](/assets/images/elements/IgneousRock.png){.inline-icon} 火成岩 (25千克)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (60千克)<br> ![Lime](/assets/images/elements/Lime.png){.inline-icon} 石灰 (5千克)<br>|40s| ![Cement](/assets/images/elements/Cement.png){.inline-icon} 水泥 (100千克)<br>|
+| ![Brick](/assets/images/elements/Brick.png){.inline-icon} 砖料 (25千克)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (60千克)<br> ![Lime](/assets/images/elements/Lime.png){.inline-icon} 石灰 (5千克)<br>|40s| ![Cement](/assets/images/elements/Cement.png){.inline-icon} 水泥 (100千克)<br>|
+| ![Granite](/assets/images/elements/Granite.png){.inline-icon} 花岗岩 (25千克)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (60千克)<br> ![Lime](/assets/images/elements/Lime.png){.inline-icon} 石灰 (5千克)<br>|40s| ![Cement](/assets/images/elements/Cement.png){.inline-icon} 水泥 (100千克)<br>|
+| ![SedimentaryRock](/assets/images/elements/SedimentaryRock.png){.inline-icon} 沉积岩 (25千克)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (60千克)<br> ![Lime](/assets/images/elements/Lime.png){.inline-icon} 石灰 (5千克)<br>|40s| ![Cement](/assets/images/elements/Cement.png){.inline-icon} 水泥 (100千克)<br>|
+| ![SandStone](/assets/images/elements/SandStone.png){.inline-icon} 砂岩 (25千克)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (60千克)<br> ![Lime](/assets/images/elements/Lime.png){.inline-icon} 石灰 (5千克)<br>|40s| ![Cement](/assets/images/elements/Cement.png){.inline-icon} 水泥 (100千克)<br>|
+| ![MaficRock](/assets/images/elements/MaficRock.png){.inline-icon} 镁铁质岩 (25千克)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (60千克)<br> ![Lime](/assets/images/elements/Lime.png){.inline-icon} 石灰 (5千克)<br>|40s| ![Cement](/assets/images/elements/Cement.png){.inline-icon} 水泥 (100千克)<br>|
+| ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} 碎岩 (25千克)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (60千克)<br> ![Lime](/assets/images/elements/Lime.png){.inline-icon} 石灰 (5千克)<br>|40s| ![Cement](/assets/images/elements/Cement.png){.inline-icon} 水泥 (100千克)<br>|
+| ![Cement](/assets/images/elements/Cement.png){.inline-icon} 水泥 (100千克)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (200千克)<br> ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} 碎岩 (300千克)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (25千克)<br>|30s| ![ConcreteBlock](/assets/images/elements/ConcreteBlock.png){.inline-icon} 混凝土砖 (600千克)<br>|
 
 
 
@@ -68,9 +68,9 @@
 | | | |
 |-|-|-|
 | ![MonoElementTile](/assets/images/buildings/MonoElementTile.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 1 x 高 1|
-|**耗电:**| 0 W|&#8288 {: style="padding:0"}|
+|**耗电:**|  -  |&#8288 {: style="padding:0"}|
 |**科技:**| 高雅文化|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>砂岩 或 花岗岩 或 火成岩 或 黑曜石 或 砖料</td><td>200 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>砂岩 或 花岗岩 或 火成岩 或 黑曜石 或 砖料</td><td>200千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 
 ## 设施门
@@ -81,9 +81,9 @@
 | | | |
 |-|-|-|
 | ![AIO_FacilityDoor](/assets/images/buildings/AIO_FacilityDoor.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 1 x 高 2|
-|**耗电:**| 0 W|&#8288 {: style="padding:0"}|
+|**耗电:**|  -  |&#8288 {: style="padding:0"}|
 |**科技:**| 通风|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>精炼金属</td><td>50 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>精炼金属</td><td>50千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 ### 蓝图
 | ![FacilityDoorWhite](/assets/images/buildings/FacilityDoorWhite.png){width="100"} |
@@ -113,9 +113,9 @@
 | | | |
 |-|-|-|
 | ![InsulationCompositionTile](/assets/images/buildings/InsulationCompositionTile.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 1 x 高 1|
-|**耗电:**| 0 W|&#8288 {: style="padding:0"}|
+|**耗电:**|  -  |&#8288 {: style="padding:0"}|
 |**科技:**| 温度调节|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>矿物原料</td><td>375 kg</td></tr><tr><td>珍贵岩石</td><td>75 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>矿物原料</td><td>375千克</td></tr><tr><td>珍贵岩石</td><td>75千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 
 ## 大型太空隔墙
@@ -126,9 +126,9 @@
 | | | |
 |-|-|-|
 | ![SpacerWallLarge](/assets/images/buildings/SpacerWallLarge.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 2 x 高 2|
-|**耗电:**| 0 W|&#8288 {: style="padding:0"}|
+|**耗电:**|  -  |&#8288 {: style="padding:0"}|
 |**科技:**| 高雅文化|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>钢 或 硬化合金</td><td>25 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>钢 或 硬化合金</td><td>25千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 
 ## 大型太空玻璃墙
@@ -139,9 +139,9 @@
 | | | |
 |-|-|-|
 | ![SpacerWindowLarge](/assets/images/buildings/SpacerWindowLarge.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 2 x 高 2|
-|**耗电:**| 0 W|&#8288 {: style="padding:0"}|
+|**耗电:**|  -  |&#8288 {: style="padding:0"}|
 |**科技:**| 玻璃吹制|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>透明体</td><td>45 kg</td></tr><tr><td>钢 或 硬化合金</td><td>15 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>透明体</td><td>45千克</td></tr><tr><td>钢 或 硬化合金</td><td>15千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 
 ## 大型框架墙
@@ -152,9 +152,9 @@
 | | | |
 |-|-|-|
 | ![StructureFrameLarge](/assets/images/buildings/StructureFrameLarge.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 2 x 高 2|
-|**耗电:**| 0 W|&#8288 {: style="padding:0"}|
+|**耗电:**|  -  |&#8288 {: style="padding:0"}|
 |**科技:**| 熔炼|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>精炼金属</td><td>40 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>精炼金属</td><td>40千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 
 ## 镶边砖
@@ -165,9 +165,9 @@
 | | | |
 |-|-|-|
 | ![MouldingTile](/assets/images/buildings/MouldingTile.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 1 x 高 1|
-|**耗电:**| 0 W|&#8288 {: style="padding:0"}|
+|**耗电:**|  -  |&#8288 {: style="padding:0"}|
 |**科技:**| 复兴艺术|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>珍贵岩石</td><td>200 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>珍贵岩石</td><td>200千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 
 ## 马赛克砖
@@ -178,9 +178,9 @@
 | | | |
 |-|-|-|
 | ![AIO_MosaicTile](/assets/images/buildings/AIO_MosaicTile.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 1 x 高 1|
-|**耗电:**| 0 W|&#8288 {: style="padding:0"}|
+|**耗电:**|  -  |&#8288 {: style="padding:0"}|
 |**科技:**| 豪华家装|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>珍贵岩石</td><td>100 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>珍贵岩石</td><td>100千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 
 ## 钢筋混凝土砖
@@ -191,9 +191,9 @@
 | | | |
 |-|-|-|
 | ![ReinforcedConcreteTile](/assets/images/buildings/ReinforcedConcreteTile.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 1 x 高 1|
-|**耗电:**| 0 W|&#8288 {: style="padding:0"}|
+|**耗电:**|  -  |&#8288 {: style="padding:0"}|
 |**科技:**| 超热锻造|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>混凝土砖</td><td>100 kg</td></tr><tr><td>精炼金属</td><td>50 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>混凝土砖</td><td>100千克</td></tr><tr><td>精炼金属</td><td>50千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 
 ## 玻璃安全门
@@ -204,9 +204,9 @@
 | | | |
 |-|-|-|
 | ![GlassDoorComplex](/assets/images/buildings/GlassDoorComplex.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 1 x 高 2|
-|**耗电:**| 20 W|&#8288 {: style="padding:0"}|
+|**耗电:**| 20瓦 |&#8288 {: style="padding:0"}|
 |**科技:**| 运载管道|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>精炼金属</td><td>100 kg</td></tr><tr><td>透明体</td><td>50 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>精炼金属</td><td>100千克</td></tr><tr><td>透明体</td><td>50千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 
 ## 简易玻璃门
@@ -217,9 +217,9 @@
 | | | |
 |-|-|-|
 | ![GlassDoorSimple](/assets/images/buildings/GlassDoorSimple.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 1 x 高 2|
-|**耗电:**| 0 W|&#8288 {: style="padding:0"}|
+|**耗电:**|  -  |&#8288 {: style="padding:0"}|
 |**科技:**| 运载管道|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>精炼金属</td><td>100 kg</td></tr><tr><td>透明体</td><td>25 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>精炼金属</td><td>100千克</td></tr><tr><td>透明体</td><td>25千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 
 ## 小型框架墙
@@ -230,9 +230,9 @@
 | | | |
 |-|-|-|
 | ![StructureFrameSmall](/assets/images/buildings/StructureFrameSmall.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 1 x 高 1|
-|**耗电:**| 0 W|&#8288 {: style="padding:0"}|
+|**耗电:**|  -  |&#8288 {: style="padding:0"}|
 |**科技:**| 熔炼|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>精炼金属</td><td>15 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>精炼金属</td><td>15千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 
 ## 太空砖
@@ -243,9 +243,9 @@
 | | | |
 |-|-|-|
 | ![SpacerTileSolid](/assets/images/buildings/SpacerTileSolid.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 1 x 高 1|
-|**耗电:**| 0 W|&#8288 {: style="padding:0"}|
+|**耗电:**|  -  |&#8288 {: style="padding:0"}|
 |**科技:**| 危险防护|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>矿物原料</td><td>95 kg</td></tr><tr><td>精炼金属</td><td>5 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>矿物原料</td><td>95千克</td></tr><tr><td>精炼金属</td><td>5千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 
 ## 太空隔墙
@@ -256,9 +256,9 @@
 | | | |
 |-|-|-|
 | ![SpacerWall](/assets/images/buildings/SpacerWall.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 1 x 高 1|
-|**耗电:**| 0 W|&#8288 {: style="padding:0"}|
+|**耗电:**|  -  |&#8288 {: style="padding:0"}|
 |**科技:**| 高雅文化|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>钢 或 硬化合金</td><td>10 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>钢 或 硬化合金</td><td>10千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 ### 蓝图
 | ![SpacerDanger](/assets/images/buildings/SpacerDanger.png){width="100"} |
@@ -288,9 +288,9 @@
 | | | |
 |-|-|-|
 | ![SpacerWindowWall](/assets/images/buildings/SpacerWindowWall.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 1 x 高 1|
-|**耗电:**| 0 W|&#8288 {: style="padding:0"}|
+|**耗电:**|  -  |&#8288 {: style="padding:0"}|
 |**科技:**| 玻璃吹制|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>透明体</td><td>15 kg</td></tr><tr><td>钢 或 硬化合金</td><td>5 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>透明体</td><td>15千克</td></tr><tr><td>钢 或 硬化合金</td><td>5千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 ### 蓝图
 | ![SpacerWindow_B](/assets/images/buildings/SpacerWindow_B.png){width="100"} |
@@ -308,9 +308,9 @@
 | | | |
 |-|-|-|
 | ![StructureTile](/assets/images/buildings/StructureTile.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 1 x 高 1|
-|**耗电:**| 0 W|&#8288 {: style="padding:0"}|
+|**耗电:**|  -  |&#8288 {: style="padding:0"}|
 |**科技:**| 熔炼|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>精炼金属</td><td>100 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>精炼金属</td><td>100千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 
 ## 太空玻璃砖
@@ -321,9 +321,9 @@
 | | | |
 |-|-|-|
 | ![SpacerTileWindow](/assets/images/buildings/SpacerTileWindow.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 1 x 高 1|
-|**耗电:**| 0 W|&#8288 {: style="padding:0"}|
+|**耗电:**|  -  |&#8288 {: style="padding:0"}|
 |**科技:**| 玻璃吹制|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>透明体</td><td>95 kg</td></tr><tr><td>精炼金属</td><td>5 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>透明体</td><td>95千克</td></tr><tr><td>精炼金属</td><td>5千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 
 ## 木质复合砖
@@ -334,9 +334,9 @@
 | | | |
 |-|-|-|
 | ![WoodenCompositionTile](/assets/images/buildings/WoodenCompositionTile.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 1 x 高 1|
-|**耗电:**| 0 W|&#8288 {: style="padding:0"}|
+|**耗电:**|  -  |&#8288 {: style="padding:0"}|
 |**科技:**| 豪华家装|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>矿物原料</td><td>375 kg</td></tr><tr><td>木材</td><td>75 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>矿物原料</td><td>375千克</td></tr><tr><td>木材</td><td>75千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 
 ## 木质网格砖
@@ -347,9 +347,9 @@
 | | | |
 |-|-|-|
 | ![WoodenGasTile](/assets/images/buildings/WoodenGasTile.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 1 x 高 1|
-|**耗电:**| 0 W|&#8288 {: style="padding:0"}|
+|**耗电:**|  -  |&#8288 {: style="padding:0"}|
 |**科技:**| 气压管理|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>矿物原料</td><td>50 kg</td></tr><tr><td>木材</td><td>50 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>矿物原料</td><td>50千克</td></tr><tr><td>木材</td><td>50千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 
 ## 木质天花板
@@ -360,9 +360,9 @@
 | | | |
 |-|-|-|
 | ![WoodenCeiling](/assets/images/buildings/WoodenCeiling.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 1 x 高 1|
-|**耗电:**| 0 W|&#8288 {: style="padding:0"}|
+|**耗电:**|  -  |&#8288 {: style="padding:0"}|
 |**科技:**| 豪华家装|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>矿物原料</td><td>50 kg</td></tr><tr><td>木材</td><td>50 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>矿物原料</td><td>50千克</td></tr><tr><td>木材</td><td>50千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 
 ## 木制角拱
@@ -373,9 +373,9 @@
 | | | |
 |-|-|-|
 | ![WoodenCornerArch](/assets/images/buildings/WoodenCornerArch.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 1 x 高 1|
-|**耗电:**| 0 W|&#8288 {: style="padding:0"}|
+|**耗电:**|  -  |&#8288 {: style="padding:0"}|
 |**科技:**| 豪华家装|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>矿物原料</td><td>150 kg</td></tr><tr><td>木材</td><td>50 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>矿物原料</td><td>150千克</td></tr><tr><td>木材</td><td>50千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 
 ## 木制门
@@ -386,9 +386,9 @@
 | | | |
 |-|-|-|
 | ![WoodenDoor](/assets/images/buildings/WoodenDoor.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 1 x 高 2|
-|**耗电:**| 0 W|&#8288 {: style="padding:0"}|
+|**耗电:**|  -  |&#8288 {: style="padding:0"}|
 |**科技:**| 室内装潢|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>矿物原料</td><td>150 kg</td></tr><tr><td>木材</td><td>50 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>矿物原料</td><td>150千克</td></tr><tr><td>木材</td><td>50千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 
 ## 木制透气砖
@@ -399,8 +399,8 @@
 | | | |
 |-|-|-|
 | ![WoodenMeshTile](/assets/images/buildings/WoodenMeshTile.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 1 x 高 1|
-|**耗电:**| 0 W|&#8288 {: style="padding:0"}|
+|**耗电:**|  -  |&#8288 {: style="padding:0"}|
 |**科技:**| 卫生设备|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>矿物原料</td><td>50 kg</td></tr><tr><td>木材</td><td>50 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>矿物原料</td><td>50千克</td></tr><tr><td>木材</td><td>50千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 

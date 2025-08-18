@@ -7,10 +7,11 @@ Store the Solid Materials of your choosing.<br/>The cabinet prevents temperature
 | | | |
 |-|-|-|
 | ![CabinetNormal](/assets/images/buildings/CabinetNormal.png){height="100"} {rowspan="3"}|**Dimensions:** | 1 wide x 2 high|
-|**Power Consumption:**| 0 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**|  -  |&#8288 {: style="padding:0"}|
 |**Research Required:**| Solid Control|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Refined Metal</td><td>200 kg</td></tr><tr><td>Raw Mineral</td><td>200 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 |**<font size="+1">Storage Capacity:</font>**| 20 t|&#8288 {: style="padding:0"}|
+| **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Solid Input Rail</td><td>-</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 
 ## Logistic Auto-Sweeper
@@ -21,7 +22,7 @@ Automates Sweeping and Supplying errands by sucking up all nearby Debris.<br/><b
 | | | |
 |-|-|-|
 | ![LogisticTransferArm](/assets/images/buildings/LogisticTransferArm.png){height="100"} {rowspan="3"}|**Dimensions:** | 3 wide x 1 high|
-|**Power Consumption:**| 60 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**| 60 W |&#8288 {: style="padding:0"}|
 |**Research Required:**| Smart Storage|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Refined Metal</td><td>200 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
@@ -34,7 +35,7 @@ Unloads Solid Materials from a Logistic Rail onto the floor.
 | | | |
 |-|-|-|
 | ![LogisticVent](/assets/images/buildings/LogisticVent.png){height="100"} {rowspan="3"}|**Dimensions:** | 1 wide x 1 high|
-|**Power Consumption:**| 0 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**|  -  |&#8288 {: style="padding:0"}|
 |**Research Required:**| Smart Storage|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Metal Ore</td><td>100 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Solid Input Rail</td><td>-</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
@@ -48,7 +49,7 @@ Loads Solid Materials onto Logistic Conveyor Rails for transport.<br/><br/>Only 
 | | | |
 |-|-|-|
 | ![LogisticLoader](/assets/images/buildings/LogisticLoader.png){height="100"} {rowspan="3"}|**Dimensions:** | 1 wide x 2 high|
-|**Power Consumption:**| 60 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**| 60 W |&#8288 {: style="padding:0"}|
 |**Research Required:**| Smart Storage|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Metal Ore</td><td>200 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 |**<font size="+1">Storage Capacity:</font>**| 600 kg|&#8288 {: style="padding:0"}|
@@ -63,7 +64,7 @@ Transports small amounts of Solid Materials on a track between Logistic Loader a
 | | | |
 |-|-|-|
 | ![LogisticRail](/assets/images/buildings/LogisticRail.png){height="100"} {rowspan="3"}|**Dimensions:** | 1 wide x 1 high|
-|**Power Consumption:**| 0 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**|  -  |&#8288 {: style="padding:0"}|
 |**Research Required:**| Smart Storage|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Metal Ore</td><td>50 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
@@ -76,7 +77,7 @@ Unloads Solid Materials from a Logistic Rail into storage.
 | | | |
 |-|-|-|
 | ![LogisticOutBox](/assets/images/buildings/LogisticOutBox.png){height="100"} {rowspan="3"}|**Dimensions:** | 1 wide x 2 high|
-|**Power Consumption:**| 0 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**|  -  |&#8288 {: style="padding:0"}|
 |**Research Required:**| Smart Storage|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Metal Ore</td><td>200 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Solid Input Rail</td><td>-</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
@@ -90,7 +91,7 @@ Allows Solid Materials to be transfered from normal Conveyor Rails to Logistic R
 | | | |
 |-|-|-|
 | ![LogisticRailValve](/assets/images/buildings/LogisticRailValve.png){height="100"} {rowspan="3"}|**Dimensions:** | 1 wide x 2 high|
-|**Power Consumption:**| 0 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**|  -  |&#8288 {: style="padding:0"}|
 |**Research Required:**| Solid Transport|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Metal Ore</td><td>100 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Solid Input Rail</td><td>Solid Output Rail</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
@@ -104,10 +105,10 @@ Runs one Conveyor Rail section over another without joining them.<br/><br/>Can b
 | | | |
 |-|-|-|
 | ![LogisticBridge](/assets/images/buildings/LogisticBridge.png){height="100"} {rowspan="3"}|**Dimensions:** | 3 wide x 1 high|
-|**Power Consumption:**| 0 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**|  -  |&#8288 {: style="padding:0"}|
 |**Research Required:**| Smart Storage|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Metal Ore</td><td>200 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
-| **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>-</td><td>Solid Output Rail</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
+| **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Solid Input Rail</td><td>Solid Output Rail</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 
 ## Logistic Solid Filter
@@ -118,10 +119,10 @@ Separates one Solid Material from the conveyor, sending it into a dedicated soli
 | | | |
 |-|-|-|
 | ![LogisticFilter](/assets/images/buildings/LogisticFilter.png){height="100"} {rowspan="3"}|**Dimensions:** | 3 wide x 1 high|
-|**Power Consumption:**| 60 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**| 60 W |&#8288 {: style="padding:0"}|
 |**Research Required:**| Solid Transport|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Metal Ore</td><td>100 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
-| **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>-</td><td>Solid Output Rail</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
+| **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Solid Input Rail</td><td>Solid Output Rail</td></tr><tr><td>-</td><td>Solid Output Rail</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 
 ## Refrigerated Storage Cabinet
@@ -132,10 +133,11 @@ Store the Solid Materials of your choosing.<br/><br/>Consumes Power to cool the 
 | | | |
 |-|-|-|
 | ![CabinetFrozen](/assets/images/buildings/CabinetFrozen.png){height="100"} {rowspan="3"}|**Dimensions:** | 1 wide x 2 high|
-|**Power Consumption:**| 240 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**| 240 W |&#8288 {: style="padding:0"}|
 |**Research Required:**| Solid Control|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Refined Metal</td><td>200 kg</td></tr><tr><td>Raw Mineral</td><td>200 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 |**<font size="+1">Storage Capacity:</font>**| 20 t|&#8288 {: style="padding:0"}|
+| **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Solid Input Rail</td><td>-</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 
 ## Storage Pod
@@ -146,7 +148,7 @@ A versatile and convenient storage pod that can be built on walls. Store the Sol
 | | | |
 |-|-|-|
 | ![StoragePod](/assets/images/buildings/StoragePod.png){height="100"} {rowspan="3"}|**Dimensions:** | 1 wide x 1 high|
-|**Power Consumption:**| 0 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**|  -  |&#8288 {: style="padding:0"}|
 |**Research Required:**| Brute-Force Refinement|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Metal Ore</td><td>400 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 |**<font size="+1">Storage Capacity:</font>**| 750 kg|&#8288 {: style="padding:0"}|

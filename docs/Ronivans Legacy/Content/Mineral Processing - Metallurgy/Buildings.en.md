@@ -7,7 +7,7 @@ An advanced insulated electrical kiln in which the heat is applied by induction 
 | | | |
 |-|-|-|
 | ![Chemical_AdvancedKiln](/assets/images/buildings/Chemical_AdvancedKiln.png){height="100"} {rowspan="3"}|**Dimensions:** | 3 wide x 3 high|
-|**Power Consumption:**| 800 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**| 800 W |&#8288 {: style="padding:0"}|
 |**Research Required:**| Smelting|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Refined Metal</td><td>200 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
@@ -36,7 +36,7 @@ An advanced method for production of Refined Metals from raw Metal Ore.<br/><br/
 | | | |
 |-|-|-|
 | ![Chemical_AdvancedMetalRefinery](/assets/images/buildings/Chemical_AdvancedMetalRefinery.png){height="100"} {rowspan="3"}|**Dimensions:** | 3 wide x 5 high|
-|**Power Consumption:**| 3000 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**| 3 kW |&#8288 {: style="padding:0"}|
 |**Research Required:**| Superheated Forging|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Steel or Hardened Alloy</td><td>1000 kg</td></tr><tr><td>Ceramic</td><td>600 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Super Coolant Input Pipe</td><td>Liquid Output Pipe</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
@@ -69,7 +69,7 @@ Crush down Raw Minerals in to useful materials and industrial ingredients.
 | | | |
 |-|-|-|
 | ![Metallurgy_BallCrusherMill](/assets/images/buildings/Metallurgy_BallCrusherMill.png){height="100"} {rowspan="3"}|**Dimensions:** | 5 wide x 3 high|
-|**Power Consumption:**| 800 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**| 800 W |&#8288 {: style="padding:0"}|
 |**Research Required:**| Superheated Forging|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Steel or Hardened Alloy</td><td>1000 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
@@ -94,7 +94,7 @@ Refines Crude Oil to Petroleum using Coal as heat source. <br/>The refinement pr
 | | | |
 |-|-|-|
 | ![Metallurgy_BasicOilRefinery](/assets/images/buildings/Metallurgy_BasicOilRefinery.png){height="100"} {rowspan="3"}|**Dimensions:** | 3 wide x 4 high|
-|**Power Consumption:**| 90 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**| 90 W |&#8288 {: style="padding:0"}|
 |**Research Required:**| Fossil Fuels|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Metal Ore</td><td>200 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Crude Oil Input Pipe</td><td>Liquid Output Pipe</td></tr><tr><td>-</td><td>Carbon Dioxide Output Pipe</td></tr><tr><td>-</td><td>Natural Gas Output Pipe</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
@@ -114,7 +114,7 @@ This techlogical advanced glass foundry is capable more than melt Sand in to Mol
 | | | |
 |-|-|-|
 | ![Chemical_GlassFoundry](/assets/images/buildings/Chemical_GlassFoundry.png){height="100"} {rowspan="3"}|**Dimensions:** | 3 wide x 3 high|
-|**Power Consumption:**| 2400 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**| 2.4 kW |&#8288 {: style="padding:0"}|
 |**Research Required:**| Superheated Forging|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Ceramic</td><td>500 kg</td></tr><tr><td>Refined Metal</td><td>200 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>-</td><td>Liquid Output Pipe</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
@@ -140,7 +140,7 @@ Crush down Raw Minerals in to useful materials and industrial ingredients.
 | | | |
 |-|-|-|
 | ![Chemical_SmallCrusherMill](/assets/images/buildings/Chemical_SmallCrusherMill.png){height="100"} {rowspan="3"}|**Dimensions:** | 3 wide x 2 high|
-|**Power Consumption:**| 120 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**| 120 W |&#8288 {: style="padding:0"}|
 |**Research Required:**| Brute-Force Refinement|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Metal Ore</td><td>200 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
@@ -190,7 +190,7 @@ An advanced method for the refinement of Metal Ores and other Raw Minerals.<br/>
 | | | |
 |-|-|-|
 | ![Metallurgy_PlasmaFurnace](/assets/images/buildings/Metallurgy_PlasmaFurnace.png){height="100"} {rowspan="3"}|**Dimensions:** | 5 wide x 5 high|
-|**Power Consumption:**| 5000 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**| 5 kW |&#8288 {: style="padding:0"}|
 |**Research Required:**| Catalytics|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Ceramic</td><td>2000 kg</td></tr><tr><td>Tungsten</td><td>1000 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Carrier Gas Input Pipe</td><td>Glass Output Pipe</td></tr><tr><td>-</td><td>Glass Output Pipe</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
@@ -231,7 +231,7 @@ Cook Wood to Coal.
 | | | |
 |-|-|-|
 | ![Metallurgy_PyrolysisKiln](/assets/images/buildings/Metallurgy_PyrolysisKiln.png){height="100"} {rowspan="3"}|**Dimensions:** | 1 wide x 2 high|
-|**Power Consumption:**| 0 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**|  -  |&#8288 {: style="padding:0"}|
 |**Research Required:**| Brute-Force Refinement|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Metal Ore</td><td>200 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
@@ -250,7 +250,7 @@ A solid material mixer designed for agricultural purpose, mainly for the product
 | | | |
 |-|-|-|
 | ![Chemical_SoilMixer](/assets/images/buildings/Chemical_SoilMixer.png){height="100"} {rowspan="3"}|**Dimensions:** | 4 wide x 4 high|
-|**Power Consumption:**| 480 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**| 480 W |&#8288 {: style="padding:0"}|
 |**Research Required:**| Agriculture|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Refined Metal</td><td>400 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Polluted Water Input Pipe</td><td>-</td></tr><tr><td>Water Input Pipe</td><td>-</td></tr><tr><td>Ammonia Input Pipe</td><td>-</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|

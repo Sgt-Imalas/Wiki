@@ -7,7 +7,7 @@ Stores any Gas resources piped into it.
 | | | |
 |-|-|-|
 | ![MedGasReservoir](/assets/images/buildings/MedGasReservoir.png){height="100"} {rowspan="3"}|**Dimensions:** | 3 wide x 4 high|
-|**Power Consumption:**| 0 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**|  -  |&#8288 {: style="padding:0"}|
 |**Research Required:**| Improved Ventilation|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Metal Ore</td><td>100 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 |**<font size="+1">Storage Capacity:</font>**| 750 kg|&#8288 {: style="padding:0"}|
@@ -22,7 +22,7 @@ Stores any Liquid resources piped into it.
 | | | |
 |-|-|-|
 | ![MedLiquidReservoir](/assets/images/buildings/MedLiquidReservoir.png){height="100"} {rowspan="3"}|**Dimensions:** | 3 wide x 4 high|
-|**Power Consumption:**| 0 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**|  -  |&#8288 {: style="padding:0"}|
 |**Research Required:**| Improved Plumbing|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Metal Ore</td><td>100 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 |**<font size="+1">Storage Capacity:</font>**| 7.5 t|&#8288 {: style="padding:0"}|
@@ -37,7 +37,7 @@ Stores any Gas resources piped into it.
 | | | |
 |-|-|-|
 | ![SmallGasReservoirDefault](/assets/images/buildings/SmallGasReservoirDefault.png){height="100"} {rowspan="3"}|**Dimensions:** | 1 wide x 3 high|
-|**Power Consumption:**| 0 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**|  -  |&#8288 {: style="padding:0"}|
 |**Research Required:**| Ventilation|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Metal Ore</td><td>100 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 |**<font size="+1">Storage Capacity:</font>**| 250 kg|&#8288 {: style="padding:0"}|
@@ -65,7 +65,7 @@ Stores any Liquid resources piped into it.
 | | | |
 |-|-|-|
 | ![SmallLiquidReservoirDefault](/assets/images/buildings/SmallLiquidReservoirDefault.png){height="100"} {rowspan="3"}|**Dimensions:** | 1 wide x 3 high|
-|**Power Consumption:**| 0 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**|  -  |&#8288 {: style="padding:0"}|
 |**Research Required:**| Plumbing|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Metal Ore</td><td>100 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 |**<font size="+1">Storage Capacity:</font>**| 2500 kg|&#8288 {: style="padding:0"}|
@@ -93,7 +93,7 @@ Stores any Gas resources piped into it.
 | | | |
 |-|-|-|
 | ![WallGasTank](/assets/images/buildings/WallGasTank.png){height="100"} {rowspan="3"}|**Dimensions:** | 3 wide x 1 high|
-|**Power Consumption:**| 0 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**|  -  |&#8288 {: style="padding:0"}|
 |**Research Required:**| Improved Ventilation|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Metal Ore</td><td>100 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 |**<font size="+1">Storage Capacity:</font>**| 150 kg|&#8288 {: style="padding:0"}|
@@ -108,7 +108,7 @@ Stores any Liquid resources piped into it.
 | | | |
 |-|-|-|
 | ![WallLiquidTank](/assets/images/buildings/WallLiquidTank.png){height="100"} {rowspan="3"}|**Dimensions:** | 3 wide x 1 high|
-|**Power Consumption:**| 0 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**|  -  |&#8288 {: style="padding:0"}|
 |**Research Required:**| Improved Plumbing|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Metal Ore</td><td>100 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 |**<font size="+1">Storage Capacity:</font>**| 1500 kg|&#8288 {: style="padding:0"}|

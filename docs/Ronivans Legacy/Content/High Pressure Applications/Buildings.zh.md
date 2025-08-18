@@ -7,9 +7,9 @@
 | | | |
 |-|-|-|
 | ![HPAVentGas](/assets/images/buildings/HPAVentGas.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 1 x 高 1|
-|**耗电:**| 120 W|&#8288 {: style="padding:0"}|
+|**耗电:**| 120瓦 |&#8288 {: style="padding:0"}|
 |**科技:**| 暖通空调|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>钢 或 硬化合金</td><td>200 kg</td></tr><tr><td>塑料</td><td>100 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>钢 或 硬化合金</td><td>200千克</td></tr><tr><td>塑料</td><td>100千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>气体 输入管道</td><td>-</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 
@@ -21,9 +21,9 @@
 | | | |
 |-|-|-|
 | ![HPAVentLiquid](/assets/images/buildings/HPAVentLiquid.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 1 x 高 1|
-|**耗电:**| 120 W|&#8288 {: style="padding:0"}|
+|**耗电:**| 120瓦 |&#8288 {: style="padding:0"}|
 |**科技:**| 改良水管|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>钢 或 硬化合金</td><td>200 kg</td></tr><tr><td>塑料</td><td>100 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>钢 或 硬化合金</td><td>200千克</td></tr><tr><td>塑料</td><td>100千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>液体 输入管道</td><td>-</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 
@@ -35,9 +35,9 @@
 | | | |
 |-|-|-|
 | ![DecompressionGasValve](/assets/images/buildings/DecompressionGasValve.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 2 x 高 1|
-|**耗电:**| 0 W|&#8288 {: style="padding:0"}|
+|**耗电:**|  -  |&#8288 {: style="padding:0"}|
 |**科技:**| 暖通空调|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>钢 或 硬化合金</td><td>50 kg</td></tr><tr><td>塑料</td><td>20 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>钢 或 硬化合金</td><td>50千克</td></tr><tr><td>塑料</td><td>20千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>气体 输入管道</td><td>气体 输出管道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 
@@ -49,9 +49,9 @@
 | | | |
 |-|-|-|
 | ![DecompressionLiquidValve](/assets/images/buildings/DecompressionLiquidValve.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 2 x 高 1|
-|**耗电:**| 0 W|&#8288 {: style="padding:0"}|
+|**耗电:**|  -  |&#8288 {: style="padding:0"}|
 |**科技:**| 液体微调|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>钢 或 硬化合金</td><td>50 kg</td></tr><tr><td>塑料</td><td>20 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>钢 或 硬化合金</td><td>50千克</td></tr><tr><td>塑料</td><td>20千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>液体 输入管道</td><td>液体 输出管道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 
@@ -63,9 +63,9 @@
 | | | |
 |-|-|-|
 | ![HPA_TransferArm](/assets/images/buildings/HPA_TransferArm.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 3 x 高 1|
-|**耗电:**| 960 W|&#8288 {: style="padding:0"}|
+|**耗电:**| 960瓦 |&#8288 {: style="padding:0"}|
 |**科技:**| 固体控制|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>钢 或 硬化合金</td><td>400 kg</td></tr><tr><td>塑料</td><td>100 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>钢 或 硬化合金</td><td>400千克</td></tr><tr><td>塑料</td><td>100千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 
 ## 重型轨道桥
@@ -76,10 +76,10 @@
 | | | |
 |-|-|-|
 | ![HPA_SolidRailBridge](/assets/images/buildings/HPA_SolidRailBridge.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 3 x 高 1|
-|**耗电:**| 0 W|&#8288 {: style="padding:0"}|
+|**耗电:**|  -  |&#8288 {: style="padding:0"}|
 |**科技:**| 大容量固体运输|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>钢 或 硬化合金</td><td>100 kg</td></tr><tr><td>透明体</td><td>50 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
-| **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>-</td><td>固体 输出轨道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>钢 或 硬化合金</td><td>100千克</td></tr><tr><td>透明体</td><td>50千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+| **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>固体 输入轨道</td><td>固体 输出轨道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 
 ## 重型轨道接合板
@@ -90,10 +90,10 @@
 | | | |
 |-|-|-|
 | ![HPA_SolidRailBridgeTile](/assets/images/buildings/HPA_SolidRailBridgeTile.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 1 x 高 1|
-|**耗电:**| 0 W|&#8288 {: style="padding:0"}|
+|**耗电:**|  -  |&#8288 {: style="padding:0"}|
 |**科技:**| 大容量固体运输|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>矿物原料</td><td>400 kg</td></tr><tr><td>钢 或 硬化合金</td><td>100 kg</td></tr><tr><td>透明体</td><td>50 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
-| **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>-</td><td>固体 输出轨道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>矿物原料</td><td>400千克</td></tr><tr><td>钢 或 硬化合金</td><td>100千克</td></tr><tr><td>透明体</td><td>50千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+| **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>固体 输入轨道</td><td>固体 输出轨道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 
 ## 重型轨道装载器
@@ -104,10 +104,10 @@
 | | | |
 |-|-|-|
 | ![HPA_InBox](/assets/images/buildings/HPA_InBox.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 3 x 高 1|
-|**耗电:**| 960 W|&#8288 {: style="padding:0"}|
+|**耗电:**| 960瓦 |&#8288 {: style="padding:0"}|
 |**科技:**| 大容量固体运输|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>钢 或 硬化合金</td><td>300 kg</td></tr><tr><td>塑料</td><td>100 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
-|**<font size="+1">存储容量:</font>**| 10 t|&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>钢 或 硬化合金</td><td>300千克</td></tr><tr><td>塑料</td><td>100千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">存储容量:</font>**| 10吨|&#8288 {: style="padding:0"}|
 | **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>-</td><td>固体 输出轨道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 
@@ -119,9 +119,9 @@
 | | | |
 |-|-|-|
 | ![HPA_SolidRail](/assets/images/buildings/HPA_SolidRail.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 1 x 高 1|
-|**耗电:**| 0 W|&#8288 {: style="padding:0"}|
+|**耗电:**|  -  |&#8288 {: style="padding:0"}|
 |**科技:**| 大容量固体运输|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>钢 或 硬化合金</td><td>100 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>钢 或 硬化合金</td><td>100千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 
 ## 重型轨道压合器
@@ -132,9 +132,9 @@
 | | | |
 |-|-|-|
 | ![HPA_RailMerger](/assets/images/buildings/HPA_RailMerger.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 3 x 高 2|
-|**耗电:**| 60 W|&#8288 {: style="padding:0"}|
+|**耗电:**| 60瓦 |&#8288 {: style="padding:0"}|
 |**科技:**| 大容量固体运输|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>钢 或 硬化合金</td><td>250 kg</td></tr><tr><td>塑料</td><td>150 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>钢 或 硬化合金</td><td>250千克</td></tr><tr><td>塑料</td><td>150千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>固体 输入轨道</td><td>固体 输出轨道</td></tr><tr><td>固体 输入轨道</td><td>-</td></tr><tr><td>固体 输入轨道</td><td>-</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 
@@ -146,10 +146,10 @@
 | | | |
 |-|-|-|
 | ![HPA_MultiSolidFilter](/assets/images/buildings/HPA_MultiSolidFilter.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 3 x 高 1|
-|**耗电:**| 360 W|&#8288 {: style="padding:0"}|
+|**耗电:**| 360瓦 |&#8288 {: style="padding:0"}|
 |**科技:**| 固体管理|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>钢 或 硬化合金</td><td>200 kg</td></tr><tr><td>塑料</td><td>100 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
-| **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>-</td><td>固体 输出轨道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>钢 或 硬化合金</td><td>200千克</td></tr><tr><td>塑料</td><td>100千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+| **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>固体 输入轨道</td><td>固体 输出轨道</td></tr><tr><td>-</td><td>固体 输出轨道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 
 ## 重型轨道减压阀
@@ -160,9 +160,9 @@
 | | | |
 |-|-|-|
 | ![HPA_SolidRailValve](/assets/images/buildings/HPA_SolidRailValve.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 1 x 高 2|
-|**耗电:**| 0 W|&#8288 {: style="padding:0"}|
+|**耗电:**|  -  |&#8288 {: style="padding:0"}|
 |**科技:**| 大容量固体运输|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>钢 或 硬化合金</td><td>50 kg</td></tr><tr><td>塑料</td><td>20 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>钢 或 硬化合金</td><td>50千克</td></tr><tr><td>塑料</td><td>20千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>固体 输入轨道</td><td>固体 输出轨道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 
@@ -174,9 +174,9 @@
 | | | |
 |-|-|-|
 | ![HighPressureGasConduit](/assets/images/buildings/HighPressureGasConduit.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 1 x 高 1|
-|**耗电:**| 0 W|&#8288 {: style="padding:0"}|
+|**耗电:**|  -  |&#8288 {: style="padding:0"}|
 |**科技:**| 改良通风|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>钢 或 硬化合金</td><td>10 kg</td></tr><tr><td>塑料</td><td>5 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>钢 或 硬化合金</td><td>10千克</td></tr><tr><td>塑料</td><td>5千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 
 ## 高压气体管道桥
@@ -187,10 +187,10 @@
 | | | |
 |-|-|-|
 | ![HighPressureGasConduitBridge](/assets/images/buildings/HighPressureGasConduitBridge.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 3 x 高 1|
-|**耗电:**| 0 W|&#8288 {: style="padding:0"}|
+|**耗电:**|  -  |&#8288 {: style="padding:0"}|
 |**科技:**| 改良通风|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>钢 或 硬化合金</td><td>10 kg</td></tr><tr><td>塑料</td><td>5 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
-| **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>-</td><td>气体 输出管道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>钢 或 硬化合金</td><td>10千克</td></tr><tr><td>塑料</td><td>5千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+| **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>气体 输入管道</td><td>气体 输出管道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 
 ## 高压气体筛选器
@@ -201,10 +201,10 @@
 | | | |
 |-|-|-|
 | ![HPA_MultiGasFilter](/assets/images/buildings/HPA_MultiGasFilter.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 3 x 高 1|
-|**耗电:**| 360 W|&#8288 {: style="padding:0"}|
+|**耗电:**| 360瓦 |&#8288 {: style="padding:0"}|
 |**科技:**| 泵小型化|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>钢 或 硬化合金</td><td>200 kg</td></tr><tr><td>塑料</td><td>100 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
-| **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>气体 输入管道</td><td>气体 输出管道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>钢 或 硬化合金</td><td>200千克</td></tr><tr><td>塑料</td><td>100千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+| **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>气体 输入管道</td><td>气体 输出管道</td></tr><tr><td>-</td><td>气体 输出管道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 
 ## 高压气泵
@@ -215,9 +215,9 @@
 | | | |
 |-|-|-|
 | ![PressureGasPump](/assets/images/buildings/PressureGasPump.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 2 x 高 3|
-|**耗电:**| 2400 W|&#8288 {: style="padding:0"}|
+|**耗电:**| 2.4千瓦 |&#8288 {: style="padding:0"}|
 |**科技:**| 泵小型化|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>钢 或 硬化合金</td><td>400 kg</td></tr><tr><td>塑料</td><td>200 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>钢 或 硬化合金</td><td>400千克</td></tr><tr><td>塑料</td><td>200千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>-</td><td>气体 输出管道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 
@@ -229,10 +229,10 @@
 | | | |
 |-|-|-|
 | ![HighPressureLiquidConduitBridge](/assets/images/buildings/HighPressureLiquidConduitBridge.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 3 x 高 1|
-|**耗电:**| 0 W|&#8288 {: style="padding:0"}|
+|**耗电:**|  -  |&#8288 {: style="padding:0"}|
 |**科技:**| 改良水管|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>钢 或 硬化合金</td><td>10 kg</td></tr><tr><td>塑料</td><td>5 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
-| **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>-</td><td>液体 输出管道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>钢 或 硬化合金</td><td>10千克</td></tr><tr><td>塑料</td><td>5千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+| **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>液体 输入管道</td><td>液体 输出管道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 
 ## 高压液体管道筛选器
@@ -243,10 +243,10 @@
 | | | |
 |-|-|-|
 | ![HPA_MultiLiquidFilter](/assets/images/buildings/HPA_MultiLiquidFilter.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 3 x 高 1|
-|**耗电:**| 360 W|&#8288 {: style="padding:0"}|
+|**耗电:**| 360瓦 |&#8288 {: style="padding:0"}|
 |**科技:**| 泵小型化|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>钢 或 硬化合金</td><td>200 kg</td></tr><tr><td>塑料</td><td>100 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
-| **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>液体 输入管道</td><td>液体 输出管道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>钢 或 硬化合金</td><td>200千克</td></tr><tr><td>塑料</td><td>100千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+| **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>液体 输入管道</td><td>液体 输出管道</td></tr><tr><td>-</td><td>液体 输出管道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 
 ## 高压液体管道
@@ -257,9 +257,9 @@
 | | | |
 |-|-|-|
 | ![HighPressureLiquidConduit](/assets/images/buildings/HighPressureLiquidConduit.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 1 x 高 1|
-|**耗电:**| 0 W|&#8288 {: style="padding:0"}|
+|**耗电:**|  -  |&#8288 {: style="padding:0"}|
 |**科技:**| 改良水管|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>钢 或 硬化合金</td><td>10 kg</td></tr><tr><td>塑料</td><td>5 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>钢 或 硬化合金</td><td>10千克</td></tr><tr><td>塑料</td><td>5千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 
 ## 高压液泵
@@ -270,9 +270,9 @@
 | | | |
 |-|-|-|
 | ![PressureLiquidPump](/assets/images/buildings/PressureLiquidPump.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 2 x 高 3|
-|**耗电:**| 960 W|&#8288 {: style="padding:0"}|
+|**耗电:**| 960瓦 |&#8288 {: style="padding:0"}|
 |**科技:**| 泵小型化|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>钢 或 硬化合金</td><td>400 kg</td></tr><tr><td>塑料</td><td>200 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>钢 或 硬化合金</td><td>400千克</td></tr><tr><td>塑料</td><td>200千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>-</td><td>液体 输出管道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 
@@ -284,8 +284,8 @@
 | | | |
 |-|-|-|
 | ![HPA_SolidRail_Insulated](/assets/images/buildings/HPA_SolidRail_Insulated.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 1 x 高 1|
-|**耗电:**| 0 W|&#8288 {: style="padding:0"}|
+|**耗电:**|  -  |&#8288 {: style="padding:0"}|
 |**科技:**| 大容量固体运输|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>钢 或 硬化合金</td><td>125 kg</td></tr><tr><td>透明体</td><td>25 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>钢 或 硬化合金</td><td>125千克</td></tr><tr><td>透明体</td><td>25千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 

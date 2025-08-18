@@ -7,7 +7,7 @@ A led light that servers as alert. Produces no significant luminosity.
 | | | |
 |-|-|-|
 | ![LogicAlertLight](/assets/images/buildings/LogicAlertLight.png){height="100"} {rowspan="3"}|**Dimensions:** | 1 wide x 1 high|
-|**Power Consumption:**| 8 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**| 8 W |&#8288 {: style="padding:0"}|
 |**Research Required:**| Smart Home|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Refined Metal</td><td>25 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
@@ -39,7 +39,7 @@ A device that can homogeneously combine several solid and liquid ingredients use
 | | | |
 |-|-|-|
 | ![CementMixer](/assets/images/buildings/CementMixer.png){height="100"} {rowspan="3"}|**Dimensions:** | 2 wide x 2 high|
-|**Power Consumption:**| 120 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**| 120 W |&#8288 {: style="padding:0"}|
 |**Research Required:**| Brute-Force Refinement|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Metal Ore</td><td>200 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
@@ -68,7 +68,7 @@ A tile composed out of compacted minerals<br/><br/>Increases Duplicant runspeed.
 | | | |
 |-|-|-|
 | ![MonoElementTile](/assets/images/buildings/MonoElementTile.png){height="100"} {rowspan="3"}|**Dimensions:** | 1 wide x 1 high|
-|**Power Consumption:**| 0 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**|  -  |&#8288 {: style="padding:0"}|
 |**Research Required:**| High Culture|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Sandstone or Granite or Igneous Rock or Obsidian or Brick</td><td>200 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
@@ -81,7 +81,7 @@ A light-weight door with intricate designs that suggests it belongs to a industr
 | | | |
 |-|-|-|
 | ![AIO_FacilityDoor](/assets/images/buildings/AIO_FacilityDoor.png){height="100"} {rowspan="3"}|**Dimensions:** | 1 wide x 2 high|
-|**Power Consumption:**| 0 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**|  -  |&#8288 {: style="padding:0"}|
 |**Research Required:**| Ventilation|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Refined Metal</td><td>50 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
@@ -113,7 +113,7 @@ A solid tile assembled in a range of materials and radiative pattern that reduce
 | | | |
 |-|-|-|
 | ![InsulationCompositionTile](/assets/images/buildings/InsulationCompositionTile.png){height="100"} {rowspan="3"}|**Dimensions:** | 1 wide x 1 high|
-|**Power Consumption:**| 0 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**|  -  |&#8288 {: style="padding:0"}|
 |**Research Required:**| Temperature Modulation|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Raw Mineral</td><td>375 kg</td></tr><tr><td>Precious Rock</td><td>75 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
@@ -126,7 +126,7 @@ A large solid wall wrought from steel. Hermetically sealed joints prevent gas le
 | | | |
 |-|-|-|
 | ![SpacerWallLarge](/assets/images/buildings/SpacerWallLarge.png){height="100"} {rowspan="3"}|**Dimensions:** | 2 wide x 2 high|
-|**Power Consumption:**| 0 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**|  -  |&#8288 {: style="padding:0"}|
 |**Research Required:**| High Culture|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Steel or Hardened Alloy</td><td>25 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
@@ -139,7 +139,7 @@ A solid window wrought from steel and fitted with thick layers of glass. Hermeti
 | | | |
 |-|-|-|
 | ![SpacerWindowLarge](/assets/images/buildings/SpacerWindowLarge.png){height="100"} {rowspan="3"}|**Dimensions:** | 2 wide x 2 high|
-|**Power Consumption:**| 0 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**|  -  |&#8288 {: style="padding:0"}|
 |**Research Required:**| Glass Blowing|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Transparent</td><td>45 kg</td></tr><tr><td>Steel or Hardened Alloy</td><td>15 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
@@ -152,7 +152,7 @@ Provides background support for buildings, or least gives the nice appearance of
 | | | |
 |-|-|-|
 | ![StructureFrameLarge](/assets/images/buildings/StructureFrameLarge.png){height="100"} {rowspan="3"}|**Dimensions:** | 2 wide x 2 high|
-|**Power Consumption:**| 0 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**|  -  |&#8288 {: style="padding:0"}|
 |**Research Required:**| Smelting|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Refined Metal</td><td>40 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
@@ -165,7 +165,7 @@ Used as floor and wall tile to build rooms.<br/><br/>Significantly increases Dup
 | | | |
 |-|-|-|
 | ![MouldingTile](/assets/images/buildings/MouldingTile.png){height="100"} {rowspan="3"}|**Dimensions:** | 1 wide x 1 high|
-|**Power Consumption:**| 0 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**|  -  |&#8288 {: style="padding:0"}|
 |**Research Required:**| Renaissance Art|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Precious Rock</td><td>200 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
@@ -178,7 +178,7 @@ Used as floor and wall tile to build rooms.<br/><br/>Significantly increases Dup
 | | | |
 |-|-|-|
 | ![AIO_MosaicTile](/assets/images/buildings/AIO_MosaicTile.png){height="100"} {rowspan="3"}|**Dimensions:** | 1 wide x 1 high|
-|**Power Consumption:**| 0 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**|  -  |&#8288 {: style="padding:0"}|
 |**Research Required:**| Home Luxuries|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Precious Rock</td><td>100 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
@@ -191,7 +191,7 @@ A rock hard composite tile made with coarse aggregate bonded together with a flu
 | | | |
 |-|-|-|
 | ![ReinforcedConcreteTile](/assets/images/buildings/ReinforcedConcreteTile.png){height="100"} {rowspan="3"}|**Dimensions:** | 1 wide x 1 high|
-|**Power Consumption:**| 0 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**|  -  |&#8288 {: style="padding:0"}|
 |**Research Required:**| Superheated Forging|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Concrete Block</td><td>100 kg</td></tr><tr><td>Refined Metal</td><td>50 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
@@ -204,7 +204,7 @@ A mechanized airlock door made with Glass panels. Blocks Liquid and Gas flow, ma
 | | | |
 |-|-|-|
 | ![GlassDoorComplex](/assets/images/buildings/GlassDoorComplex.png){height="100"} {rowspan="3"}|**Dimensions:** | 1 wide x 2 high|
-|**Power Consumption:**| 20 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**| 20 W |&#8288 {: style="padding:0"}|
 |**Research Required:**| Transit Tubes|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Refined Metal</td><td>100 kg</td></tr><tr><td>Transparent</td><td>50 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
@@ -217,7 +217,7 @@ A simple door made with Glass panels. Encloses areas without blocking Liquid or 
 | | | |
 |-|-|-|
 | ![GlassDoorSimple](/assets/images/buildings/GlassDoorSimple.png){height="100"} {rowspan="3"}|**Dimensions:** | 1 wide x 2 high|
-|**Power Consumption:**| 0 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**|  -  |&#8288 {: style="padding:0"}|
 |**Research Required:**| Transit Tubes|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Refined Metal</td><td>100 kg</td></tr><tr><td>Transparent</td><td>25 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
@@ -230,7 +230,7 @@ Provides background support for buildings, or least gives the nice appearance of
 | | | |
 |-|-|-|
 | ![StructureFrameSmall](/assets/images/buildings/StructureFrameSmall.png){height="100"} {rowspan="3"}|**Dimensions:** | 1 wide x 1 high|
-|**Power Consumption:**| 0 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**|  -  |&#8288 {: style="padding:0"}|
 |**Research Required:**| Smelting|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Refined Metal</td><td>15 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
@@ -243,7 +243,7 @@ This solid tile is specially engineered to withstand the harsh conditions of spa
 | | | |
 |-|-|-|
 | ![SpacerTileSolid](/assets/images/buildings/SpacerTileSolid.png){height="100"} {rowspan="3"}|**Dimensions:** | 1 wide x 1 high|
-|**Power Consumption:**| 0 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**|  -  |&#8288 {: style="padding:0"}|
 |**Research Required:**| Hazard Protection|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Raw Mineral</td><td>95 kg</td></tr><tr><td>Refined Metal</td><td>5 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
@@ -256,7 +256,7 @@ A solid wall panel wrought from steel. Hermetically sealed joints prevent gas le
 | | | |
 |-|-|-|
 | ![SpacerWall](/assets/images/buildings/SpacerWall.png){height="100"} {rowspan="3"}|**Dimensions:** | 1 wide x 1 high|
-|**Power Consumption:**| 0 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**|  -  |&#8288 {: style="padding:0"}|
 |**Research Required:**| High Culture|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Steel or Hardened Alloy</td><td>10 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
@@ -288,7 +288,7 @@ A solid wall wrought from steel and fitted with thick layers of glass. Hermetica
 | | | |
 |-|-|-|
 | ![SpacerWindowWall](/assets/images/buildings/SpacerWindowWall.png){height="100"} {rowspan="3"}|**Dimensions:** | 1 wide x 1 high|
-|**Power Consumption:**| 0 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**|  -  |&#8288 {: style="padding:0"}|
 |**Research Required:**| Glass Blowing|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Transparent</td><td>15 kg</td></tr><tr><td>Steel or Hardened Alloy</td><td>5 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
@@ -308,7 +308,7 @@ This steel structure is commonly used as a simple, yet strong tile for buildings
 | | | |
 |-|-|-|
 | ![StructureTile](/assets/images/buildings/StructureTile.png){height="100"} {rowspan="3"}|**Dimensions:** | 1 wide x 1 high|
-|**Power Consumption:**| 0 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**|  -  |&#8288 {: style="padding:0"}|
 |**Research Required:**| Smelting|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Refined Metal</td><td>100 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
@@ -321,7 +321,7 @@ This windowed tile allows light and visibility through while maintaining a stron
 | | | |
 |-|-|-|
 | ![SpacerTileWindow](/assets/images/buildings/SpacerTileWindow.png){height="100"} {rowspan="3"}|**Dimensions:** | 1 wide x 1 high|
-|**Power Consumption:**| 0 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**|  -  |&#8288 {: style="padding:0"}|
 |**Research Required:**| Glass Blowing|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Transparent</td><td>95 kg</td></tr><tr><td>Refined Metal</td><td>5 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
@@ -334,7 +334,7 @@ Used to build the walls and floors of rooms. Increases Decor, contributing to Mo
 | | | |
 |-|-|-|
 | ![WoodenCompositionTile](/assets/images/buildings/WoodenCompositionTile.png){height="100"} {rowspan="3"}|**Dimensions:** | 1 wide x 1 high|
-|**Power Consumption:**| 0 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**|  -  |&#8288 {: style="padding:0"}|
 |**Research Required:**| Home Luxuries|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Raw Mineral</td><td>375 kg</td></tr><tr><td>Wood</td><td>75 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
@@ -347,7 +347,7 @@ A semipermeable wooden tile, used to build walls and floors of rooms. <br/><br/>
 | | | |
 |-|-|-|
 | ![WoodenGasTile](/assets/images/buildings/WoodenGasTile.png){height="100"} {rowspan="3"}|**Dimensions:** | 1 wide x 1 high|
-|**Power Consumption:**| 0 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**|  -  |&#8288 {: style="padding:0"}|
 |**Research Required:**| Pressure Management|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Raw Mineral</td><td>50 kg</td></tr><tr><td>Wood</td><td>50 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
@@ -360,7 +360,7 @@ This ceiling is a beautiful masonry and wood work, but serves only as a decorati
 | | | |
 |-|-|-|
 | ![WoodenCeiling](/assets/images/buildings/WoodenCeiling.png){height="100"} {rowspan="3"}|**Dimensions:** | 1 wide x 1 high|
-|**Power Consumption:**| 0 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**|  -  |&#8288 {: style="padding:0"}|
 |**Research Required:**| Home Luxuries|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Raw Mineral</td><td>50 kg</td></tr><tr><td>Wood</td><td>50 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
@@ -373,7 +373,7 @@ This corner ceiling arch is beautiful masonry and wood work, but serves only as 
 | | | |
 |-|-|-|
 | ![WoodenCornerArch](/assets/images/buildings/WoodenCornerArch.png){height="100"} {rowspan="3"}|**Dimensions:** | 1 wide x 1 high|
-|**Power Consumption:**| 0 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**|  -  |&#8288 {: style="padding:0"}|
 |**Research Required:**| Home Luxuries|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Raw Mineral</td><td>150 kg</td></tr><tr><td>Wood</td><td>50 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
@@ -386,7 +386,7 @@ A pretty wooden door that encloses areas without blocking Liquid or Gas flow. Se
 | | | |
 |-|-|-|
 | ![WoodenDoor](/assets/images/buildings/WoodenDoor.png){height="100"} {rowspan="3"}|**Dimensions:** | 1 wide x 2 high|
-|**Power Consumption:**| 0 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**|  -  |&#8288 {: style="padding:0"}|
 |**Research Required:**| Interior Decor|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Raw Mineral</td><td>150 kg</td></tr><tr><td>Wood</td><td>50 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
@@ -399,7 +399,7 @@ A permeable wooden tile, used to build walls and floors of rooms. <br/><br/>Allo
 | | | |
 |-|-|-|
 | ![WoodenMeshTile](/assets/images/buildings/WoodenMeshTile.png){height="100"} {rowspan="3"}|**Dimensions:** | 1 wide x 1 high|
-|**Power Consumption:**| 0 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**|  -  |&#8288 {: style="padding:0"}|
 |**Research Required:**| Sanitation|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Raw Mineral</td><td>50 kg</td></tr><tr><td>Wood</td><td>50 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 

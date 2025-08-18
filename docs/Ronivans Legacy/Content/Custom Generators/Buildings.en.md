@@ -7,7 +7,7 @@ Converts Refined Carbon into Power.<br/>The waste products are either released i
 | | | |
 |-|-|-|
 | ![CustomSolidGenerator](/assets/images/buildings/CustomSolidGenerator.png){height="100"} {rowspan="3"}|**Dimensions:** | 2 wide x 4 high|
-|**Power Generation:**| 750 W|&#8288 {: style="padding:0"}|
+|**Power Generation:**| 750 W |&#8288 {: style="padding:0"}|
 |**Research Required:**| Internal Combustion|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Metal Ore</td><td>200 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>-</td><td>Carbon Dioxide Output Pipe</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
@@ -27,7 +27,7 @@ Converts Combustable Fuel into Power.<br/>The waste products are either released
 | | | |
 |-|-|-|
 | ![CustomPetroleumGenerator](/assets/images/buildings/CustomPetroleumGenerator.png){height="100"} {rowspan="3"}|**Dimensions:** | 1 wide x 4 high|
-|**Power Generation:**| 667 W|&#8288 {: style="padding:0"}|
+|**Power Generation:**| 667 W |&#8288 {: style="padding:0"}|
 |**Research Required:**| Fossil Fuels|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Metal Ore</td><td>200 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Combustible Liquid Input Pipe</td><td>Carbon Dioxide Output Pipe</td></tr><tr><td>-</td><td>Polluted Water Output Pipe</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
@@ -47,7 +47,7 @@ Converts Combustible Gas into Power.<br/>The waste products are either released 
 | | | |
 |-|-|-|
 | ![CustomMethaneGenerator](/assets/images/buildings/CustomMethaneGenerator.png){height="100"} {rowspan="3"}|**Dimensions:** | 1 wide x 4 high|
-|**Power Generation:**| 267 W|&#8288 {: style="padding:0"}|
+|**Power Generation:**| 267 W |&#8288 {: style="padding:0"}|
 |**Research Required:**| Fossil Fuels|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Metal Ore</td><td>100 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Combustible Gas Input Pipe</td><td>Carbon Dioxide Output Pipe</td></tr><tr><td>-</td><td>Polluted Water Output Pipe</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
@@ -67,7 +67,7 @@ Converts Sunlight into electrical Power.<br/><br/>Can be rotated.
 | | | |
 |-|-|-|
 | ![CustomSolarPanel](/assets/images/buildings/CustomSolarPanel.png){height="100"} {rowspan="3"}|**Dimensions:** | 1 wide x 5 high|
-|**Power Generation:**| 80 W|&#8288 {: style="padding:0"}|
+|**Power Generation:**| 80 W |&#8288 {: style="padding:0"}|
 |**Research Required:**| Renewable Energy|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Glass</td><td>50 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
@@ -80,7 +80,7 @@ Draws in Steam from the tiles directly below the machine's foundation and uses i
 | | | |
 |-|-|-|
 | ![CustomSteamGenerator](/assets/images/buildings/CustomSteamGenerator.png){height="100"} {rowspan="3"}|**Dimensions:** | 1 wide x 5 high|
-|**Power Generation:**| 283 W|&#8288 {: style="padding:0"}|
+|**Power Generation:**| 283 W |&#8288 {: style="padding:0"}|
 |**Research Required:**| Renewable Energy|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Refined Metal</td><td>250 kg</td></tr><tr><td>Plastics</td><td>50 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>-</td><td>Liquid Output Pipe</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|

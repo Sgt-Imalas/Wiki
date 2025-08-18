@@ -7,10 +7,11 @@
 | | | |
 |-|-|-|
 | ![CabinetNormal](/assets/images/buildings/CabinetNormal.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 1 x 高 2|
-|**耗电:**| 0 W|&#8288 {: style="padding:0"}|
+|**耗电:**|  -  |&#8288 {: style="padding:0"}|
 |**科技:**| 固体控制|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>精炼金属</td><td>200 kg</td></tr><tr><td>矿物原料</td><td>200 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
-|**<font size="+1">存储容量:</font>**| 20 t|&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>精炼金属</td><td>200千克</td></tr><tr><td>矿物原料</td><td>200千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">存储容量:</font>**| 20吨|&#8288 {: style="padding:0"}|
+| **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>固体 输入轨道</td><td>-</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 
 ## 物流自动清扫器
@@ -21,9 +22,9 @@
 | | | |
 |-|-|-|
 | ![LogisticTransferArm](/assets/images/buildings/LogisticTransferArm.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 3 x 高 1|
-|**耗电:**| 60 W|&#8288 {: style="padding:0"}|
+|**耗电:**| 60瓦 |&#8288 {: style="padding:0"}|
 |**科技:**| 智能存储|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>精炼金属</td><td>200 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>精炼金属</td><td>200千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 
 ## 物流轨道滑槽
@@ -34,9 +35,9 @@
 | | | |
 |-|-|-|
 | ![LogisticVent](/assets/images/buildings/LogisticVent.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 1 x 高 1|
-|**耗电:**| 0 W|&#8288 {: style="padding:0"}|
+|**耗电:**|  -  |&#8288 {: style="padding:0"}|
 |**科技:**| 智能存储|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>金属矿石</td><td>100 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>金属矿石</td><td>100千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>固体 输入轨道</td><td>-</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 
@@ -48,10 +49,10 @@
 | | | |
 |-|-|-|
 | ![LogisticLoader](/assets/images/buildings/LogisticLoader.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 1 x 高 2|
-|**耗电:**| 60 W|&#8288 {: style="padding:0"}|
+|**耗电:**| 60瓦 |&#8288 {: style="padding:0"}|
 |**科技:**| 智能存储|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>金属矿石</td><td>200 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
-|**<font size="+1">存储容量:</font>**| 600 kg|&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>金属矿石</td><td>200千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">存储容量:</font>**| 600千克|&#8288 {: style="padding:0"}|
 | **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>-</td><td>固体 输出轨道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 
@@ -63,9 +64,9 @@
 | | | |
 |-|-|-|
 | ![LogisticRail](/assets/images/buildings/LogisticRail.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 1 x 高 1|
-|**耗电:**| 0 W|&#8288 {: style="padding:0"}|
+|**耗电:**|  -  |&#8288 {: style="padding:0"}|
 |**科技:**| 智能存储|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>金属矿石</td><td>50 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>金属矿石</td><td>50千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 
 ## 物流存放器
@@ -76,9 +77,9 @@
 | | | |
 |-|-|-|
 | ![LogisticOutBox](/assets/images/buildings/LogisticOutBox.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 1 x 高 2|
-|**耗电:**| 0 W|&#8288 {: style="padding:0"}|
+|**耗电:**|  -  |&#8288 {: style="padding:0"}|
 |**科技:**| 智能存储|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>金属矿石</td><td>200 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>金属矿石</td><td>200千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>固体 输入轨道</td><td>-</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 
@@ -90,9 +91,9 @@
 | | | |
 |-|-|-|
 | ![LogisticRailValve](/assets/images/buildings/LogisticRailValve.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 1 x 高 2|
-|**耗电:**| 0 W|&#8288 {: style="padding:0"}|
+|**耗电:**|  -  |&#8288 {: style="padding:0"}|
 |**科技:**| 固体运输|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>金属矿石</td><td>100 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>金属矿石</td><td>100千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>固体 输入轨道</td><td>固体 输出轨道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 
@@ -104,10 +105,10 @@
 | | | |
 |-|-|-|
 | ![LogisticBridge](/assets/images/buildings/LogisticBridge.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 3 x 高 1|
-|**耗电:**| 0 W|&#8288 {: style="padding:0"}|
+|**耗电:**|  -  |&#8288 {: style="padding:0"}|
 |**科技:**| 智能存储|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>金属矿石</td><td>200 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
-| **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>-</td><td>固体 输出轨道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>金属矿石</td><td>200千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+| **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>固体 输入轨道</td><td>固体 输出轨道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 
 ## 物流固体筛选器
@@ -118,10 +119,10 @@
 | | | |
 |-|-|-|
 | ![LogisticFilter](/assets/images/buildings/LogisticFilter.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 3 x 高 1|
-|**耗电:**| 60 W|&#8288 {: style="padding:0"}|
+|**耗电:**| 60瓦 |&#8288 {: style="padding:0"}|
 |**科技:**| 固体运输|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>金属矿石</td><td>100 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
-| **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>-</td><td>固体 输出轨道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>金属矿石</td><td>100千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+| **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>固体 输入轨道</td><td>固体 输出轨道</td></tr><tr><td>-</td><td>固体 输出轨道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 
 ## 冷藏存储柜
@@ -132,10 +133,11 @@
 | | | |
 |-|-|-|
 | ![CabinetFrozen](/assets/images/buildings/CabinetFrozen.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 1 x 高 2|
-|**耗电:**| 240 W|&#8288 {: style="padding:0"}|
+|**耗电:**| 240瓦 |&#8288 {: style="padding:0"}|
 |**科技:**| 固体控制|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>精炼金属</td><td>200 kg</td></tr><tr><td>矿物原料</td><td>200 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
-|**<font size="+1">存储容量:</font>**| 20 t|&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>精炼金属</td><td>200千克</td></tr><tr><td>矿物原料</td><td>200千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">存储容量:</font>**| 20吨|&#8288 {: style="padding:0"}|
+| **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>固体 输入轨道</td><td>-</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 
 ## 存储舱
@@ -146,10 +148,10 @@
 | | | |
 |-|-|-|
 | ![StoragePod](/assets/images/buildings/StoragePod.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 1 x 高 1|
-|**耗电:**| 0 W|&#8288 {: style="padding:0"}|
+|**耗电:**|  -  |&#8288 {: style="padding:0"}|
 |**科技:**| 蛮力精炼|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>金属矿石</td><td>400 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
-|**<font size="+1">存储容量:</font>**| 750 kg|&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>金属矿石</td><td>400千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">存储容量:</font>**| 750千克|&#8288 {: style="padding:0"}|
 
 ### 蓝图
 | ![StoragePod_A](/assets/images/buildings/StoragePod_A.png){width="100"} |

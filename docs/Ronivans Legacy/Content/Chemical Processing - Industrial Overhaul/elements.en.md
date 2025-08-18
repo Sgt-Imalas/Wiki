@@ -1,5 +1,5 @@
 # Elements
-Enabling the following mods in the config will add several new elements to the game.<br/><br/>A few of them will also be added to the starmap pois for mining or spawn during worldgen.
+Enabling this mod in the config will add several new elements to the game or reenable disabled vanilla ones.<br/><br/>A few of them will also be added to the starmap pois for mining or spawn during worldgen.
 ## New Element Categories
 
 |<font size="+1">Material</font> | | <font size="+1">Elements</font> |
@@ -8,8 +8,7 @@ Enabling the following mods in the config will add several new elements to the g
 |<font size="+1">Hardened Alloy</font> <br/> <br/>|Hardened Alloys are a fusion of two or more materials.<br/>Their high material strength allows them to be used as a substitute to Steel| ![PhosphorBronze](/assets/images/elements/PhosphorBronze.png){.inline-icon} Phosphor Bronze<br/> ![Plasteel](/assets/images/elements/Plasteel.png){.inline-icon} Plasteel<br/>|
 |<font size="+1">Metallic Sand</font> <br/> <br/>|Sandy materials composed of a various number of metallic grains| ![BaseGradeSand](/assets/images/elements/BaseGradeSand.png){.inline-icon} Base-Grade Metallic Sand<br/> ![LowGradeSand](/assets/images/elements/LowGradeSand.png){.inline-icon} Low-Grade Metallic Sand<br/> ![HighGradeSand](/assets/images/elements/HighGradeSand.png){.inline-icon} High-Grade Metallic Sand<br/>|
 
-## Chemical Processing - Industrial Overhaul
-### New Elements
+## New Elements
 
 #### Ammonia
 
@@ -339,7 +338,7 @@ A thick, toxic slurry produced as waste product from industrial operations, comp
 |-|-|-|
 | ![AurichalciteOre](/assets/images/elements/AurichalciteOre.png){width="200"} |<br/>Resource Type: Metal Ore<br/><br/>Melting point: 919°C<br/>60 %  ![MoltenZinc](/assets/images/elements/MoltenZinc.png){.inline-icon} Molten Zinc,<br/>40 % ![MoltenCopper](/assets/images/elements/MoltenCopper.png){.inline-icon} Molten Copper<br/><br/>Hardness: 25<br/><br/>Properties: <br/>General Buildable, Ore, Solid|<br/>Specific Heat Capacity: <br/>0.411 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>3.600 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.46<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
 
-### Reenabled Elements
+## Reenabled Elements
 These vanilla elements have been reenabled or partially adjusted
 
 #### Crushed Rock
@@ -406,110 +405,19 @@ Synthesis Gas is an artificial, unbreathable Gas.<br/><br/>It can be converted i
 |-|-|-|
 | ![Syngas](/assets/images/elements/Syngas.png){width="200"} |<br/>Resource Type: Unbreathable Gas<br/><br/>Condensation point: -252.15°C<br/>-> ![MoltenSyngas](/assets/images/elements/MoltenSyngas.png){.inline-icon} Molten Synthesis Gas<br/><br/><br/>Properties: <br/>Combustible Gas, Gas|<br/>Specific Heat Capacity: <br/>2.400 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>0.168 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.07<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
 
-## Chemical Processing - Biochemistry
-### New Elements
+## Critter Diet Expansions
 
-#### Bioplastic
-
-A synthetic biopolymer produced from renewable biomass sources, such as vegetable fats and oils, and enzymes from bacterial biosynthesis. Unlike traditional plastics, which are derived from fossil fuels, bioplastics are obtained from renewable resources.
-
-| |<font size="+1">Material Properties</font>| |
+|Inputs:|Critter|Outputs:|
 |-|-|-|
-| ![Bioplastic](/assets/images/elements/Bioplastic.png){width="200"} |<br/>Resource Type: Manufactured Material<br/><br/>Melting point: 104°C<br/>80 %  ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} Vegetable Oil,<br/>20 % ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} Carbon Dioxide<br/><br/>Hardness: 2<br/><br/>Properties: <br/>Antiseptic, General Buildable, Plastics, Solid|<br/>Specific Heat Capacity: <br/>1.220 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>0.750 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.8<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
-
-#### Compressed Biomass
-
-A dried, hard pressed clump of organic mass from vegetable origin. Has almost no moisture and can be used as burnable fuel or can be turned to dirt through composting.
-
-| |<font size="+1">Material Properties</font>| |
-|-|-|-|
-| ![SolidBiomass](/assets/images/elements/SolidBiomass.png){width="200"} |<br/>Resource Type: Organic<br/><br/>Melting point: 250°C<br/>-> ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} Carbon Dioxide<br/><br/>Hardness: 2<br/><br/>Properties: <br/>Compostable, Solid|<br/>Specific Heat Capacity: <br/>0.880 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>1.250 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.5<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
-
-#### Frozen Renewable Diesel
-
-Biodiesel is a renewable biofuel from biological sources like vegetable oils. Frozen solid on its present form.
-
-| |<font size="+1">Material Properties</font>| |
-|-|-|-|
-| ![SolidBiodiesel](/assets/images/elements/SolidBiodiesel.png){width="200"} |<br/>Resource Type: Liquefiable<br/><br/>Melting point: 2°C<br/>-> ![LiquidBiodiesel](/assets/images/elements/LiquidBiodiesel.png){.inline-icon} Renewable Diesel<br/><br/>Hardness: 1<br/><br/>Properties: <br/>Solid|<br/>Specific Heat Capacity: <br/>1.920 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>22.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.8<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
-
-#### Frozen Vegetable Oil
-
-Frozen solid oil extracted from vegetable biomass, composed of triglycerides and monounsaturated fatty acids.
-
-| |<font size="+1">Material Properties</font>| |
-|-|-|-|
-| ![SolidVegeOil](/assets/images/elements/SolidVegeOil.png){width="200"} |<br/>Resource Type: Liquefiable<br/><br/>Melting point: -15°C<br/>-> ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} Vegetable Oil<br/><br/>Hardness: 1<br/><br/>Properties: <br/>Solid|<br/>Specific Heat Capacity: <br/>1.920 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>32.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.8<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
-
-#### Oily Gas
-
-Gaseous oil extracted from vegetable biomass, composed of triglycerides and monounsaturated fatty acids.
-
-| |<font size="+1">Material Properties</font>| |
-|-|-|-|
-| ![VegeOilGas](/assets/images/elements/VegeOilGas.png){width="200"} |<br/>Resource Type: Unbreathable Gas<br/><br/>Condensation point: 299°C<br/>-> ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} Vegetable Oil<br/><br/><br/>Properties: <br/>Gas|<br/>Specific Heat Capacity: <br/>0.846 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>0.015 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.8<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
-
-#### Renewable Diesel
-
-Renewable diesel is a renewable biofuel from biological sources like vegetable oils. Used as an alternative to fossil fuels.
-
-| |<font size="+1">Material Properties</font>| |
-|-|-|-|
-| ![LiquidBiodiesel](/assets/images/elements/LiquidBiodiesel.png){width="200"} |<br/>Resource Type: Liquid<br/><br/>Freezing point: 1°C<br/>-> ![SolidBiodiesel](/assets/images/elements/SolidBiodiesel.png){.inline-icon} Frozen Renewable Diesel<br/><br/>Evaporation point: 357°C<br/>70 %  ![VegeOilGas](/assets/images/elements/VegeOilGas.png){.inline-icon} Oily Gas,<br/>30 % ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} Carbon Dioxide<br/><br/><br/>Properties: <br/>Combustible Liquid, Rocket Fuel, Slippery|<br/>Specific Heat Capacity: <br/>0.234 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>7.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.8<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
-
-#### Vegetable Oil
-
-Liquid oil extracted from vegetable biomass, composed of triglycerides and monounsaturated fatty acids.
-
-| |<font size="+1">Material Properties</font>| |
-|-|-|-|
-| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){width="200"} |<br/>Resource Type: Liquid<br/><br/>Freezing point: -16°C<br/>-> ![SolidVegeOil](/assets/images/elements/SolidVegeOil.png){.inline-icon} Frozen Vegetable Oil<br/><br/>Evaporation point: 301°C<br/>-> ![VegeOilGas](/assets/images/elements/VegeOilGas.png){.inline-icon} Oily Gas<br/><br/><br/>Properties: <br/>Gear Oil, Slippery, Unrefined Oil|<br/>Specific Heat Capacity: <br/>1.070 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>2.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.8<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
-
-## Dupes Engineering
-### Reenabled Elements
-These vanilla elements have been reenabled or partially adjusted
-
-#### Brick
-
-Brick is a hard, brittle material formed from heated Clay.<br/><br/>It is a reliable <b>Construction Material</b>.
-
-| |<font size="+1">Material Properties</font>| |
-|-|-|-|
-| ![Brick](/assets/images/elements/Brick.png){width="200"} |<br/>Resource Type: Refined Mineral<br/><br/>Melting point: 1726.85°C<br/>-> ![Magma](/assets/images/elements/Magma.png){.inline-icon} Magma<br/><br/>Hardness: 50<br/><br/>Properties: <br/>Crushable, General Buildable, Insulator, Raw Mineral, Solid|<br/>Specific Heat Capacity: <br/>0.840 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>0.620 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.8<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
-
-#### Cement
-
-Cement is a refined building material used for assembling advanced buildings.
-
-| |<font size="+1">Material Properties</font>| |
-|-|-|-|
-| ![Cement](/assets/images/elements/Cement.png){width="200"} |<br/>Resource Type: Refined Mineral<br/><br/>Melting point: 1409.85°C<br/>-> ![Magma](/assets/images/elements/Magma.png){.inline-icon} Magma<br/><br/>Hardness: 200<br/><br/>Properties: <br/>General Buildable, Solid|<br/>Specific Heat Capacity: <br/>1.550 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>3.110 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 1<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
-
-#### Crushed Rock
-
-Crushed Rock is Igneous Rock crushed into a mechanical mixture.
-
-| |<font size="+1">Material Properties</font>| |
-|-|-|-|
-| ![CrushedRock](/assets/images/elements/CrushedRock.png){width="200"} |<br/>Resource Type: Refined Mineral<br/><br/>Melting point: 1409.85°C<br/>-> ![Magma](/assets/images/elements/Magma.png){.inline-icon} Magma<br/><br/>Hardness: 10<br/><br/>Properties: <br/>Consumable Ore, Solid, Unstable|<br/>Specific Heat Capacity: <br/>0.200 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>2.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.7<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
-
-## Nuclear Processing
-### Reenabled Elements
-These vanilla elements have been reenabled or partially adjusted
-
-#### Radium
-
-(Ra) Radium is a Light emitting radioactive substance.<br/><br/>It is useful as a Power source.
-
-| |<font size="+1">Material Properties</font>| |
-|-|-|-|
-| ![Radium](/assets/images/elements/Radium.png){width="200"} |<br/>Resource Type: Solid<br/><br/>Melting point: 959.85°C<br/>-> ![Magma](/assets/images/elements/Magma.png){.inline-icon} Magma<br/><br/>Hardness: 250<br/><br/>Properties: <br/>Consumable Ore|<br/>Specific Heat Capacity: <br/>1.000 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>20.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.25<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
-
-#### Yellowcake
-
-(U<sub>3</sub>O<sub>8</sub>) Yellowcake is a byproduct of Uranium mining.<br/><br/>It is useful in preparing fuel for Research Reactors.<br/><br/>Note: Do not eat.
-
-| |<font size="+1">Material Properties</font>| |
-|-|-|-|
-| ![Yellowcake](/assets/images/elements/Yellowcake.png){width="200"} |<br/>Resource Type: Solid<br/><br/>Melting point: 858.85°C<br/>-> ![MoltenUranium](/assets/images/elements/MoltenUranium.png){.inline-icon} Liquid Uranium<br/><br/>Hardness: 250<br/><br/>Properties: <br/>Manufactured Material|<br/>Specific Heat Capacity: <br/>1.000 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>20.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.3<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+ ![SolidSlag](/assets/images/elements/SolidSlag.png){.inline-icon} Slag |  ![CrabWood](/assets/images/entities/CrabWood.png){.inline-icon} Oakshell | 75%  ![AmmoniumSalt](/assets/images/elements/AmmoniumSalt.png){.inline-icon} Nitrate Nodules|
+ ![SolidSlag](/assets/images/elements/SolidSlag.png){.inline-icon} Slag |  ![Crab](/assets/images/entities/Crab.png){.inline-icon} Pokeshell | 75%  ![AmmoniumSalt](/assets/images/elements/AmmoniumSalt.png){.inline-icon} Nitrate Nodules|
+ ![Chloroschist](/assets/images/elements/Chloroschist.png){.inline-icon} Chloroschist |  ![HatchVeggie](/assets/images/entities/HatchVeggie.png){.inline-icon} Sage Hatch | 25%  ![BleachStone](/assets/images/elements/BleachStone.png){.inline-icon} Bleach Stone|
+ ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} Crushed Rock |  ![HatchVeggie](/assets/images/entities/HatchVeggie.png){.inline-icon} Sage Hatch | 100%  ![Carbon](/assets/images/elements/Carbon.png){.inline-icon} Coal|
+ ![SolidSlag](/assets/images/elements/SolidSlag.png){.inline-icon} Slag |  ![HatchVeggie](/assets/images/entities/HatchVeggie.png){.inline-icon} Sage Hatch | 90%  ![AmmoniumSalt](/assets/images/elements/AmmoniumSalt.png){.inline-icon} Nitrate Nodules|
+ ![SolidSlag](/assets/images/elements/SolidSlag.png){.inline-icon} Slag |  ![CrabFreshWater](/assets/images/entities/CrabFreshWater.png){.inline-icon} Sanishell | 75%  ![AmmoniumSalt](/assets/images/elements/AmmoniumSalt.png){.inline-icon} Nitrate Nodules|
+ ![ArgentiteOre](/assets/images/elements/ArgentiteOre.png){.inline-icon} Silver Ore |  ![HatchMetal](/assets/images/entities/HatchMetal.png){.inline-icon} Smooth Hatch | 75%  ![SolidSilver](/assets/images/elements/SolidSilver.png){.inline-icon} Silver|
+ ![AurichalciteOre](/assets/images/elements/AurichalciteOre.png){.inline-icon} Zinc Ore |  ![HatchMetal](/assets/images/entities/HatchMetal.png){.inline-icon} Smooth Hatch | 75%  ![SolidZinc](/assets/images/elements/SolidZinc.png){.inline-icon} Zinc|
+ ![Salt](/assets/images/elements/Salt.png){.inline-icon} Salt |  ![HatchHard](/assets/images/entities/HatchHard.png){.inline-icon} Stone Hatch | 50%  ![SolidBorax](/assets/images/elements/SolidBorax.png){.inline-icon} Borax|
+ ![ArgentiteOre](/assets/images/elements/ArgentiteOre.png){.inline-icon} Silver Ore |  ![HatchHard](/assets/images/entities/HatchHard.png){.inline-icon} Stone Hatch | 25%  ![Carbon](/assets/images/elements/Carbon.png){.inline-icon} Coal|
+ ![AurichalciteOre](/assets/images/elements/AurichalciteOre.png){.inline-icon} Zinc Ore |  ![HatchHard](/assets/images/entities/HatchHard.png){.inline-icon} Stone Hatch | 25%  ![Carbon](/assets/images/elements/Carbon.png){.inline-icon} Coal|
 

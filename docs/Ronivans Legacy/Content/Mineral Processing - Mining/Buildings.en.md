@@ -7,7 +7,7 @@ A strong drilling apparatus engineered with self guidance sensors for mineral or
 | | | |
 |-|-|-|
 | ![Mining_MineralDrill](/assets/images/buildings/Mining_MineralDrill.png){height="100"} {rowspan="3"}|**Dimensions:** | 4 wide x 5 high|
-|**Power Consumption:**| 1200 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**| 1.2 kW |&#8288 {: style="padding:0"}|
 |**Research Required:**| Solid Management|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Steel or Hardened Alloy</td><td>1200 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
@@ -28,7 +28,7 @@ This rig uses specialized Drillbits to mine useful resources from the asteroid c
 | | | |
 |-|-|-|
 | ![Mining_AugerDrill](/assets/images/buildings/Mining_AugerDrill.png){height="100"} {rowspan="3"}|**Dimensions:** | 13 wide x 8 high|
-|**Power Consumption:**| 0 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**|  -  |&#8288 {: style="padding:0"}|
 |**Research Required:**| Solid Management|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Steel or Hardened Alloy</td><td>5 t</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Combustible Liquid Input Pipe</td><td>Solid Output Rail</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
@@ -62,7 +62,7 @@ Capable of producing specialty gadgets and other advanced tools. Requires the Me
 | | | |
 |-|-|-|
 | ![Mining_CNCMachine](/assets/images/buildings/Mining_CNCMachine.png){height="100"} {rowspan="3"}|**Dimensions:** | 7 wide x 4 high|
-|**Power Consumption:**| 1000 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**| 1000 W |&#8288 {: style="padding:0"}|
 |**Research Required:**| Solid Management|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Metal Ore</td><td>200 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 

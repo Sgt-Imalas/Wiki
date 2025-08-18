@@ -7,7 +7,7 @@ Grows Algae using a constant supply of  Vegetable Oil that serves as serves as n
 | | | |
 |-|-|-|
 | ![Biochemistry_AlgaeGrowingBasin](/assets/images/buildings/Biochemistry_AlgaeGrowingBasin.png){height="100"} {rowspan="3"}|**Dimensions:** | 9 wide x 3 high|
-|**Power Consumption:**| 90 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**| 90 W |&#8288 {: style="padding:0"}|
 |**Research Required:**| Agriculture|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Refined Metal</td><td>400 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Vegetable Oil Input Pipe</td><td>-</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
@@ -27,7 +27,7 @@ Breaks down most basic Food stored within to  Natural Gas<br/>The amount produce
 | | | |
 |-|-|-|
 | ![Biochemistry_AnaerobicDigester](/assets/images/buildings/Biochemistry_AnaerobicDigester.png){height="100"} {rowspan="3"}|**Dimensions:** | 5 wide x 3 high|
-|**Power Consumption:**| 90 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**| 90 W |&#8288 {: style="padding:0"}|
 |**Research Required:**| Food Repurposing|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Metal Ore</td><td>200 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>-</td><td>Gas Output Pipe</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
@@ -65,7 +65,7 @@ Converts Renewable Diesel into electrical Power.<br/><br/>Produces only Polluted
 | | | |
 |-|-|-|
 | ![Biochemistry_BiodieselGenerator](/assets/images/buildings/Biochemistry_BiodieselGenerator.png){height="100"} {rowspan="3"}|**Dimensions:** | 7 wide x 4 high|
-|**Power Generation:**| 3200 W|&#8288 {: style="padding:0"}|
+|**Power Generation:**| 3.2 kW |&#8288 {: style="padding:0"}|
 |**Research Required:**| Renewable Combustion Fuels|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Refined Metal</td><td>400 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Renewable Diesel Input Pipe</td><td>Liquid Output Pipe</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
@@ -85,7 +85,7 @@ Transesterify Renewable Diesel from Vegetable Oil and Ethanol.
 | | | |
 |-|-|-|
 | ![Biochemistry_BiodieselRefinery](/assets/images/buildings/Biochemistry_BiodieselRefinery.png){height="100"} {rowspan="3"}|**Dimensions:** | 7 wide x 5 high|
-|**Power Consumption:**| 60 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**| 60 W |&#8288 {: style="padding:0"}|
 |**Research Required:**| Renewable Combustion Fuels|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Metal Ore</td><td>400 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Vegetable Oil Input Pipe</td><td>Liquid Output Pipe</td></tr><tr><td>Ethanol Input Pipe</td><td>Polluted Water Output Pipe</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
@@ -105,7 +105,7 @@ Synthesizes Bioplastic from Vegetable Oil and Carbon Dioxide.<br/>The enzymes re
 | | | |
 |-|-|-|
 | ![Biochemistry_BioplasticPrinter](/assets/images/buildings/Biochemistry_BioplasticPrinter.png){height="100"} {rowspan="3"}|**Dimensions:** | 4 wide x 4 high|
-|**Power Consumption:**| 240 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**| 240 W |&#8288 {: style="padding:0"}|
 |**Research Required:**| Plastic Manufacturing|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Metal Ore</td><td>400 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Vegetable Oil Input Pipe</td><td>-</td></tr><tr><td>Carbon Dioxide Input Pipe</td><td>-</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
@@ -125,7 +125,7 @@ Extract Vegetable Oil from raw food ingredients. The amount of oil, and the soli
 | | | |
 |-|-|-|
 | ![Biochemistry_ExpellerPress](/assets/images/buildings/Biochemistry_ExpellerPress.png){height="100"} {rowspan="3"}|**Dimensions:** | 5 wide x 3 high|
-|**Power Consumption:**| 120 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**| 120 W |&#8288 {: style="padding:0"}|
 |**Research Required:**| Brute-Force Refinement|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Metal Ore</td><td>200 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>-</td><td>Liquid Output Pipe</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|

@@ -7,7 +7,7 @@ An advanced insulated electrical kiln in which the heat is applied by induction 
 | | | |
 |-|-|-|
 | ![Chemical_AdvancedKiln](/assets/images/buildings/Chemical_AdvancedKiln.png){height="100"} {rowspan="3"}|**Dimensions:** | 3 wide x 3 high|
-|**Power Consumption:**| 800 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**| 800 W |&#8288 {: style="padding:0"}|
 |**Research Required:**| Smelting|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Refined Metal</td><td>200 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
@@ -36,7 +36,7 @@ An advanced method for production of Refined Metals from raw Metal Ore.<br/><br/
 | | | |
 |-|-|-|
 | ![Chemical_AdvancedMetalRefinery](/assets/images/buildings/Chemical_AdvancedMetalRefinery.png){height="100"} {rowspan="3"}|**Dimensions:** | 3 wide x 5 high|
-|**Power Consumption:**| 3000 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**| 3 kW |&#8288 {: style="padding:0"}|
 |**Research Required:**| Superheated Forging|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Steel or Hardened Alloy</td><td>1000 kg</td></tr><tr><td>Ceramic</td><td>600 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Super Coolant Input Pipe</td><td>Liquid Output Pipe</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
@@ -69,7 +69,7 @@ Break down Ammonia into Hydrogen and Nitrogen using Iron as catalyst. <br/>The c
 | | | |
 |-|-|-|
 | ![Chemical_AmmoniaBreaker](/assets/images/buildings/Chemical_AmmoniaBreaker.png){height="100"} {rowspan="3"}|**Dimensions:** | 3 wide x 3 high|
-|**Power Consumption:**| 840 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**| 840 W |&#8288 {: style="padding:0"}|
 |**Research Required:**| Liquid-Based Refinement Processes|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Raw Mineral</td><td>200 kg</td></tr><tr><td>Refined Metal</td><td>100 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Ammonia Input Pipe</td><td>Gas Output Pipe</td></tr><tr><td>-</td><td>Nitrogen Output Pipe</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
@@ -89,7 +89,7 @@ Compresses Ammonia gas and cool it down to liquid Ammonia. This device is also c
 | | | |
 |-|-|-|
 | ![Chemical_AmmoniaCompressor](/assets/images/buildings/Chemical_AmmoniaCompressor.png){height="100"} {rowspan="3"}|**Dimensions:** | 3 wide x 3 high|
-|**Power Consumption:**| 480 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**| 480 W |&#8288 {: style="padding:0"}|
 |**Research Required:**| Temperature Modulation|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Ceramic</td><td>400 kg</td></tr><tr><td>Refined Metal</td><td>200 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 |**<font size="+1">Storage Capacity:</font>**| 3000 kg|&#8288 {: style="padding:0"}|
@@ -110,7 +110,7 @@ Crush down Raw Minerals in to useful materials and industrial ingredients.
 | | | |
 |-|-|-|
 | ![Chemical_BallCrusherMill](/assets/images/buildings/Chemical_BallCrusherMill.png){height="100"} {rowspan="3"}|**Dimensions:** | 7 wide x 3 high|
-|**Power Consumption:**| 800 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**| 800 W |&#8288 {: style="padding:0"}|
 |**Research Required:**| Superheated Forging|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Refined Metal</td><td>300 kg</td></tr><tr><td>Steel or Hardened Alloy</td><td>100 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Water Input Pipe</td><td>Liquid Output Pipe</td></tr><tr><td>Sulfuric Acid Input Pipe</td><td>-</td></tr><tr><td>Nitric Acid Input Pipe</td><td>-</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
@@ -138,7 +138,7 @@ Compresses Carbon Dioxide gas and cool it down toLiquid Carbon Dioxide. This dev
 | | | |
 |-|-|-|
 | ![Chemical_CarbonDioxideCompressor](/assets/images/buildings/Chemical_CarbonDioxideCompressor.png){height="100"} {rowspan="3"}|**Dimensions:** | 3 wide x 3 high|
-|**Power Consumption:**| 480 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**| 480 W |&#8288 {: style="padding:0"}|
 |**Research Required:**| Temperature Modulation|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Ceramic</td><td>400 kg</td></tr><tr><td>Refined Metal</td><td>200 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 |**<font size="+1">Storage Capacity:</font>**| 3000 kg|&#8288 {: style="padding:0"}|
@@ -159,7 +159,7 @@ Boils Water to Steam at 200 °C.<br/>This particular boiler uses Combustustable 
 | | | |
 |-|-|-|
 | ![Chemical_Coal_Boiler](/assets/images/buildings/Chemical_Coal_Boiler.png){height="100"} {rowspan="3"}|**Dimensions:** | 3 wide x 4 high|
-|**Power Consumption:**| 0 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**|  -  |&#8288 {: style="padding:0"}|
 |**Research Required:**| Fossil Fuels|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Refined Metal</td><td>1200 kg</td></tr><tr><td>Ceramic</td><td>1000 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 |**<font size="+1">Storage Capacity:</font>**| 10 t|&#8288 {: style="padding:0"}|
@@ -180,7 +180,7 @@ Sabatier Reaction: <br/> Liquid Carbon Dioxide, Hydrogen and Iron as catalyst. T
 | | | |
 |-|-|-|
 | ![Chemical_Co2Recycler](/assets/images/buildings/Chemical_Co2Recycler.png){height="100"} {rowspan="3"}|**Dimensions:** | 7 wide x 4 high|
-|**Power Consumption:**| 1000 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**| 1000 W |&#8288 {: style="padding:0"}|
 |**Research Required:**| Portable Gases|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Ceramic</td><td>800 kg</td></tr><tr><td>Steel or Hardened Alloy</td><td>400 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Hydrogen Gas Input Pipe</td><td>Liquid Output Pipe</td></tr><tr><td>Liquid Carbon Dioxide Input Pipe</td><td>Steam Output Pipe</td></tr><tr><td>Carbon Dioxide Input Pipe</td><td>Natural Gas Output Pipe</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
@@ -205,7 +205,7 @@ An industrial aparatus capable to address several chemical reactions. Its large 
 | | | |
 |-|-|-|
 | ![Chemical_MixingUnit](/assets/images/buildings/Chemical_MixingUnit.png){height="100"} {rowspan="3"}|**Dimensions:** | 6 wide x 4 high|
-|**Power Consumption:**| 800 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**| 800 W |&#8288 {: style="padding:0"}|
 |**Research Required:**| Emulsification|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Steel or Hardened Alloy</td><td>400 kg</td></tr><tr><td>Refined Metal</td><td>600 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Nitrogen Input Pipe</td><td>Liquid Output Pipe</td></tr><tr><td>Ammonia Input Pipe</td><td>Isopropane Output Pipe</td></tr><tr><td>Propane Gas Input Pipe</td><td>-</td></tr><tr><td>Water Input Pipe</td><td>-</td></tr><tr><td>Petroleum Input Pipe</td><td>-</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
@@ -229,7 +229,7 @@ Automatically detects trace of Carbon Dioxide and extract it out of the surroudi
 | | | |
 |-|-|-|
 | ![Chemical_Co2Pump](/assets/images/buildings/Chemical_Co2Pump.png){height="100"} {rowspan="3"}|**Dimensions:** | 1 wide x 1 high|
-|**Power Consumption:**| 10 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**| 10 W |&#8288 {: style="padding:0"}|
 |**Research Required:**| Agriculture|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Metal Ore</td><td>25 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>-</td><td>Gas Output Pipe</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
@@ -243,7 +243,7 @@ This refinement plant is capable of the following production from Crude Oil: <br
 | | | |
 |-|-|-|
 | ![Chemical_CrudeOilRefinery](/assets/images/buildings/Chemical_CrudeOilRefinery.png){height="100"} {rowspan="3"}|**Dimensions:** | 4 wide x 5 high|
-|**Power Consumption:**| 640 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**| 640 W |&#8288 {: style="padding:0"}|
 |**Research Required:**| Fossil Fuels|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Refined Metal</td><td>300 kg</td></tr><tr><td>Steel or Hardened Alloy</td><td>100 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Crude Oil Input Pipe</td><td>Petroleum Output Pipe</td></tr><tr><td>Steam Input Pipe</td><td>Sour Water Output Pipe</td></tr><tr><td>-</td><td>Liquid Naphtha Output Pipe</td></tr><tr><td>-</td><td>Natural Gas Output Pipe</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
@@ -263,7 +263,7 @@ Boils Water to Steam at 106 °C. This particular boiler uses electricity.
 | | | |
 |-|-|-|
 | ![Chemical_ElectricBoiler](/assets/images/buildings/Chemical_ElectricBoiler.png){height="100"} {rowspan="3"}|**Dimensions:** | 2 wide x 3 high|
-|**Power Consumption:**| 850 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**| 850 W |&#8288 {: style="padding:0"}|
 |**Research Required:**| Fossil Fuels|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Ceramic</td><td>200 kg</td></tr><tr><td>Refined Metal</td><td>100 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 |**<font size="+1">Storage Capacity:</font>**| 100 kg|&#8288 {: style="padding:0"}|
@@ -284,7 +284,7 @@ Creates an endothermical reaction from a mixture of Nitrate Nodules and Water. <
 | | | |
 |-|-|-|
 | ![Chemical_EndothermicUnit](/assets/images/buildings/Chemical_EndothermicUnit.png){height="100"} {rowspan="3"}|**Dimensions:** | 2 wide x 2 high|
-|**Power Consumption:**| 50 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**| 50 W |&#8288 {: style="padding:0"}|
 |**Research Required:**| Liquid Tuning|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Refined Metal</td><td>400 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Water Input Pipe</td><td>Liquid Output Pipe</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
@@ -304,7 +304,7 @@ Special modifications allows the polymerization of Ethanol into raw Plasticwith 
 | | | |
 |-|-|-|
 | ![Custom_Polymerizer](/assets/images/buildings/Custom_Polymerizer.png){height="100"} {rowspan="3"}|**Dimensions:** | 3 wide x 3 high|
-|**Power Consumption:**| 240 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**| 240 W |&#8288 {: style="padding:0"}|
 |**Research Required:**| Plastic Manufacturing|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Metal Ore</td><td>400 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Ethanol Input Pipe</td><td>Gas Output Pipe</td></tr><tr><td>Chlorine Gas Input Pipe</td><td>-</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
@@ -324,7 +324,7 @@ Treat Polluted Water or Toxic Slurry using special filter and chemicals. Sieve p
 | | | |
 |-|-|-|
 | ![FlocculationSieve](/assets/images/buildings/FlocculationSieve.png){height="100"} {rowspan="3"}|**Dimensions:** | 4 wide x 3 high|
-|**Power Consumption:**| 240 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**| 240 W |&#8288 {: style="padding:0"}|
 |**Research Required:**| Liquid-Based Refinement Processes|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Steel or Hardened Alloy</td><td>200 kg</td></tr><tr><td>Plastics</td><td>100 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Chlorine Gas Input Pipe</td><td>Liquid Output Pipe</td></tr><tr><td>Polluted Water Input Pipe</td><td>-</td></tr><tr><td>Toxic Slurry Input Pipe</td><td>-</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
@@ -349,7 +349,7 @@ Boils Water to Steam at 200 °C. This particular boiler uses Combustible Gases a
 | | | |
 |-|-|-|
 | ![Chemical_Gas_Boiler](/assets/images/buildings/Chemical_Gas_Boiler.png){height="100"} {rowspan="3"}|**Dimensions:** | 3 wide x 4 high|
-|**Power Consumption:**| 0 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**|  -  |&#8288 {: style="padding:0"}|
 |**Research Required:**| Fossil Fuels|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Refined Metal</td><td>1200 kg</td></tr><tr><td>Ceramic</td><td>1000 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 |**<font size="+1">Storage Capacity:</font>**| 10 t|&#8288 {: style="padding:0"}|
@@ -370,7 +370,7 @@ This techlogical advanced glass foundry is capable more than melt Sand in to Mol
 | | | |
 |-|-|-|
 | ![Chemical_GlassFoundry](/assets/images/buildings/Chemical_GlassFoundry.png){height="100"} {rowspan="3"}|**Dimensions:** | 3 wide x 3 high|
-|**Power Consumption:**| 2400 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**| 2.4 kW |&#8288 {: style="padding:0"}|
 |**Research Required:**| Superheated Forging|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Ceramic</td><td>500 kg</td></tr><tr><td>Refined Metal</td><td>200 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>-</td><td>Liquid Output Pipe</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
@@ -396,7 +396,7 @@ Crush down Raw Minerals in to useful materials and industrial ingredients.
 | | | |
 |-|-|-|
 | ![Chemical_SmallCrusherMill](/assets/images/buildings/Chemical_SmallCrusherMill.png){height="100"} {rowspan="3"}|**Dimensions:** | 3 wide x 2 high|
-|**Power Consumption:**| 120 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**| 120 W |&#8288 {: style="padding:0"}|
 |**Research Required:**| Brute-Force Refinement|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Metal Ore</td><td>200 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
@@ -446,7 +446,7 @@ The refinery has two stages: <br/><br/>First Stage: Crude Oil is first refined t
 | | | |
 |-|-|-|
 | ![Chemical_CrudeOilRefineryStaged](/assets/images/buildings/Chemical_CrudeOilRefineryStaged.png){height="100"} {rowspan="3"}|**Dimensions:** | 6 wide x 5 high|
-|**Power Consumption:**| 640 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**| 640 W |&#8288 {: style="padding:0"}|
 |**Research Required:**| Fossil Fuels|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Refined Metal</td><td>500 kg</td></tr><tr><td>Steel or Hardened Alloy</td><td>200 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Crude Oil Input Pipe</td><td>Petroleum Output Pipe</td></tr><tr><td>Steam Input Pipe</td><td>Liquid Naphtha Output Pipe</td></tr><tr><td>Hydrogen Gas Input Pipe</td><td>Natural Gas Output Pipe</td></tr><tr><td>Liquid Naphtha Input Pipe</td><td>-</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
@@ -471,7 +471,7 @@ The refinery has three stages:<br/><br/>First Stage: Raw Natural Gas is first re
 | | | |
 |-|-|-|
 | ![Chemical_RawGasRefineryStaged](/assets/images/buildings/Chemical_RawGasRefineryStaged.png){height="100"} {rowspan="3"}|**Dimensions:** | 8 wide x 5 high|
-|**Power Consumption:**| 640 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**| 640 W |&#8288 {: style="padding:0"}|
 |**Research Required:**| Fossil Fuels|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Refined Metal</td><td>500 kg</td></tr><tr><td>Steel or Hardened Alloy</td><td>200 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Raw Natural Gas Input Pipe</td><td>Gas Output Pipe</td></tr><tr><td>Steam Input Pipe</td><td>Propane Gas Output Pipe</td></tr><tr><td>Hydrogen Gas Input Pipe</td><td>Sour Gas Output Pipe</td></tr><tr><td>Propane Gas Input Pipe</td><td>Ammonia Output Pipe</td></tr><tr><td>Sour Gas Input Pipe</td><td>Water Output Pipe</td></tr><tr><td>Nitric Acid Input Pipe</td><td>-</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
@@ -501,7 +501,7 @@ This second stage refinement plant is capable of furter refining Naphtha:<br/> -
 | | | |
 |-|-|-|
 | ![Chemical_NaphthaReformer](/assets/images/buildings/Chemical_NaphthaReformer.png){height="100"} {rowspan="3"}|**Dimensions:** | 4 wide x 7 high|
-|**Power Consumption:**| 480 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**| 480 W |&#8288 {: style="padding:0"}|
 |**Research Required:**| Fossil Fuels|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Refined Metal</td><td>300 kg</td></tr><tr><td>Steel or Hardened Alloy</td><td>100 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Liquid Naphtha Input Pipe</td><td>Petroleum Output Pipe</td></tr><tr><td>Hydrogen Gas Input Pipe</td><td>Natural Gas Output Pipe</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
@@ -521,7 +521,7 @@ Produces industrial grade Nitric Acid using provided Sulfuric Acid and Ammonia.
 | | | |
 |-|-|-|
 | ![Chemical_SynthesizerNitric](/assets/images/buildings/Chemical_SynthesizerNitric.png){height="100"} {rowspan="3"}|**Dimensions:** | 1 wide x 4 high|
-|**Power Consumption:**| 240 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**| 240 W |&#8288 {: style="padding:0"}|
 |**Research Required:**| Emulsification|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Ceramic</td><td>100 kg</td></tr><tr><td>Refined Metal</td><td>200 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Ammonia Input Pipe</td><td>Liquid Output Pipe</td></tr><tr><td>Sulfuric Acid Input Pipe</td><td>Steam Output Pipe</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
@@ -541,7 +541,7 @@ An advanced method for the refinement of Metal Ores and other Raw Minerals.<br/>
 | | | |
 |-|-|-|
 | ![Metallurgy_PlasmaFurnace](/assets/images/buildings/Metallurgy_PlasmaFurnace.png){height="100"} {rowspan="3"}|**Dimensions:** | 5 wide x 5 high|
-|**Power Consumption:**| 5000 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**| 5 kW |&#8288 {: style="padding:0"}|
 |**Research Required:**| Catalytics|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Ceramic</td><td>2000 kg</td></tr><tr><td>Tungsten</td><td>1000 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Carrier Gas Input Pipe</td><td>Glass Output Pipe</td></tr><tr><td>-</td><td>Glass Output Pipe</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
@@ -582,7 +582,7 @@ Reforming process of Propane in to:<br/> - 60% Hydrogen<br/>- 30% Polluted Water
 | | | |
 |-|-|-|
 | ![Chemical_PropaneReformer](/assets/images/buildings/Chemical_PropaneReformer.png){height="100"} {rowspan="3"}|**Dimensions:** | 4 wide x 7 high|
-|**Power Consumption:**| 320 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**| 320 W |&#8288 {: style="padding:0"}|
 |**Research Required:**| Fossil Fuels|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Refined Metal</td><td>300 kg</td></tr><tr><td>Steel or Hardened Alloy</td><td>100 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Propane Gas Input Pipe</td><td>Gas Output Pipe</td></tr><tr><td>Steam Input Pipe</td><td>Polluted Water Output Pipe</td></tr><tr><td>-</td><td>Carbon Dioxide Output Pipe</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
@@ -602,7 +602,7 @@ Cook Wood to Coal.
 | | | |
 |-|-|-|
 | ![Metallurgy_PyrolysisKiln](/assets/images/buildings/Metallurgy_PyrolysisKiln.png){height="100"} {rowspan="3"}|**Dimensions:** | 1 wide x 2 high|
-|**Power Consumption:**| 0 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**|  -  |&#8288 {: style="padding:0"}|
 |**Research Required:**| Brute-Force Refinement|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Metal Ore</td><td>200 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
@@ -621,7 +621,7 @@ This refinement plant is capable of the following production: <br/> - 50% Natura
 | | | |
 |-|-|-|
 | ![Chemical_RawGasRefinery](/assets/images/buildings/Chemical_RawGasRefinery.png){height="100"} {rowspan="3"}|**Dimensions:** | 4 wide x 5 high|
-|**Power Consumption:**| 420 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**| 420 W |&#8288 {: style="padding:0"}|
 |**Research Required:**| Fossil Fuels|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Refined Metal</td><td>300 kg</td></tr><tr><td>Steel or Hardened Alloy</td><td>100 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Raw Natural Gas Input Pipe</td><td>Gas Output Pipe</td></tr><tr><td>Steam Input Pipe</td><td>Propane Gas Output Pipe</td></tr><tr><td>-</td><td>Sour Water Output Pipe</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
@@ -641,7 +641,7 @@ Produces Rayon Fiber from Wood pulp through a complex chemical reaction. Require
 | | | |
 |-|-|-|
 | ![Chemical_RayonLoom](/assets/images/buildings/Chemical_RayonLoom.png){height="100"} {rowspan="3"}|**Dimensions:** | 6 wide x 4 high|
-|**Power Consumption:**| 480 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**| 480 W |&#8288 {: style="padding:0"}|
 |**Research Required:**| Textile Production|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Refined Metal</td><td>800 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Synthesis Gas Input Pipe</td><td>-</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
@@ -669,7 +669,7 @@ Produces Salt Water using provided Water and Salt.
 | | | |
 |-|-|-|
 | ![Chemical_SynthesizerSaltWater](/assets/images/buildings/Chemical_SynthesizerSaltWater.png){height="100"} {rowspan="3"}|**Dimensions:** | 1 wide x 4 high|
-|**Power Consumption:**| 90 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**| 90 W |&#8288 {: style="padding:0"}|
 |**Research Required:**| Distillation|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Metal Ore</td><td>400 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Water Input Pipe</td><td>Liquid Output Pipe</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
@@ -689,7 +689,7 @@ Special works with Refined Metals and in the manufacture of metal alloys.
 | | | |
 |-|-|-|
 | ![Chemical_SelectiveArcFurnace](/assets/images/buildings/Chemical_SelectiveArcFurnace.png){height="100"} {rowspan="3"}|**Dimensions:** | 4 wide x 3 high|
-|**Power Consumption:**| 1200 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**| 1.2 kW |&#8288 {: style="padding:0"}|
 |**Research Required:**| Smelting|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Metal Ore</td><td>200 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
@@ -715,7 +715,7 @@ A solid material mixer designed for agricultural purpose, mainly for the product
 | | | |
 |-|-|-|
 | ![Chemical_SoilMixer](/assets/images/buildings/Chemical_SoilMixer.png){height="100"} {rowspan="3"}|**Dimensions:** | 4 wide x 4 high|
-|**Power Consumption:**| 480 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**| 480 W |&#8288 {: style="padding:0"}|
 |**Research Required:**| Agriculture|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Refined Metal</td><td>400 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Polluted Water Input Pipe</td><td>-</td></tr><tr><td>Water Input Pipe</td><td>-</td></tr><tr><td>Ammonia Input Pipe</td><td>-</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
@@ -742,7 +742,7 @@ Separate clean Water from Sour Water using hot Steam.<br/> The stripping process
 | | | |
 |-|-|-|
 | ![Chemical_SourWaterStripper](/assets/images/buildings/Chemical_SourWaterStripper.png){height="100"} {rowspan="3"}|**Dimensions:** | 6 wide x 4 high|
-|**Power Consumption:**| 360 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**| 360 W |&#8288 {: style="padding:0"}|
 |**Research Required:**| Liquid-Based Refinement Processes|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Raw Mineral</td><td>400 kg</td></tr><tr><td>Refined Metal</td><td>200 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Sour Water Input Pipe</td><td>Liquid Output Pipe</td></tr><tr><td>Steam Input Pipe</td><td>Sour Gas Output Pipe</td></tr><tr><td>-</td><td>Ammonia Output Pipe</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
@@ -762,7 +762,7 @@ Produces industrial grade Sulfuric Acid using provided Steam and Sulfur.
 | | | |
 |-|-|-|
 | ![Chemical_SynthesizerSulfuric](/assets/images/buildings/Chemical_SynthesizerSulfuric.png){height="100"} {rowspan="3"}|**Dimensions:** | 1 wide x 4 high|
-|**Power Consumption:**| 120 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**| 120 W |&#8288 {: style="padding:0"}|
 |**Research Required:**| Emulsification|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Ceramic</td><td>100 kg</td></tr><tr><td>Refined Metal</td><td>200 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Steam Input Pipe</td><td>Liquid Output Pipe</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
@@ -782,7 +782,7 @@ Produce Synthetic Gas from a variety of Organic and Mineral materials.
 | | | |
 |-|-|-|
 | ![Chemical_SyngasRefinery](/assets/images/buildings/Chemical_SyngasRefinery.png){height="100"} {rowspan="3"}|**Dimensions:** | 2 wide x 4 high|
-|**Power Consumption:**| 60 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**| 60 W |&#8288 {: style="padding:0"}|
 |**Research Required:**| Distillation|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Metal Ore</td><td>200 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>-</td><td>Gas Output Pipe</td></tr><tr><td>-</td><td>Petroleum Output Pipe</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
@@ -805,7 +805,7 @@ Uses Steam as buffer for the Desalination process of either Salt Water or Ammoni
 | | | |
 |-|-|-|
 | ![Chemical_ThermalDesalinator](/assets/images/buildings/Chemical_ThermalDesalinator.png){height="100"} {rowspan="3"}|**Dimensions:** | 7 wide x 3 high|
-|**Power Consumption:**| 120 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**| 120 W |&#8288 {: style="padding:0"}|
 |**Research Required:**| Liquid-Based Refinement Processes|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Ceramic</td><td>600 kg</td></tr><tr><td>Refined Metal</td><td>400 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Salt Water Input Pipe</td><td>Liquid Output Pipe</td></tr><tr><td>Steam Input Pipe</td><td>Water Output Pipe</td></tr><tr><td>Ammonium Water Input Pipe</td><td>Ammonia Output Pipe</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
@@ -830,7 +830,7 @@ Boils Water to Steam at 200 °C. This particular boiler uses Wood as fuel.
 | | | |
 |-|-|-|
 | ![Chemical_Wooden_Boiler](/assets/images/buildings/Chemical_Wooden_Boiler.png){height="100"} {rowspan="3"}|**Dimensions:** | 3 wide x 4 high|
-|**Power Consumption:**| 0 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**|  -  |&#8288 {: style="padding:0"}|
 |**Research Required:**| Fossil Fuels|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Refined Metal</td><td>1200 kg</td></tr><tr><td>Ceramic</td><td>1000 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 |**<font size="+1">Storage Capacity:</font>**| 10 t|&#8288 {: style="padding:0"}|
@@ -851,7 +851,7 @@ Produces Refined Metals from raw Metal Ore.<br/><br/>Significantly Heats and out
 | | | |
 |-|-|-|
 | ![MetalRefinery](/assets/images/buildings/MetalRefinery.png){height="100"} {rowspan="3"}|**Dimensions:** | 3 wide x 4 high|
-|**Power Consumption:**| 800 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**| 800 W |&#8288 {: style="padding:0"}|
 |**Research Required:**| Smelting|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Raw Mineral</td><td>800 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Liquid Input Pipe</td><td>Liquid Output Pipe</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
@@ -898,7 +898,7 @@ Extracts Crude Oil using clean Water.<br/><br/>Must be built atop an Oil Reservo
 | | | |
 |-|-|-|
 | ![OilWellCap](/assets/images/buildings/OilWellCap.png){height="100"} {rowspan="3"}|**Dimensions:** | 4 wide x 4 high|
-|**Power Consumption:**| 240 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**| 240 W |&#8288 {: style="padding:0"}|
 |**Research Required:**| Plastic Manufacturing|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Refined Metal</td><td>200 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Water Based Input Pipe</td><td>Raw Natural Gas Output Pipe</td></tr><tr><td>-</td><td>Crude Oil Output Pipe</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|

@@ -7,7 +7,7 @@ Algae patch needs Water to grow, producing a fair amount of clean Oxygen as resu
 | | | |
 |-|-|-|
 | ![AlgaeVat](/assets/images/buildings/AlgaeVat.png){height="100"} {rowspan="3"}|**Dimensions:** | 3 wide x 4 high|
-|**Power Consumption:**| 60 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**| 60 W |&#8288 {: style="padding:0"}|
 |**Research Required:**| Air Systems|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Refined Metal</td><td>200 kg</td></tr><tr><td>Cultivable Soil</td><td>300 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Water Input Pipe</td><td>Liquid Output Pipe</td></tr><tr><td>-</td><td>Oxygen Output Pipe</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
@@ -32,7 +32,7 @@ Boils Water to Steam at 200 °C.<br/>This particular boiler uses Combustustable 
 | | | |
 |-|-|-|
 | ![Chemical_Coal_Boiler](/assets/images/buildings/Chemical_Coal_Boiler.png){height="100"} {rowspan="3"}|**Dimensions:** | 3 wide x 4 high|
-|**Power Consumption:**| 0 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**|  -  |&#8288 {: style="padding:0"}|
 |**Research Required:**| Fossil Fuels|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Refined Metal</td><td>1200 kg</td></tr><tr><td>Ceramic</td><td>1000 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 |**<font size="+1">Storage Capacity:</font>**| 10 t|&#8288 {: style="padding:0"}|
@@ -53,7 +53,7 @@ Automatically detects trace of Carbon Dioxide and extract it out of the surroudi
 | | | |
 |-|-|-|
 | ![Chemical_Co2Pump](/assets/images/buildings/Chemical_Co2Pump.png){height="100"} {rowspan="3"}|**Dimensions:** | 1 wide x 1 high|
-|**Power Consumption:**| 10 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**| 10 W |&#8288 {: style="padding:0"}|
 |**Research Required:**| Agriculture|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Metal Ore</td><td>25 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>-</td><td>Gas Output Pipe</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
@@ -67,7 +67,7 @@ Coral colony needs Salt Water or Brine to grow, producing a fair amount of clean
 | | | |
 |-|-|-|
 | ![CoralVat](/assets/images/buildings/CoralVat.png){height="100"} {rowspan="3"}|**Dimensions:** | 3 wide x 4 high|
-|**Power Consumption:**| 360 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**| 360 W |&#8288 {: style="padding:0"}|
 |**Research Required:**| Liquid-Based Refinement Processes|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Refined Metal</td><td>200 kg</td></tr><tr><td>Filtration Medium</td><td>300 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Water Based Input Pipe</td><td>Liquid Output Pipe</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
@@ -97,7 +97,7 @@ Boils Water to Steam at 106 °C. This particular boiler uses electricity.
 | | | |
 |-|-|-|
 | ![Chemical_ElectricBoiler](/assets/images/buildings/Chemical_ElectricBoiler.png){height="100"} {rowspan="3"}|**Dimensions:** | 2 wide x 3 high|
-|**Power Consumption:**| 850 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**| 850 W |&#8288 {: style="padding:0"}|
 |**Research Required:**| Fossil Fuels|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Ceramic</td><td>200 kg</td></tr><tr><td>Refined Metal</td><td>100 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 |**<font size="+1">Storage Capacity:</font>**| 100 kg|&#8288 {: style="padding:0"}|
@@ -118,7 +118,7 @@ Special modifications allows the polymerization of Ethanol into raw Plasticwith 
 | | | |
 |-|-|-|
 | ![Custom_Polymerizer](/assets/images/buildings/Custom_Polymerizer.png){height="100"} {rowspan="3"}|**Dimensions:** | 3 wide x 3 high|
-|**Power Consumption:**| 240 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**| 240 W |&#8288 {: style="padding:0"}|
 |**Research Required:**| Plastic Manufacturing|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Metal Ore</td><td>400 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Ethanol Input Pipe</td><td>Gas Output Pipe</td></tr><tr><td>Chlorine Gas Input Pipe</td><td>-</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
@@ -138,7 +138,7 @@ Distills Ethanol from a fermented mixture of Sucrose and Water. The fermenting p
 | | | |
 |-|-|-|
 | ![EthanolStill](/assets/images/buildings/EthanolStill.png){height="100"} {rowspan="3"}|**Dimensions:** | 4 wide x 5 high|
-|**Power Consumption:**| 120 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**| 120 W |&#8288 {: style="padding:0"}|
 |**Research Required:**| Distillation|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Refined Metal</td><td>400 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Water Input Pipe</td><td>Liquid Output Pipe</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
@@ -158,7 +158,7 @@ Treat Polluted Water or Toxic Slurry using special filter and chemicals. Sieve p
 | | | |
 |-|-|-|
 | ![FlocculationSieve](/assets/images/buildings/FlocculationSieve.png){height="100"} {rowspan="3"}|**Dimensions:** | 4 wide x 3 high|
-|**Power Consumption:**| 240 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**| 240 W |&#8288 {: style="padding:0"}|
 |**Research Required:**| Liquid-Based Refinement Processes|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Steel or Hardened Alloy</td><td>200 kg</td></tr><tr><td>Plastics</td><td>100 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Chlorine Gas Input Pipe</td><td>Liquid Output Pipe</td></tr><tr><td>Polluted Water Input Pipe</td><td>-</td></tr><tr><td>Toxic Slurry Input Pipe</td><td>-</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
@@ -183,7 +183,7 @@ Boils Water to Steam at 200 °C. This particular boiler uses Combustible Gases a
 | | | |
 |-|-|-|
 | ![Chemical_Gas_Boiler](/assets/images/buildings/Chemical_Gas_Boiler.png){height="100"} {rowspan="3"}|**Dimensions:** | 3 wide x 4 high|
-|**Power Consumption:**| 0 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**|  -  |&#8288 {: style="padding:0"}|
 |**Research Required:**| Fossil Fuels|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Refined Metal</td><td>1200 kg</td></tr><tr><td>Ceramic</td><td>1000 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 |**<font size="+1">Storage Capacity:</font>**| 10 t|&#8288 {: style="padding:0"}|
@@ -204,7 +204,7 @@ Produces Salt Water using provided Water and Salt.
 | | | |
 |-|-|-|
 | ![Chemical_SynthesizerSaltWater](/assets/images/buildings/Chemical_SynthesizerSaltWater.png){height="100"} {rowspan="3"}|**Dimensions:** | 1 wide x 4 high|
-|**Power Consumption:**| 90 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**| 90 W |&#8288 {: style="padding:0"}|
 |**Research Required:**| Distillation|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Metal Ore</td><td>400 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Water Input Pipe</td><td>Liquid Output Pipe</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
@@ -224,7 +224,7 @@ Slime Vat needs Water and Mush Bar to grow, producing Slime outgrowth that is co
 | | | |
 |-|-|-|
 | ![SlimeVat](/assets/images/buildings/SlimeVat.png){height="100"} {rowspan="3"}|**Dimensions:** | 3 wide x 4 high|
-|**Power Consumption:**| 360 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**| 360 W |&#8288 {: style="padding:0"}|
 |**Research Required:**| Liquid-Based Refinement Processes|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Refined Metal</td><td>800 kg</td></tr><tr><td>Cultivable Soil</td><td>400 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Water Input Pipe</td><td>-</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
@@ -249,7 +249,7 @@ Boils Water to Steam at 200 °C. This particular boiler uses Wood as fuel.
 | | | |
 |-|-|-|
 | ![Chemical_Wooden_Boiler](/assets/images/buildings/Chemical_Wooden_Boiler.png){height="100"} {rowspan="3"}|**Dimensions:** | 3 wide x 4 high|
-|**Power Consumption:**| 0 W|&#8288 {: style="padding:0"}|
+|**Power Consumption:**|  -  |&#8288 {: style="padding:0"}|
 |**Research Required:**| Fossil Fuels|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Refined Metal</td><td>1200 kg</td></tr><tr><td>Ceramic</td><td>1000 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 |**<font size="+1">Storage Capacity:</font>**| 10 t|&#8288 {: style="padding:0"}|
