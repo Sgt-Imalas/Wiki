@@ -1,11 +1,13 @@
 # Configuration
 
 The mod config can be found in the mods menu on the mod entry:
+
 ![modconfiglocation](/assets/images/ui/modconfiglocation.png)
 
 The mod pack is fully modular. While it comes with all content enabled, you can turn off both buildings or entire mods in the config.
 
 Toggle the entire mod via the "Enable Mod Content" checkbox in its category:
+
 ![config preview](/assets/images/ui/configpreview.png)
 
 ## Building Editor

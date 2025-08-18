@@ -23,7 +23,9 @@
   vertical-align: text-top;
   width: 16px;  
 }   
-
+.md-grid {
+  max-width: 100%; /* or 100%, if you want to stretch to full-width */
+}
 /*
 table {
     empty-cells: hide;
