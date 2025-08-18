@@ -36,6 +36,7 @@ LIST WIP.
 - fixed foreground layering of a few animation
 - building ports that take in a specific element will have that specified in their "input missing"-tooltip
 - added hysteresis storage mod integration to storage and loader buildings
+- some buildings have become flippable/rotatable that weren't previously
 
 ## Chemical Processing - Biochemistry
 

@@ -4,7 +4,7 @@
 
 As you might have heard, Ronivan has passed away.
 His mods offer a massive expansion to regular progression and could be considered a dlc in scope.
-they should not be lost to an update breaking them in the future (which is something that will happen eventually=.
+they should not be lost to an update breaking them in the future (which is something that will happen eventually).
 
 for this reason, I have decided to make this project.
 
