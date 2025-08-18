@@ -42,7 +42,8 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
   - toc:
-      permalink: true
+      permalink: true      
+      toc_depth: 3
 extra_css:
   - stylesheets/general.css
 extra_javascript:

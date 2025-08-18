@@ -26,6 +26,12 @@
 .md-grid {
   max-width: 100%; /* or 100%, if you want to stretch to full-width */
 }
+/* hide empty tables */
+.md-typeset table th:empty {
+  display: none;
+}
+
+
 /*
 table {
     empty-cells: hide;
