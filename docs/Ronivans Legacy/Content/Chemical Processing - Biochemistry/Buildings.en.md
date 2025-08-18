@@ -13,7 +13,6 @@ Grows Algae using a constant supply of Vegetable Oil that serves as serves as no
 | **Research Required:**                                                                                                     | Agriculture                             | &#8288 {: style="padding:0"} |
 | **<font size="+1">Material Costs:</font>**                                                                                 | Refined Metal                           | 400 kg                       |
 | **<font size="+1">Building Ports:</font>**                                                                                 | **Inputs:**<br>Vegetable Oil Input Pipe | **Outputs:**<br>-            |
-| **<font size="+1">Building Ports:</font>**                                                                                 | **Inputs:**<br>Vegetable Oil Input Pipe | **Outputs:**<br>-            |
 
 #### Element Conversion
 
