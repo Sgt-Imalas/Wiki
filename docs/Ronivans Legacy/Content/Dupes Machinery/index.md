@@ -1,5 +1,7 @@
 # Dupes Machinery
 
+[**Original Mod Page**](https://steamcommunity.com/sharedfiles/filedetails/?id=2888290233)
+
 This mod contains several buildings from several mods Ronivan once published and were packed together in to a single mod.
 
 You can disable any building set from the mod config building editor.

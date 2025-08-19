@@ -1,5 +1,7 @@
 # Dupes Refrigeration
 
+[**Original Mod Page**](https://steamcommunity.com/sharedfiles/filedetails/?id=2021324045)
+
 This mod in the continuation of the old "Advanced Refrigeration" mod.
 
 his mod adds a few buildings, along with the old ones.

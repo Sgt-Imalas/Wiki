@@ -1,5 +1,7 @@
 # Mineral Processing - Mining
 
+[**Original Mod Page**](https://steamcommunity.com/sharedfiles/filedetails/?id=3358334623)
+
 This set of modifications focus on the mining aspect by adding a new method to get elements.
 
 The focus of the mod is on the mining drills: These buildings have two separate ways of producing materials from mining:

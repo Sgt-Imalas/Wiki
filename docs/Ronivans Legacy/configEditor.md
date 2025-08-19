@@ -18,6 +18,7 @@ It allows to individually turn off any building the mod adds and configure setti
 
 Buildings with configurable settings are marked by a gear icon
 
-Buildings that were previously found in multiple different mods, will inherit the "enabled" state of the first mod entry listed
+If a sub-mod is disabled in the main config, all buildings of that mod will automatically be disabled as well.
+Buildings that were previously found in multiple different mods, will stay enabled, if at least one of these mods is enabled.
 
 ![building editor](/assets/images/ui/buildingeditor.png)

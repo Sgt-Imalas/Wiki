@@ -1,6 +1,8 @@
 # Dupes Logistics
 
-This is an quite old mod that was maintained for my personal use.
+[**Original Mod Page**](https://steamcommunity.com/sharedfiles/filedetails/?id=2809687723)
+
+This is an quite old mod that was maintained for personal use.
 
 In short its focused more on making the Solid Transportation buildings more accessible early on the game, and they don't require the skill necessary to build their base game counterparts.
 

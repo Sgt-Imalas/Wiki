@@ -1,5 +1,7 @@
 # Chemical Processing: Industrial Overhaul Edition
 
+[**Original Mod Page**](https://steamcommunity.com/sharedfiles/filedetails/?id=2661907148)
+
 This mod focuses on a complete overhaul on the industrial production by adding new elements and buildings.
 
 - [New Elements and critter diet changes](./Elements).

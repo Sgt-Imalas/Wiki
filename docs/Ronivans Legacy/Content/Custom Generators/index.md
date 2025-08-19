@@ -1,5 +1,7 @@
 # Custom Generators
 
+[**Original Mod Page**](https://steamcommunity.com/sharedfiles/filedetails/?id=2562813586)
+
 This mod adds four new generators to the game, Custom Petroleum Generator, Custom Gas Generator, Steam Engine Generator and Custom Coal Generator.
 
 Ronivan made this mod because he wanted a piston like generator that he could place in a row, and fully pipe their output.

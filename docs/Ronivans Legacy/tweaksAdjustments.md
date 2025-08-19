@@ -20,14 +20,14 @@ LIST WIP.
 
 ### Buildings
 
-- Buildings can now be turned off individually in the building editor of the mod config
+- All buildings can now be turned off individually in the building editor of the mod config
 - Certain buildings storage / wattage can be adjusted dynamically in the building editor
-- Buildings with random output results now truly have randomized outputs. These outputs will now be listed in the Codex and the recipe screen.<br>Affected buildings:<br> Ball Crusher Mill (Chemical Washing), Ball Crusher Mill (Mechanical Separation), Selective Arc Furnace, Mineral Drill, Asteroid Drill Mk-II
+- Buildings with random recipe results now truly have randomized recipe outputs. These outputs will now be listed in the Codex and the recipe screen.<br>Affected buildings:<br> Ball Crusher Mill (Chemical Washing), Ball Crusher Mill (Mechanical Separation), Selective Arc Furnace, Auger Drill, Asteroid Drill Mk-II
 - Recipes that want a type of resource (e.g. ores, metals) in the mod have been changed from hardcoded to dynamic - they now include new materials of that type automatically
 - buildings that had duplicates in different mods have been merged into one. Different recipes in the duplicates have been preserved in the merge
 - mush bar input consumption of building converters has been reduced
 - buildings with different looking variants, but otherwise identical stats, have been merged into one building. The different variants have become building blueprints.
-- buildings that require pipe inputs/outputs will now have a status item for each missing connection
+- buildings that require pipe inputs/outputs will now display a status item for each missing connection
 - buildings with invisible pipe inputs in the planned building will now show previews for those inputs in buildable preview
 - several building pipe ports have had their color tweaked for better visibility
 - added sounds to most modded buildings
@@ -105,7 +105,7 @@ LIST WIP.
 - Cement Mixer now has new recipes that interact with Chemical Processing
 - several buildings merged into one + skins
 - Restored Spacer Window Tile and Spacer Tile
-- Elemental tiles have been merged into a single building screen entry
+- Elemental tiles have been merged into a single building screen entry, each variant is accessible by selecting its respective element
 - Brick Tile has been restored
 - wooden panel/wall have been turned into drywall skins
 - concrete tile now acts as a bunker tile
@@ -118,8 +118,9 @@ LIST WIP.
 ## Dupes Refrigeration
 
 - Rebalanced power consumption and heat production - this can be changed in the building editor
-- hightech frige and hightech refrigerator now have a rail input
+- hightech frige and hightech refrigerator now have an optional rail input
 - merged several large refridgerators into one building + skins
+- restored some alternative animations as skins
 
 ## Dupes Logistics
 
@@ -127,7 +128,7 @@ LIST WIP.
 - when the above is enabled, transfering "too heavy" items onto a logistic rail will cause the excess mass to drop from the rail.
 - added valve building to transfer items from a regular to a logistic rail without dropping items.
 - the logistic sweeper now rotates slightly slower than the regular sweeper
-- Storage Cabinets now have a rail input
+- Storage Cabinets now have an optional rail input
 - logistic rails are now slightly tinted in green in the conveyor overlay
 
 ## Mineral Processing - Metallurgy
@@ -154,13 +155,15 @@ LIST WIP.
 - liquid in high pressure liquid pump animation is now tinted to its contents
 - high pressure pumps no longer become activated by gas behind walls
 - added powered High Pressure Gas and Liquid Vent buildings
-- Added High Capacity Rail System: these work similar to heavy watt wires (no building them in tiles)
+- Added High Capacity Rail System: these work similar to heavy watt wires (no building them in tiles) and serve as a rail variant of high pressure pipes
 - Added Insulated High Capacity Rails
 - Added High Capacity Autosweeper
 - Optimized high pressure pipe logic in a few spots
 - high pressure pumps now have their center input tile at the position the animation shows it
 - Decompression valves now always output the regular capacity amount
 - increased internal storage of high pressure pumps to ensure continuous operation
+- added multi-material filters for all 3 types of pipes/rails
+- high pressure pumps and certain other high pressure buildings may now require a high pressure pipe to function
 
 ## Nuclear Processing
 
