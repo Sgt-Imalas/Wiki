@@ -33,7 +33,7 @@ A few buildings whose only difference were the looks have been merged into one b
 
 You can find the full list for those [here](./Content/blueprints/).
 
-## Only want some of those ?
+## Only want some of that content?
 
 If you only want some of that content, you can configure the mod that way!
 
