@@ -31,7 +31,7 @@ This mod contains the content of the following mods:
 
 A few buildings whose only difference were the looks have been merged into one building and blueprints.
 
-You can find the full list for those [here](./Content/Blueprints/).
+You can find the full list for those [here](./Content/blueprints/).
 
 ## Only want some of those ?
 
@@ -39,7 +39,7 @@ If you only want some of that content, you can configure the mod that way!
 
 You can both turn off entire sub-mods and individual buildings.
 
-Find more info about the mod config [here](./ConfigEditor/).
+Find more info about the mod config [here](./configEditor/).
 
 ## What does "Remaster" mean
 
