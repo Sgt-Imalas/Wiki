@@ -40,7 +40,7 @@ This mod contains the content of the following mods:
 
 A few buildings whose only difference were the looks have been merged into one building and blueprints.
 
-You can find the full list for those [here](./Content/Blueprints).
+You can find the full list for those [here](./Content/Blueprints/).
 
 ## Only want some of those ?
 
@@ -48,7 +48,7 @@ If you only want some of that content, you can configure the mod that way!
 
 You can both turn off entire sub-mods and individual buildings.
 
-Find more info about the mod config [here](./ConfigEditor).
+Find more info about the mod config [here](./ConfigEditor/).
 
 ## What does "Remaster" mean
 
@@ -57,6 +57,6 @@ Some functions have been rewritten under the hood to be more maintainable, but f
 
 I also made a few balance adjustments, but these can be changed or reverted in the mod config.
 
-A (more or less) complete list of changes can be found [here](./tweaksAdjustments).
+A (more or less) complete list of changes can be found [here](./tweaksAdjustments/).
 
 The largest deviation from the originals is the addition of heavy duty rails to High Pressure Applications, these serve as a rail version of high pressure pipes.
