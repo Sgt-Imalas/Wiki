@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KE_BatchExporter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b884a324fbd9c5ea2c9ed244fb3d1190b68fb1d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+528af90782543168bf6828756edcacd5ad307176")]
 [assembly: System.Reflection.AssemblyProductAttribute("KE_BatchExporter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KE_BatchExporter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

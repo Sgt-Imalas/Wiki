@@ -147,9 +147,9 @@
 ### 配方
 |材料:| 耗时: | 产物:|
 |-|-|-|
-| ![EggShell](/assets/images/entities/EggShell.png){.inline-icon} Egg Shell (5千克)<br>|30s| ![Lime](/assets/images/elements/Lime.png){.inline-icon} 石灰 (5千克)<br>|
-| ![CrabShell](/assets/images/entities/CrabShell.png){.inline-icon} Pokeshell Molt (1000克)<br>|40s| ![Lime](/assets/images/elements/Lime.png){.inline-icon} 石灰 (10千克)<br>|
-| ![CrabWoodShell](/assets/images/entities/CrabWoodShell.png){.inline-icon} Oakshell Molt (5千克)<br>|30s| ![WoodLog](/assets/images/elements/WoodLog.png){.inline-icon} 木材 (500千克)<br>|
+| ![EggShell](/assets/images/entities/EggShell.png){.inline-icon} Egg Shell (5千克)<br>|20s| ![Lime](/assets/images/elements/Lime.png){.inline-icon} 石灰 (5千克)<br>|
+| ![CrabShell](/assets/images/entities/CrabShell.png){.inline-icon} Pokeshell Molt (1000克)<br>|20s| ![Lime](/assets/images/elements/Lime.png){.inline-icon} 石灰 (10千克)<br>|
+| ![CrabWoodShell](/assets/images/entities/CrabWoodShell.png){.inline-icon} Oakshell Molt (5千克)<br>|20s| ![WoodLog](/assets/images/elements/WoodLog.png){.inline-icon} 木材 (500千克)<br>|
 | ![Fossil](/assets/images/elements/Fossil.png){.inline-icon} 化石 (100千克)<br>|40s| ![Lime](/assets/images/elements/Lime.png){.inline-icon} 石灰 (5千克)<br> ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} 碎岩 (70千克)<br> ![Bitumen](/assets/images/elements/Bitumen.png){.inline-icon} 沥青 (25千克)<br>|
 | ![Salt](/assets/images/elements/Salt.png){.inline-icon} 盐 (100千克)<br>|40s| ![SolidBorax](/assets/images/elements/SolidBorax.png){.inline-icon} 硼砂 (5千克)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (95千克)<br> ![TableSalt](/assets/images/entities/TableSalt.png){.inline-icon} Table Salt (50克)<br>|
 | ![PhosphateNodules](/assets/images/elements/PhosphateNodules.png){.inline-icon} 磷酸盐结晶 (100千克)<br>|40s| ![Phosphorus](/assets/images/elements/Phosphorus.png){.inline-icon} 精炼磷 (70千克)<br> ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} 碎岩 (30千克)<br>|
@@ -264,6 +264,7 @@
 | ![PhosphateNodules](/assets/images/elements/PhosphateNodules.png){.inline-icon} 磷酸盐结晶 (50千克)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} 泥土 (40千克)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (10千克)<br>|60s| ![Phosphorite](/assets/images/elements/Phosphorite.png){.inline-icon} 磷矿 (100千克)<br>|
 | ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} 碎岩 (40千克)<br> ![ToxicSand](/assets/images/elements/ToxicSand.png){.inline-icon} 污染土 (20千克)<br> ![Carbon](/assets/images/elements/Carbon.png){.inline-icon} 煤炭 (20千克)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (20千克)<br>|60s| ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} 泥土 (100千克)<br>|
 | ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} 碎岩 (40千克)<br> ![ToxicSand](/assets/images/elements/ToxicSand.png){.inline-icon} 污染土 (20千克)<br> ![Peat](/assets/images/elements/Peat.png){.inline-icon} 泥炭 (20千克)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (20千克)<br>|60s| ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} 泥土 (100千克)<br>|
+| ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} 碎岩 (40千克)<br> ![ToxicSand](/assets/images/elements/ToxicSand.png){.inline-icon} 污染土 (20千克)<br> ![WoodLog](/assets/images/elements/WoodLog.png){.inline-icon} 木材 (20千克)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (20千克)<br>|60s| ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} 泥土 (100千克)<br>|
 | ![WoodLog](/assets/images/elements/WoodLog.png){.inline-icon} 木材 (60千克)<br> ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} 碎岩 (30千克)<br> ![DirtyWater](/assets/images/elements/DirtyWater.png){.inline-icon} 污染水 (10千克)<br>|60s| ![ToxicSand](/assets/images/elements/ToxicSand.png){.inline-icon} 污染土 (100千克)<br>|
 | ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} 压缩生物质 (40千克)<br> ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} 碎岩 (50千克)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (10千克)<br>|60s| ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} 泥土 (100千克)<br>|
 
