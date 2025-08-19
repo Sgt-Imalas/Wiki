@@ -63,11 +63,9 @@ The sealed storage of this fridge keeps food very cold, but not in sterile atmos
 |**<font size="+1">Storage Capacity:</font>**| 100 kg|&#8288 {: style="padding:0"}|
 
 ### Blueprint
-| ![FridgeSmall_Sticker](/assets/images/buildings/FridgeSmall_Sticker.png){width="100"} |
-|Stickered Home Fridge
-|
-|A variant of the Home Fridge that has been plastered with a large variety of stickers
-|
+|Blueprint|Name|
+|-|-|
+|![FridgeSmall_Sticker](/assets/images/buildings/FridgeSmall_Sticker.png){height="100"} |**<font size="+1">Stickered Home Fridge</font>**<br/><br/>A variant of the Home Fridge that has been plastered with a large variety of stickers|
 
 
 ## Household Fridge
@@ -84,29 +82,12 @@ The sealed storage of this fridge keeps food very cold, but not in sterile atmos
 |**<font size="+1">Storage Capacity:</font>**| 200 kg|&#8288 {: style="padding:0"}|
 
 ### Blueprint
-| ![FridgeLarge_Sticker](/assets/images/buildings/FridgeLarge_Sticker.png){width="100"} |
-|Stickered Household Fridge
-|
-|A variant of the Household Fridge that has been plastered with a large variety of stickers
-|
-
-| ![FridgeLarge_Blue](/assets/images/buildings/FridgeLarge_Blue.png){width="100"} |
-|Blue Household Fridge
-|
-|A blue variant of the Household Fridge
-|
-
-| ![FridgeLarge_Red](/assets/images/buildings/FridgeLarge_Red.png){width="100"} |
-|Red Household Fridge
-|
-|A red variant of the Household Fridge
-|
-
-| ![FridgeLarge_Yellow](/assets/images/buildings/FridgeLarge_Yellow.png){width="100"} |
-|Yellow Household Fridge
-|
-|A yellow variant of the Household Fridge
-|
+|Blueprint|Name|
+|-|-|
+|![FridgeLarge_Sticker](/assets/images/buildings/FridgeLarge_Sticker.png){height="100"} |**<font size="+1">Stickered Household Fridge</font>**<br/><br/>A variant of the Household Fridge that has been plastered with a large variety of stickers|
+|![FridgeLarge_Blue](/assets/images/buildings/FridgeLarge_Blue.png){height="100"} |**<font size="+1">Blue Household Fridge</font>**<br/><br/>A blue variant of the Household Fridge|
+|![FridgeLarge_Red](/assets/images/buildings/FridgeLarge_Red.png){height="100"} |**<font size="+1">Red Household Fridge</font>**<br/><br/>A red variant of the Household Fridge|
+|![FridgeLarge_Yellow](/assets/images/buildings/FridgeLarge_Yellow.png){height="100"} |**<font size="+1">Yellow Household Fridge</font>**<br/><br/>A yellow variant of the Household Fridge|
 
 
 ## Large Hightech Refrigerator

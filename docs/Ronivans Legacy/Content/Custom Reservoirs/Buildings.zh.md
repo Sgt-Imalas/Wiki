@@ -44,17 +44,10 @@
 | **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>气体 输入管道</td><td>气体 输出管道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 ### 蓝图
-| ![SmallGasReservoir](/assets/images/buildings/SmallGasReservoir.png){width="100"} |
-|小型储气罐B型
-|
-|一款小型储气库。该变体自上而下流动。
-|
-
-| ![InvertedSmallGasReservoir](/assets/images/buildings/InvertedSmallGasReservoir.png){width="100"} |
-|小型储气罐A型
-|
-|一个小型储气库。自下而上流动。
-|
+|蓝图|名字|
+|-|-|
+|![SmallGasReservoir](/assets/images/buildings/SmallGasReservoir.png){height="100"} |**<font size="+1">小型储气罐B型</font>**<br/><br/>一款小型储气库。该变体自上而下流动。|
+|![InvertedSmallGasReservoir](/assets/images/buildings/InvertedSmallGasReservoir.png){height="100"} |**<font size="+1">小型储气罐A型</font>**<br/><br/>一个小型储气库。自下而上流动。|
 
 
 ## 小型储液罐
@@ -72,17 +65,10 @@
 | **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>液体 输入管道</td><td>液体 输出管道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 ### 蓝图
-| ![SmallLiquidReservoir](/assets/images/buildings/SmallLiquidReservoir.png){width="100"} |
-|小型储液罐B型
-|
-|一个小型储液库。该变体自上而下流动。
-|
-
-| ![InvertedSmallLiquidReservoir](/assets/images/buildings/InvertedSmallLiquidReservoir.png){width="100"} |
-|小型储液罐A型
-|
-|一个小型储液库。自下而上流动。
-|
+|蓝图|名字|
+|-|-|
+|![SmallLiquidReservoir](/assets/images/buildings/SmallLiquidReservoir.png){height="100"} |**<font size="+1">小型储液罐B型</font>**<br/><br/>一个小型储液库。该变体自上而下流动。|
+|![InvertedSmallLiquidReservoir](/assets/images/buildings/InvertedSmallLiquidReservoir.png){height="100"} |**<font size="+1">小型储液罐A型</font>**<br/><br/>一个小型储液库。自下而上流动。|
 
 
 ## 壁式储气罐

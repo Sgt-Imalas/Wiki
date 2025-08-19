@@ -154,22 +154,10 @@
 |**<font size="+1">存储容量:</font>**| 750千克|&#8288 {: style="padding:0"}|
 
 ### 蓝图
-| ![StoragePod_A](/assets/images/buildings/StoragePod_A.png){width="100"} |
-|绿色存储舱
-|
-|一款绿色的储物舱。
-|
-
-| ![StoragePod_B](/assets/images/buildings/StoragePod_B.png){width="100"} |
-|棕色存储舱
-|
-|一款棕色的储物舱。
-|
-
-| ![StoragePod_C](/assets/images/buildings/StoragePod_C.png){width="100"} |
-|黄色储物舱
-|
-|一款黄色的储物舱。
-|
+|蓝图|名字|
+|-|-|
+|![StoragePod_A](/assets/images/buildings/StoragePod_A.png){height="100"} |**<font size="+1">绿色存储舱</font>**<br/><br/>一款绿色的储物舱。|
+|![StoragePod_B](/assets/images/buildings/StoragePod_B.png){height="100"} |**<font size="+1">棕色存储舱</font>**<br/><br/>一款棕色的储物舱。|
+|![StoragePod_C](/assets/images/buildings/StoragePod_C.png){height="100"} |**<font size="+1">黄色储物舱</font>**<br/><br/>一款黄色的储物舱。|
 
 

@@ -12,23 +12,11 @@
 |**<font size="+1">建造材料:</font>**|<table><tr><td>精炼金属</td><td>25千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 ### 蓝图
-| ![AlertLightGreen](/assets/images/buildings/AlertLightGreen.png){width="100"} |
-|绿色警报LED
-|
-|绿色警示灯。
-|
-
-| ![AlertLightYellow](/assets/images/buildings/AlertLightYellow.png){width="100"} |
-|黄色警报LED
-|
-|黄色警示灯。
-|
-
-| ![AlertLightRed](/assets/images/buildings/AlertLightRed.png){width="100"} |
-|红色警报LED
-|
-|红色警示灯。
-|
+|蓝图|名字|
+|-|-|
+|![AlertLightGreen](/assets/images/buildings/AlertLightGreen.png){height="100"} |**<font size="+1">绿色警报LED</font>**<br/><br/>绿色警示灯。|
+|![AlertLightYellow](/assets/images/buildings/AlertLightYellow.png){height="100"} |**<font size="+1">黄色警报LED</font>**<br/><br/>黄色警示灯。|
+|![AlertLightRed](/assets/images/buildings/AlertLightRed.png){height="100"} |**<font size="+1">红色警报LED</font>**<br/><br/>红色警示灯。|
 
 
 ## 水泥搅拌机
@@ -86,23 +74,11 @@
 |**<font size="+1">建造材料:</font>**|<table><tr><td>精炼金属</td><td>50千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 ### 蓝图
-| ![FacilityDoorWhite](/assets/images/buildings/FacilityDoorWhite.png){width="100"} |
-|白色设施门
-|
-|一扇白色高科技轻型门。
-|
-
-| ![FacilityDoorYellow](/assets/images/buildings/FacilityDoorYellow.png){width="100"} |
-|黄色设施门
-|
-|一扇黄色高科技轻型门。
-|
-
-| ![FacilityDoorRed](/assets/images/buildings/FacilityDoorRed.png){width="100"} |
-|红色设施门
-|
-|一扇红色高科技轻型门。
-|
+|蓝图|名字|
+|-|-|
+|![FacilityDoorWhite](/assets/images/buildings/FacilityDoorWhite.png){height="100"} |**<font size="+1">白色设施门</font>**<br/><br/>一扇白色高科技轻型门。|
+|![FacilityDoorYellow](/assets/images/buildings/FacilityDoorYellow.png){height="100"} |**<font size="+1">黄色设施门</font>**<br/><br/>一扇黄色高科技轻型门。|
+|![FacilityDoorRed](/assets/images/buildings/FacilityDoorRed.png){height="100"} |**<font size="+1">红色设施门</font>**<br/><br/>一扇红色高科技轻型门。|
 
 
 ## 复合隔热砖
@@ -261,23 +237,11 @@
 |**<font size="+1">建造材料:</font>**|<table><tr><td>钢 或 硬化合金</td><td>10千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 ### 蓝图
-| ![SpacerDanger](/assets/images/buildings/SpacerDanger.png){width="100"} |
-|太空外缘墙
-|
-|此款太空墙配有警戒条纹标记。可翻转方向。
-|
-
-| ![SpacerDangerCorner](/assets/images/buildings/SpacerDangerCorner.png){width="100"} |
-|转角太空外援墙
-|
-|此款太空墙配有专为转角设计的警戒条纹标记。可翻转方向。
-|
-
-| ![SpacerPanel](/assets/images/buildings/SpacerPanel.png){width="100"} |
-|太空板墙
-|
-|一款小尺寸的太空干板墙。
-|
+|蓝图|名字|
+|-|-|
+|![SpacerDanger](/assets/images/buildings/SpacerDanger.png){height="100"} |**<font size="+1">太空外缘墙</font>**<br/><br/>此款太空墙配有警戒条纹标记。可翻转方向。|
+|![SpacerDangerCorner](/assets/images/buildings/SpacerDangerCorner.png){height="100"} |**<font size="+1">转角太空外援墙</font>**<br/><br/>此款太空墙配有专为转角设计的警戒条纹标记。可翻转方向。|
+|![SpacerPanel](/assets/images/buildings/SpacerPanel.png){height="100"} |**<font size="+1">太空板墙</font>**<br/><br/>一款小尺寸的太空干板墙。|
 
 
 ## 太空玻璃墙
@@ -293,11 +257,9 @@
 |**<font size="+1">建造材料:</font>**|<table><tr><td>透明体</td><td>15千克</td></tr><tr><td>钢 或 硬化合金</td><td>5千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 ### 蓝图
-| ![SpacerWindow_B](/assets/images/buildings/SpacerWindow_B.png){width="100"} |
-|太空玻璃墙B型
-|
-|一款小尺寸的太空窗。这款为B型号。
-|
+|蓝图|名字|
+|-|-|
+|![SpacerWindow_B](/assets/images/buildings/SpacerWindow_B.png){height="100"} |**<font size="+1">太空玻璃墙B型</font>**<br/><br/>一款小尺寸的太空窗。这款为B型号。|
 
 
 ## 框架砖

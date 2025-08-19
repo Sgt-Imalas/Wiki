@@ -44,17 +44,10 @@ Stores any Gas resources piped into it.
 | **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Gas Input Pipe</td><td>Gas Output Pipe</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 ### Blueprint
-| ![SmallGasReservoir](/assets/images/buildings/SmallGasReservoir.png){width="100"} |
-|Small Gas Reservoir B
-|
-|A small sized reservoir. This variant has top to bottom flow.
-|
-
-| ![InvertedSmallGasReservoir](/assets/images/buildings/InvertedSmallGasReservoir.png){width="100"} |
-|Small Gas Reservoir A
-|
-|A small sized reservoir. This variant has bottom to top flow.
-|
+|Blueprint|Name|
+|-|-|
+|![SmallGasReservoir](/assets/images/buildings/SmallGasReservoir.png){height="100"} |**<font size="+1">Small Gas Reservoir B</font>**<br/><br/>A small sized reservoir. This variant has top to bottom flow.|
+|![InvertedSmallGasReservoir](/assets/images/buildings/InvertedSmallGasReservoir.png){height="100"} |**<font size="+1">Small Gas Reservoir A</font>**<br/><br/>A small sized reservoir. This variant has bottom to top flow.|
 
 
 ## Small Liquid Reservoir
@@ -72,17 +65,10 @@ Stores any Liquid resources piped into it.
 | **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Liquid Input Pipe</td><td>Liquid Output Pipe</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 ### Blueprint
-| ![SmallLiquidReservoir](/assets/images/buildings/SmallLiquidReservoir.png){width="100"} |
-|Small Liquid Reservoir B
-|
-|A small sized reservoir. This variant has top to bottom flow
-|
-
-| ![InvertedSmallLiquidReservoir](/assets/images/buildings/InvertedSmallLiquidReservoir.png){width="100"} |
-|Small Liquid Reservoir A
-|
-|A small sized reservoir. This variant has bottom to top flow
-|
+|Blueprint|Name|
+|-|-|
+|![SmallLiquidReservoir](/assets/images/buildings/SmallLiquidReservoir.png){height="100"} |**<font size="+1">Small Liquid Reservoir B</font>**<br/><br/>A small sized reservoir. This variant has top to bottom flow|
+|![InvertedSmallLiquidReservoir](/assets/images/buildings/InvertedSmallLiquidReservoir.png){height="100"} |**<font size="+1">Small Liquid Reservoir A</font>**<br/><br/>A small sized reservoir. This variant has bottom to top flow|
 
 
 ## Wall Gas Reservoir

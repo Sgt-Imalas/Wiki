@@ -154,22 +154,10 @@ A versatile and convenient storage pod that can be built on walls. Store the Sol
 |**<font size="+1">Storage Capacity:</font>**| 750 kg|&#8288 {: style="padding:0"}|
 
 ### Blueprint
-| ![StoragePod_A](/assets/images/buildings/StoragePod_A.png){width="100"} |
-|Green Storage Pod
-|
-|A green colored storage pod.
-|
-
-| ![StoragePod_B](/assets/images/buildings/StoragePod_B.png){width="100"} |
-|Brown Storage Pod
-|
-|A brown colored storage pod.
-|
-
-| ![StoragePod_C](/assets/images/buildings/StoragePod_C.png){width="100"} |
-|Yellow Storage Pod
-|
-|A yellow colored storage pod.
-|
+|Blueprint|Name|
+|-|-|
+|![StoragePod_A](/assets/images/buildings/StoragePod_A.png){height="100"} |**<font size="+1">Green Storage Pod</font>**<br/><br/>A green colored storage pod.|
+|![StoragePod_B](/assets/images/buildings/StoragePod_B.png){height="100"} |**<font size="+1">Brown Storage Pod</font>**<br/><br/>A brown colored storage pod.|
+|![StoragePod_C](/assets/images/buildings/StoragePod_C.png){height="100"} |**<font size="+1">Yellow Storage Pod</font>**<br/><br/>A yellow colored storage pod.|
 
 

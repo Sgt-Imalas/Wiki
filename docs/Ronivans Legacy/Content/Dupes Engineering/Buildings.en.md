@@ -12,23 +12,11 @@ A led light that servers as alert. Produces no significant luminosity.
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Refined Metal</td><td>25 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 ### Blueprint
-| ![AlertLightGreen](/assets/images/buildings/AlertLightGreen.png){width="100"} |
-|Green Alert LED
-|
-|A green colored alert light.
-|
-
-| ![AlertLightYellow](/assets/images/buildings/AlertLightYellow.png){width="100"} |
-|Yellow Alert LED
-|
-|A yellow colored alert light.
-|
-
-| ![AlertLightRed](/assets/images/buildings/AlertLightRed.png){width="100"} |
-|Red Alert LED
-|
-|A red colored alert light.
-|
+|Blueprint|Name|
+|-|-|
+|![AlertLightGreen](/assets/images/buildings/AlertLightGreen.png){height="100"} |**<font size="+1">Green Alert LED</font>**<br/><br/>A green colored alert light.|
+|![AlertLightYellow](/assets/images/buildings/AlertLightYellow.png){height="100"} |**<font size="+1">Yellow Alert LED</font>**<br/><br/>A yellow colored alert light.|
+|![AlertLightRed](/assets/images/buildings/AlertLightRed.png){height="100"} |**<font size="+1">Red Alert LED</font>**<br/><br/>A red colored alert light.|
 
 
 ## Cement Mixer
@@ -86,23 +74,11 @@ A light-weight door with intricate designs that suggests it belongs to a industr
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Refined Metal</td><td>50 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 ### Blueprint
-| ![FacilityDoorWhite](/assets/images/buildings/FacilityDoorWhite.png){width="100"} |
-|White Facility Door
-|
-|A high-tech light door with white tint.
-|
-
-| ![FacilityDoorYellow](/assets/images/buildings/FacilityDoorYellow.png){width="100"} |
-|Yellow Facility Door
-|
-|A high-tech light door with yellow tint.
-|
-
-| ![FacilityDoorRed](/assets/images/buildings/FacilityDoorRed.png){width="100"} |
-|Red Facility Door
-|
-|A high-tech light door with red tint.
-|
+|Blueprint|Name|
+|-|-|
+|![FacilityDoorWhite](/assets/images/buildings/FacilityDoorWhite.png){height="100"} |**<font size="+1">White Facility Door</font>**<br/><br/>A high-tech light door with white tint.|
+|![FacilityDoorYellow](/assets/images/buildings/FacilityDoorYellow.png){height="100"} |**<font size="+1">Yellow Facility Door</font>**<br/><br/>A high-tech light door with yellow tint.|
+|![FacilityDoorRed](/assets/images/buildings/FacilityDoorRed.png){height="100"} |**<font size="+1">Red Facility Door</font>**<br/><br/>A high-tech light door with red tint.|
 
 
 ## Insulation Composite Tile
@@ -261,23 +237,11 @@ A solid wall panel wrought from steel. Hermetically sealed joints prevent gas le
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Steel or Hardened Alloy</td><td>10 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 ### Blueprint
-| ![SpacerDanger](/assets/images/buildings/SpacerDanger.png){width="100"} |
-|Spacer Perimeter Wall
-|
-|This spacer wall is fitted with a perimeter stripped demarcation. Can be flipped around.
-|
-
-| ![SpacerDangerCorner](/assets/images/buildings/SpacerDangerCorner.png){width="100"} |
-|Spacer Perimeter Wall Corner
-|
-|This spacer wall is fitted with a corner perimeter stripped demarcation destined to corners. Can be flipped around.
-|
-
-| ![SpacerPanel](/assets/images/buildings/SpacerPanel.png){width="100"} |
-|Spacer Panel
-|
-|A small sized spacer panel.
-|
+|Blueprint|Name|
+|-|-|
+|![SpacerDanger](/assets/images/buildings/SpacerDanger.png){height="100"} |**<font size="+1">Spacer Perimeter Wall</font>**<br/><br/>This spacer wall is fitted with a perimeter stripped demarcation. Can be flipped around.|
+|![SpacerDangerCorner](/assets/images/buildings/SpacerDangerCorner.png){height="100"} |**<font size="+1">Spacer Perimeter Wall Corner</font>**<br/><br/>This spacer wall is fitted with a corner perimeter stripped demarcation destined to corners. Can be flipped around.|
+|![SpacerPanel](/assets/images/buildings/SpacerPanel.png){height="100"} |**<font size="+1">Spacer Panel</font>**<br/><br/>A small sized spacer panel.|
 
 
 ## Spacer Window
@@ -293,11 +257,9 @@ A solid wall wrought from steel and fitted with thick layers of glass. Hermetica
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Transparent</td><td>15 kg</td></tr><tr><td>Steel or Hardened Alloy</td><td>5 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 ### Blueprint
-| ![SpacerWindow_B](/assets/images/buildings/SpacerWindow_B.png){width="100"} |
-|Spacer Window Alt.
-|
-|A small sized spacer window. This is the B model.
-|
+|Blueprint|Name|
+|-|-|
+|![SpacerWindow_B](/assets/images/buildings/SpacerWindow_B.png){height="100"} |**<font size="+1">Spacer Window Alt.</font>**<br/><br/>A small sized spacer window. This is the B model.|
 
 
 ## Structure Tile

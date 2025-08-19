@@ -63,11 +63,9 @@
 |**<font size="+1">存储容量:</font>**| 100千克|&#8288 {: style="padding:0"}|
 
 ### 蓝图
-| ![FridgeSmall_Sticker](/assets/images/buildings/FridgeSmall_Sticker.png){width="100"} |
-|贴花家庭冰箱
-|
-|一台贴满了各种各样的贴纸的家庭冰箱。
-|
+|蓝图|名字|
+|-|-|
+|![FridgeSmall_Sticker](/assets/images/buildings/FridgeSmall_Sticker.png){height="100"} |**<font size="+1">贴花家庭冰箱</font>**<br/><br/>一台贴满了各种各样的贴纸的家庭冰箱。|
 
 
 ## 家用冰箱
@@ -84,29 +82,12 @@
 |**<font size="+1">存储容量:</font>**| 200千克|&#8288 {: style="padding:0"}|
 
 ### 蓝图
-| ![FridgeLarge_Sticker](/assets/images/buildings/FridgeLarge_Sticker.png){width="100"} |
-|贴花家用冰箱
-|
-|一台贴满了各种各样的贴纸的家用冰箱。
-|
-
-| ![FridgeLarge_Blue](/assets/images/buildings/FridgeLarge_Blue.png){width="100"} |
-|家用冰箱(蓝色款)
-|
-|一台蓝色款式的家用冰箱。
-|
-
-| ![FridgeLarge_Red](/assets/images/buildings/FridgeLarge_Red.png){width="100"} |
-|家用冰箱(红色款)
-|
-|一台红色款式的家用冰箱。
-|
-
-| ![FridgeLarge_Yellow](/assets/images/buildings/FridgeLarge_Yellow.png){width="100"} |
-|家用冰箱(黄色款)
-|
-|一台黄色款式的家用冰箱。
-|
+|蓝图|名字|
+|-|-|
+|![FridgeLarge_Sticker](/assets/images/buildings/FridgeLarge_Sticker.png){height="100"} |**<font size="+1">贴花家用冰箱</font>**<br/><br/>一台贴满了各种各样的贴纸的家用冰箱。|
+|![FridgeLarge_Blue](/assets/images/buildings/FridgeLarge_Blue.png){height="100"} |**<font size="+1">家用冰箱(蓝色款)</font>**<br/><br/>一台蓝色款式的家用冰箱。|
+|![FridgeLarge_Red](/assets/images/buildings/FridgeLarge_Red.png){height="100"} |**<font size="+1">家用冰箱(红色款)</font>**<br/><br/>一台红色款式的家用冰箱。|
+|![FridgeLarge_Yellow](/assets/images/buildings/FridgeLarge_Yellow.png){height="100"} |**<font size="+1">家用冰箱(黄色款)</font>**<br/><br/>一台黄色款式的家用冰箱。|
 
 
 ## 大型高科技冰箱
