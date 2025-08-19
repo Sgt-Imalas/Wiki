@@ -54,6 +54,7 @@ LIST WIP.
 - expeller press seed recipes now use 10 seeds at once
 - reduced expeller press working time
 - The Algae Growing Basins light requirement has been restored. It can now have its production speed boosted by high light intensity
+- Anaerobic digester natural gas output has been significantly increased to make it a viable alternative use method to the expeller press. Default is x10, this can be configured/reverted in the mod config.
 
 ## Chemical Processing - Industrial Overhaul
 
