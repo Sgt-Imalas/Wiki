@@ -89,27 +89,6 @@ Coral colony needs Salt Water or Brine to grow, producing a fair amount of clean
 
 
 
-## Electric Steam Boiler
-A small sized eletric boiler.
-
-Boils Water to Steam at 106 °C. This particular boiler uses electricity.
-
-| | | |
-|-|-|-|
-| ![Chemical_ElectricBoiler](/assets/images/buildings/Chemical_ElectricBoiler.png){height="100"} {rowspan="3"}|**Dimensions:** | 2 wide x 3 high|
-|**Power Consumption:**| 850 W |&#8288 {: style="padding:0"}|
-|**Research Required:**| Fossil Fuels|&#8288 {: style="padding:0"}| 
-|**<font size="+1">Material Costs:</font>**|<table><tr><td>Ceramic</td><td>200 kg</td></tr><tr><td>Refined Metal</td><td>100 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
-|**<font size="+1">Storage Capacity:</font>**| 100 kg|&#8288 {: style="padding:0"}|
-| **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Water Input Pipe</td><td>Steam Output Pipe</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
-
-#### Element Conversion
-|Inputs:|Outputs:|
-|-|-|
-| ![Water](/assets/images/elements/Water.png){.inline-icon} Water (1000 g/s)<br>| ![Steam](/assets/images/elements/Steam.png){.inline-icon} Steam (1000 g/s at 106°C)<br>|
-
-
-
 ## Ethanol Polymer Press
 A custom polymerization press capable of producing polymer from Ethanol.
 

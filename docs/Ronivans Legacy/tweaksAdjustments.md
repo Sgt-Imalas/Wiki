@@ -82,6 +82,7 @@ LIST WIP.
 - boiler buildings have been tweaked to better serve as an alternative power source: combined with steam turbines, they allow extracting at least 50% more power from their respective burn material
 - coal boiler can now burn peat as an alternative to coal
 - The old Raw Gas Refinery and Crude Oil Refinery buildings have been restored as "Multi-Staged-[...]" buildings (they have each been split into two newer buildings)
+- changed base game co2 recycler output from refined carbon to fullerene to mirror the graphite output in spaced out better
 
 ## Custom Generators
 
@@ -127,7 +128,7 @@ LIST WIP.
 - when HPA is enabled, Logistic rails now have reduced transfer capacity to fill the niche of "early game rails" better. This can be adjusted/disabled in the config
 - when the above is enabled, transfering "too heavy" items onto a logistic rail will cause the excess mass to drop from the rail.
 - added valve building to transfer items from a regular to a logistic rail without dropping items.
-- the logistic sweeper now rotates slightly slower than the regular sweeper
+- the logistic sweeper now rotates slightly slower than the regular sweeper, scaling with the logistic rail capacity reduction multiplier
 - Storage Cabinets now have an optional rail input
 - logistic rails are now slightly tinted in green in the conveyor overlay
 
@@ -164,6 +165,7 @@ LIST WIP.
 - increased internal storage of high pressure pumps to ensure continuous operation
 - added multi-material filters for all 3 types of pipes/rails
 - high pressure pumps and certain other high pressure buildings may now require a high pressure pipe to function
+- high pressure pump range is now configurable
 
 ## Nuclear Processing
 

@@ -89,27 +89,6 @@
 
 
 
-## 电蒸汽炉
-一座小型电热蒸汽锅炉。
-
-将水煮沸为 106 ℃ 的蒸汽。这座特定的锅炉使用电力作为热源。
-
-| | | |
-|-|-|-|
-| ![Chemical_ElectricBoiler](/assets/images/buildings/Chemical_ElectricBoiler.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 2 x 高 3|
-|**耗电:**| 850瓦 |&#8288 {: style="padding:0"}|
-|**科技:**| 化石燃料|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>陶瓷</td><td>200千克</td></tr><tr><td>精炼金属</td><td>100千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
-|**<font size="+1">存储容量:</font>**| 100千克|&#8288 {: style="padding:0"}|
-| **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>水 输入管道</td><td>蒸汽 输出管道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
-
-#### 元素转换
-|输入:|输出:|
-|-|-|
-| ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (1000克/秒)<br>| ![Steam](/assets/images/elements/Steam.png){.inline-icon} 蒸汽 (1000克/秒 于 106°C)<br>|
-
-
-
 ## 乙醇聚合物压塑器
 一种能够利用乙醇进行聚合反应以生成聚合物的专用聚合机。
 
