@@ -156,7 +156,7 @@ Used as floor and wall tile to build rooms.<br/><br/>Significantly increases Dup
 | ![AIO_MosaicTile](/assets/images/buildings/AIO_MosaicTile.png){height="100"} {rowspan="3"}|**Dimensions:** | 1 wide x 1 high|
 |**Power Consumption:**|  -  |&#8288 {: style="padding:0"}|
 |**Research Required:**| Home Luxuries|&#8288 {: style="padding:0"}| 
-|**<font size="+1">Material Costs:</font>**|<table><tr><td>Precious Rock</td><td>100 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">Material Costs:</font>**|<table><tr><td>Precious Rock</td><td>200 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 
 ## Reinforced Concrete Tile
@@ -180,7 +180,7 @@ A mechanized airlock door made with Glass panels. Blocks Liquid and Gas flow, ma
 | | | |
 |-|-|-|
 | ![GlassDoorComplex](/assets/images/buildings/GlassDoorComplex.png){height="100"} {rowspan="3"}|**Dimensions:** | 1 wide x 2 high|
-|**Power Consumption:**| 20 W |&#8288 {: style="padding:0"}|
+|**Power Consumption:**| 120 W |&#8288 {: style="padding:0"}|
 |**Research Required:**| Transit Tubes|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Refined Metal</td><td>100 kg</td></tr><tr><td>Transparent</td><td>50 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 

@@ -156,7 +156,7 @@
 | ![AIO_MosaicTile](/assets/images/buildings/AIO_MosaicTile.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 1 x 高 1|
 |**耗电:**|  -  |&#8288 {: style="padding:0"}|
 |**科技:**| 豪华家装|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>珍贵岩石</td><td>100千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>珍贵岩石</td><td>200千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 
 ## 钢筋混凝土砖
@@ -180,7 +180,7 @@
 | | | |
 |-|-|-|
 | ![GlassDoorComplex](/assets/images/buildings/GlassDoorComplex.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 1 x 高 2|
-|**耗电:**| 20瓦 |&#8288 {: style="padding:0"}|
+|**耗电:**| 120瓦 |&#8288 {: style="padding:0"}|
 |**科技:**| 运载管道|&#8288 {: style="padding:0"}| 
 |**<font size="+1">建造材料:</font>**|<table><tr><td>精炼金属</td><td>100千克</td></tr><tr><td>透明体</td><td>50千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
