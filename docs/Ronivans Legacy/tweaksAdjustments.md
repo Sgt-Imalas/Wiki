@@ -21,7 +21,7 @@ LIST WIP.
 ### Buildings
 
 - All buildings can now be turned off individually in the building editor of the mod config
-- Certain buildings storage / wattage can be adjusted dynamically in the building editor
+- Certain buildings storage / wattage / range can be adjusted dynamically in the building editor
 - Buildings with random recipe results now truly have randomized recipe outputs. These outputs will now be listed in the Codex and the recipe screen.<br>Affected buildings:<br> Ball Crusher Mill (Chemical Washing), Ball Crusher Mill (Mechanical Separation), Selective Arc Furnace, Auger Drill, Asteroid Drill Mk-II
 - Recipes that want a type of resource (e.g. ores, metals) in the mod have been changed from hardcoded to dynamic - they now include new materials of that type automatically
 - buildings that had duplicates in different mods have been merged into one. Different recipes in the duplicates have been preserved in the merge
@@ -31,12 +31,13 @@ LIST WIP.
 - buildings with invisible pipe inputs in the planned building will now show previews for those inputs in buildable preview
 - several building pipe ports have had their color tweaked for better visibility
 - added sounds to most modded buildings
-- all fridge type buildings now list their energy saver wattage in the build menu
-- all pipe and conveyor rail buildings now list their transfer capacity in the build menu
+- all fridge type buildings (including vanilla fridges) now list their energy saver wattage in the build menu
+- all pipes and conveyor rail (including vanilla) now list their transfer capacity in the build menu
 - fixed foreground layering of a few animation
 - building ports that take in a specific element will have that specified in their "input missing"-tooltip
 - added hysteresis storage mod integration to storage and loader buildings
 - some buildings have become flippable/rotatable that weren't previously
+- fixed several buildings having incorrect area requirements
 
 ## Chemical Processing - Biochemistry
 
