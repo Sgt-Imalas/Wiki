@@ -71,6 +71,8 @@ LIST WIP.
 - Zinc and silver ore now can be acquired in certain meteor showers from new meteor types
 - heavy meteors (source of meteor ore) have been added to additional appropriate spaced out meteor shower types
 - Metal diet of hatches now includes silver and zinc ore
+- Element injection during worldgen can now be disabled in the config
+- custom geysers can now be disabled in the config
 
 ### Buildings
 

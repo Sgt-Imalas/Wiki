@@ -1,6 +1,6 @@
 # Buildings
 ## Advanced Kiln
-Adress a wide range of industrial and chemical applications.
+Address a wide range of industrial and chemical applications.
 
 An advanced insulated electrical kiln in which the heat is applied by induction heating of metal.<br/>The advantage of the induction kiln is a clean, energy-efficient and well-controllable heating process compared to most other means of fuel heating.
 
@@ -908,6 +908,26 @@ Extracts Crude Oil using clean Water.<br/><br/>Must be built atop an Oil Reservo
 |Inputs:|Outputs:|
 |-|-|
 | ![AnyWater](/assets/images/entities/AnyWater.png){.inline-icon} Water Based (1000 g/s)<br>| ![CrudeOil](/assets/images/elements/CrudeOil.png){.inline-icon} Crude Oil (3400 g/s at 90°C)<br> ![RawNaturalGas](/assets/images/elements/RawNaturalGas.png){.inline-icon} Raw Natural Gas (120 g/s at 120°C)<br>|
+
+
+
+## Natural Gas Generator (Modified)
+Natural gas generators leak polluted water and are best built above a waste reservoir.
+
+Converts Natural Gas into electrical Power.<br/><br/>Produces Carbon Dioxide and Polluted Water.
+
+| | | |
+|-|-|-|
+| ![MethaneGenerator](/assets/images/buildings/MethaneGenerator.png){height="100"} {rowspan="3"}|**Dimensions:** | 4 wide x 3 high|
+|**Power Generation:**| 800 W |&#8288 {: style="padding:0"}|
+|**Research Required:**| Fossil Fuels|&#8288 {: style="padding:0"}| 
+|**<font size="+1">Material Costs:</font>**|<table><tr><td>Metal Ore</td><td>800 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+| **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Combustible Gas Input Pipe</td><td>Gas Output Pipe</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
+
+#### Fuel Conversion
+|Inputs:|Outputs:|
+|-|-|
+| ![CombustibleGas](/assets/images/entities/CombustibleGas.png){.inline-icon} Combustible Gas (90 g/s)<br>|  ![DirtyWater](/assets/images/elements/DirtyWater.png){.inline-icon} Polluted Water (67.5 g/s at 40°C)<br> ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} Carbon Dioxide (22.5 g/s at 110°C)<br>|
 
 
 

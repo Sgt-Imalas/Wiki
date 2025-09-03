@@ -56,7 +56,7 @@ An advanced kiln capable of volumetric oxidation with heavy nuclear waste by alt
 ## Zippe-Type Centrifuge
 A gas centrifuge is a device that performs isotope separation of gases. A centrifuge relies on the principles of centripetal force accelerating molecules so that particles of different masses are physically separated in a gradient along the radius of a rotating container.
 
-The Zippe-type centrifuge is a gas device designed to enrich the rare fissile Enriched Uranium from the mixture of isotopes found in the manufactured Yellow Cake. The separation process releases small amounts of Depleted Uraniumas waste product.
+The Zippe-type centrifuge is a gas device designed to enrich the rare fissile Enriched Uranium from the mixture of isotopes found in the manufactured Yellow Cake. The separation process releases small amounts of Depleted Uranium as waste product.
 
 | | | |
 |-|-|-|

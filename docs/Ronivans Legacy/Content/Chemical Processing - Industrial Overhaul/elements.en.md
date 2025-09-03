@@ -32,7 +32,7 @@ Enabling this mod in the config will add several new elements to the game or ree
 
 | |<font size="+1">Material Properties</font>| |
 |-|-|-|
-| ![AmmoniumWater](/assets/images/elements/AmmoniumWater.png){width="200"} |<br/>Resource Type: Liquid<br/><br/>Freezing point: -58°C<br/>11 %  ![Brine](/assets/images/elements/Brine.png){.inline-icon} Brine,<br/>89 % ![AmmoniaGas](/assets/images/elements/AmmoniaGas.png){.inline-icon} Ammonia<br/><br/>Evaporation point: 38°C<br/>11 %  ![Brine](/assets/images/elements/Brine.png){.inline-icon} Brine,<br/>89 % ![AmmoniaGas](/assets/images/elements/AmmoniaGas.png){.inline-icon} Ammonia<br/><br/><br/>Properties: <br/>Mixture, Water Based|<br/>Specific Heat Capacity: <br/>4.500 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>0.600 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.3<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+| ![AmmoniumWater](/assets/images/elements/AmmoniumWater.png){width="200"} |<br/>Resource Type: Liquid<br/><br/>Freezing point: -58°C<br/>11 %  ![Brine](/assets/images/elements/Brine.png){.inline-icon} Brine,<br/>89 % ![AmmoniaGas](/assets/images/elements/AmmoniaGas.png){.inline-icon} Ammonia<br/><br/>Evaporation point: 38°C<br/>11 %  ![Brine](/assets/images/elements/Brine.png){.inline-icon} Brine,<br/>89 % ![LiquidAmmonia](/assets/images/elements/LiquidAmmonia.png){.inline-icon} Liquid Ammonia<br/><br/><br/>Properties: <br/>Mixture, Water Based|<br/>Specific Heat Capacity: <br/>4.500 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>0.600 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.3<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
 
 #### Base-Grade Metallic Sand
 
@@ -56,7 +56,7 @@ Brass is an alloy of Copper and Zinc, widely used to make utensils due to proper
 
 | |<font size="+1">Material Properties</font>| |
 |-|-|-|
-| ![SolidBrass](/assets/images/elements/SolidBrass.png){width="200"} |<br/>Resource Type: Manufactured Material<br/><br/>Melting point: 920°C<br/>30 %  ![ZincGas](/assets/images/elements/ZincGas.png){.inline-icon} Zinc Gas,<br/>70 % ![MoltenCopper](/assets/images/elements/MoltenCopper.png){.inline-icon} Molten Copper<br/><br/>Hardness: 35<br/><br/>Properties: <br/>General Buildable, Metal Ore, Refined Metal, Solid, Uncrushable|<br/>Specific Heat Capacity: <br/>0.380 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>208.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.7<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+| ![SolidBrass](/assets/images/elements/SolidBrass.png){width="200"} |<br/>Resource Type: Manufactured Material<br/><br/>Melting point: 920°C<br/>70 %  ![MoltenCopper](/assets/images/elements/MoltenCopper.png){.inline-icon} Molten Copper,<br/>30 % ![ZincGas](/assets/images/elements/ZincGas.png){.inline-icon} Zinc Gas<br/><br/>Hardness: 35<br/><br/>Properties: <br/>General Buildable, Metal Ore, Refined Metal, Solid, Uncrushable|<br/>Specific Heat Capacity: <br/>0.380 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>208.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.7<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
 
 #### Carbon Composite
 
@@ -184,7 +184,7 @@ Molten Slag is a by-product of smelting (pyrometallurgical) ores and used metals
 
 | |<font size="+1">Material Properties</font>| |
 |-|-|-|
-| ![LiquidNitric](/assets/images/elements/LiquidNitric.png){width="200"} |<br/>Resource Type: Liquid<br/><br/>Freezing point: -42°C<br/>50 %  ![NitrogenGas](/assets/images/elements/NitrogenGas.png){.inline-icon} Nitrogen,<br/>50 % ![DirtyIce](/assets/images/elements/DirtyIce.png){.inline-icon} Polluted Ice<br/><br/>Evaporation point: 121°C<br/>50 %  ![NitrogenGas](/assets/images/elements/NitrogenGas.png){.inline-icon} Nitrogen,<br/>50 % ![Water](/assets/images/elements/Water.png){.inline-icon} Water<br/><br/><br/>Properties: <br/>Mixture|<br/>Specific Heat Capacity: <br/>0.998 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>0.889 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.3<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+| ![LiquidNitric](/assets/images/elements/LiquidNitric.png){width="200"} |<br/>Resource Type: Liquid<br/><br/>Freezing point: -42°C<br/>50 %  ![NitrogenGas](/assets/images/elements/NitrogenGas.png){.inline-icon} Nitrogen,<br/>50 % ![DirtyIce](/assets/images/elements/DirtyIce.png){.inline-icon} Polluted Ice<br/><br/>Evaporation point: 121°C<br/>50 %  ![NitrogenGas](/assets/images/elements/NitrogenGas.png){.inline-icon} Nitrogen,<br/>50 % ![Steam](/assets/images/elements/Steam.png){.inline-icon} Steam<br/><br/><br/>Properties: <br/>Mixture|<br/>Specific Heat Capacity: <br/>0.998 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>0.889 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.3<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
 
 #### Nitrogen
 
@@ -200,7 +200,7 @@ Oil shale is an organic-rich fine-grained sedimentary rock containing heavy crud
 
 | |<font size="+1">Material Properties</font>| |
 |-|-|-|
-| ![SolidOilShale](/assets/images/elements/SolidOilShale.png){width="200"} |<br/>Resource Type: Consumable Ore<br/><br/>Melting point: 120°C<br/>20 %  ![SourGas](/assets/images/elements/SourGas.png){.inline-icon} Sour Gas,<br/>80 % ![CrudeOil](/assets/images/elements/CrudeOil.png){.inline-icon} Crude Oil<br/><br/>Hardness: 2<br/><br/>Properties: <br/>Solid|<br/>Specific Heat Capacity: <br/>1.760 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>22.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.7<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+| ![SolidOilShale](/assets/images/elements/SolidOilShale.png){width="200"} |<br/>Resource Type: Consumable Ore<br/><br/>Melting point: 120°C<br/>20 %  ![SourGas](/assets/images/elements/SourGas.png){.inline-icon} Sour Gas,<br/>80 % ![SolidCrudeOil](/assets/images/elements/SolidCrudeOil.png){.inline-icon} Solid Crude Oil<br/><br/>Hardness: 2<br/><br/>Properties: <br/>Solid|<br/>Specific Heat Capacity: <br/>1.760 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>22.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.7<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
 
 #### Phosphor Bronze
 
@@ -216,7 +216,7 @@ A composite of Plastic stabilized fibers grown into a Steel crystal structure. I
 
 | |<font size="+1">Material Properties</font>| |
 |-|-|-|
-| ![Plasteel](/assets/images/elements/Plasteel.png){width="200"} |<br/>Resource Type: Manufactured Material<br/><br/>Melting point: 2576.85°C<br/>3 %  ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} Carbon Dioxide,<br/>97 % ![MoltenSteel](/assets/images/elements/MoltenSteel.png){.inline-icon} Molten Steel<br/><br/>Hardness: 70<br/><br/>Properties: <br/>General Buildable, Hardened Alloy, Metal Ore, Refined Metal, Solid, Uncrushable|<br/>Specific Heat Capacity: <br/>0.210 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>6.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.9<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+| ![Plasteel](/assets/images/elements/Plasteel.png){width="200"} |<br/>Resource Type: Manufactured Material<br/><br/>Melting point: 2576.85°C<br/>3 %  ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} Carbon Dioxide,<br/>97 % ![Steel](/assets/images/elements/Steel.png){.inline-icon} Steel<br/><br/>Hardness: 70<br/><br/>Properties: <br/>General Buildable, Hardened Alloy, Metal Ore, Refined Metal, Solid, Uncrushable|<br/>Specific Heat Capacity: <br/>0.210 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>6.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.9<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
 
 #### Raw Natural Gas
 
@@ -248,7 +248,7 @@ A fossil gas consisting of gaseous hydrocarbons and other impurites. The majorit
 
 | |<font size="+1">Material Properties</font>| |
 |-|-|-|
-| ![ArgentiteOre](/assets/images/elements/ArgentiteOre.png){width="200"} |<br/>Resource Type: Metal Ore<br/><br/>Melting point: 963°C<br/>80 %  ![MoltenSilver](/assets/images/elements/MoltenSilver.png){.inline-icon} Molten Silver,<br/>20 % ![SulfurGas](/assets/images/elements/SulfurGas.png){.inline-icon} Sulfur Gas<br/><br/>Hardness: 25<br/><br/>Properties: <br/>Antiseptic, General Buildable, Ore, Solid|<br/>Specific Heat Capacity: <br/>0.411 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>5.600 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.46<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+| ![ArgentiteOre](/assets/images/elements/ArgentiteOre.png){width="200"} |<br/>Resource Type: Metal Ore<br/><br/>Melting point: 963°C<br/>80 %  ![MoltenSilver](/assets/images/elements/MoltenSilver.png){.inline-icon} Molten Silver,<br/>20 % ![LiquidSulfur](/assets/images/elements/LiquidSulfur.png){.inline-icon} Liquid Sulfur<br/><br/>Hardness: 25<br/><br/>Properties: <br/>Antiseptic, General Buildable, Ore, Solid|<br/>Specific Heat Capacity: <br/>0.411 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>5.600 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.46<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
 
 #### Slag
 
@@ -272,7 +272,7 @@ An aqueous solution of Hydrogen Sulfide (H<sub>2</sub>S>) and Ammonia (NH<sub>3<
 
 | |<font size="+1">Material Properties</font>| |
 |-|-|-|
-| ![SourWater](/assets/images/elements/SourWater.png){width="200"} |<br/>Resource Type: Liquid<br/><br/>Freezing point: -21°C<br/>50 %  ![DirtyWater](/assets/images/elements/DirtyWater.png){.inline-icon} Polluted Water,<br/>50 % ![SourGas](/assets/images/elements/SourGas.png){.inline-icon} Sour Gas<br/><br/>Evaporation point: 88°C<br/>50 %  ![DirtyWater](/assets/images/elements/DirtyWater.png){.inline-icon} Polluted Water,<br/>50 % ![SourGas](/assets/images/elements/SourGas.png){.inline-icon} Sour Gas<br/><br/><br/>Properties: <br/>Mixture|<br/>Specific Heat Capacity: <br/>3.477 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>0.909 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.3<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+| ![SourWater](/assets/images/elements/SourWater.png){width="200"} |<br/>Resource Type: Liquid<br/><br/>Freezing point: -21°C<br/>50 %  ![SourGas](/assets/images/elements/SourGas.png){.inline-icon} Sour Gas,<br/>50 % ![DirtyIce](/assets/images/elements/DirtyIce.png){.inline-icon} Polluted Ice<br/><br/>Evaporation point: 88°C<br/>50 %  ![SourGas](/assets/images/elements/SourGas.png){.inline-icon} Sour Gas,<br/>50 % ![DirtyIce](/assets/images/elements/DirtyIce.png){.inline-icon} Polluted Ice<br/><br/><br/>Properties: <br/>Mixture|<br/>Specific Heat Capacity: <br/>3.477 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>0.909 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.3<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
 
 #### Sulfuric Acid
 
@@ -336,7 +336,7 @@ A thick, toxic slurry produced as waste product from industrial operations, comp
 
 | |<font size="+1">Material Properties</font>| |
 |-|-|-|
-| ![AurichalciteOre](/assets/images/elements/AurichalciteOre.png){width="200"} |<br/>Resource Type: Metal Ore<br/><br/>Melting point: 919°C<br/>60 %  ![MoltenZinc](/assets/images/elements/MoltenZinc.png){.inline-icon} Molten Zinc,<br/>40 % ![MoltenCopper](/assets/images/elements/MoltenCopper.png){.inline-icon} Molten Copper<br/><br/>Hardness: 25<br/><br/>Properties: <br/>General Buildable, Ore, Solid|<br/>Specific Heat Capacity: <br/>0.411 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>3.600 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.46<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+| ![AurichalciteOre](/assets/images/elements/AurichalciteOre.png){width="200"} |<br/>Resource Type: Metal Ore<br/><br/>Melting point: 919°C<br/>60 %  ![MoltenZinc](/assets/images/elements/MoltenZinc.png){.inline-icon} Molten Zinc,<br/>40 % ![Copper](/assets/images/elements/Copper.png){.inline-icon} Copper<br/><br/>Hardness: 25<br/><br/>Properties: <br/>General Buildable, Ore, Solid|<br/>Specific Heat Capacity: <br/>0.411 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>3.600 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.46<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
 
 ## Reenabled Elements
 These vanilla elements have been reenabled or partially adjusted

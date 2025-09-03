@@ -911,3 +911,23 @@
 
 
 
+## 天然气发电机 (修改)
+天然气发电机会排放污染水，最好建在废水池上方。
+
+将天然气转化为电力。<br/><br/>产生二氧化碳和污染水。
+
+| | | |
+|-|-|-|
+| ![MethaneGenerator](/assets/images/buildings/MethaneGenerator.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 4 x 高 3|
+|**发电:**| 800瓦 |&#8288 {: style="padding:0"}|
+|**科技:**| 化石燃料|&#8288 {: style="padding:0"}| 
+|**<font size="+1">建造材料:</font>**|<table><tr><td>金属矿石</td><td>800千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+| **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>可燃气体 输入管道</td><td>气体 输出管道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
+
+#### 燃料转换
+|输入:|输出:|
+|-|-|
+| ![CombustibleGas](/assets/images/entities/CombustibleGas.png){.inline-icon} 可燃气体 (90克/秒)<br>|  ![DirtyWater](/assets/images/elements/DirtyWater.png){.inline-icon} 污染水 (67.5克/秒 于 40°C)<br> ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} 二氧化碳 (22.5克/秒 于 110°C)<br>|
+
+
+

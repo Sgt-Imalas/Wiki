@@ -1,6 +1,6 @@
 # Buildings
 ## Algae Vat
-An advanced biological vat that grows algae. Due to the controlled atmospheric condition, this algae formation produces oxygen more efficiently than the standard terrarium. This unit also uses advanced filter to extract Carbon Dioxide from its surroundings, albeit its not necessery for it to function.
+An advanced biological vat that grows algae. Due to the controlled atmospheric condition, this algae formation produces oxygen more efficiently than the standard terrarium. This unit also uses advanced filter to extract Carbon Dioxide from its surroundings, albeit its not necessary for it to function.
 
 Algae patch needs Water to grow, producing a fair amount of clean Oxygen as result of its biological functions. Excess water is expelled in the form of Polluted Water.
 
@@ -60,7 +60,7 @@ Automatically detects trace of Carbon Dioxide and extract it out of the surroudi
 
 
 ## Coral Vat
-An advanced biological vat that grows a special colony of marine invertebrates, engineered from the Earth species of the class Anthozoa. This unit also uses advanced filter to extract Chlorine Gas from its surroundings, albeit its not necessery for it to function.
+An advanced biological vat that grows a special colony of marine invertebrates, engineered from the Earth species of the class Anthozoa. This unit also uses advanced filter to extract Chlorine Gas from its surroundings, albeit its not necessary for it to function.
 
 Coral colony needs Salt Water or Brine to grow, producing a fair amount of clean Water as result of its biological functions. The coral colony will also excreate tiny particles of Bleach Stone, which are filtered from the water and later released as a solid mass.
 
@@ -196,7 +196,7 @@ Produces Salt Water using provided Water and Salt.
 
 
 ## Slime Vat
-An advanced biological vat that grows a culture of mucopolysaccharides and multicelular fungi mould. This unit also uses advanced filter to extract Polluted Oxygen from its surroundings, albeit its not necessery for it to function.
+An advanced biological vat that grows a culture of mucopolysaccharides and multicelular fungi mould. This unit also uses advanced filter to extract Polluted Oxygen from its surroundings, albeit its not necessary for it to function.
 
 Slime Vat needs Water and Mush Bar to grow, producing Slime outgrowth that is collected from the botton. Due to its nature, the slime its produce will be contaminated with Slimelung.
 
