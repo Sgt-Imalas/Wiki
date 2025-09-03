@@ -53,6 +53,7 @@ LIST WIP.
 - New PPP food recipes have been added to the Expeller Press
 - expeller press seed recipes are now dynamic and grouped into one entry
 - expeller press seed recipes now use 10 seeds at once
+- fixed spindly grubfruit oil amount based on the described calculation (same formula, but it now uses spindly grubfruit values for its calculation, instead of regular grubfruit)
 - reduced expeller press working time
 - The Algae Growing Basins light requirement has been restored. It can now have its production speed boosted by high light intensity
 - Anaerobic digester natural gas output has been significantly increased to make it a viable alternative use method to the expeller press. Default is x10, this can be configured/reverted in the mod config.
