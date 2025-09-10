@@ -107,7 +107,7 @@ Refines Crude Oil to Petroleum using Coal as heat source. <br/>The refinement pr
 
 A plasma arc furnace uses low-temperature plasma flow created by an electric arc heater (plasmatron).
 
-This techlogical advanced glass foundry is capable more than melt Sand in to Molten Glass, but a wide range of other applications.
+This techlogical advanced glass foundry has a wide range of other applications beyond simply melting Sand into Molten Glass.
 
 |                                                                                                          |                                                                                                                       |                              |
 | -------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | ---------------------------- |
