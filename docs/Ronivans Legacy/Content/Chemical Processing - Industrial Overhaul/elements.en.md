@@ -5,7 +5,7 @@ Enabling this mod in the config will add several new elements to the game or ree
 |<font size="+1">Material</font> | | <font size="+1">Elements</font> |
 |:-:|:-:|:-|
 |<font size="+1">Carrier Gas</font> <br/> <br/>|Carrier Gases are inert or semi-inert gases that are used in plasma related processes.| ![Helium](/assets/images/elements/Helium.png){.inline-icon} Helium<br/> ![Hydrogen](/assets/images/elements/Hydrogen.png){.inline-icon} Hydrogen Gas<br/> ![NitrogenGas](/assets/images/elements/NitrogenGas.png){.inline-icon} Nitrogen<br/>|
-|<font size="+1">Hardened Alloy</font> <br/> <br/>|Hardened Alloys are a fusion of two or more materials.<br/>Their high material strength allows them to be used as a substitute to Steel| ![PhosphorBronze](/assets/images/elements/PhosphorBronze.png){.inline-icon} Phosphor Bronze<br/> ![Plasteel](/assets/images/elements/Plasteel.png){.inline-icon} Plasteel<br/>|
+|<font size="+1">Hardened Alloy</font> <br/> <br/>|Hardened Alloys are a fusion of two or more materials.<br/>Their high material strength allows them to be used as a substitute to Steel.| ![PhosphorBronze](/assets/images/elements/PhosphorBronze.png){.inline-icon} Phosphor Bronze<br/> ![Plasteel](/assets/images/elements/Plasteel.png){.inline-icon} Plasteel<br/>|
 |<font size="+1">Metallic Sand</font> <br/> <br/>|Sandy materials composed of a various number of metallic grains| ![BaseGradeSand](/assets/images/elements/BaseGradeSand.png){.inline-icon} Base-Grade Metallic Sand<br/> ![LowGradeSand](/assets/images/elements/LowGradeSand.png){.inline-icon} Low-Grade Metallic Sand<br/> ![HighGradeSand](/assets/images/elements/HighGradeSand.png){.inline-icon} High-Grade Metallic Sand<br/>|
 
 ## New Elements
@@ -379,7 +379,7 @@ Naphtha a distilled hydrocarbon mixture produced from the burning of Plastic.
 
 | |<font size="+1">Material Properties</font>| |
 |-|-|-|
-| ![PhosphateNodules](/assets/images/elements/PhosphateNodules.png){width="200"} |<br/>Resource Type: Agriculture<br/><br/>Melting point: 426.85°C<br/>-> ![LiquidPhosphorus](/assets/images/elements/LiquidPhosphorus.png){.inline-icon} Liquid Phosphorus<br/><br/>Hardness: 25<br/><br/>Properties: <br/>Consumable Ore, Manufactured Material, Solid|<br/>Specific Heat Capacity: <br/>0.150 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>2.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.75<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+| ![PhosphateNodules](/assets/images/elements/PhosphateNodules.png){width="200"} |<br/>Resource Type: Agriculture<br/><br/>Melting point: 426.85°C<br/>-> ![LiquidPhosphorus](/assets/images/elements/LiquidPhosphorus.png){.inline-icon} Liquid Phosphorus<br/><br/>Hardness: 25<br/><br/>Properties: <br/>Consumable Ore, Solid|<br/>Specific Heat Capacity: <br/>0.150 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>2.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.75<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
 
 #### Propane Gas
 

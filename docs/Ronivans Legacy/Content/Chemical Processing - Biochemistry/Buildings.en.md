@@ -37,8 +37,8 @@ Breaks down most basic Food stored within to  Natural Gas<br/>The amount produce
 |-|-|-|
 | ![WormSuperFruit](/assets/images/entities/WormSuperFruit.png){.inline-icon} Grubfruit (10 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (50 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} Water (1000 g)<br>|50s| ![Methane](/assets/images/elements/Methane.png){.inline-icon} Natural Gas (8.1 kg)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} Dirt (50 kg)<br>|
 | ![WormBasicFruit](/assets/images/entities/WormBasicFruit.png){.inline-icon} Spindly Grubfruit (10 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (50 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} Water (1000 g)<br>|50s| ![Methane](/assets/images/elements/Methane.png){.inline-icon} Natural Gas (25.8 kg)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} Dirt (50 kg)<br>|
-| ![VineFruit](/assets/images/entities/VineFruit.png){.inline-icon} Ovagro Fig (10 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (50 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} Water (1000 g)<br>|50s| ![Methane](/assets/images/elements/Methane.png){.inline-icon} Natural Gas (10.5 kg)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} Dirt (50 kg)<br>|
 | ![SwampFruit](/assets/images/entities/SwampFruit.png){.inline-icon} Bog Jelly (5 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (50 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} Water (1000 g)<br>|50s| ![Methane](/assets/images/elements/Methane.png){.inline-icon} Natural Gas (29.6 kg)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} Dirt (50 kg)<br>|
+| ![VineFruit](/assets/images/entities/VineFruit.png){.inline-icon} Ovagro Fig (10 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (50 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} Water (1000 g)<br>|50s| ![Methane](/assets/images/elements/Methane.png){.inline-icon} Natural Gas (10.5 kg)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} Dirt (50 kg)<br>|
 | ![BasicForagePlant](/assets/images/entities/BasicForagePlant.png){.inline-icon} Muckroot (10 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (50 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} Water (1000 g)<br>|50s| ![Methane](/assets/images/elements/Methane.png){.inline-icon} Natural Gas (25.8 kg)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} Dirt (50 kg)<br>|
 | ![GardenForagePlant](/assets/images/entities/GardenForagePlant.png){.inline-icon} Snac Fruit (10 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (50 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} Water (1000 g)<br>|50s| ![Methane](/assets/images/elements/Methane.png){.inline-icon} Natural Gas (25.8 kg)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} Dirt (50 kg)<br>|
 | ![GardenFoodPlantFood](/assets/images/entities/GardenFoodPlantFood.png){.inline-icon} Sweatcorn (10 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (50 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} Water (1000 g)<br>|50s| ![Methane](/assets/images/elements/Methane.png){.inline-icon} Natural Gas (25.8 kg)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} Dirt (50 kg)<br>|
@@ -54,26 +54,6 @@ Breaks down most basic Food stored within to  Natural Gas<br/>The amount produce
 | ![Carrot](/assets/images/entities/Carrot.png){.inline-icon} Plume Squash (3000 g)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (50 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} Water (1000 g)<br>|50s| ![Methane](/assets/images/elements/Methane.png){.inline-icon} Natural Gas (38.6 kg)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} Dirt (50 kg)<br>|
 | ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} Compressed Biomass (20 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (30 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} Water (1000 g)<br>|50s| ![Methane](/assets/images/elements/Methane.png){.inline-icon} Natural Gas (10 kg)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} Dirt (50 kg)<br>|
 | ![Algae](/assets/images/elements/Algae.png){.inline-icon} Algae (20 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (30 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} Water (1000 g)<br>|50s| ![Methane](/assets/images/elements/Methane.png){.inline-icon} Natural Gas (10 kg)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} Dirt (50 kg)<br>|
-
-
-
-## Biodiesel Generator
-An advanced power generator that uses biofuel. Has a built-in scrubber system that allows it to produce no gaseous exhaust.
-
-Converts Renewable Diesel into electrical Power.<br/><br/>Produces only Polluted Water.
-
-| | | |
-|-|-|-|
-| ![Biochemistry_BiodieselGenerator](/assets/images/buildings/Biochemistry_BiodieselGenerator.png){height="100"} {rowspan="3"}|**Dimensions:** | 7 wide x 4 high|
-|**Power Generation:**| 3.2 kW |&#8288 {: style="padding:0"}|
-|**Research Required:**| Renewable Combustion Fuels|&#8288 {: style="padding:0"}| 
-|**<font size="+1">Material Costs:</font>**|<table><tr><td>Refined Metal</td><td>400 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
-| **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Renewable Diesel Input Pipe</td><td>Liquid Output Pipe</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
-
-#### Fuel Conversion
-|Inputs:|Outputs:|
-|-|-|
-| ![LiquidBiodiesel](/assets/images/elements/LiquidBiodiesel.png){.inline-icon} Renewable Diesel (380 g/s)<br>|  ![DirtyWater](/assets/images/elements/DirtyWater.png){.inline-icon} Polluted Water (144.3 g/s at 40°C)<br>|
 
 
 
@@ -113,7 +93,27 @@ Synthesizes Bioplastic from Vegetable Oil and Carbon Dioxide.<br/>The enzymes re
 #### Element Conversion
 |Inputs:|Outputs:|
 |-|-|
-| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} Vegetable Oil (400 g/s)<br> ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} Carbon Dioxide (100 g/s)<br> ![MushBar](/assets/images/entities/MushBar.png){.inline-icon} Mush Bar (2000 mg/s)<br>| ![Bioplastic](/assets/images/elements/Bioplastic.png){.inline-icon} Bioplastic (500 g/s at 23°C)<br>|
+| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} Vegetable Oil (400 g/s)<br> ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} Carbon Dioxide (100 g/s)<br> ![MushBar](/assets/images/entities/MushBar.png){.inline-icon} Mush Bar (333.3 mg/s)<br>| ![Bioplastic](/assets/images/elements/Bioplastic.png){.inline-icon} Bioplastic (500 g/s at 23°C)<br>|
+
+
+
+## Eco Diesel Generator
+An advanced power generator that uses biofuel. Has a built-in scrubber system that allows it to produce no gaseous exhaust.
+
+Converts Renewable Diesel into electrical Power.<br/><br/>Produces only Polluted Water.
+
+| | | |
+|-|-|-|
+| ![Biochemistry_BiodieselGenerator](/assets/images/buildings/Biochemistry_BiodieselGenerator.png){height="100"} {rowspan="3"}|**Dimensions:** | 7 wide x 4 high|
+|**Power Generation:**| 3.2 kW |&#8288 {: style="padding:0"}|
+|**Research Required:**| Renewable Combustion Fuels|&#8288 {: style="padding:0"}| 
+|**<font size="+1">Material Costs:</font>**|<table><tr><td>Refined Metal</td><td>400 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+| **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Renewable Diesel Input Pipe</td><td>Liquid Output Pipe</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
+
+#### Fuel Conversion
+|Inputs:|Outputs:|
+|-|-|
+| ![LiquidBiodiesel](/assets/images/elements/LiquidBiodiesel.png){.inline-icon} Renewable Diesel (380 g/s)<br>|  ![DirtyWater](/assets/images/elements/DirtyWater.png){.inline-icon} Polluted Water (144.3 g/s at 40°C)<br>|
 
 
 
@@ -150,6 +150,7 @@ Extract Vegetable Oil from raw food ingredients. The amount of oil, and the soli
 | ![ColdBreatherSeed](/assets/images/entities/ColdBreatherSeed.png){.inline-icon} Wort Seed (x10)<br>|10s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} Vegetable Oil (9.5 kg)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} Compressed Biomass (500 g)<br>|
 | ![CarrotPlantSeed](/assets/images/entities/CarrotPlantSeed.png){.inline-icon} Plume Squash Seed (x10)<br>|10s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} Vegetable Oil (9.5 kg)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} Compressed Biomass (500 g)<br>|
 | ![ButterflyPlantSeed](/assets/images/entities/ButterflyPlantSeed.png){.inline-icon} Mimillet (x10)<br>|10s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} Vegetable Oil (9.5 kg)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} Compressed Biomass (500 g)<br>|
+| ![BlueGrassSeed](/assets/images/entities/BlueGrassSeed.png){.inline-icon} Alveo Vera Seed (x10)<br>|10s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} Vegetable Oil (9.5 kg)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} Compressed Biomass (500 g)<br>|
 | ![BasicSingleHarvestPlantSeed](/assets/images/entities/BasicSingleHarvestPlantSeed.png){.inline-icon} Mealwood Seed (x10)<br>|10s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} Vegetable Oil (9.5 kg)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} Compressed Biomass (500 g)<br>|
 | ![DewDripperPlantSeed](/assets/images/entities/DewDripperPlantSeed.png){.inline-icon} Dew Seed (x10)<br>|10s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} Vegetable Oil (9.5 kg)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} Compressed Biomass (500 g)<br>|
 | ![DinofernSeed](/assets/images/entities/DinofernSeed.png){.inline-icon} Megafrond Spore (x10)<br>|10s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} Vegetable Oil (9.5 kg)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} Compressed Biomass (500 g)<br>|
@@ -159,9 +160,8 @@ Extract Vegetable Oil from raw food ingredients. The amount of oil, and the soli
 | ![FlyTrapPlantSeed](/assets/images/entities/FlyTrapPlantSeed.png){.inline-icon} Lura Seed (x10)<br>|10s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} Vegetable Oil (9.5 kg)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} Compressed Biomass (500 g)<br>|
 | ![FilterPlantSeed](/assets/images/entities/FilterPlantSeed.png){.inline-icon} Hydrocactus Seed (x10)<br>|10s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} Vegetable Oil (9.5 kg)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} Compressed Biomass (500 g)<br>|
 | ![HardSkinBerryPlantSeed](/assets/images/entities/HardSkinBerryPlantSeed.png){.inline-icon} Pikeapple Bush Seed (x10)<br>|10s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} Vegetable Oil (9.5 kg)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} Compressed Biomass (500 g)<br>|
-| ![BlueGrassSeed](/assets/images/entities/BlueGrassSeed.png){.inline-icon} Alveo Vera Seed (x10)<br>|10s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} Vegetable Oil (9.5 kg)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} Compressed Biomass (500 g)<br>|
-| ![WormPlantSeed](/assets/images/entities/WormPlantSeed.png){.inline-icon} Grubfruit Seed (x10)<br>|10s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} Vegetable Oil (9.5 kg)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} Compressed Biomass (500 g)<br>|
 | ![OxyfernSeed](/assets/images/entities/OxyfernSeed.png){.inline-icon} Oxyfern Seed (x10)<br>|10s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} Vegetable Oil (9.5 kg)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} Compressed Biomass (500 g)<br>|
+| ![WormPlantSeed](/assets/images/entities/WormPlantSeed.png){.inline-icon} Grubfruit Seed (x10)<br>|10s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} Vegetable Oil (9.5 kg)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} Compressed Biomass (500 g)<br>|
 | ![PrickleFlowerSeed](/assets/images/entities/PrickleFlowerSeed.png){.inline-icon} Blossom Seed (x10)<br>|10s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} Vegetable Oil (9.5 kg)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} Compressed Biomass (500 g)<br>|
 | ![VineMotherSeed](/assets/images/entities/VineMotherSeed.png){.inline-icon} Ovagro Node Seed (x10)<br>|10s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} Vegetable Oil (9.5 kg)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} Compressed Biomass (500 g)<br>|
 | ![SaltPlantSeed](/assets/images/entities/SaltPlantSeed.png){.inline-icon} Dasha Saltvine Seed (x10)<br>|10s| ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} Vegetable Oil (9.5 kg)<br> ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} Compressed Biomass (500 g)<br>|

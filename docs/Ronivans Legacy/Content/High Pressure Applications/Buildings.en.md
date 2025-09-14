@@ -28,7 +28,7 @@ Dispenses Liquids in high pressure environments.<br/><br/>Must be connected to a
 
 
 ## Decompression Gas Valve
-A mechanical valve capable of reducing the flow of gas from a pressurized pipe to a normal pipe, avoid it to break.
+A mechanical valve capable of reducing the flow of gas from a pressurized pipe to a normal pipe, avoiding it to break.
 
 Allows Gases to be transfered from High Pressure Gas Pipe to normal Pipes.
 
@@ -42,7 +42,7 @@ Allows Gases to be transfered from High Pressure Gas Pipe to normal Pipes.
 
 
 ## Decompression Liquid Valve
-A mechanical valve capable of reducing the flow of liquid from a pressurized pipe to a normal pipe, avoid it to break.
+A mechanical valve capable of reducing the flow of liquid from a pressurized pipe to a normal pipe, avoiding it to break.
 
 Allows Liquid to be transfered from High Pressure Liquid Pipe to normal Pipes.
 
@@ -169,7 +169,7 @@ Allows Solid Materials to be transfered from Heavy-Duty Rails to normal Conveyor
 ## High Pressure Gas Conduit
 A reinforced gas pipe capable of handling high pressure flow.<br/>Composite nature of the pipe prevents gas contents from significantly changing temperature in transit.
 
-Carries a maximum of 10 kg of Gas with minimal change in Temperature.<br/><br/>Can be run through wall and floor tile.
+Carries a maximum of 11 kg of Gas with minimal change in Temperature.<br/><br/>Can be run through wall and floor tile.
 
 | | | |
 |-|-|-|
@@ -252,7 +252,7 @@ Filters all selected Liquids out of a mix, sending it into a dedicated Filtered 
 ## High Pressure Liquid Pipe
 A reinforced liquid pipe capable of handling high pressure flow. Composite nature of the pipe prevents liquid contents from significantly changing temperature in transit.
 
-Carries a maximum of 40 kg of Liquid with minimal change in Temperature.<br/><br/>Can be run through wall and floor tile.
+Carries a maximum of 44 kg of Liquid with minimal change in Temperature.<br/><br/>Can be run through wall and floor tile.
 
 | | | |
 |-|-|-|
@@ -279,7 +279,7 @@ Draws in Liquid and runs it through High Pressure Liquid Pipe.<br/><br/>Must be 
 ## Insulated Heavy-Duty Rail
 Rails move materials where they'll be needed most, saving Duplicants the walk.
 
-Transports large quantities of Solid Materials.<br/><br/>Can not be run through wall and floor tiles.<br/><br/>Being held in a vaccuum, transported items are fully insulated.
+Transports large quantities of Solid Materials.<br/><br/>Can not be run through wall and floor tiles.<br/><br/>Being held in a vaccuum, transported items fully insulated and sealed from their surroundings (prevents offgassing).
 
 | | | |
 |-|-|-|

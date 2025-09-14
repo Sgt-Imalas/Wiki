@@ -11,12 +11,12 @@
 |**科技:**| 温度调节|&#8288 {: style="padding:0"}| 
 |**<font size="+1">建造材料:</font>**|<table><tr><td>陶瓷</td><td>400千克</td></tr><tr><td>精炼金属</td><td>200千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 |**<font size="+1">存储容量:</font>**| 3000千克|&#8288 {: style="padding:0"}|
-| **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>二氧化碳 输入管道</td><td>液体 输出管道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
+| **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>二氧化碳 输入管道</td><td>液态二氧化碳 输出管道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 #### 元素转换
 |输入:|输出:|
 |-|-|
-| ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} 二氧化碳 (500克/秒)<br>| ![LiquidCarbonDioxide](/assets/images/elements/LiquidCarbonDioxide.png){.inline-icon} 液态二氧化碳 (500克/秒 于 -56°C)<br>|
+| ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} 二氧化碳 (1000克/秒)<br>| ![LiquidCarbonDioxide](/assets/images/elements/LiquidCarbonDioxide.png){.inline-icon} 液态二氧化碳 (1000克/秒 于 -56°C)<br>|
 
 
 

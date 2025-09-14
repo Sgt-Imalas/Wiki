@@ -38,6 +38,8 @@ LIST WIP.
 - added hysteresis storage mod integration to storage and loader buildings
 - some buildings have become flippable/rotatable that weren't previously
 - fixed several buildings having incorrect area requirements
+- boilers now have an optional co2 output port
+- pyrolysis kiln has its conversion efficiency increased to that of the vanilla kiln
 
 ## Chemical Processing - Biochemistry
 
@@ -74,6 +76,8 @@ LIST WIP.
 - Metal diet of hatches now includes silver and zinc ore
 - Element injection during worldgen can now be disabled in the config
 - custom geysers can now be disabled in the config
+- base game space pois now also contain modded element
+- fixed missing flow values of several liquids
 
 ### Buildings
 
@@ -95,6 +99,7 @@ LIST WIP.
 - increased custom steam turbine base wattage to reflect size percentage of regular turbine
 - generators piping is now optional, with no pipe installed, it vents into the world
 - super sustainable now accounts for custom burner generators
+- "allow tinkering" now supports CopySettings (also applies to plants as a side effect)
 
 ## Custom Reservoirs
 
@@ -103,6 +108,7 @@ LIST WIP.
 - condensed the two variants of the small reservoirs into one build menu entry, swappable via blueprint selector
 - all reserovir capacities can be tweaked in the building editor of the config
 - medium reservoirs can now be flipped
+- Reservoirs are moved to the respective pipe categories, along with the vanilla reservoirs (config option, can be turned off)
 
 ## Dupes Engineering
 
@@ -170,6 +176,7 @@ LIST WIP.
 - added multi-material filters for all 3 types of pipes/rails
 - high pressure pumps and certain other high pressure buildings may now require a high pressure pipe to function
 - high pressure pump range is now configurable
+- pipe capacity is now defined as a multiplier instead of a flat value, making it compatible with base pipe modifications by the CustomizeBuildings mod
 
 ## Nuclear Processing
 

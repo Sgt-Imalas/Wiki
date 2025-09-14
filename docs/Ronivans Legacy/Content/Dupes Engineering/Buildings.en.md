@@ -146,6 +146,19 @@ Used as floor and wall tile to build rooms.<br/><br/>Significantly increases Dup
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Precious Rock</td><td>200 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 
+## Metal Ladder
+A sturdy and durable ladder wrought from refined metals.
+
+Increases Duplicant climbing speed.
+
+| | | |
+|-|-|-|
+| ![AIO_MetalLadder](/assets/images/buildings/AIO_MetalLadder.png){height="100"} {rowspan="3"}|**Dimensions:** | 1 wide x 1 high|
+|**Power Consumption:**|  -  |&#8288 {: style="padding:0"}|
+|**Research Required:**| Smelting|&#8288 {: style="padding:0"}| 
+|**<font size="+1">Material Costs:</font>**|<table><tr><td>Refined Metal</td><td>50 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+
+
 ## Mosaic Tile
 A fine tile made from glazed stones.
 

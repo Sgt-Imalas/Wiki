@@ -36,7 +36,7 @@
 |**科技:**| 化石燃料|&#8288 {: style="padding:0"}| 
 |**<font size="+1">建造材料:</font>**|<table><tr><td>精炼金属</td><td>1200千克</td></tr><tr><td>陶瓷</td><td>1000千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 |**<font size="+1">存储容量:</font>**| 10吨|&#8288 {: style="padding:0"}|
-| **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>水 输入管道</td><td>蒸汽 输出管道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
+| **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>水 输入管道</td><td>蒸汽 输出管道</td></tr><tr><td>-</td><td>二氧化碳 输出管道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 #### 元素转换
 |输入:|输出:|
@@ -166,7 +166,7 @@
 |**科技:**| 化石燃料|&#8288 {: style="padding:0"}| 
 |**<font size="+1">建造材料:</font>**|<table><tr><td>精炼金属</td><td>1200千克</td></tr><tr><td>陶瓷</td><td>1000千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 |**<font size="+1">存储容量:</font>**| 10吨|&#8288 {: style="padding:0"}|
-| **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>水 输入管道</td><td>蒸汽 输出管道</td></tr><tr><td>可燃气体 输入管道</td><td>-</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
+| **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>水 输入管道</td><td>蒸汽 输出管道</td></tr><tr><td>可燃气体 输入管道</td><td>二氧化碳 输出管道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 #### 元素转换
 |输入:|输出:|
@@ -211,12 +211,12 @@
 #### 元素转换
 |输入:|输出:|
 |-|-|
-| ![MushBar](/assets/images/entities/MushBar.png){.inline-icon} 软泥膏 (10克/秒)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (50克/秒)<br>| ![SlimeMold](/assets/images/elements/SlimeMold.png){.inline-icon} 菌泥 (60克/秒 于 -273.15°C)<br>|
+| ![MushBar](/assets/images/entities/MushBar.png){.inline-icon} 软泥膏 (166.7毫克/秒)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (50克/秒)<br>| ![SlimeMold](/assets/images/elements/SlimeMold.png){.inline-icon} 菌泥 (50克/秒 于 -273.15°C)<br>|
 
 
 |输入:|输出:|
 |-|-|
-| ![ContaminatedOxygen](/assets/images/elements/ContaminatedOxygen.png){.inline-icon} 污染氧 (25克/秒)<br> ![MushBar](/assets/images/entities/MushBar.png){.inline-icon} 软泥膏 (5克/秒)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} 泥土 (50克/秒)<br>| ![SlimeMold](/assets/images/elements/SlimeMold.png){.inline-icon} 菌泥 (50克/秒 于 -273.15°C)<br>|
+| ![ContaminatedOxygen](/assets/images/elements/ContaminatedOxygen.png){.inline-icon} 污染氧 (25克/秒)<br> ![MushBar](/assets/images/entities/MushBar.png){.inline-icon} 软泥膏 (166.7毫克/秒)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} 泥土 (50克/秒)<br>| ![SlimeMold](/assets/images/elements/SlimeMold.png){.inline-icon} 菌泥 (75克/秒 于 -273.15°C)<br>|
 
 
 
@@ -232,7 +232,7 @@
 |**科技:**| 化石燃料|&#8288 {: style="padding:0"}| 
 |**<font size="+1">建造材料:</font>**|<table><tr><td>精炼金属</td><td>1200千克</td></tr><tr><td>陶瓷</td><td>1000千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 |**<font size="+1">存储容量:</font>**| 10吨|&#8288 {: style="padding:0"}|
-| **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>水 输入管道</td><td>蒸汽 输出管道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
+| **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>水 输入管道</td><td>蒸汽 输出管道</td></tr><tr><td>-</td><td>二氧化碳 输出管道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 #### 元素转换
 |输入:|输出:|

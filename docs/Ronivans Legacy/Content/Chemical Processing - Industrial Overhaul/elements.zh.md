@@ -395,7 +395,7 @@
 
 | |<font size="+1">材料属性</font>| |
 |-|-|-|
-| ![PhosphateNodules](/assets/images/elements/PhosphateNodules.png){width="200"} |<br/>资源种类：农业<br/><br/>熔点：426.85°C<br/>-> ![LiquidPhosphorus](/assets/images/elements/LiquidPhosphorus.png){.inline-icon} 液态磷<br/><br/>硬度：25<br/><br/>属性：<br/>人造材料, 固体, 消耗性矿石|<br/>比热容：<br/>0.150 (DTU/g)/ ºC<br/><br/>热导率：<br/>2.000 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.75<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
+| ![PhosphateNodules](/assets/images/elements/PhosphateNodules.png){width="200"} |<br/>资源种类：农业<br/><br/>熔点：426.85°C<br/>-> ![LiquidPhosphorus](/assets/images/elements/LiquidPhosphorus.png){.inline-icon} 液态磷<br/><br/>硬度：25<br/><br/>属性：<br/>固体, 消耗性矿石|<br/>比热容：<br/>0.150 (DTU/g)/ ºC<br/><br/>热导率：<br/>2.000 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.75<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
 
 #### 银金矿
 

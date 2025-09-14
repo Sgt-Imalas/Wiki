@@ -9,7 +9,7 @@
 
 | |<font size="+1">材料属性</font>| |
 |-|-|-|
-| ![Radium](/assets/images/elements/Radium.png){width="200"} |<br/>资源种类：固体<br/><br/>熔点：959.85°C<br/>-> ![Magma](/assets/images/elements/Magma.png){.inline-icon} 岩浆<br/><br/>硬度：250<br/><br/>属性：<br/>消耗性矿石|<br/>比热容：<br/>1.000 (DTU/g)/ ºC<br/><br/>热导率：<br/>20.000 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.25<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
+| ![Radium](/assets/images/elements/Radium.png){width="200"} |<br/>资源种类：消耗性矿石<br/><br/>熔点：959.85°C<br/>-> ![Magma](/assets/images/elements/Magma.png){.inline-icon} 岩浆<br/><br/>硬度：250<br/><br/>属性：<br/>固体|<br/>比热容：<br/>1.000 (DTU/g)/ ºC<br/><br/>热导率：<br/>20.000 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.25<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
 
 #### 黄饼
 
@@ -17,5 +17,5 @@
 
 | |<font size="+1">材料属性</font>| |
 |-|-|-|
-| ![Yellowcake](/assets/images/elements/Yellowcake.png){width="200"} |<br/>资源种类：固体<br/><br/>熔点：858.85°C<br/>-> ![MoltenUranium](/assets/images/elements/MoltenUranium.png){.inline-icon} 熔融铀<br/><br/>硬度：250<br/><br/>属性：<br/>人造材料|<br/>比热容：<br/>1.000 (DTU/g)/ ºC<br/><br/>热导率：<br/>20.000 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.3<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
+| ![Yellowcake](/assets/images/elements/Yellowcake.png){width="200"} |<br/>资源种类：人造材料<br/><br/>熔点：858.85°C<br/>-> ![MoltenUranium](/assets/images/elements/MoltenUranium.png){.inline-icon} 熔融铀<br/><br/>硬度：250<br/><br/>属性：<br/>固体|<br/>比热容：<br/>1.000 (DTU/g)/ ºC<br/><br/>热导率：<br/>20.000 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.3<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
 

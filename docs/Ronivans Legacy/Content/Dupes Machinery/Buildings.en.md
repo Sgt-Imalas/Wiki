@@ -36,7 +36,7 @@ Boils Water to Steam at 200 °C.<br/>This particular boiler uses Combustustable 
 |**Research Required:**| Fossil Fuels|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Refined Metal</td><td>1200 kg</td></tr><tr><td>Ceramic</td><td>1000 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 |**<font size="+1">Storage Capacity:</font>**| 10 t|&#8288 {: style="padding:0"}|
-| **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Water Input Pipe</td><td>Steam Output Pipe</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
+| **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Water Input Pipe</td><td>Steam Output Pipe</td></tr><tr><td>-</td><td>Carbon Dioxide Output Pipe</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 #### Element Conversion
 |Inputs:|Outputs:|
@@ -46,7 +46,7 @@ Boils Water to Steam at 200 °C.<br/>This particular boiler uses Combustustable 
 
 
 ## CO2 Filter
-A fancy pump capable to detects Carbon Dioxide and pump it.
+A fancy pump capable to detect Carbon Dioxide and pump it.
 
 Automatically detects trace of Carbon Dioxide and extract it out of the surroudings.
 
@@ -166,7 +166,7 @@ Boils Water to Steam at 200 °C. This particular boiler uses Combustible Gases a
 |**Research Required:**| Fossil Fuels|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Refined Metal</td><td>1200 kg</td></tr><tr><td>Ceramic</td><td>1000 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 |**<font size="+1">Storage Capacity:</font>**| 10 t|&#8288 {: style="padding:0"}|
-| **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Water Input Pipe</td><td>Steam Output Pipe</td></tr><tr><td>Combustible Gas Input Pipe</td><td>-</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
+| **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Water Input Pipe</td><td>Steam Output Pipe</td></tr><tr><td>Combustible Gas Input Pipe</td><td>Carbon Dioxide Output Pipe</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 #### Element Conversion
 |Inputs:|Outputs:|
@@ -211,12 +211,12 @@ Slime Vat needs Water and Mush Bar to grow, producing Slime outgrowth that is co
 #### Element Conversion
 |Inputs:|Outputs:|
 |-|-|
-| ![MushBar](/assets/images/entities/MushBar.png){.inline-icon} Mush Bar (10 g/s)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} Water (50 g/s)<br>| ![SlimeMold](/assets/images/elements/SlimeMold.png){.inline-icon} Slime (60 g/s at -273.15°C)<br>|
+| ![MushBar](/assets/images/entities/MushBar.png){.inline-icon} Mush Bar (166.7 mg/s)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} Water (50 g/s)<br>| ![SlimeMold](/assets/images/elements/SlimeMold.png){.inline-icon} Slime (50 g/s at -273.15°C)<br>|
 
 
 |Inputs:|Outputs:|
 |-|-|
-| ![ContaminatedOxygen](/assets/images/elements/ContaminatedOxygen.png){.inline-icon} Polluted Oxygen (25 g/s)<br> ![MushBar](/assets/images/entities/MushBar.png){.inline-icon} Mush Bar (5 g/s)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} Dirt (50 g/s)<br>| ![SlimeMold](/assets/images/elements/SlimeMold.png){.inline-icon} Slime (50 g/s at -273.15°C)<br>|
+| ![ContaminatedOxygen](/assets/images/elements/ContaminatedOxygen.png){.inline-icon} Polluted Oxygen (25 g/s)<br> ![MushBar](/assets/images/entities/MushBar.png){.inline-icon} Mush Bar (166.7 mg/s)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} Dirt (50 g/s)<br>| ![SlimeMold](/assets/images/elements/SlimeMold.png){.inline-icon} Slime (75 g/s at -273.15°C)<br>|
 
 
 
@@ -232,7 +232,7 @@ Boils Water to Steam at 200 °C. This particular boiler uses Wood as fuel.
 |**Research Required:**| Fossil Fuels|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Refined Metal</td><td>1200 kg</td></tr><tr><td>Ceramic</td><td>1000 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 |**<font size="+1">Storage Capacity:</font>**| 10 t|&#8288 {: style="padding:0"}|
-| **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Water Input Pipe</td><td>Steam Output Pipe</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
+| **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Water Input Pipe</td><td>Steam Output Pipe</td></tr><tr><td>-</td><td>Carbon Dioxide Output Pipe</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 #### Element Conversion
 |Inputs:|Outputs:|

@@ -146,6 +146,19 @@
 |**<font size="+1">建造材料:</font>**|<table><tr><td>珍贵岩石</td><td>200千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 
+## 金属梯
+一架由精炼金属打造的坚固梯子。
+
+提高复制人的攀爬速度。
+
+| | | |
+|-|-|-|
+| ![AIO_MetalLadder](/assets/images/buildings/AIO_MetalLadder.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 1 x 高 1|
+|**耗电:**|  -  |&#8288 {: style="padding:0"}|
+|**科技:**| 熔炼|&#8288 {: style="padding:0"}| 
+|**<font size="+1">建造材料:</font>**|<table><tr><td>精炼金属</td><td>50千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+
+
 ## 马赛克砖
 由上釉石料制成的精美砖块。
 
@@ -301,7 +314,7 @@
 |**<font size="+1">建造材料:</font>**|<table><tr><td>矿物原料</td><td>375千克</td></tr><tr><td>木材</td><td>75千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 
-## 木质网格砖
+## 木质透气砖
 使用木制透气结构建造可促进基地内的气体流通。
 
 一种半透性的木质砖块，用于建造房间的墙壁和地板。<br/><br/>阻止液体流动的同时又不会阻碍气体的通过。
@@ -353,7 +366,7 @@
 |**<font size="+1">建造材料:</font>**|<table><tr><td>矿物原料</td><td>150千克</td></tr><tr><td>木材</td><td>50千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 
-## 木制透气砖
+## 木制网格砖
 使用木制透气结构建造可促进基地内的气体流通。
 
 一种具有透水性的木质砖块，用于建造房间的墙壁和地板。<br/>既能让液体也能让气体通过。

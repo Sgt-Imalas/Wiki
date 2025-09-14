@@ -93,17 +93,17 @@ Compresses Ammonia gas and cool it down to liquid Ammonia. This device is also c
 |**Research Required:**| Temperature Modulation|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Ceramic</td><td>400 kg</td></tr><tr><td>Refined Metal</td><td>200 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 |**<font size="+1">Storage Capacity:</font>**| 3000 kg|&#8288 {: style="padding:0"}|
-| **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Ammonia Input Pipe</td><td>Liquid Output Pipe</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
+| **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Ammonia Input Pipe</td><td>Liquid Ammonia Output Pipe</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 #### Element Conversion
 |Inputs:|Outputs:|
 |-|-|
-| ![AmmoniaGas](/assets/images/elements/AmmoniaGas.png){.inline-icon} Ammonia (500 g/s)<br>| ![LiquidAmmonia](/assets/images/elements/LiquidAmmonia.png){.inline-icon} Liquid Ammonia (500 g/s at -61°C)<br>|
+| ![AmmoniaGas](/assets/images/elements/AmmoniaGas.png){.inline-icon} Ammonia (1000 g/s)<br>| ![LiquidAmmonia](/assets/images/elements/LiquidAmmonia.png){.inline-icon} Liquid Ammonia (1000 g/s at -61°C)<br>|
 
 
 
 ## Ball Crusher Mill (Chemical Washing)
-A large sized industrial mill that crushes raw ores using steel balls and special mixture of acids. Capable to process much more than the standard mill, as well more efficient in the extraction of valuable minerals from the raw more sludge.
+A large sized industrial mill that crushes raw ores using steel balls and special mixture of acids. It is capable to process much more than the standard mill, as well as more efficient in the extraction of valuable minerals from the raw ore sludge.
 
 Crush down Raw Minerals in to useful materials and industrial ingredients.
 
@@ -142,12 +142,12 @@ Compresses Carbon Dioxide gas and cool it down toLiquid Carbon Dioxide. This dev
 |**Research Required:**| Temperature Modulation|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Ceramic</td><td>400 kg</td></tr><tr><td>Refined Metal</td><td>200 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 |**<font size="+1">Storage Capacity:</font>**| 3000 kg|&#8288 {: style="padding:0"}|
-| **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Carbon Dioxide Input Pipe</td><td>Liquid Output Pipe</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
+| **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Carbon Dioxide Input Pipe</td><td>Liquid Carbon Dioxide Output Pipe</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 #### Element Conversion
 |Inputs:|Outputs:|
 |-|-|
-| ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} Carbon Dioxide (500 g/s)<br>| ![LiquidCarbonDioxide](/assets/images/elements/LiquidCarbonDioxide.png){.inline-icon} Liquid Carbon Dioxide (500 g/s at -56°C)<br>|
+| ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} Carbon Dioxide (1000 g/s)<br>| ![LiquidCarbonDioxide](/assets/images/elements/LiquidCarbonDioxide.png){.inline-icon} Liquid Carbon Dioxide (1000 g/s at -56°C)<br>|
 
 
 
@@ -163,7 +163,7 @@ Boils Water to Steam at 200 °C.<br/>This particular boiler uses Combustustable 
 |**Research Required:**| Fossil Fuels|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Refined Metal</td><td>1200 kg</td></tr><tr><td>Ceramic</td><td>1000 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 |**<font size="+1">Storage Capacity:</font>**| 10 t|&#8288 {: style="padding:0"}|
-| **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Water Input Pipe</td><td>Steam Output Pipe</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
+| **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Water Input Pipe</td><td>Steam Output Pipe</td></tr><tr><td>-</td><td>Carbon Dioxide Output Pipe</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 #### Element Conversion
 |Inputs:|Outputs:|
@@ -222,7 +222,7 @@ An industrial aparatus capable to address several chemical reactions. Its large 
 
 
 ## CO2 Filter
-A fancy pump capable to detects Carbon Dioxide and pump it.
+A fancy pump capable to detect Carbon Dioxide and pump it.
 
 Automatically detects trace of Carbon Dioxide and extract it out of the surroudings.
 
@@ -353,7 +353,7 @@ Boils Water to Steam at 200 °C. This particular boiler uses Combustible Gases a
 |**Research Required:**| Fossil Fuels|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Refined Metal</td><td>1200 kg</td></tr><tr><td>Ceramic</td><td>1000 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 |**<font size="+1">Storage Capacity:</font>**| 10 t|&#8288 {: style="padding:0"}|
-| **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Water Input Pipe</td><td>Steam Output Pipe</td></tr><tr><td>Combustible Gas Input Pipe</td><td>-</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
+| **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Water Input Pipe</td><td>Steam Output Pipe</td></tr><tr><td>Combustible Gas Input Pipe</td><td>Carbon Dioxide Output Pipe</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 #### Element Conversion
 |Inputs:|Outputs:|
@@ -365,7 +365,7 @@ Boils Water to Steam at 200 °C. This particular boiler uses Combustible Gases a
 ## Glass Foundry
 A plasma arc furnace uses low-temperature plasma flow created by an electric arc heater (plasmatron).
 
-This techlogical advanced glass foundry is capable more than melt Sand in to Molten Glass, but a wide range of other applications.
+This technologically advanced glass foundry has a wide range of other applications beyond simply melting Sand into Molten Glass.
 
 | | | |
 |-|-|-|
@@ -609,7 +609,7 @@ Cook Wood to Coal.
 #### Element Conversion
 |Inputs:|Outputs:|
 |-|-|
-| ![WoodLog](/assets/images/elements/WoodLog.png){.inline-icon} Wood (1000 g/s)<br>| ![Carbon](/assets/images/elements/Carbon.png){.inline-icon} Coal (330 g/s at 39°C)<br> ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} Carbon Dioxide (100 g/s at 97°C)<br>|
+| ![WoodLog](/assets/images/elements/WoodLog.png){.inline-icon} Wood (1000 g/s)<br>| ![Carbon](/assets/images/elements/Carbon.png){.inline-icon} Coal (500 g/s at 39°C)<br> ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} Carbon Dioxide (100 g/s at 97°C)<br>|
 
 
 
@@ -835,7 +835,7 @@ Boils Water to Steam at 200 °C. This particular boiler uses Wood as fuel.
 |**Research Required:**| Fossil Fuels|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Refined Metal</td><td>1200 kg</td></tr><tr><td>Ceramic</td><td>1000 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 |**<font size="+1">Storage Capacity:</font>**| 10 t|&#8288 {: style="padding:0"}|
-| **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Water Input Pipe</td><td>Steam Output Pipe</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
+| **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Water Input Pipe</td><td>Steam Output Pipe</td></tr><tr><td>-</td><td>Carbon Dioxide Output Pipe</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 #### Element Conversion
 |Inputs:|Outputs:|
@@ -907,7 +907,7 @@ Extracts Crude Oil using clean Water.<br/><br/>Must be built atop an Oil Reservo
 #### Element Conversion
 |Inputs:|Outputs:|
 |-|-|
-| ![AnyWater](/assets/images/entities/AnyWater.png){.inline-icon} Water Based (1000 g/s)<br>| ![CrudeOil](/assets/images/elements/CrudeOil.png){.inline-icon} Crude Oil (3400 g/s at 90°C)<br> ![RawNaturalGas](/assets/images/elements/RawNaturalGas.png){.inline-icon} Raw Natural Gas (120 g/s at 120°C)<br>|
+| ![AnyWater](/assets/images/entities/AnyWater.png){.inline-icon} Water Based (1000 g/s)<br>| ![CrudeOil](/assets/images/elements/CrudeOil.png){.inline-icon} Crude Oil (3400 g/s at 90°C)<br>|
 
 
 

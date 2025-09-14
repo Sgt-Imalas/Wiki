@@ -1,6 +1,6 @@
 # 建筑
 ## 先进窑炉
-适用于广泛的工业和化学领域应用。
+适用于广泛的工业和化学领域。
 
 一种先进的隔热式电窑，其热量通过金属的感应加热方式传递。<br/>感应式窑炉的一个优点是，与大多数其他燃料加热方式相比，其加热过程更加清洁、节能且可控性更强。
 
@@ -93,12 +93,12 @@
 |**科技:**| 温度调节|&#8288 {: style="padding:0"}| 
 |**<font size="+1">建造材料:</font>**|<table><tr><td>陶瓷</td><td>400千克</td></tr><tr><td>精炼金属</td><td>200千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 |**<font size="+1">存储容量:</font>**| 3000千克|&#8288 {: style="padding:0"}|
-| **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>氨 输入管道</td><td>液体 输出管道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
+| **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>氨 输入管道</td><td>液态氨 输出管道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 #### 元素转换
 |输入:|输出:|
 |-|-|
-| ![AmmoniaGas](/assets/images/elements/AmmoniaGas.png){.inline-icon} 氨 (500克/秒)<br>| ![LiquidAmmonia](/assets/images/elements/LiquidAmmonia.png){.inline-icon} 液态氨 (500克/秒 于 -61°C)<br>|
+| ![AmmoniaGas](/assets/images/elements/AmmoniaGas.png){.inline-icon} 氨 (1000克/秒)<br>| ![LiquidAmmonia](/assets/images/elements/LiquidAmmonia.png){.inline-icon} 液态氨 (1000克/秒 于 -61°C)<br>|
 
 
 
@@ -142,12 +142,12 @@
 |**科技:**| 温度调节|&#8288 {: style="padding:0"}| 
 |**<font size="+1">建造材料:</font>**|<table><tr><td>陶瓷</td><td>400千克</td></tr><tr><td>精炼金属</td><td>200千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 |**<font size="+1">存储容量:</font>**| 3000千克|&#8288 {: style="padding:0"}|
-| **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>二氧化碳 输入管道</td><td>液体 输出管道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
+| **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>二氧化碳 输入管道</td><td>液态二氧化碳 输出管道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 #### 元素转换
 |输入:|输出:|
 |-|-|
-| ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} 二氧化碳 (500克/秒)<br>| ![LiquidCarbonDioxide](/assets/images/elements/LiquidCarbonDioxide.png){.inline-icon} 液态二氧化碳 (500克/秒 于 -56°C)<br>|
+| ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} 二氧化碳 (1000克/秒)<br>| ![LiquidCarbonDioxide](/assets/images/elements/LiquidCarbonDioxide.png){.inline-icon} 液态二氧化碳 (1000克/秒 于 -56°C)<br>|
 
 
 
@@ -163,7 +163,7 @@
 |**科技:**| 化石燃料|&#8288 {: style="padding:0"}| 
 |**<font size="+1">建造材料:</font>**|<table><tr><td>精炼金属</td><td>1200千克</td></tr><tr><td>陶瓷</td><td>1000千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 |**<font size="+1">存储容量:</font>**| 10吨|&#8288 {: style="padding:0"}|
-| **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>水 输入管道</td><td>蒸汽 输出管道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
+| **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>水 输入管道</td><td>蒸汽 输出管道</td></tr><tr><td>-</td><td>二氧化碳 输出管道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 #### 元素转换
 |输入:|输出:|
@@ -353,7 +353,7 @@
 |**科技:**| 化石燃料|&#8288 {: style="padding:0"}| 
 |**<font size="+1">建造材料:</font>**|<table><tr><td>精炼金属</td><td>1200千克</td></tr><tr><td>陶瓷</td><td>1000千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 |**<font size="+1">存储容量:</font>**| 10吨|&#8288 {: style="padding:0"}|
-| **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>水 输入管道</td><td>蒸汽 输出管道</td></tr><tr><td>可燃气体 输入管道</td><td>-</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
+| **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>水 输入管道</td><td>蒸汽 输出管道</td></tr><tr><td>可燃气体 输入管道</td><td>二氧化碳 输出管道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 #### 元素转换
 |输入:|输出:|
@@ -466,7 +466,7 @@
 ## 多级原料气精炼厂
 一座分级式的工业加工工厂，负责对从油井中提取的不纯净的原料天然气进行多级精炼处理。
 
-该精炼厂分三阶段运作：<br/>第一阶段： 天然原油精炼产出：<br/> - 50% 天然气<br/> - 40% 丙烷<br/> - 10% 酸气<br/><br/>第二阶段： 丙烷与氢气混合，完全转化为天然气<br/><br/>第三阶段： 剩余酸气与硝酸反应，生成氨气。
+该精炼厂分三阶段运作：<br/>第一阶段： 天然原油精炼产出：<br/> - 50% 天然气<br/> - 40% 丙烷<br/> - 10% 高硫天然气<br/><br/>第二阶段： 丙烷与氢气混合，完全转化为天然气<br/><br/>第三阶段： 剩余高硫天然气与硝酸反应，生成氨气。
 
 | | | |
 |-|-|-|
@@ -609,7 +609,7 @@
 #### 元素转换
 |输入:|输出:|
 |-|-|
-| ![WoodLog](/assets/images/elements/WoodLog.png){.inline-icon} 木材 (1000克/秒)<br>| ![Carbon](/assets/images/elements/Carbon.png){.inline-icon} 煤炭 (330克/秒 于 39°C)<br> ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} 二氧化碳 (100克/秒 于 97°C)<br>|
+| ![WoodLog](/assets/images/elements/WoodLog.png){.inline-icon} 木材 (1000克/秒)<br>| ![Carbon](/assets/images/elements/Carbon.png){.inline-icon} 煤炭 (500克/秒 于 39°C)<br> ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} 二氧化碳 (100克/秒 于 97°C)<br>|
 
 
 
@@ -835,7 +835,7 @@
 |**科技:**| 化石燃料|&#8288 {: style="padding:0"}| 
 |**<font size="+1">建造材料:</font>**|<table><tr><td>精炼金属</td><td>1200千克</td></tr><tr><td>陶瓷</td><td>1000千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 |**<font size="+1">存储容量:</font>**| 10吨|&#8288 {: style="padding:0"}|
-| **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>水 输入管道</td><td>蒸汽 输出管道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
+| **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>水 输入管道</td><td>蒸汽 输出管道</td></tr><tr><td>-</td><td>二氧化碳 输出管道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 #### 元素转换
 |输入:|输出:|
@@ -907,7 +907,7 @@
 #### 元素转换
 |输入:|输出:|
 |-|-|
-| ![AnyWater](/assets/images/entities/AnyWater.png){.inline-icon} 水基物 (1000克/秒)<br>| ![CrudeOil](/assets/images/elements/CrudeOil.png){.inline-icon} 原油 (3400克/秒 于 90°C)<br> ![RawNaturalGas](/assets/images/elements/RawNaturalGas.png){.inline-icon} 原料(天然)气 (120克/秒 于 120°C)<br>|
+| ![AnyWater](/assets/images/entities/AnyWater.png){.inline-icon} 水基物 (1000克/秒)<br>| ![CrudeOil](/assets/images/elements/CrudeOil.png){.inline-icon} 原油 (3400克/秒 于 90°C)<br>|
 
 
 

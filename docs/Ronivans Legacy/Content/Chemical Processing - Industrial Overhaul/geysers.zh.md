@@ -62,7 +62,7 @@
 
 | | | |
 |-|-|-|
-| ![GeyserGeneric_RawGasVent](/assets/images/geysers/GeyserGeneric_RawGasVent.png) {rowspan="3"} |尺寸: | 宽 4 x 高 2|
+| ![GeyserGeneric_RawGasVent](/assets/images/geysers/GeyserGeneric_RawGasVent.png) {rowspan="3"} |尺寸: | 宽 2 x 高 2|
 |排放 |  ![RawNaturalGas](/assets/images/elements/RawNaturalGas.png){.inline-icon} 原料(天然)气 于 500°C|&#8288 {: style="padding:0"} |
 |装饰|装饰度：+10（范围：2格）|&#8288 {: style="padding:0"}|
 

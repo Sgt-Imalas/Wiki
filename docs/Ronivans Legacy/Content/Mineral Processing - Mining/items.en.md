@@ -25,7 +25,7 @@
 
 
 ## Guidance Device (Unprogrammed)
-| ![Mining_Drillbits_GuidanceDevice_Item](/assets/images/entities/Mining_Drillbits_GuidanceDevice_Item.png){width="100"} |A sophisticated electronic module that aids the Mining Drillhead to navigate while operating.<br/>In general, the guidance system computes the instructions for the Drillhead control system, which comprises its actuators, increasing the performance and detecting element resources from its surroundings.<br/><br/>It can be programmed by a skilled Duplicant or by the CNC machine.|
+| ![Mining_Drillbits_GuidanceDevice_Item](/assets/images/entities/Mining_Drillbits_GuidanceDevice_Item.png){width="100"} |A sophisticated electronic module that aids the Mining Drillhead to navigate while operating.<br/>In general, the guidance system computes the instructions for the Drillhead control system, allowing for an improved drill performance and the ability to detect and target specific element resources from its surroundings.<br/><br/>It can be programmed by a skilled Duplicant or by the CNC machine.|
 |-|-|
 |Material| ![Creature](/assets/images/elements/Creature.png){.inline-icon} Genetic Ooze|
 |Mass|1|
@@ -33,7 +33,7 @@
 
 
 ## Guidance Device (Target: Aquifer)
-| ![Mining_GuidanceDevice_Aquifer](/assets/images/entities/Mining_GuidanceDevice_Aquifer.png){width="100"} |A sophisticated electronic module that aids the Mining Drillhead to navigate while operating.<br/>In general, the guidance system computes the instructions for the Drillhead control system, which comprises its actuators, increasing the performance and detecting element resources from its surroundings.<br/><br/>This guidance device is programmed to target the Aquifer.|
+| ![Mining_GuidanceDevice_Aquifer](/assets/images/entities/Mining_GuidanceDevice_Aquifer.png){width="100"} |A sophisticated electronic module that aids the Mining Drillhead to navigate while operating.<br/>In general, the guidance system computes the instructions for the Drillhead control system, allowing for an improved drill performance and the ability to detect and target specific element resources from its surroundings.<br/><br/>This guidance device is programmed to target the Aquifer.|
 |-|-|
 |Material| ![Creature](/assets/images/elements/Creature.png){.inline-icon} Genetic Ooze|
 |Mass|1|
@@ -41,7 +41,7 @@
 
 
 ## Guidance Device (Target: Cryosphere)
-| ![Mining_GuidanceDevice_Cryosphere](/assets/images/entities/Mining_GuidanceDevice_Cryosphere.png){width="100"} |A sophisticated electronic module that aids the Mining Drillhead to navigate while operating.<br/>In general, the guidance system computes the instructions for the Drillhead control system, which comprises its actuators, increasing the performance and detecting element resources from its surroundings.<br/><br/>This guidance device is programmed to target the Cryosphere.|
+| ![Mining_GuidanceDevice_Cryosphere](/assets/images/entities/Mining_GuidanceDevice_Cryosphere.png){width="100"} |A sophisticated electronic module that aids the Mining Drillhead to navigate while operating.<br/>In general, the guidance system computes the instructions for the Drillhead control system, allowing for an improved drill performance and the ability to detect and target specific element resources from its surroundings.<br/><br/>This guidance device is programmed to target the Cryosphere.|
 |-|-|
 |Material| ![Creature](/assets/images/elements/Creature.png){.inline-icon} Genetic Ooze|
 |Mass|1|
@@ -49,7 +49,7 @@
 
 
 ## Guidance Device (Target: Hard Stratum)
-| ![Mining_GuidanceDevice_hard_stratum](/assets/images/entities/Mining_GuidanceDevice_hard_stratum.png){width="100"} |A sophisticated electronic module that aids the Mining Drillhead to navigate while operating.<br/>In general, the guidance system computes the instructions for the Drillhead control system, which comprises its actuators, increasing the performance and detecting element resources from its surroundings.<br/><br/>This guidance device is programmed to target the Hard Stratum.|
+| ![Mining_GuidanceDevice_hard_stratum](/assets/images/entities/Mining_GuidanceDevice_hard_stratum.png){width="100"} |A sophisticated electronic module that aids the Mining Drillhead to navigate while operating.<br/>In general, the guidance system computes the instructions for the Drillhead control system, allowing for an improved drill performance and the ability to detect and target specific element resources from its surroundings.<br/><br/>This guidance device is programmed to target the Hard Stratum.|
 |-|-|
 |Material| ![Creature](/assets/images/elements/Creature.png){.inline-icon} Genetic Ooze|
 |Mass|1|
@@ -57,7 +57,7 @@
 
 
 ## Guidance Device (Target: Deep Mantle)
-| ![Mining_GuidanceDevice_mantle](/assets/images/entities/Mining_GuidanceDevice_mantle.png){width="100"} |A sophisticated electronic module that aids the Mining Drillhead to navigate while operating.<br/>In general, the guidance system computes the instructions for the Drillhead control system, which comprises its actuators, increasing the performance and detecting element resources from its surroundings.<br/><br/>This guidance device is programmed to target the Deep Mantle.|
+| ![Mining_GuidanceDevice_mantle](/assets/images/entities/Mining_GuidanceDevice_mantle.png){width="100"} |A sophisticated electronic module that aids the Mining Drillhead to navigate while operating.<br/>In general, the guidance system computes the instructions for the Drillhead control system, allowing for an improved drill performance and the ability to detect and target specific element resources from its surroundings.<br/><br/>This guidance device is programmed to target the Deep Mantle.|
 |-|-|
 |Material| ![Creature](/assets/images/elements/Creature.png){.inline-icon} Genetic Ooze|
 |Mass|1|
@@ -65,7 +65,7 @@
 
 
 ## Guidance Device (Target: Oil Reserves)
-| ![Mining_GuidanceDevice_oil_reserves](/assets/images/entities/Mining_GuidanceDevice_oil_reserves.png){width="100"} |A sophisticated electronic module that aids the Mining Drillhead to navigate while operating.<br/>In general, the guidance system computes the instructions for the Drillhead control system, which comprises its actuators, increasing the performance and detecting element resources from its surroundings.<br/><br/>This guidance device is programmed to target the Oil Reserves.|
+| ![Mining_GuidanceDevice_oil_reserves](/assets/images/entities/Mining_GuidanceDevice_oil_reserves.png){width="100"} |A sophisticated electronic module that aids the Mining Drillhead to navigate while operating.<br/>In general, the guidance system computes the instructions for the Drillhead control system, allowing for an improved drill performance and the ability to detect and target specific element resources from its surroundings.<br/><br/>This guidance device is programmed to target the Oil Reserves.|
 |-|-|
 |Material| ![Creature](/assets/images/elements/Creature.png){.inline-icon} Genetic Ooze|
 |Mass|1|
@@ -73,7 +73,7 @@
 
 
 ## Guidance Device (Target: Soft Stratum)
-| ![Mining_GuidanceDevice_soft_stratum](/assets/images/entities/Mining_GuidanceDevice_soft_stratum.png){width="100"} |A sophisticated electronic module that aids the Mining Drillhead to navigate while operating.<br/>In general, the guidance system computes the instructions for the Drillhead control system, which comprises its actuators, increasing the performance and detecting element resources from its surroundings.<br/><br/>This guidance device is programmed to target the Soft Stratum.|
+| ![Mining_GuidanceDevice_soft_stratum](/assets/images/entities/Mining_GuidanceDevice_soft_stratum.png){width="100"} |A sophisticated electronic module that aids the Mining Drillhead to navigate while operating.<br/>In general, the guidance system computes the instructions for the Drillhead control system, allowing for an improved drill performance and the ability to detect and target specific element resources from its surroundings.<br/><br/>This guidance device is programmed to target the Soft Stratum.|
 |-|-|
 |Material| ![Creature](/assets/images/elements/Creature.png){.inline-icon} Genetic Ooze|
 |Mass|1|
