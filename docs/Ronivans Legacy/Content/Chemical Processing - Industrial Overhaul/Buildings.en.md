@@ -404,8 +404,8 @@ Crush down Raw Minerals in to useful materials and industrial ingredients.
 |Ingredients:| Time: | Products:|
 |-|-|-|
 | ![EggShell](/assets/images/entities/EggShell.png){.inline-icon} Egg Shell (5 kg)<br>|20s| ![Lime](/assets/images/elements/Lime.png){.inline-icon} Lime (5 kg)<br>|
-| ![CrabShell](/assets/images/entities/CrabShell.png){.inline-icon} Pokeshell Molt (1000 g)<br>|20s| ![Lime](/assets/images/elements/Lime.png){.inline-icon} Lime (10 kg)<br>|
-| ![CrabWoodShell](/assets/images/entities/CrabWoodShell.png){.inline-icon} Oakshell Molt (5 kg)<br>|20s| ![WoodLog](/assets/images/elements/WoodLog.png){.inline-icon} Wood (500 kg)<br>|
+| ![CrabShell](/assets/images/entities/CrabShell.png){.inline-icon} Pokeshell Molt (10 kg)<br>|20s| ![Lime](/assets/images/elements/Lime.png){.inline-icon} Lime (10 kg)<br>|
+| ![CrabWoodShell](/assets/images/entities/CrabWoodShell.png){.inline-icon} Oakshell Molt (500 kg)<br>|20s| ![WoodLog](/assets/images/elements/WoodLog.png){.inline-icon} Wood (500 kg)<br>|
 | ![Fossil](/assets/images/elements/Fossil.png){.inline-icon} Fossil (100 kg)<br>|40s| ![Lime](/assets/images/elements/Lime.png){.inline-icon} Lime (5 kg)<br> ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} Crushed Rock (70 kg)<br> ![Bitumen](/assets/images/elements/Bitumen.png){.inline-icon} Bitumen (25 kg)<br>|
 | ![Salt](/assets/images/elements/Salt.png){.inline-icon} Salt (100 kg)<br>|40s| ![SolidBorax](/assets/images/elements/SolidBorax.png){.inline-icon} Borax (5 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (95 kg)<br> ![TableSalt](/assets/images/entities/TableSalt.png){.inline-icon} Table Salt (50 g)<br>|
 | ![PhosphateNodules](/assets/images/elements/PhosphateNodules.png){.inline-icon} Phosphate Nodules (100 kg)<br>|40s| ![Phosphorus](/assets/images/elements/Phosphorus.png){.inline-icon} Refined Phosphorus (70 kg)<br> ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} Crushed Rock (30 kg)<br>|
@@ -441,7 +441,7 @@ Crush down Raw Minerals in to useful materials and industrial ingredients.
 ## Multi-Stage Crude Oil Refinery
 An industrial process plant responsible for refining raw oil extracted from wells.
 
-The refinery has two stages: <br/><br/>First Stage: Crude Oil is first refined to:<br/>- 50% Petroleum<br/>- 25% Naphtha<br/>- 10% Natural Gas<br/>- 15% Bitumen.<br/><br/>Second Stage: Naphtha is furter refined:<br/>- 45% Petroleum<br/>- 10% Natural Gas<br/>- 45% Bitumen.<br/><br/>The first stage uses Steam for the distillation process, while the second Stage uses Hydrogen to buffer the reaction.
+The refinery has two stages: <br/><br/>First Stage: Crude Oil is first refined to:<br/>- 50% Petroleum<br/>- 25% Naphtha<br/>- 10% Natural Gas<br/>- 15% Bitumen.<br/><br/>Second Stage: Naphtha is further refined:<br/>- 45% Petroleum<br/>- 10% Natural Gas<br/>- 45% Bitumen.<br/><br/>The first stage uses Steam for the distillation process, while the second Stage uses Hydrogen to buffer the reaction.
 
 | | | |
 |-|-|-|
@@ -496,7 +496,7 @@ The refinery has three stages:<br/><br/>First Stage: Raw Natural Gas is first re
 ## Naphtha Reformer
 An industrial petrochemical plant responsible for rearranging hydrocarbon molecules of Naphtha in to Petroleum.
 
-This second stage refinement plant is capable of furter refining Naphtha:<br/> - 45% Petroleum<br/>- 10% Natural Gas<br/>- 45% Bitumen.<br/><br/>The process requires Hydrogen to buffer the reaction.IMPORTANT: The building require all pipes ports to be connected with their respective pipes in order for it to operate.
+This second stage refinement plant is capable of further refining Naphtha:<br/> - 45% Petroleum<br/>- 10% Natural Gas<br/>- 45% Bitumen.<br/><br/>The process requires Hydrogen to buffer the reaction.IMPORTANT: The building require all pipes ports to be connected with their respective pipes in order for it to operate.
 
 | | | |
 |-|-|-|
@@ -649,7 +649,7 @@ Produces Rayon Fiber from Wood pulp through a complex chemical reaction. Require
 #### Element Conversion
 |Inputs:|Outputs:|
 |-|-|
-| ![Syngas](/assets/images/elements/Syngas.png){.inline-icon} Synthesis Gas (800 g/s)<br>| ![Steam](/assets/images/elements/Steam.png){.inline-icon} Steam (25 g/s at 100°C)<br>|
+| ![Syngas](/assets/images/elements/Syngas.png){.inline-icon} Synthesis Gas (100 g/s)<br>| ![Steam](/assets/images/elements/Steam.png){.inline-icon} Steam (25 g/s at 100°C)<br>|
 
 
 ### Recipes
@@ -700,7 +700,7 @@ Special works with Refined Metals and in the manufacture of metal alloys.
 | ![Copper](/assets/images/elements/Copper.png){.inline-icon} Copper (80 kg)<br> ![Lead](/assets/images/elements/Lead.png){.inline-icon} Lead (15 kg)<br> ![Phosphorus](/assets/images/elements/Phosphorus.png){.inline-icon} Refined Phosphorus (5 kg)<br>|40s||
 | ![Iron](/assets/images/elements/Iron.png){.inline-icon} Iron (70 kg)<br> ![RefinedCarbon](/assets/images/elements/RefinedCarbon.png){.inline-icon} Refined Carbon (20 kg)<br> ![Lime](/assets/images/elements/Lime.png){.inline-icon} Lime (10 kg)<br>|40s||
 | ![Iron](/assets/images/elements/Iron.png){.inline-icon} Iron (70 kg)<br> ![RefinedCarbon](/assets/images/elements/RefinedCarbon.png){.inline-icon} Refined Carbon (20 kg)<br> ![Lime](/assets/images/elements/Lime.png){.inline-icon} Lime (5 kg)<br> ![SolidBorax](/assets/images/elements/SolidBorax.png){.inline-icon} Borax (5 kg)<br>|40s||
-| ![LowGradeSand](/assets/images/elements/LowGradeSand.png){.inline-icon} Low-Grade Metallic Sand (100 kg)<br> ![SolidBorax](/assets/images/elements/SolidBorax.png){.inline-icon} Borax (10 kg)<br>|50s| ![Copper](/assets/images/elements/Copper.png){.inline-icon} Copper<br> ![SolidZinc](/assets/images/elements/SolidZinc.png){.inline-icon} Zinc<br> ![Lead](/assets/images/elements/Lead.png){.inline-icon} Lead<br> ![SolidSilver](/assets/images/elements/SolidSilver.png){.inline-icon} Silver<br>|
+| ![LowGradeSand](/assets/images/elements/LowGradeSand.png){.inline-icon} Low-Grade Metallic Sand (100 kg)<br> ![SolidBorax](/assets/images/elements/SolidBorax.png){.inline-icon} Borax (10 kg)<br>|50s| ![Copper](/assets/images/elements/Copper.png){.inline-icon} Copper<br> ![Nickel](/assets/images/elements/Nickel.png){.inline-icon} Nickel<br> ![SolidZinc](/assets/images/elements/SolidZinc.png){.inline-icon} Zinc<br> ![Lead](/assets/images/elements/Lead.png){.inline-icon} Lead<br> ![SolidSilver](/assets/images/elements/SolidSilver.png){.inline-icon} Silver<br>|
 | ![BaseGradeSand](/assets/images/elements/BaseGradeSand.png){.inline-icon} Base-Grade Metallic Sand (100 kg)<br> ![SolidBorax](/assets/images/elements/SolidBorax.png){.inline-icon} Borax (10 kg)<br>|50s| ![Aluminum](/assets/images/elements/Aluminum.png){.inline-icon} Aluminum<br> ![Iron](/assets/images/elements/Iron.png){.inline-icon} Iron<br> ![Gold](/assets/images/elements/Gold.png){.inline-icon} Gold<br> ![Tungsten](/assets/images/elements/Tungsten.png){.inline-icon} Tungsten<br>|
 | ![HighGradeSand](/assets/images/elements/HighGradeSand.png){.inline-icon} High-Grade Metallic Sand (100 kg)<br> ![SolidBorax](/assets/images/elements/SolidBorax.png){.inline-icon} Borax (10 kg)<br> ![Graphite](/assets/images/elements/Graphite.png){.inline-icon} Graphite (10 kg)<br>|50s| ![Tungsten](/assets/images/elements/Tungsten.png){.inline-icon} Tungsten<br> ![Fullerene](/assets/images/elements/Fullerene.png){.inline-icon} Fullerene<br> ![Niobium](/assets/images/elements/Niobium.png){.inline-icon} Niobium<br>|
 | ![TempConductorSolid](/assets/images/elements/TempConductorSolid.png){.inline-icon} Thermium (100 kg)<br>|50s||
@@ -731,7 +731,7 @@ A solid material mixer designed for agricultural purpose, mainly for the product
 | ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} Crushed Rock (40 kg)<br> ![ToxicSand](/assets/images/elements/ToxicSand.png){.inline-icon} Polluted Dirt (20 kg)<br> ![Peat](/assets/images/elements/Peat.png){.inline-icon} Peat (20 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} Water (20 kg)<br>|60s| ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} Dirt (100 kg)<br>|
 | ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} Crushed Rock (40 kg)<br> ![ToxicSand](/assets/images/elements/ToxicSand.png){.inline-icon} Polluted Dirt (20 kg)<br> ![WoodLog](/assets/images/elements/WoodLog.png){.inline-icon} Wood (20 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} Water (20 kg)<br>|60s| ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} Dirt (100 kg)<br>|
 | ![WoodLog](/assets/images/elements/WoodLog.png){.inline-icon} Wood (60 kg)<br> ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} Crushed Rock (30 kg)<br> ![DirtyWater](/assets/images/elements/DirtyWater.png){.inline-icon} Polluted Water (10 kg)<br>|60s| ![ToxicSand](/assets/images/elements/ToxicSand.png){.inline-icon} Polluted Dirt (100 kg)<br>|
-| ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} Compressed Biomass (40 kg)<br> ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} Crushed Rock (50 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} Water (10 kg)<br>|60s| ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} Dirt (100 kg)<br>|
+| ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} Compressed Biomass (20 kg)<br> ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} Crushed Rock (40 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (30 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} Water (10 kg)<br>|60s| ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} Dirt (100 kg)<br>|
 
 
 
@@ -791,8 +791,8 @@ Produce Synthetic Gas from a variety of Organic and Mineral materials.
 ### Recipes
 |Ingredients:| Time: | Products:|
 |-|-|-|
-| ![WoodLog](/assets/images/elements/WoodLog.png){.inline-icon} Wood (100 kg)<br>|50s| ![Syngas](/assets/images/elements/Syngas.png){.inline-icon} Synthesis Gas (25 kg)<br> ![ToxicSand](/assets/images/elements/ToxicSand.png){.inline-icon} Polluted Dirt (75 kg)<br>|
-| ![Bitumen](/assets/images/elements/Bitumen.png){.inline-icon} Bitumen (100 kg)<br>|50s| ![Syngas](/assets/images/elements/Syngas.png){.inline-icon} Synthesis Gas (25 kg)<br> ![RefinedCarbon](/assets/images/elements/RefinedCarbon.png){.inline-icon} Refined Carbon (75 kg)<br>|
+| ![WoodLog](/assets/images/elements/WoodLog.png){.inline-icon} Wood (100 kg)<br>|50s| ![Syngas](/assets/images/elements/Syngas.png){.inline-icon} Synthesis Gas (10 kg)<br> ![ToxicSand](/assets/images/elements/ToxicSand.png){.inline-icon} Polluted Dirt (90 kg)<br>|
+| ![Bitumen](/assets/images/elements/Bitumen.png){.inline-icon} Bitumen (100 kg)<br>|50s| ![Syngas](/assets/images/elements/Syngas.png){.inline-icon} Synthesis Gas (10 kg)<br> ![RefinedCarbon](/assets/images/elements/RefinedCarbon.png){.inline-icon} Refined Carbon (90 kg)<br>|
 | ![SolidOilShale](/assets/images/elements/SolidOilShale.png){.inline-icon} Oil Shale (100 kg)<br>|50s| ![Syngas](/assets/images/elements/Syngas.png){.inline-icon} Synthesis Gas (50 kg)<br> ![Petroleum](/assets/images/elements/Petroleum.png){.inline-icon} Petroleum (30 kg)<br> ![RefinedCarbon](/assets/images/elements/RefinedCarbon.png){.inline-icon} Refined Carbon (20 kg)<br>|
 | ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} Compressed Biomass (100 kg)<br>|30s| ![Syngas](/assets/images/elements/Syngas.png){.inline-icon} Synthesis Gas (25 kg)<br> ![ToxicSand](/assets/images/elements/ToxicSand.png){.inline-icon} Polluted Dirt (75 kg)<br>|
 
@@ -907,7 +907,7 @@ Extracts Crude Oil using clean Water.<br/><br/>Must be built atop an Oil Reservo
 #### Element Conversion
 |Inputs:|Outputs:|
 |-|-|
-| ![AnyWater](/assets/images/entities/AnyWater.png){.inline-icon} Water Based (1000 g/s)<br>| ![CrudeOil](/assets/images/elements/CrudeOil.png){.inline-icon} Crude Oil (3400 g/s at 90°C)<br>|
+| ![AnyWater](/assets/images/entities/AnyWater.png){.inline-icon} Water Based (1000 g/s)<br>| ![CrudeOil](/assets/images/elements/CrudeOil.png){.inline-icon} Crude Oil (3400 g/s at 90°C)<br> ![RawNaturalGas](/assets/images/elements/RawNaturalGas.png){.inline-icon} Raw Natural Gas (120 g/s at 120°C)<br>|
 
 
 

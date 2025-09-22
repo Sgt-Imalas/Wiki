@@ -404,8 +404,8 @@
 |材料:| 耗时: | 产物:|
 |-|-|-|
 | ![EggShell](/assets/images/entities/EggShell.png){.inline-icon} Egg Shell (5千克)<br>|20s| ![Lime](/assets/images/elements/Lime.png){.inline-icon} 石灰 (5千克)<br>|
-| ![CrabShell](/assets/images/entities/CrabShell.png){.inline-icon} Pokeshell Molt (1000克)<br>|20s| ![Lime](/assets/images/elements/Lime.png){.inline-icon} 石灰 (10千克)<br>|
-| ![CrabWoodShell](/assets/images/entities/CrabWoodShell.png){.inline-icon} Oakshell Molt (5千克)<br>|20s| ![WoodLog](/assets/images/elements/WoodLog.png){.inline-icon} 木材 (500千克)<br>|
+| ![CrabShell](/assets/images/entities/CrabShell.png){.inline-icon} Pokeshell Molt (10千克)<br>|20s| ![Lime](/assets/images/elements/Lime.png){.inline-icon} 石灰 (10千克)<br>|
+| ![CrabWoodShell](/assets/images/entities/CrabWoodShell.png){.inline-icon} Oakshell Molt (500千克)<br>|20s| ![WoodLog](/assets/images/elements/WoodLog.png){.inline-icon} 木材 (500千克)<br>|
 | ![Fossil](/assets/images/elements/Fossil.png){.inline-icon} 化石 (100千克)<br>|40s| ![Lime](/assets/images/elements/Lime.png){.inline-icon} 石灰 (5千克)<br> ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} 碎岩 (70千克)<br> ![Bitumen](/assets/images/elements/Bitumen.png){.inline-icon} 沥青 (25千克)<br>|
 | ![Salt](/assets/images/elements/Salt.png){.inline-icon} 盐 (100千克)<br>|40s| ![SolidBorax](/assets/images/elements/SolidBorax.png){.inline-icon} 硼砂 (5千克)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (95千克)<br> ![TableSalt](/assets/images/entities/TableSalt.png){.inline-icon} Table Salt (50克)<br>|
 | ![PhosphateNodules](/assets/images/elements/PhosphateNodules.png){.inline-icon} 磷酸盐结晶 (100千克)<br>|40s| ![Phosphorus](/assets/images/elements/Phosphorus.png){.inline-icon} 精炼磷 (70千克)<br> ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} 碎岩 (30千克)<br>|
@@ -649,7 +649,7 @@
 #### 元素转换
 |输入:|输出:|
 |-|-|
-| ![Syngas](/assets/images/elements/Syngas.png){.inline-icon} 合成气 (800克/秒)<br>| ![Steam](/assets/images/elements/Steam.png){.inline-icon} 蒸汽 (25克/秒 于 100°C)<br>|
+| ![Syngas](/assets/images/elements/Syngas.png){.inline-icon} 合成气 (100克/秒)<br>| ![Steam](/assets/images/elements/Steam.png){.inline-icon} 蒸汽 (25克/秒 于 100°C)<br>|
 
 
 ### 配方
@@ -681,7 +681,7 @@
 
 
 
-## 选择性电弧炉
+## "CHEMICALSELECTIVEARCFURNACE"选择性电弧炉
 一种通过电弧加热材料的专用熔炉。其精密的温度控制结构能够实现金属合金的混合，还能将金属从混合的废料中分离出来。由于该熔炉是采用风冷方式，因此会将大量热量释放到周围环境中。
 
 用于精炼金属的特殊加工和制造金属合金。
@@ -700,7 +700,7 @@
 | ![Copper](/assets/images/elements/Copper.png){.inline-icon} 铜 (80千克)<br> ![Lead](/assets/images/elements/Lead.png){.inline-icon} 铅 (15千克)<br> ![Phosphorus](/assets/images/elements/Phosphorus.png){.inline-icon} 精炼磷 (5千克)<br>|40s||
 | ![Iron](/assets/images/elements/Iron.png){.inline-icon} 铁 (70千克)<br> ![RefinedCarbon](/assets/images/elements/RefinedCarbon.png){.inline-icon} 精炼碳 (20千克)<br> ![Lime](/assets/images/elements/Lime.png){.inline-icon} 石灰 (10千克)<br>|40s||
 | ![Iron](/assets/images/elements/Iron.png){.inline-icon} 铁 (70千克)<br> ![RefinedCarbon](/assets/images/elements/RefinedCarbon.png){.inline-icon} 精炼碳 (20千克)<br> ![Lime](/assets/images/elements/Lime.png){.inline-icon} 石灰 (5千克)<br> ![SolidBorax](/assets/images/elements/SolidBorax.png){.inline-icon} 硼砂 (5千克)<br>|40s||
-| ![LowGradeSand](/assets/images/elements/LowGradeSand.png){.inline-icon} 低级金属砂 (100千克)<br> ![SolidBorax](/assets/images/elements/SolidBorax.png){.inline-icon} 硼砂 (10千克)<br>|50s| ![Copper](/assets/images/elements/Copper.png){.inline-icon} 铜<br> ![SolidZinc](/assets/images/elements/SolidZinc.png){.inline-icon} 锌<br> ![Lead](/assets/images/elements/Lead.png){.inline-icon} 铅<br> ![SolidSilver](/assets/images/elements/SolidSilver.png){.inline-icon} 银<br>|
+| ![LowGradeSand](/assets/images/elements/LowGradeSand.png){.inline-icon} 低级金属砂 (100千克)<br> ![SolidBorax](/assets/images/elements/SolidBorax.png){.inline-icon} 硼砂 (10千克)<br>|50s| ![Copper](/assets/images/elements/Copper.png){.inline-icon} 铜<br> ![Nickel](/assets/images/elements/Nickel.png){.inline-icon} 镍<br> ![SolidZinc](/assets/images/elements/SolidZinc.png){.inline-icon} 锌<br> ![Lead](/assets/images/elements/Lead.png){.inline-icon} 铅<br> ![SolidSilver](/assets/images/elements/SolidSilver.png){.inline-icon} 银<br>|
 | ![BaseGradeSand](/assets/images/elements/BaseGradeSand.png){.inline-icon} 中级金属砂 (100千克)<br> ![SolidBorax](/assets/images/elements/SolidBorax.png){.inline-icon} 硼砂 (10千克)<br>|50s| ![Aluminum](/assets/images/elements/Aluminum.png){.inline-icon} 铝<br> ![Iron](/assets/images/elements/Iron.png){.inline-icon} 铁<br> ![Gold](/assets/images/elements/Gold.png){.inline-icon} 金<br> ![Tungsten](/assets/images/elements/Tungsten.png){.inline-icon} 钨<br>|
 | ![HighGradeSand](/assets/images/elements/HighGradeSand.png){.inline-icon} 高级金属砂 (100千克)<br> ![SolidBorax](/assets/images/elements/SolidBorax.png){.inline-icon} 硼砂 (10千克)<br> ![Graphite](/assets/images/elements/Graphite.png){.inline-icon} 石墨 (10千克)<br>|50s| ![Tungsten](/assets/images/elements/Tungsten.png){.inline-icon} 钨<br> ![Fullerene](/assets/images/elements/Fullerene.png){.inline-icon} 富勒烯<br> ![Niobium](/assets/images/elements/Niobium.png){.inline-icon} 铌<br>|
 | ![TempConductorSolid](/assets/images/elements/TempConductorSolid.png){.inline-icon} 导热质 (100千克)<br>|50s||
@@ -731,7 +731,7 @@
 | ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} 碎岩 (40千克)<br> ![ToxicSand](/assets/images/elements/ToxicSand.png){.inline-icon} 污染土 (20千克)<br> ![Peat](/assets/images/elements/Peat.png){.inline-icon} 泥炭 (20千克)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (20千克)<br>|60s| ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} 泥土 (100千克)<br>|
 | ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} 碎岩 (40千克)<br> ![ToxicSand](/assets/images/elements/ToxicSand.png){.inline-icon} 污染土 (20千克)<br> ![WoodLog](/assets/images/elements/WoodLog.png){.inline-icon} 木材 (20千克)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (20千克)<br>|60s| ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} 泥土 (100千克)<br>|
 | ![WoodLog](/assets/images/elements/WoodLog.png){.inline-icon} 木材 (60千克)<br> ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} 碎岩 (30千克)<br> ![DirtyWater](/assets/images/elements/DirtyWater.png){.inline-icon} 污染水 (10千克)<br>|60s| ![ToxicSand](/assets/images/elements/ToxicSand.png){.inline-icon} 污染土 (100千克)<br>|
-| ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} 压缩生物质 (40千克)<br> ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} 碎岩 (50千克)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (10千克)<br>|60s| ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} 泥土 (100千克)<br>|
+| ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} 压缩生物质 (20千克)<br> ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} 碎岩 (40千克)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (30千克)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (10千克)<br>|60s| ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} 泥土 (100千克)<br>|
 
 
 
@@ -791,8 +791,8 @@
 ### 配方
 |材料:| 耗时: | 产物:|
 |-|-|-|
-| ![WoodLog](/assets/images/elements/WoodLog.png){.inline-icon} 木材 (100千克)<br>|50s| ![Syngas](/assets/images/elements/Syngas.png){.inline-icon} 合成气 (25千克)<br> ![ToxicSand](/assets/images/elements/ToxicSand.png){.inline-icon} 污染土 (75千克)<br>|
-| ![Bitumen](/assets/images/elements/Bitumen.png){.inline-icon} 沥青 (100千克)<br>|50s| ![Syngas](/assets/images/elements/Syngas.png){.inline-icon} 合成气 (25千克)<br> ![RefinedCarbon](/assets/images/elements/RefinedCarbon.png){.inline-icon} 精炼碳 (75千克)<br>|
+| ![WoodLog](/assets/images/elements/WoodLog.png){.inline-icon} 木材 (100千克)<br>|50s| ![Syngas](/assets/images/elements/Syngas.png){.inline-icon} 合成气 (10千克)<br> ![ToxicSand](/assets/images/elements/ToxicSand.png){.inline-icon} 污染土 (90千克)<br>|
+| ![Bitumen](/assets/images/elements/Bitumen.png){.inline-icon} 沥青 (100千克)<br>|50s| ![Syngas](/assets/images/elements/Syngas.png){.inline-icon} 合成气 (10千克)<br> ![RefinedCarbon](/assets/images/elements/RefinedCarbon.png){.inline-icon} 精炼碳 (90千克)<br>|
 | ![SolidOilShale](/assets/images/elements/SolidOilShale.png){.inline-icon} 油页岩 (100千克)<br>|50s| ![Syngas](/assets/images/elements/Syngas.png){.inline-icon} 合成气 (50千克)<br> ![Petroleum](/assets/images/elements/Petroleum.png){.inline-icon} 石油 (30千克)<br> ![RefinedCarbon](/assets/images/elements/RefinedCarbon.png){.inline-icon} 精炼碳 (20千克)<br>|
 | ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} 压缩生物质 (100千克)<br>|30s| ![Syngas](/assets/images/elements/Syngas.png){.inline-icon} 合成气 (25千克)<br> ![ToxicSand](/assets/images/elements/ToxicSand.png){.inline-icon} 污染土 (75千克)<br>|
 
@@ -907,7 +907,7 @@
 #### 元素转换
 |输入:|输出:|
 |-|-|
-| ![AnyWater](/assets/images/entities/AnyWater.png){.inline-icon} 水基物 (1000克/秒)<br>| ![CrudeOil](/assets/images/elements/CrudeOil.png){.inline-icon} 原油 (3400克/秒 于 90°C)<br>|
+| ![AnyWater](/assets/images/entities/AnyWater.png){.inline-icon} 水基物 (1000克/秒)<br>| ![CrudeOil](/assets/images/elements/CrudeOil.png){.inline-icon} 原油 (3400克/秒 于 90°C)<br> ![RawNaturalGas](/assets/images/elements/RawNaturalGas.png){.inline-icon} 原料(天然)气 (120克/秒 于 120°C)<br>|
 
 
 

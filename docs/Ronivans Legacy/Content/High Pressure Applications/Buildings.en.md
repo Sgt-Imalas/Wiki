@@ -169,7 +169,7 @@ Allows Solid Materials to be transfered from Heavy-Duty Rails to normal Conveyor
 ## High Pressure Gas Conduit
 A reinforced gas pipe capable of handling high pressure flow.<br/>Composite nature of the pipe prevents gas contents from significantly changing temperature in transit.
 
-Carries a maximum of 11 kg of Gas with minimal change in Temperature.<br/><br/>Can be run through wall and floor tile.
+Carries a maximum of 10 kg of Gas with minimal change in Temperature.<br/><br/>Can be run through wall and floor tile.
 
 | | | |
 |-|-|-|
@@ -252,7 +252,7 @@ Filters all selected Liquids out of a mix, sending it into a dedicated Filtered 
 ## High Pressure Liquid Pipe
 A reinforced liquid pipe capable of handling high pressure flow. Composite nature of the pipe prevents liquid contents from significantly changing temperature in transit.
 
-Carries a maximum of 44 kg of Liquid with minimal change in Temperature.<br/><br/>Can be run through wall and floor tile.
+Carries a maximum of 40 kg of Liquid with minimal change in Temperature.<br/><br/>Can be run through wall and floor tile.
 
 | | | |
 |-|-|-|

@@ -46,15 +46,17 @@ LIST WIP.
 ### Elements
 
 - Biodiesel has been renamed to "Renewable Diesel" to avoid confusion with the new vanilla element
-- vegetable oil can now be turned into phyto oil (25kg oil + 75kg water -> 100kg phytooil, consider it to be concentrated phyto oil)
+- vegetable oil can now be turned into phyto oil (15kg oil + 85kg water -> 100kg phytooil, consider it to be concentrated phyto oil)
 - Bioplastic now works as a substitute for normal plastic in several recipes
 
 ### Buildings
 
 - Anaerobic digester recipes are now generated dynamically based on the underlying formula instead of being hardcoded. This will automatically include new food types now.
 - New PPP food recipes have been added to the Expeller Press
+- Slight rebalancing of oil and biomass yields
 - expeller press seed recipes are now dynamic and grouped into one entry
 - expeller press seed recipes now use 10 seeds at once
+- increased biomass to dirt yields
 - fixed spindly grubfruit oil amount based on the described calculation (same formula, but it now uses spindly grubfruit values for its calculation, instead of regular grubfruit)
 - reduced expeller press working time
 - The Algae Growing Basins light requirement has been restored. It can now have its production speed boosted by high light intensity
@@ -91,6 +93,7 @@ LIST WIP.
 - coal boiler can now burn peat as an alternative to coal
 - The old Raw Gas Refinery and Crude Oil Refinery buildings have been restored as "Multi-Staged-[...]" buildings (they have each been split into two newer buildings)
 - changed base game co2 recycler output from refined carbon to fullerene to mirror the graphite output in spaced out better
+- slightly reduced syngas yield of wood conversion
 
 ## Custom Generators
 
@@ -183,3 +186,4 @@ LIST WIP.
 - fixed building hitbox of light reactor
 - made rad projector 3 high to have the emitter in the center of the animation again
 - restored radiation emission values from mod page
+- light reactor now counts for the reactor achievment

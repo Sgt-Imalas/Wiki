@@ -175,7 +175,7 @@ Used as floor and wall tile to build rooms.<br/><br/>Significantly increases Dup
 ## Reinforced Concrete Tile
 Concrete tiles are not aesthetically pleasing, but they make up for strength and thermal resistance.
 
-A rock hard composite tile made with coarse aggregate bonded together with a fluid cement.<br/>The concrete's relatively low tensile strength and ductility are compensated for by the inclusion of a internal rebar reinforcement having higher tensile strength or ductility.
+A rock hard composite tile made with coarse aggregate bonded together with a fluid cement.<br/>The concrete's relatively low tensile strength and ductility are compensated for by the inclusion of a internal rebar reinforcement having higher tensile strength or ductility.<br/><br/>Immune against meteor impact damage.
 
 | | | |
 |-|-|-|
