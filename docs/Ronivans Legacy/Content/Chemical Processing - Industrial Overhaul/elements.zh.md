@@ -4,7 +4,7 @@
 
 |<font size="+1">材料</font> | | <font size="+1">元素</font> |
 |:-:|:-:|:-|
-|<font size="+1">硬化合金</font> <br/> <br/>|硬化合金是两种或多种材料的熔合产物。<br/>其高强度特性使其可作为钢的替代材料使用。| ![PhosphorBronze](/assets/images/elements/PhosphorBronze.png){.inline-icon} 磷青铜<br/> ![Plasteel](/assets/images/elements/Plasteel.png){.inline-icon} 塑晶钢<br/>|
+|<font size="+1">硬化合金</font> <br/> <br/>|硬化合金是两种或多种材料的熔合产物。<br/>其高强度特性使其可作为钢的替代材料使用。| ![PhosphorBronze](/assets/images/elements/PhosphorBronze.png){.inline-icon} 磷青铜<br/> ![Plasteel](/assets/images/elements/Plasteel.png){.inline-icon} 塑晶钢<br/> ![UnobtaniumAlloy](/assets/images/elements/UnobtaniumAlloy.png){.inline-icon} MISSING.STRINGS.ELEMENTS.UNOBTANIUMALLOY.NAME<br/>|
 |<font size="+1">载气</font> <br/> <br/>|载气是一类用于等离子体相关工艺的惰性或半惰性气体。| ![Helium](/assets/images/elements/Helium.png){.inline-icon} 氦气<br/> ![Hydrogen](/assets/images/elements/Hydrogen.png){.inline-icon} 氢气<br/> ![NitrogenGas](/assets/images/elements/NitrogenGas.png){.inline-icon} 氮气<br/>|
 |<font size="+1">金属砂</font> <br/> <br/>|由不同数量的金属颗粒组成的砂质材料| ![BaseGradeSand](/assets/images/elements/BaseGradeSand.png){.inline-icon} 中级金属砂<br/> ![LowGradeSand](/assets/images/elements/LowGradeSand.png){.inline-icon} 低级金属砂<br/> ![HighGradeSand](/assets/images/elements/HighGradeSand.png){.inline-icon} 高级金属砂<br/>|
 
@@ -64,7 +64,7 @@
 
 | |<font size="+1">材料属性</font>| |
 |-|-|-|
-| ![CarbonFiber](/assets/images/elements/CarbonFiber.png){width="200"} |<br/>资源种类：人造材料<br/><br/>熔点：4726.85°C<br/>-> ![MoltenCarbon](/assets/images/elements/MoltenCarbon.png){.inline-icon} 熔融碳<br/><br/>硬度：250<br/><br/>属性：<br/>一般建造材料, 不可粉碎物, 可做水管的物质, 固体, 精炼金属, 金属矿石, 隔热体|<br/>比热容：<br/>0.239 (DTU/g)/ ºC<br/><br/>热导率：<br/>0.000 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：1<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
+| ![CarbonFiber](/assets/images/elements/CarbonFiber.png){width="200"} |<br/>资源种类：人造材料<br/><br/>熔点：4726.85°C<br/>-> ![MoltenCarbon](/assets/images/elements/MoltenCarbon.png){.inline-icon} 熔融碳<br/><br/>硬度：250<br/><br/>属性：<br/>不可粉碎物, 可做水管的物质, 固体, 矿物原料, 精炼金属, 金属矿石, 隔热体|<br/>比热容：<br/>0.239 (DTU/g)/ ºC<br/><br/>热导率：<br/>0.000 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：1<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
 
 #### 异丙烷
 
@@ -379,7 +379,7 @@
 
 | |<font size="+1">材料属性</font>| |
 |-|-|-|
-| ![Naphtha](/assets/images/elements/Naphtha.png){width="200"} |<br/>资源种类：液体<br/><br/>冰点：-50.15°C<br/>-> ![SolidNaphtha](/assets/images/elements/SolidNaphtha.png){.inline-icon} 固态石脑油<br/><br/>沸点：538.85°C<br/>-> ![SourGas](/assets/images/elements/SourGas.png){.inline-icon} 高硫天然气<br/><br/><br/>属性：<br/>可燃液体, 烃类物质|<br/>比热容：<br/>2.191 (DTU/g)/ ºC<br/><br/>热导率：<br/>0.200 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.6<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
+| ![Naphtha](/assets/images/elements/Naphtha.png){width="200"} |<br/>资源种类：液体<br/><br/>冰点：-50.15°C<br/>-> ![SolidNaphtha](/assets/images/elements/SolidNaphtha.png){.inline-icon} 固态石脑油<br/><br/>沸点：538.85°C<br/>-> ![SourGas](/assets/images/elements/SourGas.png){.inline-icon} 高硫天然气<br/><br/><br/>属性：<br/>烃类物质|<br/>比热容：<br/>2.191 (DTU/g)/ ºC<br/><br/>热导率：<br/>0.200 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.6<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
 
 #### 碎岩
 
@@ -403,7 +403,7 @@
 
 | |<font size="+1">材料属性</font>| |
 |-|-|-|
-| ![Electrum](/assets/images/elements/Electrum.png){width="200"} |<br/>资源种类：金属矿石<br/><br/>熔点：1063.85°C<br/>40 %  ![MoltenGold](/assets/images/elements/MoltenGold.png){.inline-icon} 熔融金,<br/>60 % ![SolidSilver](/assets/images/elements/SolidSilver.png){.inline-icon} 银<br/><br/>硬度：2<br/><br/>属性：<br/>一般建造材料, 固体, 矿石|<br/>比热容：<br/>0.150 (DTU/g)/ ºC<br/><br/>热导率：<br/>2.000 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.35<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
+| ![Electrum](/assets/images/elements/Electrum.png){width="200"} |<br/>资源种类：金属矿石<br/><br/>熔点：1022.71°C<br/>40 %  ![MoltenSilver](/assets/images/elements/MoltenSilver.png){.inline-icon} 熔融银,<br/>60 % ![Gold](/assets/images/elements/Gold.png){.inline-icon} 金<br/><br/>硬度：2<br/><br/>属性：<br/>一般建造材料, 固体, 矿石|<br/>比热容：<br/>0.150 (DTU/g)/ ºC<br/><br/>热导率：<br/>2.000 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.35<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
 
 ## 动物饮食扩展
 

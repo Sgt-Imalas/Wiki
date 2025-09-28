@@ -243,7 +243,7 @@ This refinement plant is capable of the following production from Crude Oil: <br
 | | | |
 |-|-|-|
 | ![Chemical_CrudeOilRefinery](/assets/images/buildings/Chemical_CrudeOilRefinery.png){height="100"} {rowspan="3"}|**Dimensions:** | 4 wide x 5 high|
-|**Power Consumption:**| 640 W |&#8288 {: style="padding:0"}|
+|**Power Consumption:**| 480 W |&#8288 {: style="padding:0"}|
 |**Research Required:**| Fossil Fuels|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Refined Metal</td><td>300 kg</td></tr><tr><td>Steel or Hardened Alloy</td><td>100 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Crude Oil Input Pipe</td><td>Petroleum Output Pipe</td></tr><tr><td>Steam Input Pipe</td><td>Sour Water Output Pipe</td></tr><tr><td>-</td><td>Liquid Naphtha Output Pipe</td></tr><tr><td>-</td><td>Natural Gas Output Pipe</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
@@ -251,7 +251,7 @@ This refinement plant is capable of the following production from Crude Oil: <br
 #### Element Conversion
 |Inputs:|Outputs:|
 |-|-|
-| ![CrudeOil](/assets/images/elements/CrudeOil.png){.inline-icon} Crude Oil (10 kg/s)<br> ![Steam](/assets/images/elements/Steam.png){.inline-icon} Steam (500 g/s)<br>| ![Petroleum](/assets/images/elements/Petroleum.png){.inline-icon} Petroleum (5 kg/s at 98°C)<br> ![Naphtha](/assets/images/elements/Naphtha.png){.inline-icon} Liquid Naphtha (2500 g/s)<br> ![Methane](/assets/images/elements/Methane.png){.inline-icon} Natural Gas (1000 g/s at 115°C)<br> ![Bitumen](/assets/images/elements/Bitumen.png){.inline-icon} Bitumen (500 g/s)<br> ![SourWater](/assets/images/elements/SourWater.png){.inline-icon} Sour Water (1000 g/s)<br>|
+| ![CrudeOil](/assets/images/elements/CrudeOil.png){.inline-icon} Crude Oil (9.5 kg/s)<br> ![Steam](/assets/images/elements/Steam.png){.inline-icon} Steam (500 g/s)<br>| ![Petroleum](/assets/images/elements/Petroleum.png){.inline-icon} Petroleum (5 kg/s at 98°C)<br> ![Naphtha](/assets/images/elements/Naphtha.png){.inline-icon} Liquid Naphtha (2500 g/s)<br> ![Methane](/assets/images/elements/Methane.png){.inline-icon} Natural Gas (1000 g/s at 115°C)<br> ![Bitumen](/assets/images/elements/Bitumen.png){.inline-icon} Bitumen (500 g/s)<br> ![SourWater](/assets/images/elements/SourWater.png){.inline-icon} Sour Water (1000 g/s)<br>|
 
 
 
@@ -441,25 +441,25 @@ Crush down Raw Minerals in to useful materials and industrial ingredients.
 ## Multi-Stage Crude Oil Refinery
 An industrial process plant responsible for refining raw oil extracted from wells.
 
-The refinery has two stages: <br/><br/>First Stage: Crude Oil is first refined to:<br/>- 50% Petroleum<br/>- 25% Naphtha<br/>- 10% Natural Gas<br/>- 15% Bitumen.<br/><br/>Second Stage: Naphtha is further refined:<br/>- 45% Petroleum<br/>- 10% Natural Gas<br/>- 45% Bitumen.<br/><br/>The first stage uses Steam for the distillation process, while the second Stage uses Hydrogen to buffer the reaction.
+The refinery has two stages: <br/><br/>First Stage: Crude Oil is first refined to:<br/>- 50% Petroleum<br/>- 25% Naphtha<br/>- 10% Natural Gas<br/>- 10% Sour Water waste.<br/>- 5% Bitumen.<br/><br/>Second Stage: Naphtha is further refined:<br/>- 45% Petroleum<br/>- 10% Natural Gas<br/>- 45% Bitumen.<br/><br/>The first stage uses Steam for the distillation process, while the second Stage uses Hydrogen to buffer the reaction.
 
 | | | |
 |-|-|-|
 | ![Chemical_CrudeOilRefineryStaged](/assets/images/buildings/Chemical_CrudeOilRefineryStaged.png){height="100"} {rowspan="3"}|**Dimensions:** | 6 wide x 5 high|
-|**Power Consumption:**| 640 W |&#8288 {: style="padding:0"}|
-|**Research Required:**| Fossil Fuels|&#8288 {: style="padding:0"}| 
-|**<font size="+1">Material Costs:</font>**|<table><tr><td>Refined Metal</td><td>500 kg</td></tr><tr><td>Steel or Hardened Alloy</td><td>200 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
-| **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Crude Oil Input Pipe</td><td>Petroleum Output Pipe</td></tr><tr><td>Steam Input Pipe</td><td>Liquid Naphtha Output Pipe</td></tr><tr><td>Hydrogen Gas Input Pipe</td><td>Natural Gas Output Pipe</td></tr><tr><td>Liquid Naphtha Input Pipe</td><td>-</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
+|**Power Consumption:**| 960 W |&#8288 {: style="padding:0"}|
+|**Research Required:**| Valve Miniaturization|&#8288 {: style="padding:0"}| 
+|**<font size="+1">Material Costs:</font>**|<table><tr><td>Refined Metal</td><td>750 kg</td></tr><tr><td>Steel or Hardened Alloy</td><td>250 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+| **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Crude Oil Input Pipe</td><td>Petroleum Output Pipe</td></tr><tr><td>Steam Input Pipe</td><td>Liquid Naphtha Output Pipe</td></tr><tr><td>Hydrogen Gas Input Pipe</td><td>Natural Gas Output Pipe</td></tr><tr><td>Liquid Naphtha Input Pipe</td><td>Sour Water Output Pipe</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 #### Element Conversion
 |Inputs:|Outputs:|
 |-|-|
-| ![CrudeOil](/assets/images/elements/CrudeOil.png){.inline-icon} Crude Oil (10 kg/s)<br> ![Steam](/assets/images/elements/Steam.png){.inline-icon} Steam (500 g/s)<br>| ![Petroleum](/assets/images/elements/Petroleum.png){.inline-icon} Petroleum (5 kg/s at 98°C)<br> ![Naphtha](/assets/images/elements/Naphtha.png){.inline-icon} Liquid Naphtha (2500 g/s at 94°C)<br> ![Methane](/assets/images/elements/Methane.png){.inline-icon} Natural Gas (500 g/s at 115°C)<br> ![Bitumen](/assets/images/elements/Bitumen.png){.inline-icon} Bitumen (2500 g/s at 70°C)<br>|
+| ![CrudeOil](/assets/images/elements/CrudeOil.png){.inline-icon} Crude Oil (9.5 kg/s)<br> ![Steam](/assets/images/elements/Steam.png){.inline-icon} Steam (500 g/s)<br>| ![Petroleum](/assets/images/elements/Petroleum.png){.inline-icon} Petroleum (5 kg/s at 98°C)<br> ![Naphtha](/assets/images/elements/Naphtha.png){.inline-icon} Liquid Naphtha (2500 g/s at 94°C)<br> ![Methane](/assets/images/elements/Methane.png){.inline-icon} Natural Gas (1000 g/s at 115°C)<br> ![Bitumen](/assets/images/elements/Bitumen.png){.inline-icon} Bitumen (500 g/s at 70°C)<br> ![SourWater](/assets/images/elements/SourWater.png){.inline-icon} Sour Water (1000 g/s at 70°C)<br>|
 
 
 |Inputs:|Outputs:|
 |-|-|
-| ![Naphtha](/assets/images/elements/Naphtha.png){.inline-icon} Liquid Naphtha (5 kg/s)<br> ![Hydrogen](/assets/images/elements/Hydrogen.png){.inline-icon} Hydrogen Gas (250 g/s)<br>| ![Petroleum](/assets/images/elements/Petroleum.png){.inline-icon} Petroleum (2000 g/s at 98°C)<br> ![Methane](/assets/images/elements/Methane.png){.inline-icon} Natural Gas (500 g/s at 94°C)<br> ![Bitumen](/assets/images/elements/Bitumen.png){.inline-icon} Bitumen (2750 g/s at 70°C)<br>|
+| ![Naphtha](/assets/images/elements/Naphtha.png){.inline-icon} Liquid Naphtha (2500 g/s)<br> ![Hydrogen](/assets/images/elements/Hydrogen.png){.inline-icon} Hydrogen Gas (210 g/s)<br>| ![Petroleum](/assets/images/elements/Petroleum.png){.inline-icon} Petroleum (1125 g/s at 98°C)<br> ![Methane](/assets/images/elements/Methane.png){.inline-icon} Natural Gas (250 g/s at 94°C)<br> ![Bitumen](/assets/images/elements/Bitumen.png){.inline-icon} Bitumen (1125 g/s at 70°C)<br>|
 
 
 
@@ -472,7 +472,7 @@ The refinery has three stages:<br/><br/>First Stage: Raw Natural Gas is first re
 |-|-|-|
 | ![Chemical_RawGasRefineryStaged](/assets/images/buildings/Chemical_RawGasRefineryStaged.png){height="100"} {rowspan="3"}|**Dimensions:** | 8 wide x 5 high|
 |**Power Consumption:**| 640 W |&#8288 {: style="padding:0"}|
-|**Research Required:**| Fossil Fuels|&#8288 {: style="padding:0"}| 
+|**Research Required:**| Valve Miniaturization|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Refined Metal</td><td>500 kg</td></tr><tr><td>Steel or Hardened Alloy</td><td>200 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Raw Natural Gas Input Pipe</td><td>Gas Output Pipe</td></tr><tr><td>Steam Input Pipe</td><td>Propane Gas Output Pipe</td></tr><tr><td>Hydrogen Gas Input Pipe</td><td>Sour Gas Output Pipe</td></tr><tr><td>Propane Gas Input Pipe</td><td>Ammonia Output Pipe</td></tr><tr><td>Sour Gas Input Pipe</td><td>Water Output Pipe</td></tr><tr><td>Nitric Acid Input Pipe</td><td>-</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
@@ -501,7 +501,7 @@ This second stage refinement plant is capable of further refining Naphtha:<br/> 
 | | | |
 |-|-|-|
 | ![Chemical_NaphthaReformer](/assets/images/buildings/Chemical_NaphthaReformer.png){height="100"} {rowspan="3"}|**Dimensions:** | 4 wide x 7 high|
-|**Power Consumption:**| 480 W |&#8288 {: style="padding:0"}|
+|**Power Consumption:**| 360 W |&#8288 {: style="padding:0"}|
 |**Research Required:**| Fossil Fuels|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Refined Metal</td><td>300 kg</td></tr><tr><td>Steel or Hardened Alloy</td><td>100 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Liquid Naphtha Input Pipe</td><td>Petroleum Output Pipe</td></tr><tr><td>Hydrogen Gas Input Pipe</td><td>Natural Gas Output Pipe</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|

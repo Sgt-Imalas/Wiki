@@ -5,7 +5,7 @@ Enabling this mod in the config will add several new elements to the game or ree
 |<font size="+1">Material</font> | | <font size="+1">Elements</font> |
 |:-:|:-:|:-|
 |<font size="+1">Carrier Gas</font> <br/> <br/>|Carrier Gases are inert or semi-inert gases that are used in plasma related processes.| ![Helium](/assets/images/elements/Helium.png){.inline-icon} Helium<br/> ![Hydrogen](/assets/images/elements/Hydrogen.png){.inline-icon} Hydrogen Gas<br/> ![NitrogenGas](/assets/images/elements/NitrogenGas.png){.inline-icon} Nitrogen<br/>|
-|<font size="+1">Hardened Alloy</font> <br/> <br/>|Hardened Alloys are a fusion of two or more materials.<br/>Their high material strength allows them to be used as a substitute to Steel.| ![PhosphorBronze](/assets/images/elements/PhosphorBronze.png){.inline-icon} Phosphor Bronze<br/> ![Plasteel](/assets/images/elements/Plasteel.png){.inline-icon} Plasteel<br/>|
+|<font size="+1">Hardened Alloy</font> <br/> <br/>|Hardened Alloys are a fusion of two or more materials.<br/>Their high material strength allows them to be used as a substitute to Steel.| ![PhosphorBronze](/assets/images/elements/PhosphorBronze.png){.inline-icon} Phosphor Bronze<br/> ![Plasteel](/assets/images/elements/Plasteel.png){.inline-icon} Plasteel<br/> ![UnobtaniumAlloy](/assets/images/elements/UnobtaniumAlloy.png){.inline-icon} Neutronium Alloy<br/>|
 |<font size="+1">Metallic Sand</font> <br/> <br/>|Sandy materials composed of a various number of metallic grains| ![BaseGradeSand](/assets/images/elements/BaseGradeSand.png){.inline-icon} Base-Grade Metallic Sand<br/> ![LowGradeSand](/assets/images/elements/LowGradeSand.png){.inline-icon} Low-Grade Metallic Sand<br/> ![HighGradeSand](/assets/images/elements/HighGradeSand.png){.inline-icon} High-Grade Metallic Sand<br/>|
 
 ## New Elements
@@ -64,7 +64,7 @@ Carbon fiber-reinforced polymers blocks are extremely strong and light fiber-rei
 
 | |<font size="+1">Material Properties</font>| |
 |-|-|-|
-| ![CarbonFiber](/assets/images/elements/CarbonFiber.png){width="200"} |<br/>Resource Type: Manufactured Material<br/><br/>Melting point: 4726.85°C<br/>-> ![MoltenCarbon](/assets/images/elements/MoltenCarbon.png){.inline-icon} Liquid Carbon<br/><br/>Hardness: 250<br/><br/>Properties: <br/>General Buildable, Insulator, Metal Ore, Plumbable, Refined Metal, Solid, Uncrushable|<br/>Specific Heat Capacity: <br/>0.239 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>0.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 1<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+| ![CarbonFiber](/assets/images/elements/CarbonFiber.png){width="200"} |<br/>Resource Type: Manufactured Material<br/><br/>Melting point: 4726.85°C<br/>-> ![MoltenCarbon](/assets/images/elements/MoltenCarbon.png){.inline-icon} Liquid Carbon<br/><br/>Hardness: 250<br/><br/>Properties: <br/>Insulator, Metal Ore, Plumbable, Raw Mineral, Refined Metal, Solid, Uncrushable|<br/>Specific Heat Capacity: <br/>0.239 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>0.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 1<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
 
 #### Chloroschist
 
@@ -108,7 +108,7 @@ A glimmering sandy material composed mostly of high quality metallic grains, mix
 
 #### Isopropane
 
-(HC(CH<sub>3</sub>)<sub>3</sub>) Isopropane is a petrochemical refrigerant gas suitable for a variety of purposes. Degrades to Propane at higher temperatures.
+(C(CH<sub>4</sub>)<sub>2</sub>) Isopropane is a petrochemical refrigerant gas suitable for a variety of purposes. Degrades to Propane at higher temperatures.
 
 | |<font size="+1">Material Properties</font>| |
 |-|-|-|
@@ -355,7 +355,7 @@ Electrum is a conductive Metal alloy composed of gold and silver.<br/><br/>It is
 
 | |<font size="+1">Material Properties</font>| |
 |-|-|-|
-| ![Electrum](/assets/images/elements/Electrum.png){width="200"} |<br/>Resource Type: Metal Ore<br/><br/>Melting point: 1063.85°C<br/>40 %  ![MoltenGold](/assets/images/elements/MoltenGold.png){.inline-icon} Molten Gold,<br/>60 % ![SolidSilver](/assets/images/elements/SolidSilver.png){.inline-icon} Silver<br/><br/>Hardness: 2<br/><br/>Properties: <br/>General Buildable, Ore, Solid|<br/>Specific Heat Capacity: <br/>0.150 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>2.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.35<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+| ![Electrum](/assets/images/elements/Electrum.png){width="200"} |<br/>Resource Type: Metal Ore<br/><br/>Melting point: 1022.71°C<br/>40 %  ![MoltenSilver](/assets/images/elements/MoltenSilver.png){.inline-icon} Molten Silver,<br/>60 % ![Gold](/assets/images/elements/Gold.png){.inline-icon} Gold<br/><br/>Hardness: 2<br/><br/>Properties: <br/>General Buildable, Ore, Solid|<br/>Specific Heat Capacity: <br/>0.150 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>2.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.35<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
 
 #### Liquid Naphtha
 
@@ -363,7 +363,7 @@ Naphtha a distilled hydrocarbon mixture produced from the burning of Plastic.
 
 | |<font size="+1">Material Properties</font>| |
 |-|-|-|
-| ![Naphtha](/assets/images/elements/Naphtha.png){width="200"} |<br/>Resource Type: Liquid<br/><br/>Freezing point: -50.15°C<br/>-> ![SolidNaphtha](/assets/images/elements/SolidNaphtha.png){.inline-icon} Solid Naphtha<br/><br/>Evaporation point: 538.85°C<br/>-> ![SourGas](/assets/images/elements/SourGas.png){.inline-icon} Sour Gas<br/><br/><br/>Properties: <br/>Combustible Liquid, Hydrocarbon, Rocket Fuel|<br/>Specific Heat Capacity: <br/>2.191 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>0.200 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.6<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+| ![Naphtha](/assets/images/elements/Naphtha.png){width="200"} |<br/>Resource Type: Liquid<br/><br/>Freezing point: -50.15°C<br/>-> ![SolidNaphtha](/assets/images/elements/SolidNaphtha.png){.inline-icon} Solid Naphtha<br/><br/>Evaporation point: 538.85°C<br/>-> ![SourGas](/assets/images/elements/SourGas.png){.inline-icon} Sour Gas<br/><br/><br/>Properties: <br/>Hydrocarbon|<br/>Specific Heat Capacity: <br/>2.191 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>0.200 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.6<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
 
 #### Liquid Propane
 

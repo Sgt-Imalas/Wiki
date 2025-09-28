@@ -243,7 +243,7 @@
 | | | |
 |-|-|-|
 | ![Chemical_CrudeOilRefinery](/assets/images/buildings/Chemical_CrudeOilRefinery.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 4 x 高 5|
-|**耗电:**| 640瓦 |&#8288 {: style="padding:0"}|
+|**耗电:**| 480瓦 |&#8288 {: style="padding:0"}|
 |**科技:**| 化石燃料|&#8288 {: style="padding:0"}| 
 |**<font size="+1">建造材料:</font>**|<table><tr><td>精炼金属</td><td>300千克</td></tr><tr><td>钢 或 硬化合金</td><td>100千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>原油 输入管道</td><td>石油 输出管道</td></tr><tr><td>蒸汽 输入管道</td><td>酸水 输出管道</td></tr><tr><td>-</td><td>液态石脑油 输出管道</td></tr><tr><td>-</td><td>天然气 输出管道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
@@ -251,7 +251,7 @@
 #### 元素转换
 |输入:|输出:|
 |-|-|
-| ![CrudeOil](/assets/images/elements/CrudeOil.png){.inline-icon} 原油 (10千克/秒)<br> ![Steam](/assets/images/elements/Steam.png){.inline-icon} 蒸汽 (500克/秒)<br>| ![Petroleum](/assets/images/elements/Petroleum.png){.inline-icon} 石油 (5千克/秒 于 98°C)<br> ![Naphtha](/assets/images/elements/Naphtha.png){.inline-icon} 液态石脑油 (2500克/秒)<br> ![Methane](/assets/images/elements/Methane.png){.inline-icon} 天然气 (1000克/秒 于 115°C)<br> ![Bitumen](/assets/images/elements/Bitumen.png){.inline-icon} 沥青 (500克/秒)<br> ![SourWater](/assets/images/elements/SourWater.png){.inline-icon} 酸水 (1000克/秒)<br>|
+| ![CrudeOil](/assets/images/elements/CrudeOil.png){.inline-icon} 原油 (9.5千克/秒)<br> ![Steam](/assets/images/elements/Steam.png){.inline-icon} 蒸汽 (500克/秒)<br>| ![Petroleum](/assets/images/elements/Petroleum.png){.inline-icon} 石油 (5千克/秒 于 98°C)<br> ![Naphtha](/assets/images/elements/Naphtha.png){.inline-icon} 液态石脑油 (2500克/秒)<br> ![Methane](/assets/images/elements/Methane.png){.inline-icon} 天然气 (1000克/秒 于 115°C)<br> ![Bitumen](/assets/images/elements/Bitumen.png){.inline-icon} 沥青 (500克/秒)<br> ![SourWater](/assets/images/elements/SourWater.png){.inline-icon} 酸水 (1000克/秒)<br>|
 
 
 
@@ -446,20 +446,20 @@
 | | | |
 |-|-|-|
 | ![Chemical_CrudeOilRefineryStaged](/assets/images/buildings/Chemical_CrudeOilRefineryStaged.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 6 x 高 5|
-|**耗电:**| 640瓦 |&#8288 {: style="padding:0"}|
-|**科技:**| 化石燃料|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>精炼金属</td><td>500千克</td></tr><tr><td>钢 或 硬化合金</td><td>200千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
-| **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>原油 输入管道</td><td>石油 输出管道</td></tr><tr><td>蒸汽 输入管道</td><td>液态石脑油 输出管道</td></tr><tr><td>氢气 输入管道</td><td>天然气 输出管道</td></tr><tr><td>液态石脑油 输入管道</td><td>-</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
+|**耗电:**| 960瓦 |&#8288 {: style="padding:0"}|
+|**科技:**| 泵小型化|&#8288 {: style="padding:0"}| 
+|**<font size="+1">建造材料:</font>**|<table><tr><td>精炼金属</td><td>750千克</td></tr><tr><td>钢 或 硬化合金</td><td>250千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+| **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>原油 输入管道</td><td>石油 输出管道</td></tr><tr><td>蒸汽 输入管道</td><td>液态石脑油 输出管道</td></tr><tr><td>氢气 输入管道</td><td>天然气 输出管道</td></tr><tr><td>液态石脑油 输入管道</td><td>酸水 输出管道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 #### 元素转换
 |输入:|输出:|
 |-|-|
-| ![CrudeOil](/assets/images/elements/CrudeOil.png){.inline-icon} 原油 (10千克/秒)<br> ![Steam](/assets/images/elements/Steam.png){.inline-icon} 蒸汽 (500克/秒)<br>| ![Petroleum](/assets/images/elements/Petroleum.png){.inline-icon} 石油 (5千克/秒 于 98°C)<br> ![Naphtha](/assets/images/elements/Naphtha.png){.inline-icon} 液态石脑油 (2500克/秒 于 94°C)<br> ![Methane](/assets/images/elements/Methane.png){.inline-icon} 天然气 (500克/秒 于 115°C)<br> ![Bitumen](/assets/images/elements/Bitumen.png){.inline-icon} 沥青 (2500克/秒 于 70°C)<br>|
+| ![CrudeOil](/assets/images/elements/CrudeOil.png){.inline-icon} 原油 (9.5千克/秒)<br> ![Steam](/assets/images/elements/Steam.png){.inline-icon} 蒸汽 (500克/秒)<br>| ![Petroleum](/assets/images/elements/Petroleum.png){.inline-icon} 石油 (5千克/秒 于 98°C)<br> ![Naphtha](/assets/images/elements/Naphtha.png){.inline-icon} 液态石脑油 (2500克/秒 于 94°C)<br> ![Methane](/assets/images/elements/Methane.png){.inline-icon} 天然气 (1000克/秒 于 115°C)<br> ![Bitumen](/assets/images/elements/Bitumen.png){.inline-icon} 沥青 (500克/秒 于 70°C)<br> ![SourWater](/assets/images/elements/SourWater.png){.inline-icon} 酸水 (1000克/秒 于 70°C)<br>|
 
 
 |输入:|输出:|
 |-|-|
-| ![Naphtha](/assets/images/elements/Naphtha.png){.inline-icon} 液态石脑油 (5千克/秒)<br> ![Hydrogen](/assets/images/elements/Hydrogen.png){.inline-icon} 氢气 (250克/秒)<br>| ![Petroleum](/assets/images/elements/Petroleum.png){.inline-icon} 石油 (2000克/秒 于 98°C)<br> ![Methane](/assets/images/elements/Methane.png){.inline-icon} 天然气 (500克/秒 于 94°C)<br> ![Bitumen](/assets/images/elements/Bitumen.png){.inline-icon} 沥青 (2750克/秒 于 70°C)<br>|
+| ![Naphtha](/assets/images/elements/Naphtha.png){.inline-icon} 液态石脑油 (2500克/秒)<br> ![Hydrogen](/assets/images/elements/Hydrogen.png){.inline-icon} 氢气 (210克/秒)<br>| ![Petroleum](/assets/images/elements/Petroleum.png){.inline-icon} 石油 (1125克/秒 于 98°C)<br> ![Methane](/assets/images/elements/Methane.png){.inline-icon} 天然气 (250克/秒 于 94°C)<br> ![Bitumen](/assets/images/elements/Bitumen.png){.inline-icon} 沥青 (1125克/秒 于 70°C)<br>|
 
 
 
@@ -472,7 +472,7 @@
 |-|-|-|
 | ![Chemical_RawGasRefineryStaged](/assets/images/buildings/Chemical_RawGasRefineryStaged.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 8 x 高 5|
 |**耗电:**| 640瓦 |&#8288 {: style="padding:0"}|
-|**科技:**| 化石燃料|&#8288 {: style="padding:0"}| 
+|**科技:**| 泵小型化|&#8288 {: style="padding:0"}| 
 |**<font size="+1">建造材料:</font>**|<table><tr><td>精炼金属</td><td>500千克</td></tr><tr><td>钢 或 硬化合金</td><td>200千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>原料(天然)气 输入管道</td><td>气体 输出管道</td></tr><tr><td>蒸汽 输入管道</td><td>丙烷 输出管道</td></tr><tr><td>氢气 输入管道</td><td>高硫天然气 输出管道</td></tr><tr><td>丙烷 输入管道</td><td>氨 输出管道</td></tr><tr><td>高硫天然气 输入管道</td><td>水 输出管道</td></tr><tr><td>硝酸 输入管道</td><td>-</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
@@ -501,7 +501,7 @@
 | | | |
 |-|-|-|
 | ![Chemical_NaphthaReformer](/assets/images/buildings/Chemical_NaphthaReformer.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 4 x 高 7|
-|**耗电:**| 480瓦 |&#8288 {: style="padding:0"}|
+|**耗电:**| 360瓦 |&#8288 {: style="padding:0"}|
 |**科技:**| 化石燃料|&#8288 {: style="padding:0"}| 
 |**<font size="+1">建造材料:</font>**|<table><tr><td>精炼金属</td><td>300千克</td></tr><tr><td>钢 或 硬化合金</td><td>100千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>液态石脑油 输入管道</td><td>石油 输出管道</td></tr><tr><td>氢气 输入管道</td><td>天然气 输出管道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
