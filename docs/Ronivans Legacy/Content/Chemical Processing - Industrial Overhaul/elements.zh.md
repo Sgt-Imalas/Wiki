@@ -16,7 +16,7 @@
 
 | |<font size="+1">材料属性</font>| |
 |-|-|-|
-| ![BaseGradeSand](/assets/images/elements/BaseGradeSand.png){width="200"} |<br/>资源种类：精炼矿物<br/><br/>熔点：2249°C<br/>58 %  ![RockGas](/assets/images/elements/RockGas.png){.inline-icon} 气态岩,<br/>42 % ![SolidSlag](/assets/images/elements/SolidSlag.png){.inline-icon} 炉渣<br/><br/>硬度：32<br/><br/>属性：<br/>一般建造材料, 不可粉碎物, 不稳定, 固体, 矿石, 金属砂|<br/>比热容：<br/>8.660 (DTU/g)/ ºC<br/><br/>热导率：<br/>12.320 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.46<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
+| ![BaseGradeSand](/assets/images/elements/BaseGradeSand.png){width="200"} |<br/>资源种类：精炼矿物<br/><br/>熔点：2249°C<br/>58 %  ![RockGas](/assets/images/elements/RockGas.png){.inline-icon} 气态岩,<br/>42 % ![MoltenSlag](/assets/images/elements/MoltenSlag.png){.inline-icon} 熔渣<br/><br/>硬度：32<br/><br/>属性：<br/>一般建造材料, 不可粉碎物, 不稳定, 固体, 矿石, 金属砂|<br/>比热容：<br/>8.660 (DTU/g)/ ºC<br/><br/>热导率：<br/>12.320 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.46<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
 
 #### 低级金属砂
 
@@ -24,7 +24,7 @@
 
 | |<font size="+1">材料属性</font>| |
 |-|-|-|
-| ![LowGradeSand](/assets/images/elements/LowGradeSand.png){width="200"} |<br/>资源种类：精炼矿物<br/><br/>熔点：2249°C<br/>58 %  ![RockGas](/assets/images/elements/RockGas.png){.inline-icon} 气态岩,<br/>42 % ![SolidSlag](/assets/images/elements/SolidSlag.png){.inline-icon} 炉渣<br/><br/>硬度：32<br/><br/>属性：<br/>一般建造材料, 不可粉碎物, 不稳定, 固体, 矿石, 金属砂|<br/>比热容：<br/>8.660 (DTU/g)/ ºC<br/><br/>热导率：<br/>12.320 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.46<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
+| ![LowGradeSand](/assets/images/elements/LowGradeSand.png){width="200"} |<br/>资源种类：精炼矿物<br/><br/>熔点：2249°C<br/>58 %  ![RockGas](/assets/images/elements/RockGas.png){.inline-icon} 气态岩,<br/>42 % ![MoltenSlag](/assets/images/elements/MoltenSlag.png){.inline-icon} 熔渣<br/><br/>硬度：32<br/><br/>属性：<br/>一般建造材料, 不可粉碎物, 不稳定, 固体, 矿石, 金属砂|<br/>比热容：<br/>8.660 (DTU/g)/ ºC<br/><br/>热导率：<br/>12.320 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.46<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
 
 #### 原料(天然)气
 
@@ -56,7 +56,7 @@
 
 | |<font size="+1">材料属性</font>| |
 |-|-|-|
-| ![Plasteel](/assets/images/elements/Plasteel.png){width="200"} |<br/>资源种类：人造材料<br/><br/>熔点：2576.85°C<br/>3 %  ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} 二氧化碳,<br/>97 % ![Steel](/assets/images/elements/Steel.png){.inline-icon} 钢<br/><br/>硬度：70<br/><br/>属性：<br/>一般建造材料, 不可粉碎物, 固体, 硬化合金, 精炼金属, 金属矿石|<br/>比热容：<br/>0.210 (DTU/g)/ ºC<br/><br/>热导率：<br/>6.000 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.9<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
+| ![Plasteel](/assets/images/elements/Plasteel.png){width="200"} |<br/>资源种类：人造材料<br/><br/>熔点：2576.85°C<br/>3 %  ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} 二氧化碳,<br/>97 % ![MoltenSteel](/assets/images/elements/MoltenSteel.png){.inline-icon} 熔融钢<br/><br/>硬度：70<br/><br/>属性：<br/>一般建造材料, 不可粉碎物, 固体, 硬化合金, 精炼金属, 金属矿石|<br/>比热容：<br/>0.210 (DTU/g)/ ºC<br/><br/>热导率：<br/>6.000 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.9<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
 
 #### 复合碳纤维
 
@@ -80,7 +80,7 @@
 
 | |<font size="+1">材料属性</font>| |
 |-|-|-|
-| ![Galena](/assets/images/elements/Galena.png){width="200"} |<br/>资源种类：金属矿石<br/><br/>熔点：1114°C<br/>40 %  ![MoltenLead](/assets/images/elements/MoltenLead.png){.inline-icon} 熔融铅,<br/>60 % ![SolidSilver](/assets/images/elements/SolidSilver.png){.inline-icon} 银<br/><br/>硬度：25<br/><br/>属性：<br/>一般建造材料, 固体, 矿石|<br/>比热容：<br/>0.311 (DTU/g)/ ºC<br/><br/>热导率：<br/>3.600 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.46<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
+| ![Galena](/assets/images/elements/Galena.png){width="200"} |<br/>资源种类：金属矿石<br/><br/>熔点：1114°C<br/>40 %  ![MoltenLead](/assets/images/elements/MoltenLead.png){.inline-icon} 熔融铅,<br/>60 % ![MoltenSilver](/assets/images/elements/MoltenSilver.png){.inline-icon} 熔融银<br/><br/>硬度：25<br/><br/>属性：<br/>一般建造材料, 固体, 矿石|<br/>比热容：<br/>0.311 (DTU/g)/ ºC<br/><br/>热导率：<br/>3.600 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.46<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
 
 #### 有毒气体
 
@@ -144,7 +144,7 @@
 
 | |<font size="+1">材料属性</font>| |
 |-|-|-|
-| ![AmmoniumWater](/assets/images/elements/AmmoniumWater.png){width="200"} |<br/>资源种类：液体<br/><br/>冰点：-58°C<br/>11 %  ![Brine](/assets/images/elements/Brine.png){.inline-icon} 浓盐水,<br/>89 % ![AmmoniaGas](/assets/images/elements/AmmoniaGas.png){.inline-icon} 氨<br/><br/>沸点：38°C<br/>11 %  ![Brine](/assets/images/elements/Brine.png){.inline-icon} 浓盐水,<br/>89 % ![LiquidAmmonia](/assets/images/elements/LiquidAmmonia.png){.inline-icon} 液态氨<br/><br/><br/>属性：<br/>水基物, 混合物|<br/>比热容：<br/>4.500 (DTU/g)/ ºC<br/><br/>热导率：<br/>0.600 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.3<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
+| ![AmmoniumWater](/assets/images/elements/AmmoniumWater.png){width="200"} |<br/>资源种类：液体<br/><br/>冰点：-58°C<br/>11 %  ![Brine](/assets/images/elements/Brine.png){.inline-icon} 浓盐水,<br/>89 % ![LiquidAmmonia](/assets/images/elements/LiquidAmmonia.png){.inline-icon} 液态氨<br/><br/>沸点：38°C<br/>11 %  ![Brine](/assets/images/elements/Brine.png){.inline-icon} 浓盐水,<br/>89 % ![AmmoniaGas](/assets/images/elements/AmmoniaGas.png){.inline-icon} 氨<br/><br/><br/>属性：<br/>水基物, 混合物|<br/>比热容：<br/>4.500 (DTU/g)/ ºC<br/><br/>热导率：<br/>0.600 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.3<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
 
 #### 氮气
 
@@ -160,7 +160,7 @@
 
 | |<font size="+1">材料属性</font>| |
 |-|-|-|
-| ![SolidOilShale](/assets/images/elements/SolidOilShale.png){width="200"} |<br/>资源种类：消耗性矿石<br/><br/>熔点：120°C<br/>20 %  ![SourGas](/assets/images/elements/SourGas.png){.inline-icon} 高硫天然气,<br/>80 % ![SolidCrudeOil](/assets/images/elements/SolidCrudeOil.png){.inline-icon} 固态原油<br/><br/>硬度：2<br/><br/>属性：<br/>固体|<br/>比热容：<br/>1.760 (DTU/g)/ ºC<br/><br/>热导率：<br/>22.000 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.7<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
+| ![SolidOilShale](/assets/images/elements/SolidOilShale.png){width="200"} |<br/>资源种类：消耗性矿石<br/><br/>熔点：120°C<br/>20 %  ![SourGas](/assets/images/elements/SourGas.png){.inline-icon} 高硫天然气,<br/>80 % ![CrudeOil](/assets/images/elements/CrudeOil.png){.inline-icon} 原油<br/><br/>硬度：2<br/><br/>属性：<br/>固体|<br/>比热容：<br/>1.760 (DTU/g)/ ºC<br/><br/>热导率：<br/>22.000 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.7<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
 
 #### 液态氨
 
@@ -264,7 +264,7 @@
 
 | |<font size="+1">材料属性</font>| |
 |-|-|-|
-| ![PhosphorBronze](/assets/images/elements/PhosphorBronze.png){width="200"} |<br/>资源种类：人造材料<br/><br/>熔点：1049°C<br/>20 %  ![MoltenLead](/assets/images/elements/MoltenLead.png){.inline-icon} 熔融铅,<br/>80 % ![MoltenCopper](/assets/images/elements/MoltenCopper.png){.inline-icon} 熔融铜<br/><br/>硬度：35<br/><br/>属性：<br/>一般建造材料, 不可粉碎物, 固体, 硬化合金, 精炼金属, 金属矿石|<br/>比热容：<br/>0.380 (DTU/g)/ ºC<br/><br/>热导率：<br/>20.000 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.5<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
+| ![PhosphorBronze](/assets/images/elements/PhosphorBronze.png){width="200"} |<br/>资源种类：人造材料<br/><br/>熔点：1049°C<br/>20 %  ![MoltenLead](/assets/images/elements/MoltenLead.png){.inline-icon} 熔融铅,<br/>80 % ![Copper](/assets/images/elements/Copper.png){.inline-icon} 铜<br/><br/>硬度：35<br/><br/>属性：<br/>一般建造材料, 不可粉碎物, 固体, 硬化合金, 精炼金属, 金属矿石|<br/>比热容：<br/>0.380 (DTU/g)/ ºC<br/><br/>热导率：<br/>20.000 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.5<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
 
 #### 绿片岩
 
@@ -272,7 +272,7 @@
 
 | |<font size="+1">材料属性</font>| |
 |-|-|-|
-| ![Chloroschist](/assets/images/elements/Chloroschist.png){width="200"} |<br/>资源种类：矿物原料<br/><br/>熔点：1409.85°C<br/>90 %  ![Magma](/assets/images/elements/Magma.png){.inline-icon} 岩浆,<br/>10 % ![Chlorine](/assets/images/elements/Chlorine.png){.inline-icon} 液态氯<br/><br/>硬度：25<br/><br/>属性：<br/>一般建造材料, 可做水管的物质, 固体|<br/>比热容：<br/>1.000 (DTU/g)/ ºC<br/><br/>热导率：<br/>2.000 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.53<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
+| ![Chloroschist](/assets/images/elements/Chloroschist.png){width="200"} |<br/>资源种类：矿物原料<br/><br/>熔点：1409.85°C<br/>90 %  ![Magma](/assets/images/elements/Magma.png){.inline-icon} 岩浆,<br/>10 % ![ChlorineGas](/assets/images/elements/ChlorineGas.png){.inline-icon} 氯气<br/><br/>硬度：25<br/><br/>属性：<br/>一般建造材料, 可做水管的物质, 固体|<br/>比热容：<br/>1.000 (DTU/g)/ ºC<br/><br/>热导率：<br/>2.000 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.53<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
 
 #### 辉银矿
 
@@ -280,7 +280,7 @@
 
 | |<font size="+1">材料属性</font>| |
 |-|-|-|
-| ![ArgentiteOre](/assets/images/elements/ArgentiteOre.png){width="200"} |<br/>资源种类：金属矿石<br/><br/>熔点：963°C<br/>80 %  ![MoltenSilver](/assets/images/elements/MoltenSilver.png){.inline-icon} 熔融银,<br/>20 % ![LiquidSulfur](/assets/images/elements/LiquidSulfur.png){.inline-icon} 液态硫<br/><br/>硬度：25<br/><br/>属性：<br/>一般建造材料, 固体, 抗菌物, 矿石|<br/>比热容：<br/>0.411 (DTU/g)/ ºC<br/><br/>热导率：<br/>5.600 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.46<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
+| ![ArgentiteOre](/assets/images/elements/ArgentiteOre.png){width="200"} |<br/>资源种类：金属矿石<br/><br/>熔点：963°C<br/>80 %  ![MoltenSilver](/assets/images/elements/MoltenSilver.png){.inline-icon} 熔融银,<br/>20 % ![SulfurGas](/assets/images/elements/SulfurGas.png){.inline-icon} 硫蒸气<br/><br/>硬度：25<br/><br/>属性：<br/>一般建造材料, 固体, 抗菌物, 矿石|<br/>比热容：<br/>0.411 (DTU/g)/ ºC<br/><br/>热导率：<br/>5.600 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.46<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
 
 #### 酸水
 
@@ -288,7 +288,7 @@
 
 | |<font size="+1">材料属性</font>| |
 |-|-|-|
-| ![SourWater](/assets/images/elements/SourWater.png){width="200"} |<br/>资源种类：液体<br/><br/>冰点：-21°C<br/>50 %  ![SourGas](/assets/images/elements/SourGas.png){.inline-icon} 高硫天然气,<br/>50 % ![DirtyIce](/assets/images/elements/DirtyIce.png){.inline-icon} 污染冰<br/><br/>沸点：88°C<br/>50 %  ![SourGas](/assets/images/elements/SourGas.png){.inline-icon} 高硫天然气,<br/>50 % ![DirtyIce](/assets/images/elements/DirtyIce.png){.inline-icon} 污染冰<br/><br/><br/>属性：<br/>水基物, 混合物|<br/>比热容：<br/>3.477 (DTU/g)/ ºC<br/><br/>热导率：<br/>0.909 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.3<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
+| ![SourWater](/assets/images/elements/SourWater.png){width="200"} |<br/>资源种类：液体<br/><br/>冰点：-21°C<br/>50 %  ![SourGas](/assets/images/elements/SourGas.png){.inline-icon} 高硫天然气,<br/>50 % ![DirtyIce](/assets/images/elements/DirtyIce.png){.inline-icon} 污染冰<br/><br/>沸点：88°C<br/>50 %  ![SourGas](/assets/images/elements/SourGas.png){.inline-icon} 高硫天然气,<br/>50 % ![DirtyWater](/assets/images/elements/DirtyWater.png){.inline-icon} 污染水<br/><br/><br/>属性：<br/>水基物, 混合物|<br/>比热容：<br/>3.477 (DTU/g)/ ºC<br/><br/>热导率：<br/>0.909 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.3<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
 
 #### 银
 
@@ -328,7 +328,7 @@
 
 | |<font size="+1">材料属性</font>| |
 |-|-|-|
-| ![HighGradeSand](/assets/images/elements/HighGradeSand.png){width="200"} |<br/>资源种类：精炼矿物<br/><br/>熔点：2249°C<br/>58 %  ![RockGas](/assets/images/elements/RockGas.png){.inline-icon} 气态岩,<br/>42 % ![SolidSlag](/assets/images/elements/SolidSlag.png){.inline-icon} 炉渣<br/><br/>硬度：32<br/><br/>属性：<br/>一般建造材料, 不可粉碎物, 不稳定, 固体, 矿石, 金属砂|<br/>比热容：<br/>8.660 (DTU/g)/ ºC<br/><br/>热导率：<br/>12.320 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.46<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
+| ![HighGradeSand](/assets/images/elements/HighGradeSand.png){width="200"} |<br/>资源种类：精炼矿物<br/><br/>熔点：2249°C<br/>58 %  ![RockGas](/assets/images/elements/RockGas.png){.inline-icon} 气态岩,<br/>42 % ![MoltenSlag](/assets/images/elements/MoltenSlag.png){.inline-icon} 熔渣<br/><br/>硬度：32<br/><br/>属性：<br/>一般建造材料, 不可粉碎物, 不稳定, 固体, 矿石, 金属砂|<br/>比热容：<br/>8.660 (DTU/g)/ ºC<br/><br/>热导率：<br/>12.320 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.46<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
 
 #### 黄铜
 
