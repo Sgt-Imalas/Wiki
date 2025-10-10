@@ -15,7 +15,7 @@
 #### 元素转换
 |输入:|输出:|
 |-|-|
-| ![Algae](/assets/images/elements/Algae.png){.inline-icon} 藻类 (75克/秒)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (800克/秒)<br>| ![Oxygen](/assets/images/elements/Oxygen.png){.inline-icon} 氧气 (200克/秒 于 30°C)<br> ![DirtyWater](/assets/images/elements/DirtyWater.png){.inline-icon} 污染水 (962.5克/秒 于 30°C)<br>|
+| ![Algae](/assets/images/elements/Algae.png){.inline-icon} 藻类 (75克/秒)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (300克/秒)<br>| ![Oxygen](/assets/images/elements/Oxygen.png){.inline-icon} 氧气 (200克/秒 于 30°C)<br> ![DirtyWater](/assets/images/elements/DirtyWater.png){.inline-icon} 污染水 (962.5克/秒 于 30°C)<br>|
 
 
 |输入:|输出:|

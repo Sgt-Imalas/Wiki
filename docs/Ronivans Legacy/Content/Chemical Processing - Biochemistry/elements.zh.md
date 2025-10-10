@@ -56,7 +56,7 @@
 
 | |<font size="+1">材料属性</font>| |
 |-|-|-|
-| ![Bioplastic](/assets/images/elements/Bioplastic.png){width="200"} |<br/>资源种类：人造材料<br/><br/>熔点：104°C<br/>80 %  ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} 植物油,<br/>20 % ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} 二氧化碳<br/><br/>硬度：2<br/><br/>属性：<br/>一般建造材料, 固体, 塑料, 抗菌物|<br/>比热容：<br/>1.220 (DTU/g)/ ºC<br/><br/>热导率：<br/>0.750 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.8<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
+| ![Bioplastic](/assets/images/elements/Bioplastic.png){width="200"} |<br/>资源种类：人造材料<br/><br/>熔点：104°C<br/>27 %  ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} 植物油,<br/>73 % ![Steam](/assets/images/elements/Steam.png){.inline-icon} 蒸汽<br/><br/>硬度：2<br/><br/>属性：<br/>一般建造材料, 固体, 塑料, 抗菌物|<br/>比热容：<br/>1.220 (DTU/g)/ ºC<br/><br/>热导率：<br/>0.750 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.8<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
 
 ## 动物饮食扩展
 

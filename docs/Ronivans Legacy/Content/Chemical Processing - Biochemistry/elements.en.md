@@ -8,7 +8,7 @@ A synthetic biopolymer produced from renewable biomass sources, such as vegetabl
 
 | |<font size="+1">Material Properties</font>| |
 |-|-|-|
-| ![Bioplastic](/assets/images/elements/Bioplastic.png){width="200"} |<br/>Resource Type: Manufactured Material<br/><br/>Melting point: 104°C<br/>80 %  ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} Vegetable Oil,<br/>20 % ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} Carbon Dioxide<br/><br/>Hardness: 2<br/><br/>Properties: <br/>Antiseptic, General Buildable, Plastics, Solid|<br/>Specific Heat Capacity: <br/>1.220 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>0.750 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.8<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+| ![Bioplastic](/assets/images/elements/Bioplastic.png){width="200"} |<br/>Resource Type: Manufactured Material<br/><br/>Melting point: 104°C<br/>27 %  ![LiquidVegeOil](/assets/images/elements/LiquidVegeOil.png){.inline-icon} Vegetable Oil,<br/>73 % ![Steam](/assets/images/elements/Steam.png){.inline-icon} Steam<br/><br/>Hardness: 2<br/><br/>Properties: <br/>Antiseptic, General Buildable, Plastics, Solid|<br/>Specific Heat Capacity: <br/>1.220 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>0.750 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.8<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
 
 #### Compressed Biomass
 

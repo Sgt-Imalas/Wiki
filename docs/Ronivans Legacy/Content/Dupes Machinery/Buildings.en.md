@@ -15,7 +15,7 @@ Algae patch needs Water to grow, producing a fair amount of clean Oxygen as resu
 #### Element Conversion
 |Inputs:|Outputs:|
 |-|-|
-| ![Algae](/assets/images/elements/Algae.png){.inline-icon} Algae (75 g/s)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} Water (800 g/s)<br>| ![Oxygen](/assets/images/elements/Oxygen.png){.inline-icon} Oxygen (200 g/s at 30°C)<br> ![DirtyWater](/assets/images/elements/DirtyWater.png){.inline-icon} Polluted Water (962.5 g/s at 30°C)<br>|
+| ![Algae](/assets/images/elements/Algae.png){.inline-icon} Algae (75 g/s)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} Water (300 g/s)<br>| ![Oxygen](/assets/images/elements/Oxygen.png){.inline-icon} Oxygen (200 g/s at 30°C)<br> ![DirtyWater](/assets/images/elements/DirtyWater.png){.inline-icon} Polluted Water (962.5 g/s at 30°C)<br>|
 
 
 |Inputs:|Outputs:|
