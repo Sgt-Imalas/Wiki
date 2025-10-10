@@ -193,7 +193,7 @@
 
 |输入:|输出:|
 |-|-|
-| ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} 二氧化碳 (400克/秒)<br> ![Hydrogen](/assets/images/elements/Hydrogen.png){.inline-icon} 氢气 (400克/秒)<br> ![Iron](/assets/images/elements/Iron.png){.inline-icon} 铁 (25克/秒)<br>| ![Steam](/assets/images/elements/Steam.png){.inline-icon} 蒸汽 (400克/秒 于 109°C)<br> ![Graphite](/assets/images/elements/Graphite.png){.inline-icon} 石墨 (300克/秒 于 46°C)<br> ![Rust](/assets/images/elements/Rust.png){.inline-icon} 铁锈 (25克/秒 于 46°C)<br>|
+| ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} 二氧化碳 (400克/秒)<br> ![Hydrogen](/assets/images/elements/Hydrogen.png){.inline-icon} 氢气 (400克/秒)<br> ![Iron](/assets/images/elements/Iron.png){.inline-icon} 铁 (25克/秒)<br>| ![Steam](/assets/images/elements/Steam.png){.inline-icon} 蒸汽 (400克/秒 于 109°C)<br> ![Graphite](/assets/images/elements/Graphite.png){.inline-icon} 石墨 (300克/秒)<br> ![Rust](/assets/images/elements/Rust.png){.inline-icon} 铁锈 (25克/秒 于 46°C)<br>|
 
 
 
@@ -266,7 +266,6 @@
 |**耗电:**| 850瓦 |&#8288 {: style="padding:0"}|
 |**科技:**| 化石燃料|&#8288 {: style="padding:0"}| 
 |**<font size="+1">建造材料:</font>**|<table><tr><td>陶瓷</td><td>200千克</td></tr><tr><td>精炼金属</td><td>100千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
-|**<font size="+1">存储容量:</font>**| 100千克|&#8288 {: style="padding:0"}|
 | **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>水 输入管道</td><td>蒸汽 输出管道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 #### 元素转换
@@ -344,7 +343,7 @@
 ## 燃气蒸汽炉
 一款工业用锅炉，通过燃烧可燃气体来产生热能。
 
-将水加热至 200℃ 的蒸汽 。<br/>这座特定的锅炉使用可燃气体作为热源。
+将水加热为 200℃ 的蒸汽。<br/>这座特定的锅炉使用可燃气体作为燃料。
 
 | | | |
 |-|-|-|
@@ -438,10 +437,31 @@
 
 
 
+## 燃油蒸汽炉
+一款工业用锅炉，通过燃烧可燃液体来产生热能。
+
+将水加热为 200℃ 的蒸汽。<br/>这座特定的锅炉使用可燃液体作为燃料。
+
+| | | |
+|-|-|-|
+| ![Chemical_Liquid_Boiler](/assets/images/buildings/Chemical_Liquid_Boiler.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 3 x 高 4|
+|**耗电:**|  -  |&#8288 {: style="padding:0"}|
+|**科技:**| 化石燃料|&#8288 {: style="padding:0"}| 
+|**<font size="+1">建造材料:</font>**|<table><tr><td>精炼金属</td><td>1200千克</td></tr><tr><td>陶瓷</td><td>1000千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">存储容量:</font>**| 10吨|&#8288 {: style="padding:0"}|
+| **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>水 输入管道</td><td>蒸汽 输出管道</td></tr><tr><td>可燃液体 输入管道</td><td>二氧化碳 输出管道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
+
+#### 元素转换
+|输入:|输出:|
+|-|-|
+| ![CombustibleLiquid](/assets/images/entities/CombustibleLiquid.png){.inline-icon} 可燃液体 (900克/秒)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (4000克/秒)<br>| ![Steam](/assets/images/elements/Steam.png){.inline-icon} 蒸汽 (4000克/秒 于 200°C)<br> ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} 二氧化碳 (337.5克/秒 于 110°C)<br>|
+
+
+
 ## 多级原油精炼厂
 一座用于将油井中提取的原油进行精炼的工业处理装置。
 
-本精炼厂分两阶段运作：<br/><br/>第一阶段：将 原油初步精炼产出：<br/> - 50% 石油<br/> - 25% 石脑油<br/> - 10% 天然气<br/> - 15% 沥青<br/><br/>第二阶段： 将石脑油深度精炼为：<br/> - 45% 石油<br/> - 10% 天然气<br/> - 45% 沥青<br/><br/>第一阶段蒸馏过程消耗蒸汽，第二阶段需氢气缓冲反应。
+本精炼厂分两阶段运作：<br/><br/>第一阶段：将 原油初步精炼产出：<br/> - 50% 石油<br/> - 25% 石脑油<br/> - 10% 天然气<br/>\v - 10% 酸水作为废弃物<br/> - 5% 沥青<br/><br/>第二阶段： 将石脑油深度精炼为：<br/> - 45% 石油<br/> - 10% 天然气<br/> - 45% 沥青<br/><br/>第一阶段蒸馏过程消耗蒸汽，第二阶段需氢气缓冲反应。
 
 | | | |
 |-|-|-|
@@ -454,7 +474,7 @@
 #### 元素转换
 |输入:|输出:|
 |-|-|
-| ![CrudeOil](/assets/images/elements/CrudeOil.png){.inline-icon} 原油 (9.5千克/秒)<br> ![Steam](/assets/images/elements/Steam.png){.inline-icon} 蒸汽 (500克/秒)<br>| ![Petroleum](/assets/images/elements/Petroleum.png){.inline-icon} 石油 (5千克/秒 于 98°C)<br> ![Naphtha](/assets/images/elements/Naphtha.png){.inline-icon} 液态石脑油 (2500克/秒 于 94°C)<br> ![Methane](/assets/images/elements/Methane.png){.inline-icon} 天然气 (1000克/秒 于 115°C)<br> ![Bitumen](/assets/images/elements/Bitumen.png){.inline-icon} 沥青 (500克/秒 于 70°C)<br> ![SourWater](/assets/images/elements/SourWater.png){.inline-icon} 酸水 (1000克/秒 于 70°C)<br>|
+| ![CrudeOil](/assets/images/elements/CrudeOil.png){.inline-icon} 原油 (9.5千克/秒)<br> ![Steam](/assets/images/elements/Steam.png){.inline-icon} 蒸汽 (500克/秒)<br>| ![Petroleum](/assets/images/elements/Petroleum.png){.inline-icon} 石油 (5千克/秒 于 98°C)<br> ![Naphtha](/assets/images/elements/Naphtha.png){.inline-icon} 液态石脑油 (2500克/秒 于 94°C)<br> ![Methane](/assets/images/elements/Methane.png){.inline-icon} 天然气 (1000克/秒 于 115°C)<br> ![Bitumen](/assets/images/elements/Bitumen.png){.inline-icon} 沥青 (500克/秒 于 70°C)<br> ![SourWater](/assets/images/elements/SourWater.png){.inline-icon} 酸水 (1000克/秒 于 34°C)<br>|
 
 
 |输入:|输出:|
@@ -732,6 +752,26 @@
 | ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} 碎岩 (40千克)<br> ![ToxicSand](/assets/images/elements/ToxicSand.png){.inline-icon} 污染土 (20千克)<br> ![WoodLog](/assets/images/elements/WoodLog.png){.inline-icon} 木材 (20千克)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (20千克)<br>|60s| ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} 泥土 (100千克)<br>|
 | ![WoodLog](/assets/images/elements/WoodLog.png){.inline-icon} 木材 (60千克)<br> ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} 碎岩 (30千克)<br> ![DirtyWater](/assets/images/elements/DirtyWater.png){.inline-icon} 污染水 (10千克)<br>|60s| ![ToxicSand](/assets/images/elements/ToxicSand.png){.inline-icon} 污染土 (100千克)<br>|
 | ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} 压缩生物质 (20千克)<br> ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} 碎岩 (40千克)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (30千克)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (10千克)<br>|60s| ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} 泥土 (100千克)<br>|
+
+
+
+## 高硫天然气脱硫塔
+一座采用活性炭床对酸气进行脱酸处理的净化装置。
+
+利用活性炭吸附酸气中的硫化物，生成天然气与单质硫。<br/>活性炭需定期更换。
+
+| | | |
+|-|-|-|
+| ![Chemical_SourGasSweetener](/assets/images/buildings/Chemical_SourGasSweetener.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 3 x 高 4|
+|**耗电:**| 120瓦 |&#8288 {: style="padding:0"}|
+|**科技:**| 乳化|&#8288 {: style="padding:0"}| 
+|**<font size="+1">建造材料:</font>**|<table><tr><td>精炼金属</td><td>400千克</td></tr><tr><td>精炼碳</td><td>400千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+| **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>高硫天然气 输入管道</td><td>天然气 输出管道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
+
+#### 元素转换
+|输入:|输出:|
+|-|-|
+| ![SourGas](/assets/images/elements/SourGas.png){.inline-icon} 高硫天然气 (1000克/秒)<br> ![RefinedCarbon](/assets/images/elements/RefinedCarbon.png){.inline-icon} 精炼碳 (100克/秒)<br>| ![Methane](/assets/images/elements/Methane.png){.inline-icon} 天然气 (600克/秒 于 62°C)<br> ![Sulfur](/assets/images/elements/Sulfur.png){.inline-icon} 硫 (400克/秒 于 72°C)<br> ![Carbon](/assets/images/elements/Carbon.png){.inline-icon} 煤炭 (100克/秒)<br>|
 
 
 

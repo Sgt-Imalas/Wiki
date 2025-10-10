@@ -157,7 +157,7 @@
 ## 燃气蒸汽炉
 一款工业用锅炉，通过燃烧可燃气体来产生热能。
 
-将水加热至 200℃ 的蒸汽 。<br/>这座特定的锅炉使用可燃气体作为热源。
+将水加热为 200℃ 的蒸汽。<br/>这座特定的锅炉使用可燃气体作为燃料。
 
 | | | |
 |-|-|-|
@@ -172,6 +172,27 @@
 |输入:|输出:|
 |-|-|
 | ![CombustibleGas](/assets/images/entities/CombustibleGas.png){.inline-icon} 可燃气体 (101.3克/秒)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (4000克/秒)<br>| ![Steam](/assets/images/elements/Steam.png){.inline-icon} 蒸汽 (4000克/秒 于 200°C)<br> ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} 二氧化碳 (200克/秒 于 110°C)<br>|
+
+
+
+## 燃油蒸汽炉
+一款工业用锅炉，通过燃烧可燃液体来产生热能。
+
+将水加热为 200℃ 的蒸汽。<br/>这座特定的锅炉使用可燃液体作为燃料。
+
+| | | |
+|-|-|-|
+| ![Chemical_Liquid_Boiler](/assets/images/buildings/Chemical_Liquid_Boiler.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 3 x 高 4|
+|**耗电:**|  -  |&#8288 {: style="padding:0"}|
+|**科技:**| 化石燃料|&#8288 {: style="padding:0"}| 
+|**<font size="+1">建造材料:</font>**|<table><tr><td>精炼金属</td><td>1200千克</td></tr><tr><td>陶瓷</td><td>1000千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">存储容量:</font>**| 10吨|&#8288 {: style="padding:0"}|
+| **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>水 输入管道</td><td>蒸汽 输出管道</td></tr><tr><td>可燃液体 输入管道</td><td>二氧化碳 输出管道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
+
+#### 元素转换
+|输入:|输出:|
+|-|-|
+| ![CombustibleLiquid](/assets/images/entities/CombustibleLiquid.png){.inline-icon} 可燃液体 (900克/秒)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (4000克/秒)<br>| ![Steam](/assets/images/elements/Steam.png){.inline-icon} 蒸汽 (4000克/秒 于 200°C)<br> ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} 二氧化碳 (337.5克/秒 于 110°C)<br>|
 
 
 

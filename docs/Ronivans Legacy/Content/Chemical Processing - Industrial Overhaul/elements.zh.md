@@ -68,7 +68,7 @@
 
 #### 异丙烷
 
-(HC(CH<sub>3</sub>)<sub>3</sub>）异丙烷是一种石油化工制冷剂气体，适用于多种用途。在较高温度下会分解为丙烷。
+(C(CH<sub>4</sub>)<sub>2</sub>) 异丙烷是一种石油化工制冷剂气体，适用于多种用途。在较高温度下会分解为丙烷。
 
 | |<font size="+1">材料属性</font>| |
 |-|-|-|
@@ -192,7 +192,7 @@
 
 | |<font size="+1">材料属性</font>| |
 |-|-|-|
-| ![SolidSlag](/assets/images/elements/SolidSlag.png){width="200"} |<br/>资源种类：精炼矿物<br/><br/>熔点：1400°C<br/>-> ![MoltenSlag](/assets/images/elements/MoltenSlag.png){.inline-icon} 熔渣<br/><br/>硬度：1<br/><br/>属性：<br/>固体|<br/>比热容：<br/>1.660 (DTU/g)/ ºC<br/><br/>热导率：<br/>0.320 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.46<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
+| ![SolidSlag](/assets/images/elements/SolidSlag.png){width="200"} |<br/>资源种类：精炼矿物<br/><br/>熔点：1400°C<br/>-> ![MoltenSlag](/assets/images/elements/MoltenSlag.png){.inline-icon} 熔渣<br/><br/>硬度：1<br/><br/>属性：<br/>固体|<br/>比热容：<br/>1.660 (DTU/g)/ ºC<br/><br/>热导率：<br/>2.200 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.46<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
 
 #### 熔渣
 
@@ -200,7 +200,7 @@
 
 | |<font size="+1">材料属性</font>| |
 |-|-|-|
-| ![MoltenSlag](/assets/images/elements/MoltenSlag.png){width="200"} |<br/>资源种类：液体<br/><br/>冰点：1399°C<br/>-> ![SolidSlag](/assets/images/elements/SolidSlag.png){.inline-icon} 炉渣<br/><br/>沸点：2460°C<br/>-> ![RockGas](/assets/images/elements/RockGas.png){.inline-icon} 气态岩<br/><br/><br/>属性：<br/>光源|<br/>比热容：<br/>0.850 (DTU/g)/ ºC<br/><br/>热导率：<br/>1.000 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.8<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
+| ![MoltenSlag](/assets/images/elements/MoltenSlag.png){width="200"} |<br/>资源种类：液体<br/><br/>冰点：1399°C<br/>-> ![SolidSlag](/assets/images/elements/SolidSlag.png){.inline-icon} 炉渣<br/><br/>沸点：2460°C<br/>-> ![RockGas](/assets/images/elements/RockGas.png){.inline-icon} 气态岩<br/><br/><br/>属性：<br/>光源|<br/>比热容：<br/>0.850 (DTU/g)/ ºC<br/><br/>热导率：<br/>2.400 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.8<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
 
 #### 熔融银
 
@@ -248,7 +248,7 @@
 
 | |<font size="+1">材料属性</font>| |
 |-|-|-|
-| ![LiquidSulfuric](/assets/images/elements/LiquidSulfuric.png){width="200"} |<br/>资源种类：液体<br/><br/>冰点：10.31°C<br/>82 %  ![DirtyWater](/assets/images/elements/DirtyWater.png){.inline-icon} 污染水,<br/>18 % ![Sulfur](/assets/images/elements/Sulfur.png){.inline-icon} 硫<br/><br/>沸点：337°C<br/>-> ![SulfuricGas](/assets/images/elements/SulfuricGas.png){.inline-icon} 气态硫酸<br/><br/><br/>属性：<br/>混合物|<br/>比热容：<br/>0.335 (DTU/g)/ ºC<br/><br/>热导率：<br/>4.221 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.3<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
+| ![LiquidSulfuric](/assets/images/elements/LiquidSulfuric.png){width="200"} |<br/>资源种类：液体<br/><br/>冰点：10.31°C<br/>65 %  ![DirtyWater](/assets/images/elements/DirtyWater.png){.inline-icon} 污染水,<br/>35 % ![Sulfur](/assets/images/elements/Sulfur.png){.inline-icon} 硫<br/><br/>沸点：337°C<br/>-> ![SulfuricGas](/assets/images/elements/SulfuricGas.png){.inline-icon} 气态硫酸<br/><br/><br/>属性：<br/>混合物|<br/>比热容：<br/>0.335 (DTU/g)/ ºC<br/><br/>热导率：<br/>4.221 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.3<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
 
 #### 硼砂
 
@@ -288,7 +288,7 @@
 
 | |<font size="+1">材料属性</font>| |
 |-|-|-|
-| ![SourWater](/assets/images/elements/SourWater.png){width="200"} |<br/>资源种类：液体<br/><br/>冰点：-21°C<br/>50 %  ![SourGas](/assets/images/elements/SourGas.png){.inline-icon} 高硫天然气,<br/>50 % ![DirtyIce](/assets/images/elements/DirtyIce.png){.inline-icon} 污染冰<br/><br/>沸点：88°C<br/>50 %  ![SourGas](/assets/images/elements/SourGas.png){.inline-icon} 高硫天然气,<br/>50 % ![DirtyIce](/assets/images/elements/DirtyIce.png){.inline-icon} 污染冰<br/><br/><br/>属性：<br/>混合物|<br/>比热容：<br/>3.477 (DTU/g)/ ºC<br/><br/>热导率：<br/>0.909 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.3<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
+| ![SourWater](/assets/images/elements/SourWater.png){width="200"} |<br/>资源种类：液体<br/><br/>冰点：-21°C<br/>50 %  ![SourGas](/assets/images/elements/SourGas.png){.inline-icon} 高硫天然气,<br/>50 % ![DirtyIce](/assets/images/elements/DirtyIce.png){.inline-icon} 污染冰<br/><br/>沸点：88°C<br/>50 %  ![SourGas](/assets/images/elements/SourGas.png){.inline-icon} 高硫天然气,<br/>50 % ![DirtyIce](/assets/images/elements/DirtyIce.png){.inline-icon} 污染冰<br/><br/><br/>属性：<br/>水基物, 混合物|<br/>比热容：<br/>3.477 (DTU/g)/ ºC<br/><br/>热导率：<br/>0.909 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.3<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
 
 #### 银
 

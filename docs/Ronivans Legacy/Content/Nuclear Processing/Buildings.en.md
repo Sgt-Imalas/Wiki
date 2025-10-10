@@ -29,7 +29,7 @@ This device uses Uranium Ore. As the fuel decays, it turns to liquid Nuclear Was
 #### Element Conversion
 |Inputs:|Outputs:|
 |-|-|
-| ![UraniumOre](/assets/images/elements/UraniumOre.png){.inline-icon} Uranium Ore (8 g/s)<br>| ![NuclearWaste](/assets/images/elements/NuclearWaste.png){.inline-icon} Liquid Nuclear Waste (8 g/s at -273.15°C)<br>|
+| ![AIO_RadEmitterInputMaterial](/assets/images/entities/AIO_RadEmitterInputMaterial.png){.inline-icon} Radioactive Material (8 g/s)<br>| ![NuclearWaste](/assets/images/elements/NuclearWaste.png){.inline-icon} Liquid Nuclear Waste (8 g/s at 60°C)<br>|
 
 
 
@@ -49,7 +49,7 @@ An advanced kiln capable of volumetric oxidation with heavy nuclear waste by alt
 |Ingredients:| Time: | Products:|
 |-|-|-|
 | ![UraniumOre](/assets/images/elements/UraniumOre.png){.inline-icon} Uranium Ore (100 kg)<br> ![OxyRock](/assets/images/elements/OxyRock.png){.inline-icon} Oxylite (100 kg)<br>20x  Radbolts<br>|80s| ![Yellowcake](/assets/images/elements/Yellowcake.png){.inline-icon} Yellowcake (100 kg)<br>|
-| ![DepletedUranium](/assets/images/elements/DepletedUranium.png){.inline-icon} Depleted Uranium (10 kg)<br> ![SolidNuclearWaste](/assets/images/elements/SolidNuclearWaste.png){.inline-icon} Solid Nuclear Waste (90 kg)<br> ![OxyRock](/assets/images/elements/OxyRock.png){.inline-icon} Oxylite (100 kg)<br>50x  Radbolts<br>|80s| ![Yellowcake](/assets/images/elements/Yellowcake.png){.inline-icon} Yellowcake (100 kg)<br>|
+| ![DepletedUranium](/assets/images/elements/DepletedUranium.png){.inline-icon} Depleted Uranium (33.3 kg)<br> ![SolidNuclearWaste](/assets/images/elements/SolidNuclearWaste.png){.inline-icon} Solid Nuclear Waste (66.7 kg)<br> ![OxyRock](/assets/images/elements/OxyRock.png){.inline-icon} Oxylite (100 kg)<br>50x  Radbolts<br>|80s| ![Yellowcake](/assets/images/elements/Yellowcake.png){.inline-icon} Yellowcake (100 kg)<br>|
 
 
 

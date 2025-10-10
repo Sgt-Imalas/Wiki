@@ -193,7 +193,7 @@ Sabatier Reaction: <br/> Liquid Carbon Dioxide, Hydrogen and Iron as catalyst. T
 
 |Inputs:|Outputs:|
 |-|-|
-| ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} Carbon Dioxide (400 g/s)<br> ![Hydrogen](/assets/images/elements/Hydrogen.png){.inline-icon} Hydrogen Gas (400 g/s)<br> ![Iron](/assets/images/elements/Iron.png){.inline-icon} Iron (25 g/s)<br>| ![Steam](/assets/images/elements/Steam.png){.inline-icon} Steam (400 g/s at 109°C)<br> ![Graphite](/assets/images/elements/Graphite.png){.inline-icon} Graphite (300 g/s at 46°C)<br> ![Rust](/assets/images/elements/Rust.png){.inline-icon} Rust (25 g/s at 46°C)<br>|
+| ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} Carbon Dioxide (400 g/s)<br> ![Hydrogen](/assets/images/elements/Hydrogen.png){.inline-icon} Hydrogen Gas (400 g/s)<br> ![Iron](/assets/images/elements/Iron.png){.inline-icon} Iron (25 g/s)<br>| ![Steam](/assets/images/elements/Steam.png){.inline-icon} Steam (400 g/s at 109°C)<br> ![Graphite](/assets/images/elements/Graphite.png){.inline-icon} Graphite (300 g/s)<br> ![Rust](/assets/images/elements/Rust.png){.inline-icon} Rust (25 g/s at 46°C)<br>|
 
 
 
@@ -266,7 +266,6 @@ Boils Water to Steam at 106 °C. This particular boiler uses electricity.
 |**Power Consumption:**| 850 W |&#8288 {: style="padding:0"}|
 |**Research Required:**| Fossil Fuels|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Ceramic</td><td>200 kg</td></tr><tr><td>Refined Metal</td><td>100 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
-|**<font size="+1">Storage Capacity:</font>**| 100 kg|&#8288 {: style="padding:0"}|
 | **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Water Input Pipe</td><td>Steam Output Pipe</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 #### Element Conversion
@@ -344,7 +343,7 @@ Treat Polluted Water or Toxic Slurry using special filter and chemicals. Sieve p
 ## Gas-fueled Steam Boiler
 An industrial grade boiler that generates thermal energy by burning Combustible Gases.
 
-Boils Water to Steam at 200 °C. This particular boiler uses Combustible Gases as fuel, but may as well work with other combustible gases.
+Boils Water to Steam at 200 °C. This particular boiler uses Combustible Gases as fuel.
 
 | | | |
 |-|-|-|
@@ -438,6 +437,27 @@ Crush down Raw Minerals in to useful materials and industrial ingredients.
 
 
 
+## Liquid-fueled Steam Boiler
+An industrial grade boiler that generates thermal energy by burning Combustible Liquids.
+
+Boils Water to Steam at 200 °C. This particular boiler uses Combustible Liquids as fuel.
+
+| | | |
+|-|-|-|
+| ![Chemical_Liquid_Boiler](/assets/images/buildings/Chemical_Liquid_Boiler.png){height="100"} {rowspan="3"}|**Dimensions:** | 3 wide x 4 high|
+|**Power Consumption:**|  -  |&#8288 {: style="padding:0"}|
+|**Research Required:**| Fossil Fuels|&#8288 {: style="padding:0"}| 
+|**<font size="+1">Material Costs:</font>**|<table><tr><td>Refined Metal</td><td>1200 kg</td></tr><tr><td>Ceramic</td><td>1000 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">Storage Capacity:</font>**| 10 t|&#8288 {: style="padding:0"}|
+| **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Water Input Pipe</td><td>Steam Output Pipe</td></tr><tr><td>Combustible Liquid Input Pipe</td><td>Carbon Dioxide Output Pipe</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
+
+#### Element Conversion
+|Inputs:|Outputs:|
+|-|-|
+| ![CombustibleLiquid](/assets/images/entities/CombustibleLiquid.png){.inline-icon} Combustible Liquid (900 g/s)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} Water (4000 g/s)<br>| ![Steam](/assets/images/elements/Steam.png){.inline-icon} Steam (4000 g/s at 200°C)<br> ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} Carbon Dioxide (337.5 g/s at 110°C)<br>|
+
+
+
 ## Multi-Stage Crude Oil Refinery
 An industrial process plant responsible for refining raw oil extracted from wells.
 
@@ -454,7 +474,7 @@ The refinery has two stages: <br/><br/>First Stage: Crude Oil is first refined t
 #### Element Conversion
 |Inputs:|Outputs:|
 |-|-|
-| ![CrudeOil](/assets/images/elements/CrudeOil.png){.inline-icon} Crude Oil (9.5 kg/s)<br> ![Steam](/assets/images/elements/Steam.png){.inline-icon} Steam (500 g/s)<br>| ![Petroleum](/assets/images/elements/Petroleum.png){.inline-icon} Petroleum (5 kg/s at 98°C)<br> ![Naphtha](/assets/images/elements/Naphtha.png){.inline-icon} Liquid Naphtha (2500 g/s at 94°C)<br> ![Methane](/assets/images/elements/Methane.png){.inline-icon} Natural Gas (1000 g/s at 115°C)<br> ![Bitumen](/assets/images/elements/Bitumen.png){.inline-icon} Bitumen (500 g/s at 70°C)<br> ![SourWater](/assets/images/elements/SourWater.png){.inline-icon} Sour Water (1000 g/s at 70°C)<br>|
+| ![CrudeOil](/assets/images/elements/CrudeOil.png){.inline-icon} Crude Oil (9.5 kg/s)<br> ![Steam](/assets/images/elements/Steam.png){.inline-icon} Steam (500 g/s)<br>| ![Petroleum](/assets/images/elements/Petroleum.png){.inline-icon} Petroleum (5 kg/s at 98°C)<br> ![Naphtha](/assets/images/elements/Naphtha.png){.inline-icon} Liquid Naphtha (2500 g/s at 94°C)<br> ![Methane](/assets/images/elements/Methane.png){.inline-icon} Natural Gas (1000 g/s at 115°C)<br> ![Bitumen](/assets/images/elements/Bitumen.png){.inline-icon} Bitumen (500 g/s at 70°C)<br> ![SourWater](/assets/images/elements/SourWater.png){.inline-icon} Sour Water (1000 g/s at 34°C)<br>|
 
 
 |Inputs:|Outputs:|
@@ -732,6 +752,26 @@ A solid material mixer designed for agricultural purpose, mainly for the product
 | ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} Crushed Rock (40 kg)<br> ![ToxicSand](/assets/images/elements/ToxicSand.png){.inline-icon} Polluted Dirt (20 kg)<br> ![WoodLog](/assets/images/elements/WoodLog.png){.inline-icon} Wood (20 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} Water (20 kg)<br>|60s| ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} Dirt (100 kg)<br>|
 | ![WoodLog](/assets/images/elements/WoodLog.png){.inline-icon} Wood (60 kg)<br> ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} Crushed Rock (30 kg)<br> ![DirtyWater](/assets/images/elements/DirtyWater.png){.inline-icon} Polluted Water (10 kg)<br>|60s| ![ToxicSand](/assets/images/elements/ToxicSand.png){.inline-icon} Polluted Dirt (100 kg)<br>|
 | ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} Compressed Biomass (20 kg)<br> ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} Crushed Rock (40 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (30 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} Water (10 kg)<br>|60s| ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} Dirt (100 kg)<br>|
+
+
+
+## Sour Gas Sweetener
+A treatment plant that uses activated carbon beds for de-acidification of sour gas.
+
+Uses Activated Carbon for the adsorbtion the sulphuric compounds from Sour Gas, yielding Natural Gas and elemental Sulphur.<br/>Activated carbon requires periodic replacing.
+
+| | | |
+|-|-|-|
+| ![Chemical_SourGasSweetener](/assets/images/buildings/Chemical_SourGasSweetener.png){height="100"} {rowspan="3"}|**Dimensions:** | 3 wide x 4 high|
+|**Power Consumption:**| 120 W |&#8288 {: style="padding:0"}|
+|**Research Required:**| Emulsification|&#8288 {: style="padding:0"}| 
+|**<font size="+1">Material Costs:</font>**|<table><tr><td>Refined Metal</td><td>400 kg</td></tr><tr><td>Refined Carbon</td><td>400 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+| **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Sour Gas Input Pipe</td><td>Natural Gas Output Pipe</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
+
+#### Element Conversion
+|Inputs:|Outputs:|
+|-|-|
+| ![SourGas](/assets/images/elements/SourGas.png){.inline-icon} Sour Gas (1000 g/s)<br> ![RefinedCarbon](/assets/images/elements/RefinedCarbon.png){.inline-icon} Refined Carbon (100 g/s)<br>| ![Methane](/assets/images/elements/Methane.png){.inline-icon} Natural Gas (600 g/s at 62°C)<br> ![Sulfur](/assets/images/elements/Sulfur.png){.inline-icon} Sulfur (400 g/s at 72°C)<br> ![Carbon](/assets/images/elements/Carbon.png){.inline-icon} Coal (100 g/s)<br>|
 
 
 

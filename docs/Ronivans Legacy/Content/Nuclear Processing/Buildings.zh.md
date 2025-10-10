@@ -29,7 +29,7 @@
 #### 元素转换
 |输入:|输出:|
 |-|-|
-| ![UraniumOre](/assets/images/elements/UraniumOre.png){.inline-icon} 铀矿 (8克/秒)<br>| ![NuclearWaste](/assets/images/elements/NuclearWaste.png){.inline-icon} 液态核废料 (8克/秒 于 -273.15°C)<br>|
+| ![AIO_RadEmitterInputMaterial](/assets/images/entities/AIO_RadEmitterInputMaterial.png){.inline-icon} 放射性物质 (8克/秒)<br>| ![NuclearWaste](/assets/images/elements/NuclearWaste.png){.inline-icon} 液态核废料 (8克/秒 于 60°C)<br>|
 
 
 
@@ -49,7 +49,7 @@
 |材料:| 耗时: | 产物:|
 |-|-|-|
 | ![UraniumOre](/assets/images/elements/UraniumOre.png){.inline-icon} 铀矿 (100千克)<br> ![OxyRock](/assets/images/elements/OxyRock.png){.inline-icon} 氧石 (100千克)<br>20x 单位粒子<br>|80s| ![Yellowcake](/assets/images/elements/Yellowcake.png){.inline-icon} 黄饼 (100千克)<br>|
-| ![DepletedUranium](/assets/images/elements/DepletedUranium.png){.inline-icon} 贫铀 (10千克)<br> ![SolidNuclearWaste](/assets/images/elements/SolidNuclearWaste.png){.inline-icon} 固态核废料 (90千克)<br> ![OxyRock](/assets/images/elements/OxyRock.png){.inline-icon} 氧石 (100千克)<br>50x 单位粒子<br>|80s| ![Yellowcake](/assets/images/elements/Yellowcake.png){.inline-icon} 黄饼 (100千克)<br>|
+| ![DepletedUranium](/assets/images/elements/DepletedUranium.png){.inline-icon} 贫铀 (33.3千克)<br> ![SolidNuclearWaste](/assets/images/elements/SolidNuclearWaste.png){.inline-icon} 固态核废料 (66.7千克)<br> ![OxyRock](/assets/images/elements/OxyRock.png){.inline-icon} 氧石 (100千克)<br>50x 单位粒子<br>|80s| ![Yellowcake](/assets/images/elements/Yellowcake.png){.inline-icon} 黄饼 (100千克)<br>|
 
 
 

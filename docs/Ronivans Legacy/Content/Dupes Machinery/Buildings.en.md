@@ -157,7 +157,7 @@ Treat Polluted Water or Toxic Slurry using special filter and chemicals. Sieve p
 ## Gas-fueled Steam Boiler
 An industrial grade boiler that generates thermal energy by burning Combustible Gases.
 
-Boils Water to Steam at 200 °C. This particular boiler uses Combustible Gases as fuel, but may as well work with other combustible gases.
+Boils Water to Steam at 200 °C. This particular boiler uses Combustible Gases as fuel.
 
 | | | |
 |-|-|-|
@@ -172,6 +172,27 @@ Boils Water to Steam at 200 °C. This particular boiler uses Combustible Gases a
 |Inputs:|Outputs:|
 |-|-|
 | ![CombustibleGas](/assets/images/entities/CombustibleGas.png){.inline-icon} Combustible Gas (101.3 g/s)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} Water (4000 g/s)<br>| ![Steam](/assets/images/elements/Steam.png){.inline-icon} Steam (4000 g/s at 200°C)<br> ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} Carbon Dioxide (200 g/s at 110°C)<br>|
+
+
+
+## Liquid-fueled Steam Boiler
+An industrial grade boiler that generates thermal energy by burning Combustible Liquids.
+
+Boils Water to Steam at 200 °C. This particular boiler uses Combustible Liquids as fuel.
+
+| | | |
+|-|-|-|
+| ![Chemical_Liquid_Boiler](/assets/images/buildings/Chemical_Liquid_Boiler.png){height="100"} {rowspan="3"}|**Dimensions:** | 3 wide x 4 high|
+|**Power Consumption:**|  -  |&#8288 {: style="padding:0"}|
+|**Research Required:**| Fossil Fuels|&#8288 {: style="padding:0"}| 
+|**<font size="+1">Material Costs:</font>**|<table><tr><td>Refined Metal</td><td>1200 kg</td></tr><tr><td>Ceramic</td><td>1000 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">Storage Capacity:</font>**| 10 t|&#8288 {: style="padding:0"}|
+| **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Water Input Pipe</td><td>Steam Output Pipe</td></tr><tr><td>Combustible Liquid Input Pipe</td><td>Carbon Dioxide Output Pipe</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
+
+#### Element Conversion
+|Inputs:|Outputs:|
+|-|-|
+| ![CombustibleLiquid](/assets/images/entities/CombustibleLiquid.png){.inline-icon} Combustible Liquid (900 g/s)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} Water (4000 g/s)<br>| ![Steam](/assets/images/elements/Steam.png){.inline-icon} Steam (4000 g/s at 200°C)<br> ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} Carbon Dioxide (337.5 g/s at 110°C)<br>|
 
 
 
