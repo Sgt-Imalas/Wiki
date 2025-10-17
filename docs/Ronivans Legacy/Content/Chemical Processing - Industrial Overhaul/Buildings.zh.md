@@ -72,12 +72,12 @@
 |**耗电:**| 840瓦 |&#8288 {: style="padding:0"}|
 |**科技:**| 基于液体的精炼工艺|&#8288 {: style="padding:0"}| 
 |**<font size="+1">建造材料:</font>**|<table><tr><td>矿物原料</td><td>200千克</td></tr><tr><td>精炼金属</td><td>100千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
-| **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>氨 输入管道</td><td>气体 输出管道</td></tr><tr><td>-</td><td>氮气 输出管道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
+| **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>氨气 输入管道</td><td>气体 输出管道</td></tr><tr><td>-</td><td>氮气 输出管道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 #### 元素转换
 |输入:|输出:|
 |-|-|
-| ![AmmoniaGas](/assets/images/elements/AmmoniaGas.png){.inline-icon} 氨 (1000克/秒)<br> ![Iron](/assets/images/elements/Iron.png){.inline-icon} 铁 (10克/秒)<br>| ![Hydrogen](/assets/images/elements/Hydrogen.png){.inline-icon} 氢气 (750克/秒 于 98°C)<br> ![NitrogenGas](/assets/images/elements/NitrogenGas.png){.inline-icon} 氮气 (250克/秒 于 98°C)<br> ![Rust](/assets/images/elements/Rust.png){.inline-icon} 铁锈 (10克/秒 于 34°C)<br>|
+| ![AmmoniaGas](/assets/images/elements/AmmoniaGas.png){.inline-icon} 氨气 (1000克/秒)<br> ![Iron](/assets/images/elements/Iron.png){.inline-icon} 铁 (10克/秒)<br>| ![Hydrogen](/assets/images/elements/Hydrogen.png){.inline-icon} 氢气 (750克/秒 于 98°C)<br> ![NitrogenGas](/assets/images/elements/NitrogenGas.png){.inline-icon} 氮气 (250克/秒 于 98°C)<br> ![Rust](/assets/images/elements/Rust.png){.inline-icon} 铁锈 (10克/秒 于 34°C)<br>|
 
 
 
@@ -93,12 +93,12 @@
 |**科技:**| 温度调节|&#8288 {: style="padding:0"}| 
 |**<font size="+1">建造材料:</font>**|<table><tr><td>陶瓷</td><td>400千克</td></tr><tr><td>精炼金属</td><td>200千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 |**<font size="+1">存储容量:</font>**| 3000千克|&#8288 {: style="padding:0"}|
-| **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>氨 输入管道</td><td>液态氨 输出管道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
+| **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>氨气 输入管道</td><td>液态氨 输出管道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 #### 元素转换
 |输入:|输出:|
 |-|-|
-| ![AmmoniaGas](/assets/images/elements/AmmoniaGas.png){.inline-icon} 氨 (1000克/秒)<br>| ![LiquidAmmonia](/assets/images/elements/LiquidAmmonia.png){.inline-icon} 液态氨 (1000克/秒 于 -61°C)<br>|
+| ![AmmoniaGas](/assets/images/elements/AmmoniaGas.png){.inline-icon} 氨气 (1000克/秒)<br>| ![LiquidAmmonia](/assets/images/elements/LiquidAmmonia.png){.inline-icon} 液态氨 (1000克/秒 于 -61°C)<br>|
 
 
 
@@ -208,7 +208,7 @@
 |**耗电:**| 800瓦 |&#8288 {: style="padding:0"}|
 |**科技:**| 乳化|&#8288 {: style="padding:0"}| 
 |**<font size="+1">建造材料:</font>**|<table><tr><td>钢 或 硬化合金</td><td>400千克</td></tr><tr><td>精炼金属</td><td>600千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
-| **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>氮气 输入管道</td><td>液体 输出管道</td></tr><tr><td>氨 输入管道</td><td>异丙烷 输出管道</td></tr><tr><td>丙烷 输入管道</td><td>-</td></tr><tr><td>水 输入管道</td><td>-</td></tr><tr><td>石油 输入管道</td><td>-</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
+| **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>氮气 输入管道</td><td>液体 输出管道</td></tr><tr><td>氨气 输入管道</td><td>异丙烷 输出管道</td></tr><tr><td>丙烷 输入管道</td><td>-</td></tr><tr><td>水 输入管道</td><td>-</td></tr><tr><td>石油 输入管道</td><td>-</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 ### 配方
 |材料:| 耗时: | 产物:|
@@ -217,8 +217,22 @@
 | ![NitrogenGas](/assets/images/elements/NitrogenGas.png){.inline-icon} 氮气 (20千克)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (30千克)<br>|20s| ![LiquidNitric](/assets/images/elements/LiquidNitric.png){.inline-icon} 硝酸 (50千克)<br>|
 | ![Petroleum](/assets/images/elements/Petroleum.png){.inline-icon} 石油 (30千克)<br> ![NitrogenGas](/assets/images/elements/NitrogenGas.png){.inline-icon} 氮气 (19千克)<br> ![Fullerene](/assets/images/elements/Fullerene.png){.inline-icon} 富勒烯 (1000克)<br>|40s| ![SuperCoolant](/assets/images/elements/SuperCoolant.png){.inline-icon} 超级冷却剂 (50千克)<br>|
 | ![Propane](/assets/images/elements/Propane.png){.inline-icon} 丙烷 (50千克)<br> ![Petroleum](/assets/images/elements/Petroleum.png){.inline-icon} 石油 (49千克)<br> ![Fullerene](/assets/images/elements/Fullerene.png){.inline-icon} 富勒烯 (1000克)<br>|40s| ![IsopropaneGas](/assets/images/elements/IsopropaneGas.png){.inline-icon} 异丙烷 (100千克)<br>|
-| ![AmmoniaGas](/assets/images/elements/AmmoniaGas.png){.inline-icon} 氨 (5千克)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} 泥土 (35千克)<br> ![Phosphorus](/assets/images/elements/Phosphorus.png){.inline-icon} 精炼磷 (5千克)<br> ![Sulfur](/assets/images/elements/Sulfur.png){.inline-icon} 硫 (5千克)<br>|20s| ![Fertilizer](/assets/images/elements/Fertilizer.png){.inline-icon} 肥料 (50千克)<br>|
+| ![AmmoniaGas](/assets/images/elements/AmmoniaGas.png){.inline-icon} 氨气 (10千克)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} 泥土 (70千克)<br> ![Phosphorus](/assets/images/elements/Phosphorus.png){.inline-icon} 精炼磷 (10千克)<br> ![Sulfur](/assets/images/elements/Sulfur.png){.inline-icon} 硫 (10千克)<br>|20s| ![Fertilizer](/assets/images/elements/Fertilizer.png){.inline-icon} 肥料 (100千克)<br>|
 
+
+
+## 氯气过滤器
+一种先进的泵，能够智能检测氯气并将其排出。
+
+自动检测氯气的痕迹，并将其从周围环境中分离出来。
+
+| | | |
+|-|-|-|
+| ![Chemical_AIO_ChlorinePump](/assets/images/buildings/Chemical_AIO_ChlorinePump.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 1 x 高 1|
+|**耗电:**| 10瓦 |&#8288 {: style="padding:0"}|
+|**科技:**| 除污|&#8288 {: style="padding:0"}| 
+|**<font size="+1">建造材料:</font>**|<table><tr><td>金属矿石</td><td>25千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+| **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>-</td><td>气体 输出管道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 
 ## 二氧化碳过滤器
@@ -263,7 +277,7 @@
 | | | |
 |-|-|-|
 | ![Chemical_ElectricBoiler](/assets/images/buildings/Chemical_ElectricBoiler.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 2 x 高 3|
-|**耗电:**| 850瓦 |&#8288 {: style="padding:0"}|
+|**耗电:**| 720瓦 |&#8288 {: style="padding:0"}|
 |**科技:**| 化石燃料|&#8288 {: style="padding:0"}| 
 |**<font size="+1">建造材料:</font>**|<table><tr><td>陶瓷</td><td>200千克</td></tr><tr><td>精炼金属</td><td>100千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>水 输入管道</td><td>蒸汽 输出管道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
@@ -271,7 +285,7 @@
 #### 元素转换
 |输入:|输出:|
 |-|-|
-| ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (1000克/秒)<br>| ![Steam](/assets/images/elements/Steam.png){.inline-icon} 蒸汽 (1000克/秒 于 106°C)<br>|
+| ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (2000克/秒)<br>| ![Steam](/assets/images/elements/Steam.png){.inline-icon} 蒸汽 (2000克/秒 于 120°C)<br>|
 
 
 
@@ -461,7 +475,7 @@
 ## 多级原油精炼厂
 一座用于将油井中提取的原油进行精炼的工业处理装置。
 
-本精炼厂分两阶段运作：<br/><br/>第一阶段：将 原油初步精炼产出：<br/> - 50% 石油<br/> - 25% 石脑油<br/> - 10% 天然气<br/>\v - 10% 酸水作为废弃物<br/> - 5% 沥青<br/><br/>第二阶段： 将石脑油深度精炼为：<br/> - 45% 石油<br/> - 10% 天然气<br/> - 45% 沥青<br/><br/>第一阶段蒸馏过程消耗蒸汽，第二阶段需氢气缓冲反应。
+本精炼厂分两阶段运作：<br/><br/>第一阶段：将 原油初步精炼产出：<br/> - 50% 石油<br/> - 25% 石脑油<br/> - 10% 天然气<br/> - 10% 酸水作为废弃物<br/> - 5% 沥青<br/><br/>第二阶段： 将石脑油深度精炼为：<br/> - 45% 石油<br/> - 10% 天然气<br/> - 45% 沥青<br/><br/>第一阶段蒸馏过程消耗蒸汽，第二阶段需氢气缓冲反应。
 
 | | | |
 |-|-|-|
@@ -474,7 +488,7 @@
 #### 元素转换
 |输入:|输出:|
 |-|-|
-| ![CrudeOil](/assets/images/elements/CrudeOil.png){.inline-icon} 原油 (9.5千克/秒)<br> ![Steam](/assets/images/elements/Steam.png){.inline-icon} 蒸汽 (500克/秒)<br>| ![Petroleum](/assets/images/elements/Petroleum.png){.inline-icon} 石油 (5千克/秒 于 98°C)<br> ![Naphtha](/assets/images/elements/Naphtha.png){.inline-icon} 液态石脑油 (2500克/秒 于 94°C)<br> ![Methane](/assets/images/elements/Methane.png){.inline-icon} 天然气 (1000克/秒 于 115°C)<br> ![Bitumen](/assets/images/elements/Bitumen.png){.inline-icon} 沥青 (500克/秒 于 70°C)<br> ![SourWater](/assets/images/elements/SourWater.png){.inline-icon} 酸水 (1000克/秒 于 34°C)<br>|
+| ![CrudeOil](/assets/images/elements/CrudeOil.png){.inline-icon} 原油 (9.5千克/秒)<br> ![Steam](/assets/images/elements/Steam.png){.inline-icon} 蒸汽 (500克/秒)<br>| ![Petroleum](/assets/images/elements/Petroleum.png){.inline-icon} 石油 (5千克/秒 于 98°C)<br> ![Naphtha](/assets/images/elements/Naphtha.png){.inline-icon} 液态石脑油 (2500克/秒 于 94°C)<br> ![Methane](/assets/images/elements/Methane.png){.inline-icon} 天然气 (1000克/秒 于 115°C)<br> ![Bitumen](/assets/images/elements/Bitumen.png){.inline-icon} 沥青 (500克/秒 于 70°C)<br> ![SourWater](/assets/images/elements/SourWater.png){.inline-icon} 酸水 (1000克/秒)<br>|
 
 
 |输入:|输出:|
@@ -494,7 +508,7 @@
 |**耗电:**| 640瓦 |&#8288 {: style="padding:0"}|
 |**科技:**| 泵小型化|&#8288 {: style="padding:0"}| 
 |**<font size="+1">建造材料:</font>**|<table><tr><td>精炼金属</td><td>500千克</td></tr><tr><td>钢 或 硬化合金</td><td>200千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
-| **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>原料(天然)气 输入管道</td><td>气体 输出管道</td></tr><tr><td>蒸汽 输入管道</td><td>丙烷 输出管道</td></tr><tr><td>氢气 输入管道</td><td>高硫天然气 输出管道</td></tr><tr><td>丙烷 输入管道</td><td>氨 输出管道</td></tr><tr><td>高硫天然气 输入管道</td><td>水 输出管道</td></tr><tr><td>硝酸 输入管道</td><td>-</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
+| **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>原料(天然)气 输入管道</td><td>气体 输出管道</td></tr><tr><td>蒸汽 输入管道</td><td>丙烷 输出管道</td></tr><tr><td>氢气 输入管道</td><td>高硫天然气 输出管道</td></tr><tr><td>丙烷 输入管道</td><td>氨气 输出管道</td></tr><tr><td>高硫天然气 输入管道</td><td>水 输出管道</td></tr><tr><td>硝酸 输入管道</td><td>-</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 #### 元素转换
 |输入:|输出:|
@@ -509,7 +523,7 @@
 
 |输入:|输出:|
 |-|-|
-| ![SourGas](/assets/images/elements/SourGas.png){.inline-icon} 高硫天然气 (600克/秒)<br> ![LiquidNitric](/assets/images/elements/LiquidNitric.png){.inline-icon} 硝酸 (150克/秒)<br>| ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (350克/秒 于 89°C)<br> ![AmmoniaGas](/assets/images/elements/AmmoniaGas.png){.inline-icon} 氨 (150克/秒 于 94°C)<br> ![Sulfur](/assets/images/elements/Sulfur.png){.inline-icon} 硫 (250克/秒 于 60°C)<br>|
+| ![SourGas](/assets/images/elements/SourGas.png){.inline-icon} 高硫天然气 (600克/秒)<br> ![LiquidNitric](/assets/images/elements/LiquidNitric.png){.inline-icon} 硝酸 (150克/秒)<br>| ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (350克/秒 于 89°C)<br> ![AmmoniaGas](/assets/images/elements/AmmoniaGas.png){.inline-icon} 氨气 (150克/秒 于 94°C)<br> ![Sulfur](/assets/images/elements/Sulfur.png){.inline-icon} 硫 (250克/秒 于 60°C)<br>|
 
 
 
@@ -544,12 +558,17 @@
 |**耗电:**| 240瓦 |&#8288 {: style="padding:0"}|
 |**科技:**| 乳化|&#8288 {: style="padding:0"}| 
 |**<font size="+1">建造材料:</font>**|<table><tr><td>陶瓷</td><td>100千克</td></tr><tr><td>精炼金属</td><td>200千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
-| **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>氨 输入管道</td><td>液体 输出管道</td></tr><tr><td>硫酸 输入管道</td><td>蒸汽 输出管道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
+| **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>氨气 输入管道</td><td>液体 输出管道</td></tr><tr><td>硫酸 输入管道</td><td>蒸汽 输出管道</td></tr><tr><td>氧气 输入管道</td><td>-</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 #### 元素转换
 |输入:|输出:|
 |-|-|
-| ![AmmoniaGas](/assets/images/elements/AmmoniaGas.png){.inline-icon} 氨 (600克/秒)<br> ![LiquidSulfuric](/assets/images/elements/LiquidSulfuric.png){.inline-icon} 硫酸 (500克/秒)<br>| ![LiquidNitric](/assets/images/elements/LiquidNitric.png){.inline-icon} 硝酸 (500克/秒 于 72°C)<br> ![Sulfur](/assets/images/elements/Sulfur.png){.inline-icon} 硫 (300克/秒 于 47°C)<br> ![Steam](/assets/images/elements/Steam.png){.inline-icon} 蒸汽 (200克/秒 于 119°C)<br>|
+| ![Oxygen](/assets/images/elements/Oxygen.png){.inline-icon} 氧气 (640克/秒)<br> ![AmmoniaGas](/assets/images/elements/AmmoniaGas.png){.inline-icon} 氨气 (170克/秒)<br>| ![LiquidNitric](/assets/images/elements/LiquidNitric.png){.inline-icon} 硝酸 (630克/秒 于 68°C)<br> ![Steam](/assets/images/elements/Steam.png){.inline-icon} 蒸汽 (180克/秒 于 130°C)<br>|
+
+
+|输入:|输出:|
+|-|-|
+| ![Salt](/assets/images/elements/Salt.png){.inline-icon} 盐 (850克/秒)<br> ![LiquidSulfuric](/assets/images/elements/LiquidSulfuric.png){.inline-icon} 硫酸 (490克/秒)<br>| ![LiquidNitric](/assets/images/elements/LiquidNitric.png){.inline-icon} 硝酸 (630克/秒 于 68°C)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (710克/秒 于 45°C)<br>|
 
 
 
@@ -716,14 +735,14 @@
 ### 配方
 |材料:| 耗时: | 随机产物:|
 |-|-|-|
-| ![Copper](/assets/images/elements/Copper.png){.inline-icon} 铜 (70千克)<br> ![SolidZinc](/assets/images/elements/SolidZinc.png){.inline-icon} 锌 (30千克)<br>|40s||
-| ![Copper](/assets/images/elements/Copper.png){.inline-icon} 铜 (80千克)<br> ![Lead](/assets/images/elements/Lead.png){.inline-icon} 铅 (15千克)<br> ![Phosphorus](/assets/images/elements/Phosphorus.png){.inline-icon} 精炼磷 (5千克)<br>|40s||
-| ![Iron](/assets/images/elements/Iron.png){.inline-icon} 铁 (70千克)<br> ![RefinedCarbon](/assets/images/elements/RefinedCarbon.png){.inline-icon} 精炼碳 (20千克)<br> ![Lime](/assets/images/elements/Lime.png){.inline-icon} 石灰 (10千克)<br>|40s||
-| ![Iron](/assets/images/elements/Iron.png){.inline-icon} 铁 (70千克)<br> ![RefinedCarbon](/assets/images/elements/RefinedCarbon.png){.inline-icon} 精炼碳 (20千克)<br> ![Lime](/assets/images/elements/Lime.png){.inline-icon} 石灰 (5千克)<br> ![SolidBorax](/assets/images/elements/SolidBorax.png){.inline-icon} 硼砂 (5千克)<br>|40s||
+| ![Copper](/assets/images/elements/Copper.png){.inline-icon} 铜 (70千克)<br> ![SolidZinc](/assets/images/elements/SolidZinc.png){.inline-icon} 锌 (30千克)<br>|40s| ![SolidBrass](/assets/images/elements/SolidBrass.png){.inline-icon} 黄铜 (100千克)<br>|
+| ![Copper](/assets/images/elements/Copper.png){.inline-icon} 铜 (80千克)<br> ![Lead](/assets/images/elements/Lead.png){.inline-icon} 铅 (15千克)<br> ![Phosphorus](/assets/images/elements/Phosphorus.png){.inline-icon} 精炼磷 (5千克)<br>|40s| ![PhosphorBronze](/assets/images/elements/PhosphorBronze.png){.inline-icon} 磷青铜 (100千克)<br>|
+| ![Iron](/assets/images/elements/Iron.png){.inline-icon} 铁 (70千克)<br> ![RefinedCarbon](/assets/images/elements/RefinedCarbon.png){.inline-icon} 精炼碳 (20千克)<br> ![Lime](/assets/images/elements/Lime.png){.inline-icon} 石灰 (10千克)<br>|40s| ![Steel](/assets/images/elements/Steel.png){.inline-icon} 钢 (100千克)<br>|
+| ![Iron](/assets/images/elements/Iron.png){.inline-icon} 铁 (70千克)<br> ![RefinedCarbon](/assets/images/elements/RefinedCarbon.png){.inline-icon} 精炼碳 (20千克)<br> ![Lime](/assets/images/elements/Lime.png){.inline-icon} 石灰 (5千克)<br> ![SolidBorax](/assets/images/elements/SolidBorax.png){.inline-icon} 硼砂 (5千克)<br>|40s| ![Steel](/assets/images/elements/Steel.png){.inline-icon} 钢 (100千克)<br>|
 | ![LowGradeSand](/assets/images/elements/LowGradeSand.png){.inline-icon} 低级金属砂 (100千克)<br> ![SolidBorax](/assets/images/elements/SolidBorax.png){.inline-icon} 硼砂 (10千克)<br>|50s| ![Copper](/assets/images/elements/Copper.png){.inline-icon} 铜<br> ![Nickel](/assets/images/elements/Nickel.png){.inline-icon} 镍<br> ![SolidZinc](/assets/images/elements/SolidZinc.png){.inline-icon} 锌<br> ![Lead](/assets/images/elements/Lead.png){.inline-icon} 铅<br> ![SolidSilver](/assets/images/elements/SolidSilver.png){.inline-icon} 银<br>|
 | ![BaseGradeSand](/assets/images/elements/BaseGradeSand.png){.inline-icon} 中级金属砂 (100千克)<br> ![SolidBorax](/assets/images/elements/SolidBorax.png){.inline-icon} 硼砂 (10千克)<br>|50s| ![Aluminum](/assets/images/elements/Aluminum.png){.inline-icon} 铝<br> ![Iron](/assets/images/elements/Iron.png){.inline-icon} 铁<br> ![Gold](/assets/images/elements/Gold.png){.inline-icon} 金<br> ![Tungsten](/assets/images/elements/Tungsten.png){.inline-icon} 钨<br>|
 | ![HighGradeSand](/assets/images/elements/HighGradeSand.png){.inline-icon} 高级金属砂 (100千克)<br> ![SolidBorax](/assets/images/elements/SolidBorax.png){.inline-icon} 硼砂 (10千克)<br> ![Graphite](/assets/images/elements/Graphite.png){.inline-icon} 石墨 (10千克)<br>|50s| ![Tungsten](/assets/images/elements/Tungsten.png){.inline-icon} 钨<br> ![Fullerene](/assets/images/elements/Fullerene.png){.inline-icon} 富勒烯<br> ![Niobium](/assets/images/elements/Niobium.png){.inline-icon} 铌<br>|
-| ![TempConductorSolid](/assets/images/elements/TempConductorSolid.png){.inline-icon} 导热质 (100千克)<br>|50s||
+| ![TempConductorSolid](/assets/images/elements/TempConductorSolid.png){.inline-icon} 导热质 (100千克)<br>|50s| ![Niobium](/assets/images/elements/Niobium.png){.inline-icon} 铌 (100千克)<br>|
 
 
 
@@ -738,13 +757,13 @@
 |**耗电:**| 480瓦 |&#8288 {: style="padding:0"}|
 |**科技:**| 农业|&#8288 {: style="padding:0"}| 
 |**<font size="+1">建造材料:</font>**|<table><tr><td>精炼金属</td><td>400千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
-| **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>污染水 输入管道</td><td>-</td></tr><tr><td>水 输入管道</td><td>-</td></tr><tr><td>氨 输入管道</td><td>-</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
+| **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>污染水 输入管道</td><td>-</td></tr><tr><td>水 输入管道</td><td>-</td></tr><tr><td>氨气 输入管道</td><td>-</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 ### 配方
 |材料:| 耗时: | 产物:|
 |-|-|-|
 | ![AmmoniumSalt](/assets/images/elements/AmmoniumSalt.png){.inline-icon} 硝酸盐结晶 (25千克)<br> ![PhosphateNodules](/assets/images/elements/PhosphateNodules.png){.inline-icon} 磷酸盐结晶 (25千克)<br> ![Sulfur](/assets/images/elements/Sulfur.png){.inline-icon} 硫 (25千克)<br> ![DirtyWater](/assets/images/elements/DirtyWater.png){.inline-icon} 污染水 (25千克)<br>|80s| ![Fertilizer](/assets/images/elements/Fertilizer.png){.inline-icon} 肥料 (100千克)<br>|
-| ![AmmoniaGas](/assets/images/elements/AmmoniaGas.png){.inline-icon} 氨 (25千克)<br> ![PhosphateNodules](/assets/images/elements/PhosphateNodules.png){.inline-icon} 磷酸盐结晶 (25千克)<br> ![Sulfur](/assets/images/elements/Sulfur.png){.inline-icon} 硫 (25千克)<br> ![DirtyWater](/assets/images/elements/DirtyWater.png){.inline-icon} 污染水 (25千克)<br>|80s| ![Fertilizer](/assets/images/elements/Fertilizer.png){.inline-icon} 肥料 (100千克)<br>|
+| ![AmmoniaGas](/assets/images/elements/AmmoniaGas.png){.inline-icon} 氨气 (25千克)<br> ![PhosphateNodules](/assets/images/elements/PhosphateNodules.png){.inline-icon} 磷酸盐结晶 (25千克)<br> ![Sulfur](/assets/images/elements/Sulfur.png){.inline-icon} 硫 (25千克)<br> ![DirtyWater](/assets/images/elements/DirtyWater.png){.inline-icon} 污染水 (25千克)<br>|80s| ![Fertilizer](/assets/images/elements/Fertilizer.png){.inline-icon} 肥料 (100千克)<br>|
 | ![Phosphorus](/assets/images/elements/Phosphorus.png){.inline-icon} 精炼磷 (50千克)<br> ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} 碎岩 (40千克)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (10千克)<br>|60s| ![PhosphateNodules](/assets/images/elements/PhosphateNodules.png){.inline-icon} 磷酸盐结晶 (100千克)<br>|
 | ![PhosphateNodules](/assets/images/elements/PhosphateNodules.png){.inline-icon} 磷酸盐结晶 (50千克)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} 泥土 (40千克)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (10千克)<br>|60s| ![Phosphorite](/assets/images/elements/Phosphorite.png){.inline-icon} 磷矿 (100千克)<br>|
 | ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} 碎岩 (40千克)<br> ![ToxicSand](/assets/images/elements/ToxicSand.png){.inline-icon} 污染土 (20千克)<br> ![Carbon](/assets/images/elements/Carbon.png){.inline-icon} 煤炭 (20千克)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (20千克)<br>|60s| ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} 泥土 (100千克)<br>|
@@ -786,12 +805,12 @@
 |**耗电:**| 360瓦 |&#8288 {: style="padding:0"}|
 |**科技:**| 基于液体的精炼工艺|&#8288 {: style="padding:0"}| 
 |**<font size="+1">建造材料:</font>**|<table><tr><td>矿物原料</td><td>400千克</td></tr><tr><td>精炼金属</td><td>200千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
-| **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>酸水 输入管道</td><td>液体 输出管道</td></tr><tr><td>蒸汽 输入管道</td><td>高硫天然气 输出管道</td></tr><tr><td>-</td><td>氨 输出管道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
+| **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>酸水 输入管道</td><td>液体 输出管道</td></tr><tr><td>蒸汽 输入管道</td><td>高硫天然气 输出管道</td></tr><tr><td>-</td><td>氨气 输出管道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 #### 元素转换
 |输入:|输出:|
 |-|-|
-| ![SourWater](/assets/images/elements/SourWater.png){.inline-icon} 酸水 (5千克/秒)<br> ![Steam](/assets/images/elements/Steam.png){.inline-icon} 蒸汽 (250克/秒)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (100克/秒)<br>| ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (4250克/秒 于 48°C)<br> ![SourGas](/assets/images/elements/SourGas.png){.inline-icon} 高硫天然气 (750克/秒 于 94°C)<br> ![AmmoniaGas](/assets/images/elements/AmmoniaGas.png){.inline-icon} 氨 (500克/秒 于 83°C)<br> ![ToxicSand](/assets/images/elements/ToxicSand.png){.inline-icon} 污染土 (350克/秒)<br>|
+| ![SourWater](/assets/images/elements/SourWater.png){.inline-icon} 酸水 (5千克/秒)<br> ![Steam](/assets/images/elements/Steam.png){.inline-icon} 蒸汽 (250克/秒)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (100克/秒)<br>| ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (4250克/秒 于 48°C)<br> ![SourGas](/assets/images/elements/SourGas.png){.inline-icon} 高硫天然气 (750克/秒 于 94°C)<br> ![AmmoniaGas](/assets/images/elements/AmmoniaGas.png){.inline-icon} 氨气 (500克/秒 于 83°C)<br> ![ToxicSand](/assets/images/elements/ToxicSand.png){.inline-icon} 污染土 (350克/秒)<br>|
 
 
 
@@ -849,7 +868,7 @@
 |**耗电:**| 120瓦 |&#8288 {: style="padding:0"}|
 |**科技:**| 基于液体的精炼工艺|&#8288 {: style="padding:0"}| 
 |**<font size="+1">建造材料:</font>**|<table><tr><td>陶瓷</td><td>600千克</td></tr><tr><td>精炼金属</td><td>400千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
-| **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>盐水 输入管道</td><td>液体 输出管道</td></tr><tr><td>蒸汽 输入管道</td><td>水 输出管道</td></tr><tr><td>氨水 输入管道</td><td>氨 输出管道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
+| **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>盐水 输入管道</td><td>液体 输出管道</td></tr><tr><td>蒸汽 输入管道</td><td>水 输出管道</td></tr><tr><td>氨水 输入管道</td><td>氨气 输出管道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 #### 元素转换
 |输入:|输出:|
@@ -859,7 +878,7 @@
 
 |输入:|输出:|
 |-|-|
-| ![AmmoniumWater](/assets/images/elements/AmmoniumWater.png){.inline-icon} 氨水 (5千克/秒)<br> ![Steam](/assets/images/elements/Steam.png){.inline-icon} 蒸汽 (500克/秒)<br>| ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (2500克/秒 于 54°C)<br> ![Brine](/assets/images/elements/Brine.png){.inline-icon} 浓盐水 (2450克/秒 于 74°C)<br> ![AmmoniaGas](/assets/images/elements/AmmoniaGas.png){.inline-icon} 氨 (550克/秒 于 48°C)<br>|
+| ![AmmoniumWater](/assets/images/elements/AmmoniumWater.png){.inline-icon} 氨水 (5千克/秒)<br> ![Steam](/assets/images/elements/Steam.png){.inline-icon} 蒸汽 (500克/秒)<br>| ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (4950克/秒 于 54°C)<br> ![AmmoniaGas](/assets/images/elements/AmmoniaGas.png){.inline-icon} 氨气 (550克/秒 于 48°C)<br>|
 
 
 

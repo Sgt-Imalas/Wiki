@@ -217,8 +217,22 @@ An industrial aparatus capable to address several chemical reactions. Its large 
 | ![NitrogenGas](/assets/images/elements/NitrogenGas.png){.inline-icon} Nitrogen (20 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} Water (30 kg)<br>|20s| ![LiquidNitric](/assets/images/elements/LiquidNitric.png){.inline-icon} Nitric Acid (50 kg)<br>|
 | ![Petroleum](/assets/images/elements/Petroleum.png){.inline-icon} Petroleum (30 kg)<br> ![NitrogenGas](/assets/images/elements/NitrogenGas.png){.inline-icon} Nitrogen (19 kg)<br> ![Fullerene](/assets/images/elements/Fullerene.png){.inline-icon} Fullerene (1000 g)<br>|40s| ![SuperCoolant](/assets/images/elements/SuperCoolant.png){.inline-icon} Super Coolant (50 kg)<br>|
 | ![Propane](/assets/images/elements/Propane.png){.inline-icon} Propane Gas (50 kg)<br> ![Petroleum](/assets/images/elements/Petroleum.png){.inline-icon} Petroleum (49 kg)<br> ![Fullerene](/assets/images/elements/Fullerene.png){.inline-icon} Fullerene (1000 g)<br>|40s| ![IsopropaneGas](/assets/images/elements/IsopropaneGas.png){.inline-icon} Isopropane (100 kg)<br>|
-| ![AmmoniaGas](/assets/images/elements/AmmoniaGas.png){.inline-icon} Ammonia (5 kg)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} Dirt (35 kg)<br> ![Phosphorus](/assets/images/elements/Phosphorus.png){.inline-icon} Refined Phosphorus (5 kg)<br> ![Sulfur](/assets/images/elements/Sulfur.png){.inline-icon} Sulfur (5 kg)<br>|20s| ![Fertilizer](/assets/images/elements/Fertilizer.png){.inline-icon} Fertilizer (50 kg)<br>|
+| ![AmmoniaGas](/assets/images/elements/AmmoniaGas.png){.inline-icon} Ammonia (10 kg)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} Dirt (70 kg)<br> ![Phosphorus](/assets/images/elements/Phosphorus.png){.inline-icon} Refined Phosphorus (10 kg)<br> ![Sulfur](/assets/images/elements/Sulfur.png){.inline-icon} Sulfur (10 kg)<br>|20s| ![Fertilizer](/assets/images/elements/Fertilizer.png){.inline-icon} Fertilizer (100 kg)<br>|
 
+
+
+## Chlorine Gas Filter
+A fancy pump capable to detect Chlorine Gas and pump it.
+
+Automatically detects trace of Chlorine Gas and extract it out of the surroudings.
+
+| | | |
+|-|-|-|
+| ![Chemical_AIO_ChlorinePump](/assets/images/buildings/Chemical_AIO_ChlorinePump.png){height="100"} {rowspan="3"}|**Dimensions:** | 1 wide x 1 high|
+|**Power Consumption:**| 10 W |&#8288 {: style="padding:0"}|
+|**Research Required:**| Decontamination|&#8288 {: style="padding:0"}| 
+|**<font size="+1">Material Costs:</font>**|<table><tr><td>Metal Ore</td><td>25 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+| **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>-</td><td>Gas Output Pipe</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 
 ## CO2 Filter
@@ -263,7 +277,7 @@ Boils Water to Steam at 106 °C. This particular boiler uses electricity.
 | | | |
 |-|-|-|
 | ![Chemical_ElectricBoiler](/assets/images/buildings/Chemical_ElectricBoiler.png){height="100"} {rowspan="3"}|**Dimensions:** | 2 wide x 3 high|
-|**Power Consumption:**| 850 W |&#8288 {: style="padding:0"}|
+|**Power Consumption:**| 720 W |&#8288 {: style="padding:0"}|
 |**Research Required:**| Fossil Fuels|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Ceramic</td><td>200 kg</td></tr><tr><td>Refined Metal</td><td>100 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Water Input Pipe</td><td>Steam Output Pipe</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
@@ -271,7 +285,7 @@ Boils Water to Steam at 106 °C. This particular boiler uses electricity.
 #### Element Conversion
 |Inputs:|Outputs:|
 |-|-|
-| ![Water](/assets/images/elements/Water.png){.inline-icon} Water (1000 g/s)<br>| ![Steam](/assets/images/elements/Steam.png){.inline-icon} Steam (1000 g/s at 106°C)<br>|
+| ![Water](/assets/images/elements/Water.png){.inline-icon} Water (2000 g/s)<br>| ![Steam](/assets/images/elements/Steam.png){.inline-icon} Steam (2000 g/s at 120°C)<br>|
 
 
 
@@ -474,7 +488,7 @@ The refinery has two stages: <br/><br/>First Stage: Crude Oil is first refined t
 #### Element Conversion
 |Inputs:|Outputs:|
 |-|-|
-| ![CrudeOil](/assets/images/elements/CrudeOil.png){.inline-icon} Crude Oil (9.5 kg/s)<br> ![Steam](/assets/images/elements/Steam.png){.inline-icon} Steam (500 g/s)<br>| ![Petroleum](/assets/images/elements/Petroleum.png){.inline-icon} Petroleum (5 kg/s at 98°C)<br> ![Naphtha](/assets/images/elements/Naphtha.png){.inline-icon} Liquid Naphtha (2500 g/s at 94°C)<br> ![Methane](/assets/images/elements/Methane.png){.inline-icon} Natural Gas (1000 g/s at 115°C)<br> ![Bitumen](/assets/images/elements/Bitumen.png){.inline-icon} Bitumen (500 g/s at 70°C)<br> ![SourWater](/assets/images/elements/SourWater.png){.inline-icon} Sour Water (1000 g/s at 34°C)<br>|
+| ![CrudeOil](/assets/images/elements/CrudeOil.png){.inline-icon} Crude Oil (9.5 kg/s)<br> ![Steam](/assets/images/elements/Steam.png){.inline-icon} Steam (500 g/s)<br>| ![Petroleum](/assets/images/elements/Petroleum.png){.inline-icon} Petroleum (5 kg/s at 98°C)<br> ![Naphtha](/assets/images/elements/Naphtha.png){.inline-icon} Liquid Naphtha (2500 g/s at 94°C)<br> ![Methane](/assets/images/elements/Methane.png){.inline-icon} Natural Gas (1000 g/s at 115°C)<br> ![Bitumen](/assets/images/elements/Bitumen.png){.inline-icon} Bitumen (500 g/s at 70°C)<br> ![SourWater](/assets/images/elements/SourWater.png){.inline-icon} Sour Water (1000 g/s)<br>|
 
 
 |Inputs:|Outputs:|
@@ -536,7 +550,7 @@ This second stage refinement plant is capable of further refining Naphtha:<br/> 
 ## Nitric Acid Synthesizer
 A chemical synthesizer device capable of producing Nitric Acid.
 
-Produces industrial grade Nitric Acid using provided Sulfuric Acid and Ammonia.
+Produces industrial grade Nitric Acid via the selected chemical reaction, using either Sulfuric Acid or Ammonia.
 
 | | | |
 |-|-|-|
@@ -544,12 +558,17 @@ Produces industrial grade Nitric Acid using provided Sulfuric Acid and Ammonia.
 |**Power Consumption:**| 240 W |&#8288 {: style="padding:0"}|
 |**Research Required:**| Emulsification|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Ceramic</td><td>100 kg</td></tr><tr><td>Refined Metal</td><td>200 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
-| **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Ammonia Input Pipe</td><td>Liquid Output Pipe</td></tr><tr><td>Sulfuric Acid Input Pipe</td><td>Steam Output Pipe</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
+| **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Ammonia Input Pipe</td><td>Liquid Output Pipe</td></tr><tr><td>Sulfuric Acid Input Pipe</td><td>Steam Output Pipe</td></tr><tr><td>Oxygen Input Pipe</td><td>-</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 #### Element Conversion
 |Inputs:|Outputs:|
 |-|-|
-| ![AmmoniaGas](/assets/images/elements/AmmoniaGas.png){.inline-icon} Ammonia (600 g/s)<br> ![LiquidSulfuric](/assets/images/elements/LiquidSulfuric.png){.inline-icon} Sulfuric Acid (500 g/s)<br>| ![LiquidNitric](/assets/images/elements/LiquidNitric.png){.inline-icon} Nitric Acid (500 g/s at 72°C)<br> ![Sulfur](/assets/images/elements/Sulfur.png){.inline-icon} Sulfur (300 g/s at 47°C)<br> ![Steam](/assets/images/elements/Steam.png){.inline-icon} Steam (200 g/s at 119°C)<br>|
+| ![Oxygen](/assets/images/elements/Oxygen.png){.inline-icon} Oxygen (640 g/s)<br> ![AmmoniaGas](/assets/images/elements/AmmoniaGas.png){.inline-icon} Ammonia (170 g/s)<br>| ![LiquidNitric](/assets/images/elements/LiquidNitric.png){.inline-icon} Nitric Acid (630 g/s at 68°C)<br> ![Steam](/assets/images/elements/Steam.png){.inline-icon} Steam (180 g/s at 130°C)<br>|
+
+
+|Inputs:|Outputs:|
+|-|-|
+| ![Salt](/assets/images/elements/Salt.png){.inline-icon} Salt (850 g/s)<br> ![LiquidSulfuric](/assets/images/elements/LiquidSulfuric.png){.inline-icon} Sulfuric Acid (490 g/s)<br>| ![LiquidNitric](/assets/images/elements/LiquidNitric.png){.inline-icon} Nitric Acid (630 g/s at 68°C)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (710 g/s at 45°C)<br>|
 
 
 
@@ -716,14 +735,14 @@ Special works with Refined Metals and in the manufacture of metal alloys.
 ### Recipes
 |Ingredients:| Time: | Random Products:|
 |-|-|-|
-| ![Copper](/assets/images/elements/Copper.png){.inline-icon} Copper (70 kg)<br> ![SolidZinc](/assets/images/elements/SolidZinc.png){.inline-icon} Zinc (30 kg)<br>|40s||
-| ![Copper](/assets/images/elements/Copper.png){.inline-icon} Copper (80 kg)<br> ![Lead](/assets/images/elements/Lead.png){.inline-icon} Lead (15 kg)<br> ![Phosphorus](/assets/images/elements/Phosphorus.png){.inline-icon} Refined Phosphorus (5 kg)<br>|40s||
-| ![Iron](/assets/images/elements/Iron.png){.inline-icon} Iron (70 kg)<br> ![RefinedCarbon](/assets/images/elements/RefinedCarbon.png){.inline-icon} Refined Carbon (20 kg)<br> ![Lime](/assets/images/elements/Lime.png){.inline-icon} Lime (10 kg)<br>|40s||
-| ![Iron](/assets/images/elements/Iron.png){.inline-icon} Iron (70 kg)<br> ![RefinedCarbon](/assets/images/elements/RefinedCarbon.png){.inline-icon} Refined Carbon (20 kg)<br> ![Lime](/assets/images/elements/Lime.png){.inline-icon} Lime (5 kg)<br> ![SolidBorax](/assets/images/elements/SolidBorax.png){.inline-icon} Borax (5 kg)<br>|40s||
+| ![Copper](/assets/images/elements/Copper.png){.inline-icon} Copper (70 kg)<br> ![SolidZinc](/assets/images/elements/SolidZinc.png){.inline-icon} Zinc (30 kg)<br>|40s| ![SolidBrass](/assets/images/elements/SolidBrass.png){.inline-icon} Brass (100 kg)<br>|
+| ![Copper](/assets/images/elements/Copper.png){.inline-icon} Copper (80 kg)<br> ![Lead](/assets/images/elements/Lead.png){.inline-icon} Lead (15 kg)<br> ![Phosphorus](/assets/images/elements/Phosphorus.png){.inline-icon} Refined Phosphorus (5 kg)<br>|40s| ![PhosphorBronze](/assets/images/elements/PhosphorBronze.png){.inline-icon} Phosphor Bronze (100 kg)<br>|
+| ![Iron](/assets/images/elements/Iron.png){.inline-icon} Iron (70 kg)<br> ![RefinedCarbon](/assets/images/elements/RefinedCarbon.png){.inline-icon} Refined Carbon (20 kg)<br> ![Lime](/assets/images/elements/Lime.png){.inline-icon} Lime (10 kg)<br>|40s| ![Steel](/assets/images/elements/Steel.png){.inline-icon} Steel (100 kg)<br>|
+| ![Iron](/assets/images/elements/Iron.png){.inline-icon} Iron (70 kg)<br> ![RefinedCarbon](/assets/images/elements/RefinedCarbon.png){.inline-icon} Refined Carbon (20 kg)<br> ![Lime](/assets/images/elements/Lime.png){.inline-icon} Lime (5 kg)<br> ![SolidBorax](/assets/images/elements/SolidBorax.png){.inline-icon} Borax (5 kg)<br>|40s| ![Steel](/assets/images/elements/Steel.png){.inline-icon} Steel (100 kg)<br>|
 | ![LowGradeSand](/assets/images/elements/LowGradeSand.png){.inline-icon} Low-Grade Metallic Sand (100 kg)<br> ![SolidBorax](/assets/images/elements/SolidBorax.png){.inline-icon} Borax (10 kg)<br>|50s| ![Copper](/assets/images/elements/Copper.png){.inline-icon} Copper<br> ![Nickel](/assets/images/elements/Nickel.png){.inline-icon} Nickel<br> ![SolidZinc](/assets/images/elements/SolidZinc.png){.inline-icon} Zinc<br> ![Lead](/assets/images/elements/Lead.png){.inline-icon} Lead<br> ![SolidSilver](/assets/images/elements/SolidSilver.png){.inline-icon} Silver<br>|
 | ![BaseGradeSand](/assets/images/elements/BaseGradeSand.png){.inline-icon} Base-Grade Metallic Sand (100 kg)<br> ![SolidBorax](/assets/images/elements/SolidBorax.png){.inline-icon} Borax (10 kg)<br>|50s| ![Aluminum](/assets/images/elements/Aluminum.png){.inline-icon} Aluminum<br> ![Iron](/assets/images/elements/Iron.png){.inline-icon} Iron<br> ![Gold](/assets/images/elements/Gold.png){.inline-icon} Gold<br> ![Tungsten](/assets/images/elements/Tungsten.png){.inline-icon} Tungsten<br>|
 | ![HighGradeSand](/assets/images/elements/HighGradeSand.png){.inline-icon} High-Grade Metallic Sand (100 kg)<br> ![SolidBorax](/assets/images/elements/SolidBorax.png){.inline-icon} Borax (10 kg)<br> ![Graphite](/assets/images/elements/Graphite.png){.inline-icon} Graphite (10 kg)<br>|50s| ![Tungsten](/assets/images/elements/Tungsten.png){.inline-icon} Tungsten<br> ![Fullerene](/assets/images/elements/Fullerene.png){.inline-icon} Fullerene<br> ![Niobium](/assets/images/elements/Niobium.png){.inline-icon} Niobium<br>|
-| ![TempConductorSolid](/assets/images/elements/TempConductorSolid.png){.inline-icon} Thermium (100 kg)<br>|50s||
+| ![TempConductorSolid](/assets/images/elements/TempConductorSolid.png){.inline-icon} Thermium (100 kg)<br>|50s| ![Niobium](/assets/images/elements/Niobium.png){.inline-icon} Niobium (100 kg)<br>|
 
 
 
@@ -859,7 +878,7 @@ Uses Steam as buffer for the Desalination process of either Salt Water or Ammoni
 
 |Inputs:|Outputs:|
 |-|-|
-| ![AmmoniumWater](/assets/images/elements/AmmoniumWater.png){.inline-icon} Ammonium Water (5 kg/s)<br> ![Steam](/assets/images/elements/Steam.png){.inline-icon} Steam (500 g/s)<br>| ![Water](/assets/images/elements/Water.png){.inline-icon} Water (2500 g/s at 54°C)<br> ![Brine](/assets/images/elements/Brine.png){.inline-icon} Brine (2450 g/s at 74°C)<br> ![AmmoniaGas](/assets/images/elements/AmmoniaGas.png){.inline-icon} Ammonia (550 g/s at 48°C)<br>|
+| ![AmmoniumWater](/assets/images/elements/AmmoniumWater.png){.inline-icon} Ammonium Water (5 kg/s)<br> ![Steam](/assets/images/elements/Steam.png){.inline-icon} Steam (500 g/s)<br>| ![Water](/assets/images/elements/Water.png){.inline-icon} Water (4950 g/s at 54°C)<br> ![AmmoniaGas](/assets/images/elements/AmmoniaGas.png){.inline-icon} Ammonia (550 g/s at 48°C)<br>|
 
 
 

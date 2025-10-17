@@ -1,5 +1,5 @@
 # 建筑
-## 藻类培育缸
+## 藻类光合缸
 一种先进的藻类培育缸。由于具备可控的环境条件，这些藻类的生长方式比普通的藻类箱更能高效地产生氧气。该装置还配备了先进的过滤器，能够从周围环境中提取二氧化碳，不过这并非其正常运行所必需的条件。
 
 藻类群落需要水才能生长，通过其生物作用会产生大量洁净氧气。多余的水分则以污染水的形式排出。
@@ -15,12 +15,12 @@
 #### 元素转换
 |输入:|输出:|
 |-|-|
-| ![Algae](/assets/images/elements/Algae.png){.inline-icon} 藻类 (75克/秒)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (300克/秒)<br>| ![Oxygen](/assets/images/elements/Oxygen.png){.inline-icon} 氧气 (200克/秒 于 30°C)<br> ![DirtyWater](/assets/images/elements/DirtyWater.png){.inline-icon} 污染水 (962.5克/秒 于 30°C)<br>|
+| ![Algae](/assets/images/elements/Algae.png){.inline-icon} 藻类 (150克/秒)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (1000克/秒)<br>| ![Oxygen](/assets/images/elements/Oxygen.png){.inline-icon} 氧气 (400克/秒 于 30°C)<br> ![DirtyWater](/assets/images/elements/DirtyWater.png){.inline-icon} 污染水 (935.6克/秒 于 30°C)<br>|
 
 
 |输入:|输出:|
 |-|-|
-| ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} 二氧化碳 (8.5克/秒)<br>| ![DirtyWater](/assets/images/elements/DirtyWater.png){.inline-icon} 污染水 (30克/秒 于 30°C)<br>|
+| ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} 二氧化碳 (21.5克/秒)<br>| ![DirtyWater](/assets/images/elements/DirtyWater.png){.inline-icon} 污染水 (64.5克/秒 于 30°C)<br>|
 
 
 

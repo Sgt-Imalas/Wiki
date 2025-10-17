@@ -15,12 +15,12 @@ Algae patch needs Water to grow, producing a fair amount of clean Oxygen as resu
 #### Element Conversion
 |Inputs:|Outputs:|
 |-|-|
-| ![Algae](/assets/images/elements/Algae.png){.inline-icon} Algae (75 g/s)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} Water (300 g/s)<br>| ![Oxygen](/assets/images/elements/Oxygen.png){.inline-icon} Oxygen (200 g/s at 30°C)<br> ![DirtyWater](/assets/images/elements/DirtyWater.png){.inline-icon} Polluted Water (962.5 g/s at 30°C)<br>|
+| ![Algae](/assets/images/elements/Algae.png){.inline-icon} Algae (150 g/s)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} Water (1000 g/s)<br>| ![Oxygen](/assets/images/elements/Oxygen.png){.inline-icon} Oxygen (400 g/s at 30°C)<br> ![DirtyWater](/assets/images/elements/DirtyWater.png){.inline-icon} Polluted Water (935.6 g/s at 30°C)<br>|
 
 
 |Inputs:|Outputs:|
 |-|-|
-| ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} Carbon Dioxide (8.5 g/s)<br>| ![DirtyWater](/assets/images/elements/DirtyWater.png){.inline-icon} Polluted Water (30 g/s at 30°C)<br>|
+| ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} Carbon Dioxide (21.5 g/s)<br>| ![DirtyWater](/assets/images/elements/DirtyWater.png){.inline-icon} Polluted Water (64.5 g/s at 30°C)<br>|
 
 
 

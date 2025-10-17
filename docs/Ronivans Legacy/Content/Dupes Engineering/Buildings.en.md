@@ -278,7 +278,7 @@ A solid wall wrought from steel and fitted with thick layers of glass. Hermetica
 ## Structure Tile
 A solid structural tile wrought from refined metal. Use to build the walls and floors of rooms.
 
-This steel structure is commonly used as a simple, yet strong tile for buildings. The frame structure will not hold any gas or liquid.
+This steel structure is commonly used as a simple, yet strong tile for buildings. The frame structure will not hold any gas or liquid.<br/>High wattage wires and heavy duty rails are not obstructed.
 
 | | | |
 |-|-|-|
@@ -311,7 +311,7 @@ Used to build the walls and floors of rooms. Increases Decor, contributing to Mo
 | ![WoodenCompositionTile](/assets/images/buildings/WoodenCompositionTile.png){height="100"} {rowspan="3"}|**Dimensions:** | 1 wide x 1 high|
 |**Power Consumption:**|  -  |&#8288 {: style="padding:0"}|
 |**Research Required:**| Home Luxuries|&#8288 {: style="padding:0"}| 
-|**<font size="+1">Material Costs:</font>**|<table><tr><td>Raw Mineral</td><td>375 kg</td></tr><tr><td>Wood</td><td>75 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">Material Costs:</font>**|<table><tr><td>Raw Mineral or Wood</td><td>375 kg</td></tr><tr><td>Wood</td><td>75 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 
 ## Wooden Airflow Tile
@@ -324,7 +324,7 @@ A semipermeable wooden tile, used to build walls and floors of rooms. <br/><br/>
 | ![WoodenGasTile](/assets/images/buildings/WoodenGasTile.png){height="100"} {rowspan="3"}|**Dimensions:** | 1 wide x 1 high|
 |**Power Consumption:**|  -  |&#8288 {: style="padding:0"}|
 |**Research Required:**| Pressure Management|&#8288 {: style="padding:0"}| 
-|**<font size="+1">Material Costs:</font>**|<table><tr><td>Raw Mineral</td><td>50 kg</td></tr><tr><td>Wood</td><td>50 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">Material Costs:</font>**|<table><tr><td>Raw Mineral or Wood</td><td>50 kg</td></tr><tr><td>Wood</td><td>50 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 
 ## Wooden Ceiling
@@ -376,6 +376,6 @@ A permeable wooden tile, used to build walls and floors of rooms. <br/><br/>Allo
 | ![WoodenMeshTile](/assets/images/buildings/WoodenMeshTile.png){height="100"} {rowspan="3"}|**Dimensions:** | 1 wide x 1 high|
 |**Power Consumption:**|  -  |&#8288 {: style="padding:0"}|
 |**Research Required:**| Sanitation|&#8288 {: style="padding:0"}| 
-|**<font size="+1">Material Costs:</font>**|<table><tr><td>Raw Mineral</td><td>50 kg</td></tr><tr><td>Wood</td><td>50 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">Material Costs:</font>**|<table><tr><td>Raw Mineral or Wood</td><td>50 kg</td></tr><tr><td>Wood</td><td>50 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 

@@ -29,7 +29,7 @@ A highly pressurized geothermal vent that periodically erupts with hot Mercury G
 
 | | | |
 |-|-|-|
-| ![GeyserGeneric_HotMercuryGasVent](/assets/images/geysers/GeyserGeneric_HotMercuryGasVent.png) {rowspan="3"} |Dimensions: | 4 wide x 2 high|
+| ![GeyserGeneric_HotMercuryGasVent](/assets/images/geysers/GeyserGeneric_HotMercuryGasVent.png) {rowspan="3"} |Dimensions: | 2 wide x 4 high|
 |Venting  |  ![MercuryGas](/assets/images/elements/MercuryGas.png){.inline-icon} Mercury Gas at 447°C|&#8288 {: style="padding:0"} |
 |Decor|Decor: +10 (Radius: 2 tiles)|&#8288 {: style="padding:0"}|
 
@@ -62,7 +62,7 @@ A highly pressurized geothermal vent that periodically erupts with hot Raw Natur
 
 | | | |
 |-|-|-|
-| ![GeyserGeneric_RawGasVent](/assets/images/geysers/GeyserGeneric_RawGasVent.png) {rowspan="3"} |Dimensions: | 2 wide x 2 high|
+| ![GeyserGeneric_RawGasVent](/assets/images/geysers/GeyserGeneric_RawGasVent.png) {rowspan="3"} |Dimensions: | 2 wide x 4 high|
 |Venting  |  ![RawNaturalGas](/assets/images/elements/RawNaturalGas.png){.inline-icon} Raw Natural Gas at 500°C|&#8288 {: style="padding:0"} |
 |Decor|Decor: +10 (Radius: 2 tiles)|&#8288 {: style="padding:0"}|
 

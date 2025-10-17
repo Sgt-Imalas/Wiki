@@ -59,7 +59,7 @@
 | ![SimpleFridge](/assets/images/buildings/SimpleFridge.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 1 x 高 2|
 |**耗电:**| 240瓦 |&#8288 {: style="padding:0"}|
 |**科技:**| 食物再利用|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>精炼金属</td><td>800千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>精炼金属</td><td>400千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 |**<font size="+1">存储容量:</font>**| 100千克|&#8288 {: style="padding:0"}|
 
 ### 蓝图
@@ -79,7 +79,7 @@
 |**耗电:**| 480瓦 |&#8288 {: style="padding:0"}|
 |**科技:**| 食物再利用|&#8288 {: style="padding:0"}| 
 |**<font size="+1">建造材料:</font>**|<table><tr><td>精炼金属</td><td>800千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
-|**<font size="+1">存储容量:</font>**| 200千克|&#8288 {: style="padding:0"}|
+|**<font size="+1">存储容量:</font>**| 300千克|&#8288 {: style="padding:0"}|
 
 ### 蓝图
 |蓝图|名字|
@@ -101,7 +101,7 @@
 |**耗电:**| 480瓦 |&#8288 {: style="padding:0"}|
 |**科技:**| 美食制备|&#8288 {: style="padding:0"}| 
 |**<font size="+1">建造材料:</font>**|<table><tr><td>精炼金属</td><td>700千克</td></tr><tr><td>塑料</td><td>100千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
-|**<font size="+1">存储容量:</font>**| 200千克|&#8288 {: style="padding:0"}|
+|**<font size="+1">存储容量:</font>**| 300千克|&#8288 {: style="padding:0"}|
 | **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>固体 输入轨道</td><td>-</td></tr><tr><td>水 输入管道</td><td>-</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 

@@ -28,11 +28,11 @@ Enabling this mod in the config will add several new elements to the game or ree
 
 #### Ammonium Water
 
-(NH<sub>4</sub>OH) Ammonium hydroxide is a solution of Ammonia and Salt Water.
+(NH<sub>4</sub>OH) Ammonium hydroxide is a solution of Ammonia and Water.
 
 | |<font size="+1">Material Properties</font>| |
 |-|-|-|
-| ![AmmoniumWater](/assets/images/elements/AmmoniumWater.png){width="200"} |<br/>Resource Type: Liquid<br/><br/>Freezing point: -58°C<br/>11 %  ![Brine](/assets/images/elements/Brine.png){.inline-icon} Brine,<br/>89 % ![LiquidAmmonia](/assets/images/elements/LiquidAmmonia.png){.inline-icon} Liquid Ammonia<br/><br/>Evaporation point: 38°C<br/>11 %  ![Brine](/assets/images/elements/Brine.png){.inline-icon} Brine,<br/>89 % ![AmmoniaGas](/assets/images/elements/AmmoniaGas.png){.inline-icon} Ammonia<br/><br/><br/>Properties: <br/>Mixture, Water Based|<br/>Specific Heat Capacity: <br/>4.500 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>0.600 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.3<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+| ![AmmoniumWater](/assets/images/elements/AmmoniumWater.png){width="200"} |<br/>Resource Type: Liquid<br/><br/>Freezing point: -58°C<br/>11 %  ![AmmoniaGas](/assets/images/elements/AmmoniaGas.png){.inline-icon} Ammonia,<br/>89 % ![Ice](/assets/images/elements/Ice.png){.inline-icon} Ice<br/><br/>Evaporation point: 38°C<br/>89 %  ![Water](/assets/images/elements/Water.png){.inline-icon} Water,<br/>11 % ![AmmoniaGas](/assets/images/elements/AmmoniaGas.png){.inline-icon} Ammonia<br/><br/><br/>Properties: <br/>Mixture, Water Based|<br/>Specific Heat Capacity: <br/>4.500 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>0.600 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.3<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
 
 #### Base-Grade Metallic Sand
 
@@ -264,7 +264,7 @@ Slag is a by-product of smelting (pyrometallurgical) ores and used metals. Despi
 
 | |<font size="+1">Material Properties</font>| |
 |-|-|-|
-| ![SolidNitrogen](/assets/images/elements/SolidNitrogen.png){width="200"} |<br/>Resource Type: Liquefiable<br/><br/>Melting point: -209.7°C<br/>-> ![LiquidNitrogen](/assets/images/elements/LiquidNitrogen.png){.inline-icon} Liquid Nitrogen<br/><br/>Hardness: 2<br/><br/>Properties: <br/>Solid|<br/>Specific Heat Capacity: <br/>92.000 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>72.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.5<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+| ![SolidNitrogen](/assets/images/elements/SolidNitrogen.png){width="200"} |<br/>Resource Type: Liquefiable<br/><br/>Melting point: -209.7°C<br/>-> ![LiquidNitrogen](/assets/images/elements/LiquidNitrogen.png){.inline-icon} Liquid Nitrogen<br/><br/>Hardness: 2<br/><br/>Properties: <br/>Solid|<br/>Specific Heat Capacity: <br/>1.040 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>1.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.5<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
 
 #### Sour Water
 

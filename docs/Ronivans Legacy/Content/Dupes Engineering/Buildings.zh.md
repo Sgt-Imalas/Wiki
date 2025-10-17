@@ -278,7 +278,7 @@
 ## 框架砖
 由精炼金属制造的空心框架砖。用于建造房间的墙壁与地板。
 
-这种钢结构通常作为简单而坚固的建筑单元使用，其框架结构不会滞留任何气体或液体。
+这种钢结构通常作为简单而坚固的建筑单元使用，其框架结构不会滞留任何气体或液体。<br/>高负荷线材和重型轨道可以从中穿过。
 
 | | | |
 |-|-|-|
@@ -311,7 +311,7 @@
 | ![WoodenCompositionTile](/assets/images/buildings/WoodenCompositionTile.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 1 x 高 1|
 |**耗电:**|  -  |&#8288 {: style="padding:0"}|
 |**科技:**| 豪华家装|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>矿物原料</td><td>375千克</td></tr><tr><td>木材</td><td>75千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>矿物原料 或 木材</td><td>375千克</td></tr><tr><td>木材</td><td>75千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 
 ## 木质透气砖
@@ -324,7 +324,7 @@
 | ![WoodenGasTile](/assets/images/buildings/WoodenGasTile.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 1 x 高 1|
 |**耗电:**|  -  |&#8288 {: style="padding:0"}|
 |**科技:**| 气压管理|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>矿物原料</td><td>50千克</td></tr><tr><td>木材</td><td>50千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>矿物原料 或 木材</td><td>50千克</td></tr><tr><td>木材</td><td>50千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 
 ## 木质天花板
@@ -376,6 +376,6 @@
 | ![WoodenMeshTile](/assets/images/buildings/WoodenMeshTile.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 1 x 高 1|
 |**耗电:**|  -  |&#8288 {: style="padding:0"}|
 |**科技:**| 卫生设备|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>矿物原料</td><td>50千克</td></tr><tr><td>木材</td><td>50千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>矿物原料 或 木材</td><td>50千克</td></tr><tr><td>木材</td><td>50千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 

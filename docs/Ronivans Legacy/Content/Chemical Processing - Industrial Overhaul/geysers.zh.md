@@ -1,7 +1,7 @@
 # 新 间歇泉
 启用此模组配置将为游戏添加数种随机间歇泉，这将影响世界生成。若需使用指定种子地图，请关闭间歇泉配置选项以避免干扰。注意：关闭后这些间歇泉将不可用，除非通过其他模组或调试模板重新添加。
 
-## 氨间歇泉
+## 液态氨间歇泉
 
 周期性喷发液态氨的高压低温喷泉。
 
@@ -29,12 +29,12 @@
 
 | | | |
 |-|-|-|
-| ![GeyserGeneric_HotMercuryGasVent](/assets/images/geysers/GeyserGeneric_HotMercuryGasVent.png) {rowspan="3"} |尺寸: | 宽 4 x 高 2|
+| ![GeyserGeneric_HotMercuryGasVent](/assets/images/geysers/GeyserGeneric_HotMercuryGasVent.png) {rowspan="3"} |尺寸: | 宽 2 x 高 4|
 |排放 |  ![MercuryGas](/assets/images/elements/MercuryGas.png){.inline-icon} 汞蒸气 于 447°C|&#8288 {: style="padding:0"} |
 |装饰|装饰度：+10（范围：2格）|&#8288 {: style="padding:0"}|
 
 
-## 熔盐间歇泉
+## 熔融盐间歇泉
 
 周期性喷发熔融盐的高压高温地裂缝隙。
 
@@ -62,7 +62,7 @@
 
 | | | |
 |-|-|-|
-| ![GeyserGeneric_RawGasVent](/assets/images/geysers/GeyserGeneric_RawGasVent.png) {rowspan="3"} |尺寸: | 宽 2 x 高 2|
+| ![GeyserGeneric_RawGasVent](/assets/images/geysers/GeyserGeneric_RawGasVent.png) {rowspan="3"} |尺寸: | 宽 2 x 高 4|
 |排放 |  ![RawNaturalGas](/assets/images/elements/RawNaturalGas.png){.inline-icon} 原料(天然)气 于 500°C|&#8288 {: style="padding:0"} |
 |装饰|装饰度：+10（范围：2格）|&#8288 {: style="padding:0"}|
 

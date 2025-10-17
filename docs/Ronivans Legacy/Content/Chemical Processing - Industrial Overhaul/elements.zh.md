@@ -48,7 +48,7 @@
 
 | |<font size="+1">材料属性</font>| |
 |-|-|-|
-| ![SolidNitrogen](/assets/images/elements/SolidNitrogen.png){width="200"} |<br/>资源种类：可液化物<br/><br/>熔点：-209.7°C<br/>-> ![LiquidNitrogen](/assets/images/elements/LiquidNitrogen.png){.inline-icon} 液态氮<br/><br/>硬度：2<br/><br/>属性：<br/>固体|<br/>比热容：<br/>92.000 (DTU/g)/ ºC<br/><br/>热导率：<br/>72.000 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.5<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
+| ![SolidNitrogen](/assets/images/elements/SolidNitrogen.png){width="200"} |<br/>资源种类：可液化物<br/><br/>熔点：-209.7°C<br/>-> ![LiquidNitrogen](/assets/images/elements/LiquidNitrogen.png){.inline-icon} 液态氮<br/><br/>硬度：2<br/><br/>属性：<br/>固体|<br/>比热容：<br/>1.040 (DTU/g)/ ºC<br/><br/>热导率：<br/>1.000 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.5<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
 
 #### 塑晶钢
 
@@ -130,7 +130,7 @@
 |-|-|-|
 | ![ZincGas](/assets/images/elements/ZincGas.png){width="200"} |<br/>资源种类：不可呼吸的气体<br/><br/>凝点：905°C<br/>-> ![MoltenZinc](/assets/images/elements/MoltenZinc.png){.inline-icon} 熔融锌<br/><br/><br/>属性：<br/>光源, 气体, 精炼金属, 金属矿石|<br/>比热容：<br/>0.223 (DTU/g)/ ºC<br/><br/>热导率：<br/>1.000 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.3<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
 
-#### 氨
+#### 氨气
 
 （NH<sub>3</sub>）氨是氮和氢的无机化合物。氨是一种稳定的二元氢化物，也是最简单的氮氢化物。是一种具有明显刺鼻气味的气体。
 
@@ -140,11 +140,11 @@
 
 #### 氨水
 
-（NH<sub>4</sub>OH）氢氧化铵是由氨和盐水混合而成的溶液。
+（NH<sub>4</sub>OH）氢氧化铵是由氨和水混合而成的溶液。
 
 | |<font size="+1">材料属性</font>| |
 |-|-|-|
-| ![AmmoniumWater](/assets/images/elements/AmmoniumWater.png){width="200"} |<br/>资源种类：液体<br/><br/>冰点：-58°C<br/>11 %  ![Brine](/assets/images/elements/Brine.png){.inline-icon} 浓盐水,<br/>89 % ![LiquidAmmonia](/assets/images/elements/LiquidAmmonia.png){.inline-icon} 液态氨<br/><br/>沸点：38°C<br/>11 %  ![Brine](/assets/images/elements/Brine.png){.inline-icon} 浓盐水,<br/>89 % ![AmmoniaGas](/assets/images/elements/AmmoniaGas.png){.inline-icon} 氨<br/><br/><br/>属性：<br/>水基物, 混合物|<br/>比热容：<br/>4.500 (DTU/g)/ ºC<br/><br/>热导率：<br/>0.600 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.3<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
+| ![AmmoniumWater](/assets/images/elements/AmmoniumWater.png){width="200"} |<br/>资源种类：液体<br/><br/>冰点：-58°C<br/>11 %  ![AmmoniaGas](/assets/images/elements/AmmoniaGas.png){.inline-icon} 氨气,<br/>89 % ![Ice](/assets/images/elements/Ice.png){.inline-icon} 冰<br/><br/>沸点：38°C<br/>89 %  ![Water](/assets/images/elements/Water.png){.inline-icon} 水,<br/>11 % ![AmmoniaGas](/assets/images/elements/AmmoniaGas.png){.inline-icon} 氨气<br/><br/><br/>属性：<br/>水基物, 混合物|<br/>比热容：<br/>4.500 (DTU/g)/ ºC<br/><br/>热导率：<br/>0.600 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.3<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
 
 #### 氮气
 
@@ -168,7 +168,7 @@
 
 | |<font size="+1">材料属性</font>| |
 |-|-|-|
-| ![LiquidAmmonia](/assets/images/elements/LiquidAmmonia.png){width="200"} |<br/>资源种类：液体<br/><br/>冰点：-77.63°C<br/>-> ![SolidAmmonia](/assets/images/elements/SolidAmmonia.png){.inline-icon} 固态氨<br/><br/>沸点：-33.34°C<br/>-> ![AmmoniaGas](/assets/images/elements/AmmoniaGas.png){.inline-icon} 氨<br/><br/><br/>|<br/>比热容：<br/>4.744 (DTU/g)/ ºC<br/><br/>热导率：<br/>0.507 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.3<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
+| ![LiquidAmmonia](/assets/images/elements/LiquidAmmonia.png){width="200"} |<br/>资源种类：液体<br/><br/>冰点：-77.63°C<br/>-> ![SolidAmmonia](/assets/images/elements/SolidAmmonia.png){.inline-icon} 固态氨<br/><br/>沸点：-33.34°C<br/>-> ![AmmoniaGas](/assets/images/elements/AmmoniaGas.png){.inline-icon} 氨气<br/><br/><br/>|<br/>比热容：<br/>4.744 (DTU/g)/ ºC<br/><br/>热导率：<br/>0.507 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.3<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
 
 #### 液态氮
 
@@ -240,7 +240,7 @@
 
 | |<font size="+1">材料属性</font>| |
 |-|-|-|
-| ![AmmoniumSalt](/assets/images/elements/AmmoniumSalt.png){width="200"} |<br/>资源种类：消耗性矿石<br/><br/>熔点：613°C<br/>-> ![AmmoniaGas](/assets/images/elements/AmmoniaGas.png){.inline-icon} 氨<br/><br/>硬度：1<br/><br/>属性：<br/>固体|<br/>比热容：<br/>0.500 (DTU/g)/ ºC<br/><br/>热导率：<br/>3.000 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.5<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
+| ![AmmoniumSalt](/assets/images/elements/AmmoniumSalt.png){width="200"} |<br/>资源种类：消耗性矿石<br/><br/>熔点：613°C<br/>-> ![AmmoniaGas](/assets/images/elements/AmmoniaGas.png){.inline-icon} 氨气<br/><br/>硬度：1<br/><br/>属性：<br/>固体|<br/>比热容：<br/>0.500 (DTU/g)/ ºC<br/><br/>热导率：<br/>3.000 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.5<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
 
 #### 硫酸
 
