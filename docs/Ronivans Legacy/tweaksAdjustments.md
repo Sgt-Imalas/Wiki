@@ -5,6 +5,10 @@ items found in the sources of Ronivans mods that were hidden, broke or were temp
 
 LIST WIP.
 
+Changes from patchnotes not included.
+
+Find the patchnotes [here](https://steamcommunity.com/sharedfiles/filedetails//changelog/3557584850/)
+
 ## General
 
 ### UX / UI
