@@ -1,5 +1,6 @@
 site_name: SgtImalas ONI-Mods-Wiki
-site_url: https://sgt-imalas.github.io/Wiki
+site_url: https://sgt-imalas.github.io/Wiki/
+
 theme:
   name: material
   features:
@@ -29,7 +30,6 @@ plugins:
   - search
   - i18n:  
       default_language: en
-      default_language_only: true
       docs_structure: suffix
       languages:
         - locale: en
