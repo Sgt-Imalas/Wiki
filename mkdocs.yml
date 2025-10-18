@@ -1,5 +1,6 @@
 site_name: SgtImalas ONI-Mods-Wiki
 site_url: https://sgt-imalas.github.io/Wiki/
+repo_url: https://github.com/Sgt-Imalas/wiki
 
 theme:
   name: material
