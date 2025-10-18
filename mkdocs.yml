@@ -26,7 +26,8 @@ theme:
 
 plugins:
   - search
-  - i18n:
+  - i18n:  
+      default_language: en
       docs_structure: suffix
       languages:
         - locale: en
