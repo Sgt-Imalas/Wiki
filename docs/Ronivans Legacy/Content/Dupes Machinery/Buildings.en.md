@@ -41,7 +41,7 @@ Boils Water to Steam at 200 °C.<br/>This particular boiler uses Combustustable 
 #### Element Conversion
 |Inputs:|Outputs:|
 |-|-|
-| ![CombustibleSolid](/assets/images/entities/CombustibleSolid.png){.inline-icon} Combustible Solid (1500 g/s)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} Water (4000 g/s)<br>| ![Steam](/assets/images/elements/Steam.png){.inline-icon} Steam (4000 g/s at 200°C)<br> ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} Carbon Dioxide (200 g/s at 110°C)<br>|
+| ![CombustibleSolid](/assets/images/entities/CombustibleSolid.png){.inline-icon} Combustible Solid (1888.9 g/s)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} Water (4000 g/s)<br>| ![Steam](/assets/images/elements/Steam.png){.inline-icon} Steam (4000 g/s at 200°C)<br> ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} Carbon Dioxide (200 g/s at 110°C)<br>|
 
 
 
@@ -171,7 +171,7 @@ Boils Water to Steam at 200 °C. This particular boiler uses Combustible Gases a
 #### Element Conversion
 |Inputs:|Outputs:|
 |-|-|
-| ![CombustibleGas](/assets/images/entities/CombustibleGas.png){.inline-icon} Combustible Gas (101.3 g/s)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} Water (4000 g/s)<br>| ![Steam](/assets/images/elements/Steam.png){.inline-icon} Steam (4000 g/s at 200°C)<br> ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} Carbon Dioxide (200 g/s at 110°C)<br>|
+| ![CombustibleGas](/assets/images/entities/CombustibleGas.png){.inline-icon} Combustible Gas (127.5 g/s)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} Water (3904.4 g/s)<br>| ![Steam](/assets/images/elements/Steam.png){.inline-icon} Steam (4000 g/s at 200°C)<br> ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} Carbon Dioxide (200 g/s at 110°C)<br>|
 
 
 
@@ -192,7 +192,7 @@ Boils Water to Steam at 200 °C. This particular boiler uses Combustible Liquids
 #### Element Conversion
 |Inputs:|Outputs:|
 |-|-|
-| ![CombustibleLiquid](/assets/images/entities/CombustibleLiquid.png){.inline-icon} Combustible Liquid (900 g/s)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} Water (4000 g/s)<br>| ![Steam](/assets/images/elements/Steam.png){.inline-icon} Steam (4000 g/s at 200°C)<br> ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} Carbon Dioxide (337.5 g/s at 110°C)<br>|
+| ![CombustibleLiquid](/assets/images/entities/CombustibleLiquid.png){.inline-icon} Combustible Liquid (1133.3 g/s)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} Water (3575 g/s)<br>| ![Steam](/assets/images/elements/Steam.png){.inline-icon} Steam (4000 g/s at 200°C)<br> ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} Carbon Dioxide (337.5 g/s at 110°C)<br>|
 
 
 
@@ -258,7 +258,7 @@ Boils Water to Steam at 200 °C. This particular boiler uses Wood as fuel.
 #### Element Conversion
 |Inputs:|Outputs:|
 |-|-|
-| ![WoodLog](/assets/images/elements/WoodLog.png){.inline-icon} Wood (3600 g/s)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} Water (4000 g/s)<br>| ![Steam](/assets/images/elements/Steam.png){.inline-icon} Steam (4000 g/s at 200°C)<br> ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} Carbon Dioxide (500 g/s at 110°C)<br>|
+| ![WoodLog](/assets/images/elements/WoodLog.png){.inline-icon} Wood (1700 g/s)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} Water (4000 g/s)<br>| ![Steam](/assets/images/elements/Steam.png){.inline-icon} Steam (4000 g/s at 200°C)<br> ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} Carbon Dioxide (500 g/s at 110°C)<br>|
 
 
 

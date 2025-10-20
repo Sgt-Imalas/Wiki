@@ -41,7 +41,7 @@
 #### 元素转换
 |输入:|输出:|
 |-|-|
-| ![CombustibleSolid](/assets/images/entities/CombustibleSolid.png){.inline-icon} 可燃固体 (1500克/秒)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (4000克/秒)<br>| ![Steam](/assets/images/elements/Steam.png){.inline-icon} 蒸汽 (4000克/秒 于 200°C)<br> ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} 二氧化碳 (200克/秒 于 110°C)<br>|
+| ![CombustibleSolid](/assets/images/entities/CombustibleSolid.png){.inline-icon} 可燃固体 (1888.9克/秒)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (4000克/秒)<br>| ![Steam](/assets/images/elements/Steam.png){.inline-icon} 蒸汽 (4000克/秒 于 200°C)<br> ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} 二氧化碳 (200克/秒 于 110°C)<br>|
 
 
 
@@ -171,7 +171,7 @@
 #### 元素转换
 |输入:|输出:|
 |-|-|
-| ![CombustibleGas](/assets/images/entities/CombustibleGas.png){.inline-icon} 可燃气体 (101.3克/秒)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (4000克/秒)<br>| ![Steam](/assets/images/elements/Steam.png){.inline-icon} 蒸汽 (4000克/秒 于 200°C)<br> ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} 二氧化碳 (200克/秒 于 110°C)<br>|
+| ![CombustibleGas](/assets/images/entities/CombustibleGas.png){.inline-icon} 可燃气体 (127.5克/秒)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (3904.4克/秒)<br>| ![Steam](/assets/images/elements/Steam.png){.inline-icon} 蒸汽 (4000克/秒 于 200°C)<br> ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} 二氧化碳 (200克/秒 于 110°C)<br>|
 
 
 
@@ -192,7 +192,7 @@
 #### 元素转换
 |输入:|输出:|
 |-|-|
-| ![CombustibleLiquid](/assets/images/entities/CombustibleLiquid.png){.inline-icon} 可燃液体 (900克/秒)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (4000克/秒)<br>| ![Steam](/assets/images/elements/Steam.png){.inline-icon} 蒸汽 (4000克/秒 于 200°C)<br> ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} 二氧化碳 (337.5克/秒 于 110°C)<br>|
+| ![CombustibleLiquid](/assets/images/entities/CombustibleLiquid.png){.inline-icon} 可燃液体 (1133.3克/秒)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (3575克/秒)<br>| ![Steam](/assets/images/elements/Steam.png){.inline-icon} 蒸汽 (4000克/秒 于 200°C)<br> ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} 二氧化碳 (337.5克/秒 于 110°C)<br>|
 
 
 
@@ -258,7 +258,7 @@
 #### 元素转换
 |输入:|输出:|
 |-|-|
-| ![WoodLog](/assets/images/elements/WoodLog.png){.inline-icon} 木材 (3600克/秒)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (4000克/秒)<br>| ![Steam](/assets/images/elements/Steam.png){.inline-icon} 蒸汽 (4000克/秒 于 200°C)<br> ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} 二氧化碳 (500克/秒 于 110°C)<br>|
+| ![WoodLog](/assets/images/elements/WoodLog.png){.inline-icon} 木材 (1700克/秒)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (4000克/秒)<br>| ![Steam](/assets/images/elements/Steam.png){.inline-icon} 蒸汽 (4000克/秒 于 200°C)<br> ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} 二氧化碳 (500克/秒 于 110°C)<br>|
 
 
 

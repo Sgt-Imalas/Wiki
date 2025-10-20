@@ -168,7 +168,7 @@
 |-|-|-|
 | ![AIO_MosaicTile](/assets/images/buildings/AIO_MosaicTile.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 1 x 高 1|
 |**耗电:**|  -  |&#8288 {: style="padding:0"}|
-|**科技:**| 豪华家装|&#8288 {: style="padding:0"}| 
+|**科技:**| 复兴艺术|&#8288 {: style="padding:0"}| 
 |**<font size="+1">建造材料:</font>**|<table><tr><td>珍贵岩石</td><td>200千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 

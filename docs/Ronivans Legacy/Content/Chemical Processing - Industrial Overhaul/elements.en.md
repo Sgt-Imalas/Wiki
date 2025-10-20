@@ -5,7 +5,7 @@ Enabling this mod in the config will add several new elements to the game or ree
 |<font size="+1">Material</font> | | <font size="+1">Elements</font> |
 |:-:|:-:|:-|
 |<font size="+1">Carrier Gas</font> <br/> <br/>|Carrier Gases are inert or semi-inert gases that are used in plasma related processes.| ![Helium](/assets/images/elements/Helium.png){.inline-icon} Helium<br/> ![Hydrogen](/assets/images/elements/Hydrogen.png){.inline-icon} Hydrogen Gas<br/> ![NitrogenGas](/assets/images/elements/NitrogenGas.png){.inline-icon} Nitrogen<br/>|
-|<font size="+1">Hardened Alloy</font> <br/> <br/>|Hardened Alloys are a fusion of two or more materials.<br/>Their high material strength allows them to be used as a substitute to Steel.| ![PhosphorBronze](/assets/images/elements/PhosphorBronze.png){.inline-icon} Phosphor Bronze<br/> ![Plasteel](/assets/images/elements/Plasteel.png){.inline-icon} Plasteel<br/> ![UnobtaniumAlloy](/assets/images/elements/UnobtaniumAlloy.png){.inline-icon} Neutronium Alloy<br/>|
+|<font size="+1">Hardened Alloy</font> <br/> <br/>|Hardened Alloys are a fusion of two or more materials.<br/>Their high material strength allows them to be used as a substitute to Steel.| ![PhosphorBronze](/assets/images/elements/PhosphorBronze.png){.inline-icon} Phosphor Bronze<br/> ![AIO_Permendur_Solid](/assets/images/elements/AIO_Permendur_Solid.png){.inline-icon} Permendur<br/> ![Plasteel](/assets/images/elements/Plasteel.png){.inline-icon} Plasteel<br/> ![UnobtaniumAlloy](/assets/images/elements/UnobtaniumAlloy.png){.inline-icon} Neutronium Alloy<br/>|
 |<font size="+1">Metallic Sand</font> <br/> <br/>|Sandy materials composed of a various number of metallic grains| ![BaseGradeSand](/assets/images/elements/BaseGradeSand.png){.inline-icon} Base-Grade Metallic Sand<br/> ![LowGradeSand](/assets/images/elements/LowGradeSand.png){.inline-icon} Low-Grade Metallic Sand<br/> ![HighGradeSand](/assets/images/elements/HighGradeSand.png){.inline-icon} High-Grade Metallic Sand<br/>|
 
 ## New Elements
@@ -201,6 +201,14 @@ Oil shale is an organic-rich fine-grained sedimentary rock containing heavy crud
 | |<font size="+1">Material Properties</font>| |
 |-|-|-|
 | ![SolidOilShale](/assets/images/elements/SolidOilShale.png){width="200"} |<br/>Resource Type: Consumable Ore<br/><br/>Melting point: 120°C<br/>20 %  ![SourGas](/assets/images/elements/SourGas.png){.inline-icon} Sour Gas,<br/>80 % ![CrudeOil](/assets/images/elements/CrudeOil.png){.inline-icon} Crude Oil<br/><br/>Hardness: 2<br/><br/>Properties: <br/>Solid|<br/>Specific Heat Capacity: <br/>1.760 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>22.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.7<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+
+#### Permendur
+
+Permendur is a cobalt-iron soft ferromagnetic alloy with equal parts of Cobalt and Iron which is notable for its high magnetic saturation level.<br/>Heat treatment gives this material a high structural stability.
+
+| |<font size="+1">Material Properties</font>| |
+|-|-|-|
+| ![AIO_Permendur_Solid](/assets/images/elements/AIO_Permendur_Solid.png){width="200"} |<br/>Resource Type: Manufactured Material<br/><br/>Melting point: 1427°C<br/>50 %  ![MoltenIron](/assets/images/elements/MoltenIron.png){.inline-icon} Molten Iron,<br/>50 % ![Cobalt](/assets/images/elements/Cobalt.png){.inline-icon} Cobalt<br/><br/>Hardness: 70<br/><br/>Properties: <br/>General Buildable, Hardened Alloy, Metal Ore, Refined Metal, Solid, Uncrushable|<br/>Specific Heat Capacity: <br/>0.420 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>29.830 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.67<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
 
 #### Phosphor Bronze
 
@@ -417,7 +425,7 @@ Synthesis Gas is an artificial, unbreathable Gas.<br/><br/>It can be converted i
  ![SolidSlag](/assets/images/elements/SolidSlag.png){.inline-icon} Slag |  ![CrabFreshWater](/assets/images/entities/CrabFreshWater.png){.inline-icon} Sanishell | 75%  ![AmmoniumSalt](/assets/images/elements/AmmoniumSalt.png){.inline-icon} Nitrate Nodules|
  ![ArgentiteOre](/assets/images/elements/ArgentiteOre.png){.inline-icon} Silver Ore |  ![HatchMetal](/assets/images/entities/HatchMetal.png){.inline-icon} Smooth Hatch | 75%  ![SolidSilver](/assets/images/elements/SolidSilver.png){.inline-icon} Silver|
  ![AurichalciteOre](/assets/images/elements/AurichalciteOre.png){.inline-icon} Zinc Ore |  ![HatchMetal](/assets/images/entities/HatchMetal.png){.inline-icon} Smooth Hatch | 75%  ![SolidZinc](/assets/images/elements/SolidZinc.png){.inline-icon} Zinc|
- ![Salt](/assets/images/elements/Salt.png){.inline-icon} Salt |  ![HatchHard](/assets/images/entities/HatchHard.png){.inline-icon} Stone Hatch | 50%  ![SolidBorax](/assets/images/elements/SolidBorax.png){.inline-icon} Borax|
+ ![Salt](/assets/images/elements/Salt.png){.inline-icon} Salt |  ![HatchHard](/assets/images/entities/HatchHard.png){.inline-icon} Stone Hatch | 25%  ![SolidBorax](/assets/images/elements/SolidBorax.png){.inline-icon} Borax|
  ![ArgentiteOre](/assets/images/elements/ArgentiteOre.png){.inline-icon} Silver Ore |  ![HatchHard](/assets/images/entities/HatchHard.png){.inline-icon} Stone Hatch | 25%  ![Carbon](/assets/images/elements/Carbon.png){.inline-icon} Coal|
  ![AurichalciteOre](/assets/images/elements/AurichalciteOre.png){.inline-icon} Zinc Ore |  ![HatchHard](/assets/images/entities/HatchHard.png){.inline-icon} Stone Hatch | 25%  ![Carbon](/assets/images/elements/Carbon.png){.inline-icon} Coal|
 

@@ -4,7 +4,7 @@
 
 |<font size="+1">材料</font> | | <font size="+1">元素</font> |
 |:-:|:-:|:-|
-|<font size="+1">硬化合金</font> <br/> <br/>|硬化合金是两种或多种材料的熔合产物。<br/>其高强度特性使其可作为钢的替代材料使用。| ![PhosphorBronze](/assets/images/elements/PhosphorBronze.png){.inline-icon} 磷青铜<br/> ![Plasteel](/assets/images/elements/Plasteel.png){.inline-icon} 塑晶钢<br/> ![UnobtaniumAlloy](/assets/images/elements/UnobtaniumAlloy.png){.inline-icon} MISSING.STRINGS.ELEMENTS.UNOBTANIUMALLOY.NAME<br/>|
+|<font size="+1">硬化合金</font> <br/> <br/>|硬化合金是两种或多种材料的熔合产物。<br/>其高强度特性使其可作为钢的替代材料使用。| ![PhosphorBronze](/assets/images/elements/PhosphorBronze.png){.inline-icon} 磷青铜<br/> ![AIO_Permendur_Solid](/assets/images/elements/AIO_Permendur_Solid.png){.inline-icon} 钴铁合金<br/> ![Plasteel](/assets/images/elements/Plasteel.png){.inline-icon} 塑晶钢<br/> ![UnobtaniumAlloy](/assets/images/elements/UnobtaniumAlloy.png){.inline-icon} MISSING.STRINGS.ELEMENTS.UNOBTANIUMALLOY.NAME<br/>|
 |<font size="+1">载气</font> <br/> <br/>|载气是一类用于等离子体相关工艺的惰性或半惰性气体。| ![Helium](/assets/images/elements/Helium.png){.inline-icon} 氦气<br/> ![Hydrogen](/assets/images/elements/Hydrogen.png){.inline-icon} 氢气<br/> ![NitrogenGas](/assets/images/elements/NitrogenGas.png){.inline-icon} 氮气<br/>|
 |<font size="+1">金属砂</font> <br/> <br/>|由不同数量的金属颗粒组成的砂质材料| ![BaseGradeSand](/assets/images/elements/BaseGradeSand.png){.inline-icon} 中级金属砂<br/> ![LowGradeSand](/assets/images/elements/LowGradeSand.png){.inline-icon} 低级金属砂<br/> ![HighGradeSand](/assets/images/elements/HighGradeSand.png){.inline-icon} 高级金属砂<br/>|
 
@@ -290,6 +290,14 @@
 |-|-|-|
 | ![SourWater](/assets/images/elements/SourWater.png){width="200"} |<br/>资源种类：液体<br/><br/>冰点：-21°C<br/>50 %  ![SourGas](/assets/images/elements/SourGas.png){.inline-icon} 高硫天然气,<br/>50 % ![DirtyIce](/assets/images/elements/DirtyIce.png){.inline-icon} 污染冰<br/><br/>沸点：88°C<br/>50 %  ![SourGas](/assets/images/elements/SourGas.png){.inline-icon} 高硫天然气,<br/>50 % ![DirtyWater](/assets/images/elements/DirtyWater.png){.inline-icon} 污染水<br/><br/><br/>属性：<br/>水基物, 混合物|<br/>比热容：<br/>3.477 (DTU/g)/ ºC<br/><br/>热导率：<br/>0.909 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.3<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
 
+#### 钴铁合金
+
+一种由等比例 ​​钴​​ 与 ​​铁​​ 组成的软铁磁合金，以其​​高磁饱和强度​​著称。<br/>经热处理后，该材料具备​​极高的结构稳定性。
+
+| |<font size="+1">材料属性</font>| |
+|-|-|-|
+| ![AIO_Permendur_Solid](/assets/images/elements/AIO_Permendur_Solid.png){width="200"} |<br/>资源种类：人造材料<br/><br/>熔点：1427°C<br/>50 %  ![MoltenIron](/assets/images/elements/MoltenIron.png){.inline-icon} 熔融铁,<br/>50 % ![Cobalt](/assets/images/elements/Cobalt.png){.inline-icon} 钴<br/><br/>硬度：70<br/><br/>属性：<br/>一般建造材料, 不可粉碎物, 固体, 硬化合金, 精炼金属, 金属矿石|<br/>比热容：<br/>0.420 (DTU/g)/ ºC<br/><br/>热导率：<br/>29.830 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.67<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
+
 #### 银
 
 （Ag）银是一种质地柔软、呈白色光泽的过渡金属，具有出色的导电性和导热性。
@@ -416,7 +424,7 @@
  ![SolidSlag](/assets/images/elements/SolidSlag.png){.inline-icon} 炉渣 |  ![CrabFreshWater](/assets/images/entities/CrabFreshWater.png){.inline-icon} Sanishell | 75%  ![AmmoniumSalt](/assets/images/elements/AmmoniumSalt.png){.inline-icon} 硝酸盐结晶|
  ![ArgentiteOre](/assets/images/elements/ArgentiteOre.png){.inline-icon} 辉银矿 |  ![HatchMetal](/assets/images/entities/HatchMetal.png){.inline-icon} Smooth Hatch | 75%  ![SolidSilver](/assets/images/elements/SolidSilver.png){.inline-icon} 银|
  ![AurichalciteOre](/assets/images/elements/AurichalciteOre.png){.inline-icon} 锌矿 |  ![HatchMetal](/assets/images/entities/HatchMetal.png){.inline-icon} Smooth Hatch | 75%  ![SolidZinc](/assets/images/elements/SolidZinc.png){.inline-icon} 锌|
- ![Salt](/assets/images/elements/Salt.png){.inline-icon} 盐 |  ![HatchHard](/assets/images/entities/HatchHard.png){.inline-icon} Stone Hatch | 50%  ![SolidBorax](/assets/images/elements/SolidBorax.png){.inline-icon} 硼砂|
+ ![Salt](/assets/images/elements/Salt.png){.inline-icon} 盐 |  ![HatchHard](/assets/images/entities/HatchHard.png){.inline-icon} Stone Hatch | 25%  ![SolidBorax](/assets/images/elements/SolidBorax.png){.inline-icon} 硼砂|
  ![ArgentiteOre](/assets/images/elements/ArgentiteOre.png){.inline-icon} 辉银矿 |  ![HatchHard](/assets/images/entities/HatchHard.png){.inline-icon} Stone Hatch | 25%  ![Carbon](/assets/images/elements/Carbon.png){.inline-icon} 煤炭|
  ![AurichalciteOre](/assets/images/elements/AurichalciteOre.png){.inline-icon} 锌矿 |  ![HatchHard](/assets/images/entities/HatchHard.png){.inline-icon} Stone Hatch | 25%  ![Carbon](/assets/images/elements/Carbon.png){.inline-icon} 煤炭|
  ![SolidSlag](/assets/images/elements/SolidSlag.png){.inline-icon} 炉渣 |  ![Crab](/assets/images/entities/Crab.png){.inline-icon} 抛壳蟹 | 75%  ![AmmoniumSalt](/assets/images/elements/AmmoniumSalt.png){.inline-icon} 硝酸盐结晶|
