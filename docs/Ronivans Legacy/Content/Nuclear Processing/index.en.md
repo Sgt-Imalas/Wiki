@@ -14,4 +14,4 @@ Radium now can be stored under Consumable Ore tab, and also has its own unique t
 
 [Here are all buildings found in the mod.](./Buildings.md)
 
-[The mod also reenables and reuses some disabled vanilla elements](./Elements)
+[The mod also reenables and reuses some disabled vanilla elements](./elements)
