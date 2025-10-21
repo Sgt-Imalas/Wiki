@@ -10,44 +10,43 @@
 
 ## 为何整合为单一模组？
 
-多个模组存在内容重叠（例如：矿物加工-冶金系统 与 化工处理-工业革命 共享 90%的建筑），导致模组互斥。此外，多模组分立将大幅增加维护成本——每次修复都需同步至所有版本。整合为单一模组实现"建筑不重复"，可彻底解决这些问题。
+多个模组存在内容重叠（例如：矿物加工-冶金 与 化学工艺-工业大修 共享 90%的建筑），导致模组互斥。此外，多模组分立将大幅增加维护成本——每次修复都需同步至所有版本。整合为单一模组实现"建筑不重复"，可彻底解决这些问题。
 
-## What Content is in this mod?
+## 包含哪些模组？
 
-This mod contains the content of the following mods:
+本模组包含以下 13 个子模组：
 
-- [Chemical Processing - Biochemistry](./Content/Chemical%20Processing%20-%20Biochemistry/)
-- [Chemical Processing - Industrial Overhaul](./Content/Chemical%20Processing%20-%20Industrial%20Overhaul/)
-- [Custom Generators](./Content/Custom%20Generators/)
-- [Custom Reservoirs](./Content/Custom%20Reservoirs/)
-- [Dupes Engineering](./Content/Dupes%20Engineering/)
-- [Dupes Logistics](./Content/Dupes%20Logistics/)
-- [Dupes Machinery](./Content/Dupes%20Machinery/)
-- [Dupes Refrigeration](./Content/Dupes%20Refrigeration/)
-- [High Pressure Applications](./Content/High%20Pressure%20Applications/)
-- [Mineral Processing - Metallurgy](./Content/Mineral%20Processing%20-%20Metallurgy/)
-- [Mineral Processing - Mining](./Content/Mineral%20Processing%20-%20Mining/)
-- [Nuclear Processing](./Content/Nuclear%20Processing/)
+- [化学工艺-工业大修-Chemical Processing - Biochemistry](./Content/Chemical%20Processing%20-%20Biochemistry/)
+- [化学工艺-生物化学-Chemical Processing - Industrial Overhaul](./Content/Chemical%20Processing%20-%20Industrial%20Overhaul/)
+- [改进型发电机-Custom Generators](./Content/Custom%20Generators/)
+- [改进型储存罐-Custom Reservoirs](./Content/Custom%20Reservoirs/)
+- [复制人的新工程-Dupes Engineering](./Content/Dupes%20Engineering/)
+- [复制人的新物流-Dupes Logistics](./Content/Dupes%20Logistics/)
+- [复制人的新冰箱-Dupes Machinery](./Content/Dupes%20Machinery/)
+- [复制人的新机械-Dupes Refrigeration](./Content/Dupes%20Refrigeration/)
+- [高压应用学-High Pressure Applications](./Content/High%20Pressure%20Applications/)
+- [矿物加工-冶金-Mineral Processing - Metallurgy](./Content/Mineral%20Processing%20-%20Metallurgy/)
+- [矿物加工-采矿-Mineral Processing - Mining](./Content/Mineral%20Processing%20-%20Mining/)
+- [核子工艺-Nuclear Processing](./Content/Nuclear%20Processing/)
 
-A few buildings whose only difference were the looks have been merged into one building and blueprints.
+此外，一些仅外观不同的建筑已被合并为单一建筑并提供多种蓝图。
 
-You can find the full list for those [here](./Content/blueprints/).
+您可以在[这里](./Content/blueprints/)查看完整的合并列表。
 
-## Only want some of that content?
+##只想体验部分内容？
 
-If you only want some of that content, you can configure the mod that way!
+如果您只想体验部分内容，您完全可以按需配置！
 
-You can both turn off entire sub-mods and individual buildings.
+您既可以关闭整个子模组，也可以单独禁用特定建筑。
 
-Find more info about the mod config [here](./configEditor/).
+有关模组配置的更多信息，请参阅[此处](./configEditor/)。
 
-## What does "Remaster" mean
+##"重制版"意味着什么？
 
-For the most part, this refers to quality of life additions, UI improvements and small bug fixes.
-Some functions have been rewritten under the hood to be more maintainable, but for the most part, the mods should play like their original version.
+主要在于生活质量的提高、用户界面改进和小型错误修复。部分底层代码已被重写以提高可维护性，但总体上模组的游玩体验应与原版保持一致。
 
-I also made a few balance adjustments, but these can be changed or reverted in the mod config.
+我还进行了一些平衡性调整，但这些调整均可在模组配置中修改或还原。
 
-A (more or less) complete list of changes can be found [here](./tweaksAdjustments/).
+大致完整的更改列表可在[这里](./tweaksAdjustments/找到。
 
-The largest deviation from the originals is the addition of heavy duty rails to High Pressure Applications, these serve as a rail version of high pressure pipes.
+与原版最大的不同在于为"高压应用学"添加了重型轨道，它相当于传送带版本的高压管道。

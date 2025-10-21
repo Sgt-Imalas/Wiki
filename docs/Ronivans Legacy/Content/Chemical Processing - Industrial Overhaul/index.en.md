@@ -4,10 +4,10 @@
 
 This mod focuses on a complete overhaul on the industrial production by adding new elements and buildings.
 
-- [New Elements and critter diet changes](./Elements).
-- [New Fiber item](./Items).
+- [New Elements and critter diet changes](./elements).
+- [New Fiber item](./items).
 - [New Buildings](./Buildings).
-- [New Geysers](./Geysers).
+- [New Geysers](./geysers).
 - new Recipes for existing buildings
 - [New Meteor types](./meteors).
 - additions and modifications to mineable space POIs material selections.
