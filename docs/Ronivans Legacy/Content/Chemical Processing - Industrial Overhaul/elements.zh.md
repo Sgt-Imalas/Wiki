@@ -4,7 +4,7 @@
 
 |<font size="+1">材料</font> | | <font size="+1">元素</font> |
 |:-:|:-:|:-|
-|<font size="+1">硬化合金</font> <br/> <br/>|硬化合金是两种或多种材料的熔合产物。<br/>其高强度特性使其可作为钢的替代材料使用。| ![PhosphorBronze](/assets/images/elements/PhosphorBronze.png){.inline-icon} 磷青铜<br/> ![AIO_Permendur_Solid](/assets/images/elements/AIO_Permendur_Solid.png){.inline-icon} 钴铁合金<br/> ![Plasteel](/assets/images/elements/Plasteel.png){.inline-icon} 塑晶钢<br/> ![UnobtaniumAlloy](/assets/images/elements/UnobtaniumAlloy.png){.inline-icon} MISSING.STRINGS.ELEMENTS.UNOBTANIUMALLOY.NAME<br/>|
+|<font size="+1">硬化合金</font> <br/> <br/>|硬化合金是两种或多种材料的熔合产物。<br/>其高强度特性使其可作为钢的替代材料使用。| ![PhosphorBronze](/assets/images/elements/PhosphorBronze.png){.inline-icon} 磷青铜<br/> ![AIO_Permendur_Solid](/assets/images/elements/AIO_Permendur_Solid.png){.inline-icon} 钴铁合金<br/> ![Plasteel](/assets/images/elements/Plasteel.png){.inline-icon} 塑晶钢<br/>|
 |<font size="+1">载气</font> <br/> <br/>|载气是一类用于等离子体相关工艺的惰性或半惰性气体。| ![Helium](/assets/images/elements/Helium.png){.inline-icon} 氦气<br/> ![Hydrogen](/assets/images/elements/Hydrogen.png){.inline-icon} 氢气<br/> ![NitrogenGas](/assets/images/elements/NitrogenGas.png){.inline-icon} 氮气<br/>|
 |<font size="+1">金属砂</font> <br/> <br/>|由不同数量的金属颗粒组成的砂质材料| ![BaseGradeSand](/assets/images/elements/BaseGradeSand.png){.inline-icon} 中级金属砂<br/> ![LowGradeSand](/assets/images/elements/LowGradeSand.png){.inline-icon} 低级金属砂<br/> ![HighGradeSand](/assets/images/elements/HighGradeSand.png){.inline-icon} 高级金属砂<br/>|
 
