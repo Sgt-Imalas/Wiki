@@ -588,7 +588,7 @@
 #### 元素转换
 |输入:|输出:|
 |-|-|
-| ![AIO_CarrierGas](/assets/images/entities/AIO_CarrierGas.png){.inline-icon} 载气 (100克/秒)<br>| ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} 二氧化碳 (25克/秒 于 75°C)<br>|
+| ![AIO_CarrierGas](/assets/images/entities/AIO_CarrierGas.png){.inline-icon} 载气 (100克/秒)<br>||
 
 
 ### 配方
@@ -826,12 +826,17 @@
 |**耗电:**| 120瓦 |&#8288 {: style="padding:0"}|
 |**科技:**| 乳化|&#8288 {: style="padding:0"}| 
 |**<font size="+1">建造材料:</font>**|<table><tr><td>陶瓷</td><td>100千克</td></tr><tr><td>精炼金属</td><td>200千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
-| **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>蒸汽 输入管道</td><td>液体 输出管道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
+| **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>蒸汽 输入管道</td><td>液体 输出管道</td></tr><tr><td>氧气 输入管道</td><td>-</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 #### 元素转换
 |输入:|输出:|
 |-|-|
-| ![Steam](/assets/images/elements/Steam.png){.inline-icon} 蒸汽 (400克/秒)<br> ![Sulfur](/assets/images/elements/Sulfur.png){.inline-icon} 硫 (600克/秒)<br>| ![LiquidSulfuric](/assets/images/elements/LiquidSulfuric.png){.inline-icon} 硫酸 (1000克/秒 于 72°C)<br>|
+| ![Steam](/assets/images/elements/Steam.png){.inline-icon} 蒸汽 (180克/秒)<br> ![Sulfur](/assets/images/elements/Sulfur.png){.inline-icon} 硫 (320克/秒)<br> ![Oxygen](/assets/images/elements/Oxygen.png){.inline-icon} 氧气 (480克/秒)<br>| ![LiquidSulfuric](/assets/images/elements/LiquidSulfuric.png){.inline-icon} 硫酸 (980克/秒 于 72°C)<br>|
+
+
+|输入:|输出:|
+|-|-|
+| ![Steam](/assets/images/elements/Steam.png){.inline-icon} 蒸汽 (180克/秒)<br> ![FoolsGold](/assets/images/elements/FoolsGold.png){.inline-icon} 黄铁矿 (600克/秒)<br> ![Oxygen](/assets/images/elements/Oxygen.png){.inline-icon} 氧气 (600克/秒)<br>| ![LiquidSulfuric](/assets/images/elements/LiquidSulfuric.png){.inline-icon} 硫酸 (980克/秒 于 72°C)<br> ![Rust](/assets/images/elements/Rust.png){.inline-icon} 铁锈 (400克/秒)<br>|
 
 
 

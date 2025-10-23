@@ -30,7 +30,7 @@ The sealed storage of this pod keeps food very cold, but not in sterile atmosphe
 | ![FridgePod](/assets/images/buildings/FridgePod.png){height="100"} {rowspan="3"}|**Dimensions:** | 1 wide x 1 high|
 |**Power Consumption:**| 120 W |&#8288 {: style="padding:0"}|
 |**Research Required:**| Food Repurposing|&#8288 {: style="padding:0"}| 
-|**<font size="+1">Material Costs:</font>**|<table><tr><td>Refined Metal</td><td>100 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">Material Costs:</font>**|<table><tr><td>Refined Metal</td><td>200 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 |**<font size="+1">Storage Capacity:</font>**| 50 kg|&#8288 {: style="padding:0"}|
 
 

@@ -30,7 +30,7 @@
 | ![FridgePod](/assets/images/buildings/FridgePod.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 1 x 高 1|
 |**耗电:**| 120瓦 |&#8288 {: style="padding:0"}|
 |**科技:**| 食物再利用|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>精炼金属</td><td>100千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>精炼金属</td><td>200千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 |**<font size="+1">存储容量:</font>**| 50千克|&#8288 {: style="padding:0"}|
 
 

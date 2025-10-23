@@ -588,7 +588,7 @@ An advanced method for the refinement of Metal Ores and other Raw Minerals.<br/>
 #### Element Conversion
 |Inputs:|Outputs:|
 |-|-|
-| ![AIO_CarrierGas](/assets/images/entities/AIO_CarrierGas.png){.inline-icon} Carrier Gas (100 g/s)<br>| ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} Carbon Dioxide (25 g/s at 75°C)<br>|
+| ![AIO_CarrierGas](/assets/images/entities/AIO_CarrierGas.png){.inline-icon} Carrier Gas (100 g/s)<br>||
 
 
 ### Recipes
@@ -778,7 +778,7 @@ A solid material mixer designed for agricultural purpose, mainly for the product
 ## Sour Gas Sweetener
 A treatment plant that uses activated carbon beds for de-acidification of sour gas.
 
-Uses Activated Carbon for the adsorbtion the sulphuric compounds from Sour Gas, yielding Natural Gas and elemental Sulphur.<br/>Activated carbon requires periodic replacing.
+Uses "Activated Carbon" for the adsorbtion the sulphuric compounds from Sour Gas, yielding Natural Gas and elemental Sulphur.<br/>Activated carbon requires periodic replacing.
 
 | | | |
 |-|-|-|
@@ -798,7 +798,7 @@ Uses Activated Carbon for the adsorbtion the sulphuric compounds from Sour Gas, 
 ## Sour Water Stripper
 A heavy industrial device that uses a combination of pH control and heat, direct injection of steam to drives off the ammonia and hydrogen sulfide from the water. Also fitted with a filter mechanism to ensure the quality of the stripped water.
 
-Separate clean Water from Sour Water using hot Steam.<br/> The stripping process also produces Sour Gas from the separation.<br/>Sand is required to further filter the water from any other contaminants it may still have, which is then released as  Polluted Dirty afterwards.<br/>IMPORTANT: The building require all pipes ports to be connected with their respective pipes in order for it to operate.
+Separate clean Water from Sour Water using hot Steam.<br/> The stripping process also produces Sour Gas from the separation.<br/>Sand is required to further filter the water from any other contaminants it may still have, which is then released as  Polluted Dirt afterwards.<br/>IMPORTANT: The building require all pipes ports to be connected with their respective pipes in order for it to operate.
 
 | | | |
 |-|-|-|
@@ -826,12 +826,17 @@ Produces industrial grade Sulfuric Acid using provided Steam and Sulfur.
 |**Power Consumption:**| 120 W |&#8288 {: style="padding:0"}|
 |**Research Required:**| Emulsification|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Ceramic</td><td>100 kg</td></tr><tr><td>Refined Metal</td><td>200 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
-| **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Steam Input Pipe</td><td>Liquid Output Pipe</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
+| **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Steam Input Pipe</td><td>Liquid Output Pipe</td></tr><tr><td>Oxygen Input Pipe</td><td>-</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 #### Element Conversion
 |Inputs:|Outputs:|
 |-|-|
-| ![Steam](/assets/images/elements/Steam.png){.inline-icon} Steam (400 g/s)<br> ![Sulfur](/assets/images/elements/Sulfur.png){.inline-icon} Sulfur (600 g/s)<br>| ![LiquidSulfuric](/assets/images/elements/LiquidSulfuric.png){.inline-icon} Sulfuric Acid (1000 g/s at 72°C)<br>|
+| ![Steam](/assets/images/elements/Steam.png){.inline-icon} Steam (180 g/s)<br> ![Sulfur](/assets/images/elements/Sulfur.png){.inline-icon} Sulfur (320 g/s)<br> ![Oxygen](/assets/images/elements/Oxygen.png){.inline-icon} Oxygen (480 g/s)<br>| ![LiquidSulfuric](/assets/images/elements/LiquidSulfuric.png){.inline-icon} Sulfuric Acid (980 g/s at 72°C)<br>|
+
+
+|Inputs:|Outputs:|
+|-|-|
+| ![Steam](/assets/images/elements/Steam.png){.inline-icon} Steam (180 g/s)<br> ![FoolsGold](/assets/images/elements/FoolsGold.png){.inline-icon} Pyrite (600 g/s)<br> ![Oxygen](/assets/images/elements/Oxygen.png){.inline-icon} Oxygen (600 g/s)<br>| ![LiquidSulfuric](/assets/images/elements/LiquidSulfuric.png){.inline-icon} Sulfuric Acid (980 g/s at 72°C)<br> ![Rust](/assets/images/elements/Rust.png){.inline-icon} Rust (400 g/s)<br>|
 
 
 
