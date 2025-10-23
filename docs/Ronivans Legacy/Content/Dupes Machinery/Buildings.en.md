@@ -75,17 +75,17 @@ Coral colony needs Salt Water or Brine to grow, producing a fair amount of clean
 #### Element Conversion
 |Inputs:|Outputs:|
 |-|-|
-| ![SaltWater](/assets/images/elements/SaltWater.png){.inline-icon} Salt Water (2000 g/s)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (50 g/s)<br>| ![Water](/assets/images/elements/Water.png){.inline-icon} Water (1860 g/s at -273.15°C)<br> ![BleachStone](/assets/images/elements/BleachStone.png){.inline-icon} Bleach Stone (22.4 g/s at -273.15°C)<br>|
+| ![SaltWater](/assets/images/elements/SaltWater.png){.inline-icon} Salt Water (2000 g/s)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (50 g/s)<br>| ![Water](/assets/images/elements/Water.png){.inline-icon} Water (1860 g/s at 5°C)<br> ![BleachStone](/assets/images/elements/BleachStone.png){.inline-icon} Bleach Stone (46.7 g/s at 5°C)<br>|
 
 
 |Inputs:|Outputs:|
 |-|-|
-| ![Brine](/assets/images/elements/Brine.png){.inline-icon} Brine (2000 g/s)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (50 g/s)<br>| ![Water](/assets/images/elements/Water.png){.inline-icon} Water (1400 g/s at 40°C)<br> ![BleachStone](/assets/images/elements/BleachStone.png){.inline-icon} Bleach Stone (96 g/s at 40°C)<br>|
+| ![Brine](/assets/images/elements/Brine.png){.inline-icon} Brine (2000 g/s)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (50 g/s)<br>| ![Water](/assets/images/elements/Water.png){.inline-icon} Water (1400 g/s at 5°C)<br> ![BleachStone](/assets/images/elements/BleachStone.png){.inline-icon} Bleach Stone (200 g/s at 5°C)<br>|
 
 
 |Inputs:|Outputs:|
 |-|-|
-| ![ChlorineGas](/assets/images/elements/ChlorineGas.png){.inline-icon} Chlorine Gas (50 g/s)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (100 g/s)<br>| ![BleachStone](/assets/images/elements/BleachStone.png){.inline-icon} Bleach Stone (8 g/s at 30°C)<br>|
+| ![ChlorineGas](/assets/images/elements/ChlorineGas.png){.inline-icon} Chlorine Gas (60 g/s)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (100 g/s)<br>| ![BleachStone](/assets/images/elements/BleachStone.png){.inline-icon} Bleach Stone (60 g/s at 5°C)<br>|
 
 
 
@@ -145,12 +145,12 @@ Treat Polluted Water or Toxic Slurry using special filter and chemicals. Sieve p
 #### Element Conversion
 |Inputs:|Outputs:|
 |-|-|
-| ![DirtyWater](/assets/images/elements/DirtyWater.png){.inline-icon} Polluted Water (5 kg/s)<br> ![ChlorineGas](/assets/images/elements/ChlorineGas.png){.inline-icon} Chlorine Gas (2500 mg/s)<br> ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} Crushed Rock (24 g/s)<br> ![RefinedCarbon](/assets/images/elements/RefinedCarbon.png){.inline-icon} Refined Carbon (34 g/s)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (42 g/s)<br>| ![Water](/assets/images/elements/Water.png){.inline-icon} Water (4900 g/s at -273.15°C)<br> ![Clay](/assets/images/elements/Clay.png){.inline-icon} Clay (110 g/s at -273.15°C)<br>|
+| ![DirtyWater](/assets/images/elements/DirtyWater.png){.inline-icon} Polluted Water (5 kg/s)<br> ![ChlorineGas](/assets/images/elements/ChlorineGas.png){.inline-icon} Chlorine Gas (2500 mg/s)<br> ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} Crushed Rock (24 g/s)<br> ![RefinedCarbon](/assets/images/elements/RefinedCarbon.png){.inline-icon} Refined Carbon (34 g/s)<br> ![Filter](/assets/images/entities/Filter.png){.inline-icon} Filtration Medium (42 g/s)<br>| ![Water](/assets/images/elements/Water.png){.inline-icon} Water (4900 g/s at 5°C)<br> ![Clay](/assets/images/elements/Clay.png){.inline-icon} Clay (110 g/s at 5°C)<br>|
 
 
 |Inputs:|Outputs:|
 |-|-|
-| ![ToxicSlurry](/assets/images/elements/ToxicSlurry.png){.inline-icon} Toxic Slurry (5 kg/s)<br> ![ChlorineGas](/assets/images/elements/ChlorineGas.png){.inline-icon} Chlorine Gas (2500 mg/s)<br> ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} Crushed Rock (24 g/s)<br> ![RefinedCarbon](/assets/images/elements/RefinedCarbon.png){.inline-icon} Refined Carbon (34 g/s)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (42 g/s)<br>| ![Water](/assets/images/elements/Water.png){.inline-icon} Water (2000 g/s at -273.15°C)<br> ![SolidSlag](/assets/images/elements/SolidSlag.png){.inline-icon} Slag (3100 g/s at -273.15°C)<br>|
+| ![ToxicSlurry](/assets/images/elements/ToxicSlurry.png){.inline-icon} Toxic Slurry (5 kg/s)<br> ![ChlorineGas](/assets/images/elements/ChlorineGas.png){.inline-icon} Chlorine Gas (2500 mg/s)<br> ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} Crushed Rock (24 g/s)<br> ![RefinedCarbon](/assets/images/elements/RefinedCarbon.png){.inline-icon} Refined Carbon (34 g/s)<br> ![Filter](/assets/images/entities/Filter.png){.inline-icon} Filtration Medium (42 g/s)<br>| ![Water](/assets/images/elements/Water.png){.inline-icon} Water (2000 g/s at 5°C)<br> ![SolidSlag](/assets/images/elements/SolidSlag.png){.inline-icon} Slag (3100 g/s at 5°C)<br>|
 
 
 

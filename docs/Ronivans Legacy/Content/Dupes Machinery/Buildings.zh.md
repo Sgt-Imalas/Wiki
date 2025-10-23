@@ -75,17 +75,17 @@
 #### 元素转换
 |输入:|输出:|
 |-|-|
-| ![SaltWater](/assets/images/elements/SaltWater.png){.inline-icon} 盐水 (2000克/秒)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (50克/秒)<br>| ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (1860克/秒 于 -273.15°C)<br> ![BleachStone](/assets/images/elements/BleachStone.png){.inline-icon} 漂白石 (22.4克/秒 于 -273.15°C)<br>|
+| ![SaltWater](/assets/images/elements/SaltWater.png){.inline-icon} 盐水 (2000克/秒)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (50克/秒)<br>| ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (1860克/秒 于 5°C)<br> ![BleachStone](/assets/images/elements/BleachStone.png){.inline-icon} 漂白石 (46.7克/秒 于 5°C)<br>|
 
 
 |输入:|输出:|
 |-|-|
-| ![Brine](/assets/images/elements/Brine.png){.inline-icon} 浓盐水 (2000克/秒)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (50克/秒)<br>| ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (1400克/秒 于 40°C)<br> ![BleachStone](/assets/images/elements/BleachStone.png){.inline-icon} 漂白石 (96克/秒 于 40°C)<br>|
+| ![Brine](/assets/images/elements/Brine.png){.inline-icon} 浓盐水 (2000克/秒)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (50克/秒)<br>| ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (1400克/秒 于 5°C)<br> ![BleachStone](/assets/images/elements/BleachStone.png){.inline-icon} 漂白石 (200克/秒 于 5°C)<br>|
 
 
 |输入:|输出:|
 |-|-|
-| ![ChlorineGas](/assets/images/elements/ChlorineGas.png){.inline-icon} 氯气 (50克/秒)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (100克/秒)<br>| ![BleachStone](/assets/images/elements/BleachStone.png){.inline-icon} 漂白石 (8克/秒 于 30°C)<br>|
+| ![ChlorineGas](/assets/images/elements/ChlorineGas.png){.inline-icon} 氯气 (60克/秒)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (100克/秒)<br>| ![BleachStone](/assets/images/elements/BleachStone.png){.inline-icon} 漂白石 (60克/秒 于 5°C)<br>|
 
 
 
@@ -145,12 +145,12 @@
 #### 元素转换
 |输入:|输出:|
 |-|-|
-| ![DirtyWater](/assets/images/elements/DirtyWater.png){.inline-icon} 污染水 (5千克/秒)<br> ![ChlorineGas](/assets/images/elements/ChlorineGas.png){.inline-icon} 氯气 (2500毫克/秒)<br> ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} 碎岩 (24克/秒)<br> ![RefinedCarbon](/assets/images/elements/RefinedCarbon.png){.inline-icon} 精炼碳 (34克/秒)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (42克/秒)<br>| ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (4900克/秒 于 -273.15°C)<br> ![Clay](/assets/images/elements/Clay.png){.inline-icon} 粘土 (110克/秒 于 -273.15°C)<br>|
+| ![DirtyWater](/assets/images/elements/DirtyWater.png){.inline-icon} 污染水 (5千克/秒)<br> ![ChlorineGas](/assets/images/elements/ChlorineGas.png){.inline-icon} 氯气 (2500毫克/秒)<br> ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} 碎岩 (24克/秒)<br> ![RefinedCarbon](/assets/images/elements/RefinedCarbon.png){.inline-icon} 精炼碳 (34克/秒)<br> ![Filter](/assets/images/entities/Filter.png){.inline-icon} 过滤介质 (42克/秒)<br>| ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (4900克/秒 于 5°C)<br> ![Clay](/assets/images/elements/Clay.png){.inline-icon} 粘土 (110克/秒 于 5°C)<br>|
 
 
 |输入:|输出:|
 |-|-|
-| ![ToxicSlurry](/assets/images/elements/ToxicSlurry.png){.inline-icon} 有毒泥浆 (5千克/秒)<br> ![ChlorineGas](/assets/images/elements/ChlorineGas.png){.inline-icon} 氯气 (2500毫克/秒)<br> ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} 碎岩 (24克/秒)<br> ![RefinedCarbon](/assets/images/elements/RefinedCarbon.png){.inline-icon} 精炼碳 (34克/秒)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (42克/秒)<br>| ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (2000克/秒 于 -273.15°C)<br> ![SolidSlag](/assets/images/elements/SolidSlag.png){.inline-icon} 炉渣 (3100克/秒 于 -273.15°C)<br>|
+| ![ToxicSlurry](/assets/images/elements/ToxicSlurry.png){.inline-icon} 有毒泥浆 (5千克/秒)<br> ![ChlorineGas](/assets/images/elements/ChlorineGas.png){.inline-icon} 氯气 (2500毫克/秒)<br> ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} 碎岩 (24克/秒)<br> ![RefinedCarbon](/assets/images/elements/RefinedCarbon.png){.inline-icon} 精炼碳 (34克/秒)<br> ![Filter](/assets/images/entities/Filter.png){.inline-icon} 过滤介质 (42克/秒)<br>| ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (2000克/秒 于 5°C)<br> ![SolidSlag](/assets/images/elements/SolidSlag.png){.inline-icon} 炉渣 (3100克/秒 于 5°C)<br>|
 
 
 

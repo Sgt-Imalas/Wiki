@@ -78,7 +78,7 @@ Allows Heavy-Duty Rail and Insulated Heavy-Duty Rail to run one section over ano
 | ![HPA_SolidRailBridge](/assets/images/buildings/HPA_SolidRailBridge.png){height="100"} {rowspan="3"}|**Dimensions:** | 3 wide x 1 high|
 |**Power Consumption:**|  -  |&#8288 {: style="padding:0"}|
 |**Research Required:**| High-Capacity Solid Transport|&#8288 {: style="padding:0"}| 
-|**<font size="+1">Material Costs:</font>**|<table><tr><td>Steel or Hardened Alloy</td><td>100 kg</td></tr><tr><td>Transparent</td><td>50 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">Material Costs:</font>**|<table><tr><td>Steel or Tungsten or Hardened Alloy</td><td>100 kg</td></tr><tr><td>Transparent</td><td>50 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Solid Input Rail</td><td>Solid Output Rail</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 
@@ -92,7 +92,7 @@ Allows Heavy-Duty Rail and Insulated Heavy-Duty Rail to be run through wall and 
 | ![HPA_SolidRailBridgeTile](/assets/images/buildings/HPA_SolidRailBridgeTile.png){height="100"} {rowspan="3"}|**Dimensions:** | 1 wide x 1 high|
 |**Power Consumption:**|  -  |&#8288 {: style="padding:0"}|
 |**Research Required:**| High-Capacity Solid Transport|&#8288 {: style="padding:0"}| 
-|**<font size="+1">Material Costs:</font>**|<table><tr><td>Raw Mineral</td><td>400 kg</td></tr><tr><td>Steel or Hardened Alloy</td><td>100 kg</td></tr><tr><td>Transparent</td><td>50 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">Material Costs:</font>**|<table><tr><td>Raw Mineral</td><td>400 kg</td></tr><tr><td>Steel or Tungsten or Hardened Alloy</td><td>100 kg</td></tr><tr><td>Transparent</td><td>50 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Solid Input Rail</td><td>Solid Output Rail</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 
@@ -121,7 +121,7 @@ Transports large quantities of Solid Materials on a track between Heavy-Duty Loa
 | ![HPA_SolidRail](/assets/images/buildings/HPA_SolidRail.png){height="100"} {rowspan="3"}|**Dimensions:** | 1 wide x 1 high|
 |**Power Consumption:**|  -  |&#8288 {: style="padding:0"}|
 |**Research Required:**| High-Capacity Solid Transport|&#8288 {: style="padding:0"}| 
-|**<font size="+1">Material Costs:</font>**|<table><tr><td>Steel or Hardened Alloy</td><td>100 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">Material Costs:</font>**|<table><tr><td>Steel or Tungsten or Hardened Alloy</td><td>100 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 
 ## Heavy-Duty Rail Compressor
@@ -176,7 +176,7 @@ Carries a maximum of 10 kg of Gas with minimal change in Temperature.<br/><br/>C
 | ![HighPressureGasConduit](/assets/images/buildings/HighPressureGasConduit.png){height="100"} {rowspan="3"}|**Dimensions:** | 1 wide x 1 high|
 |**Power Consumption:**|  -  |&#8288 {: style="padding:0"}|
 |**Research Required:**| Improved Ventilation|&#8288 {: style="padding:0"}| 
-|**<font size="+1">Material Costs:</font>**|<table><tr><td>Steel or Hardened Alloy</td><td>10 kg</td></tr><tr><td>Plastics</td><td>5 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">Material Costs:</font>**|<table><tr><td>Steel or Tungsten or Hardened Alloy</td><td>10 kg</td></tr><tr><td>Plastics</td><td>5 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 
 ## High Pressure Gas Conduit Bridge
@@ -189,7 +189,7 @@ Runs one High Pressure Gas Pipe section over another without joining them.<br/><
 | ![HighPressureGasConduitBridge](/assets/images/buildings/HighPressureGasConduitBridge.png){height="100"} {rowspan="3"}|**Dimensions:** | 3 wide x 1 high|
 |**Power Consumption:**|  -  |&#8288 {: style="padding:0"}|
 |**Research Required:**| Improved Ventilation|&#8288 {: style="padding:0"}| 
-|**<font size="+1">Material Costs:</font>**|<table><tr><td>Steel or Hardened Alloy</td><td>10 kg</td></tr><tr><td>Plastics</td><td>5 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">Material Costs:</font>**|<table><tr><td>Steel or Tungsten or Hardened Alloy</td><td>10 kg</td></tr><tr><td>Plastics</td><td>5 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Gas Input Pipe</td><td>Gas Output Pipe</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 
@@ -231,7 +231,7 @@ Runs one High Pressure Liquid Pipe section over another without joining them.<br
 | ![HighPressureLiquidConduitBridge](/assets/images/buildings/HighPressureLiquidConduitBridge.png){height="100"} {rowspan="3"}|**Dimensions:** | 3 wide x 1 high|
 |**Power Consumption:**|  -  |&#8288 {: style="padding:0"}|
 |**Research Required:**| Improved Plumbing|&#8288 {: style="padding:0"}| 
-|**<font size="+1">Material Costs:</font>**|<table><tr><td>Steel or Hardened Alloy</td><td>10 kg</td></tr><tr><td>Plastics</td><td>5 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">Material Costs:</font>**|<table><tr><td>Steel or Tungsten or Hardened Alloy</td><td>10 kg</td></tr><tr><td>Plastics</td><td>5 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Liquid Input Pipe</td><td>Liquid Output Pipe</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 
@@ -259,7 +259,7 @@ Carries a maximum of 40 kg of Liquid with minimal change in Temperature.<br/><br
 | ![HighPressureLiquidConduit](/assets/images/buildings/HighPressureLiquidConduit.png){height="100"} {rowspan="3"}|**Dimensions:** | 1 wide x 1 high|
 |**Power Consumption:**|  -  |&#8288 {: style="padding:0"}|
 |**Research Required:**| Improved Plumbing|&#8288 {: style="padding:0"}| 
-|**<font size="+1">Material Costs:</font>**|<table><tr><td>Steel or Hardened Alloy</td><td>10 kg</td></tr><tr><td>Plastics</td><td>5 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">Material Costs:</font>**|<table><tr><td>Steel or Tungsten or Hardened Alloy</td><td>10 kg</td></tr><tr><td>Plastics</td><td>5 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 
 ## High Pressure Liquid Pump
@@ -286,6 +286,6 @@ Transports large quantities of Solid Materials.<br/><br/>Can not be run through 
 | ![HPA_SolidRail_Insulated](/assets/images/buildings/HPA_SolidRail_Insulated.png){height="100"} {rowspan="3"}|**Dimensions:** | 1 wide x 1 high|
 |**Power Consumption:**|  -  |&#8288 {: style="padding:0"}|
 |**Research Required:**| High-Capacity Solid Transport|&#8288 {: style="padding:0"}| 
-|**<font size="+1">Material Costs:</font>**|<table><tr><td>Steel or Hardened Alloy</td><td>125 kg</td></tr><tr><td>Transparent</td><td>25 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">Material Costs:</font>**|<table><tr><td>Steel or Tungsten or Hardened Alloy</td><td>125 kg</td></tr><tr><td>Transparent</td><td>25 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 

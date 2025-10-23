@@ -381,14 +381,6 @@
 |-|-|-|
 | ![LiquidPropane](/assets/images/elements/LiquidPropane.png){width="200"} |<br/>资源种类：液体<br/><br/>冰点：-188.15°C<br/>-> ![SolidPropane](/assets/images/elements/SolidPropane.png){.inline-icon} 固态丙烷<br/><br/>沸点：-42.15°C<br/>-> ![Propane](/assets/images/elements/Propane.png){.inline-icon} 丙烷<br/><br/><br/>|<br/>比热容：<br/>2.400 (DTU/g)/ ºC<br/><br/>热导率：<br/>0.100 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.75<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
 
-#### 液态石脑油
-
-石脑油是一种由塑料燃烧产生的烃类混合物。
-
-| |<font size="+1">材料属性</font>| |
-|-|-|-|
-| ![Naphtha](/assets/images/elements/Naphtha.png){width="200"} |<br/>资源种类：液体<br/><br/>冰点：-50.15°C<br/>-> ![SolidNaphtha](/assets/images/elements/SolidNaphtha.png){.inline-icon} 固态石脑油<br/><br/>沸点：538.85°C<br/>-> ![SourGas](/assets/images/elements/SourGas.png){.inline-icon} 高硫天然气<br/><br/><br/>属性：<br/>烃类物质|<br/>比热容：<br/>2.191 (DTU/g)/ ºC<br/><br/>热导率：<br/>0.200 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.6<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
-
 #### 碎岩
 
 碎石是一种由火成岩粉碎成的机械性混合物。

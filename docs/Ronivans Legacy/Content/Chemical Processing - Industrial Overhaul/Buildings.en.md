@@ -345,12 +345,12 @@ Treat Polluted Water or Toxic Slurry using special filter and chemicals. Sieve p
 #### Element Conversion
 |Inputs:|Outputs:|
 |-|-|
-| ![DirtyWater](/assets/images/elements/DirtyWater.png){.inline-icon} Polluted Water (5 kg/s)<br> ![ChlorineGas](/assets/images/elements/ChlorineGas.png){.inline-icon} Chlorine Gas (2500 mg/s)<br> ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} Crushed Rock (24 g/s)<br> ![RefinedCarbon](/assets/images/elements/RefinedCarbon.png){.inline-icon} Refined Carbon (34 g/s)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (42 g/s)<br>| ![Water](/assets/images/elements/Water.png){.inline-icon} Water (4900 g/s at -273.15°C)<br> ![Clay](/assets/images/elements/Clay.png){.inline-icon} Clay (110 g/s at -273.15°C)<br>|
+| ![DirtyWater](/assets/images/elements/DirtyWater.png){.inline-icon} Polluted Water (5 kg/s)<br> ![ChlorineGas](/assets/images/elements/ChlorineGas.png){.inline-icon} Chlorine Gas (2500 mg/s)<br> ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} Crushed Rock (24 g/s)<br> ![RefinedCarbon](/assets/images/elements/RefinedCarbon.png){.inline-icon} Refined Carbon (34 g/s)<br> ![Filter](/assets/images/entities/Filter.png){.inline-icon} Filtration Medium (42 g/s)<br>| ![Water](/assets/images/elements/Water.png){.inline-icon} Water (4900 g/s at 5°C)<br> ![Clay](/assets/images/elements/Clay.png){.inline-icon} Clay (110 g/s at 5°C)<br>|
 
 
 |Inputs:|Outputs:|
 |-|-|
-| ![ToxicSlurry](/assets/images/elements/ToxicSlurry.png){.inline-icon} Toxic Slurry (5 kg/s)<br> ![ChlorineGas](/assets/images/elements/ChlorineGas.png){.inline-icon} Chlorine Gas (2500 mg/s)<br> ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} Crushed Rock (24 g/s)<br> ![RefinedCarbon](/assets/images/elements/RefinedCarbon.png){.inline-icon} Refined Carbon (34 g/s)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (42 g/s)<br>| ![Water](/assets/images/elements/Water.png){.inline-icon} Water (2000 g/s at -273.15°C)<br> ![SolidSlag](/assets/images/elements/SolidSlag.png){.inline-icon} Slag (3100 g/s at -273.15°C)<br>|
+| ![ToxicSlurry](/assets/images/elements/ToxicSlurry.png){.inline-icon} Toxic Slurry (5 kg/s)<br> ![ChlorineGas](/assets/images/elements/ChlorineGas.png){.inline-icon} Chlorine Gas (2500 mg/s)<br> ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} Crushed Rock (24 g/s)<br> ![RefinedCarbon](/assets/images/elements/RefinedCarbon.png){.inline-icon} Refined Carbon (34 g/s)<br> ![Filter](/assets/images/entities/Filter.png){.inline-icon} Filtration Medium (42 g/s)<br>| ![Water](/assets/images/elements/Water.png){.inline-icon} Water (2000 g/s at 5°C)<br> ![SolidSlag](/assets/images/elements/SolidSlag.png){.inline-icon} Slag (3100 g/s at 5°C)<br>|
 
 
 
@@ -424,7 +424,7 @@ Crush down Raw Minerals in to useful materials and industrial ingredients.
 | ![PhosphateNodules](/assets/images/elements/PhosphateNodules.png){.inline-icon} Phosphate Nodules (100 kg)<br>|40s| ![Phosphorus](/assets/images/elements/Phosphorus.png){.inline-icon} Refined Phosphorus (70 kg)<br> ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} Crushed Rock (30 kg)<br>|
 | ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} Crushed Rock (100 kg)<br>|30s| ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (100 kg)<br>|
 | ![Obsidian](/assets/images/elements/Obsidian.png){.inline-icon} Obsidian (100 kg)<br>|30s| ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (100 kg)<br>|
-| ![Chloroschist](/assets/images/elements/Chloroschist.png){.inline-icon} Chloroschist (100 kg)<br>|50s| ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} Crushed Rock (65 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (20 kg)<br> ![BleachStone](/assets/images/elements/BleachStone.png){.inline-icon} Bleach Stone (500 g)<br> ![Salt](/assets/images/elements/Salt.png){.inline-icon} Salt (14.5 kg)<br>|
+| ![Chloroschist](/assets/images/elements/Chloroschist.png){.inline-icon} Chloroschist (100 kg)<br>|50s| ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} Crushed Rock (55 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (10 kg)<br> ![BleachStone](/assets/images/elements/BleachStone.png){.inline-icon} Bleach Stone (15 kg)<br> ![Salt](/assets/images/elements/Salt.png){.inline-icon} Salt (20 kg)<br>|
 | ![Shale](/assets/images/elements/Shale.png){.inline-icon} Shale (100 kg)<br>|40s| ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} Crushed Rock (100 kg)<br>|
 | ![Ceramic](/assets/images/elements/Ceramic.png){.inline-icon} Ceramic (100 kg)<br>|40s| ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} Crushed Rock (100 kg)<br>|
 | ![IgneousRock](/assets/images/elements/IgneousRock.png){.inline-icon} Igneous Rock (100 kg)<br>|40s| ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} Crushed Rock (100 kg)<br>|
@@ -583,7 +583,7 @@ An advanced method for the refinement of Metal Ores and other Raw Minerals.<br/>
 |**Power Consumption:**| 5 kW |&#8288 {: style="padding:0"}|
 |**Research Required:**| Catalytics|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Ceramic</td><td>2000 kg</td></tr><tr><td>Tungsten</td><td>1000 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
-| **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Carrier Gas Input Pipe</td><td>Glass Output Pipe</td></tr><tr><td>-</td><td>Molten Slag Output Pipe</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
+| **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Carrier Gas Input Pipe</td><td>Molten Glass Output Pipe</td></tr><tr><td>-</td><td>Molten Slag Output Pipe</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 #### Element Conversion
 |Inputs:|Outputs:|
@@ -811,7 +811,7 @@ Separate clean Water from Sour Water using hot Steam.<br/> The stripping process
 #### Element Conversion
 |Inputs:|Outputs:|
 |-|-|
-| ![SourWater](/assets/images/elements/SourWater.png){.inline-icon} Sour Water (5 kg/s)<br> ![Steam](/assets/images/elements/Steam.png){.inline-icon} Steam (250 g/s)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (100 g/s)<br>| ![Water](/assets/images/elements/Water.png){.inline-icon} Water (4250 g/s at 48°C)<br> ![SourGas](/assets/images/elements/SourGas.png){.inline-icon} Sour Gas (750 g/s at 94°C)<br> ![AmmoniaGas](/assets/images/elements/AmmoniaGas.png){.inline-icon} Ammonia (500 g/s at 83°C)<br> ![ToxicSand](/assets/images/elements/ToxicSand.png){.inline-icon} Polluted Dirt (350 g/s)<br>|
+| ![SourWater](/assets/images/elements/SourWater.png){.inline-icon} Sour Water (5 kg/s)<br> ![Steam](/assets/images/elements/Steam.png){.inline-icon} Steam (250 g/s)<br> ![Filter](/assets/images/entities/Filter.png){.inline-icon} Filtration Medium (100 g/s)<br>| ![Water](/assets/images/elements/Water.png){.inline-icon} Water (4250 g/s at 48°C)<br> ![SourGas](/assets/images/elements/SourGas.png){.inline-icon} Sour Gas (750 g/s at 94°C)<br> ![AmmoniaGas](/assets/images/elements/AmmoniaGas.png){.inline-icon} Ammonia (500 g/s at 83°C)<br> ![ToxicSand](/assets/images/elements/ToxicSand.png){.inline-icon} Polluted Dirt (350 g/s)<br>|
 
 
 

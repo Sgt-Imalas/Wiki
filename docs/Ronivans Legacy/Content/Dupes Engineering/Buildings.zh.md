@@ -45,6 +45,7 @@
 | ![MaficRock](/assets/images/elements/MaficRock.png){.inline-icon} 镁铁质岩 (25千克)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (60千克)<br> ![Lime](/assets/images/elements/Lime.png){.inline-icon} 石灰 (5千克)<br>|40s| ![Cement](/assets/images/elements/Cement.png){.inline-icon} 水泥 (100千克)<br>|
 | ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} 碎岩 (25千克)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (60千克)<br> ![Lime](/assets/images/elements/Lime.png){.inline-icon} 石灰 (5千克)<br>|40s| ![Cement](/assets/images/elements/Cement.png){.inline-icon} 水泥 (100千克)<br>|
 | ![Cement](/assets/images/elements/Cement.png){.inline-icon} 水泥 (100千克)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (200千克)<br> ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} 碎岩 (300千克)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (25千克)<br>|30s| ![ConcreteBlock](/assets/images/elements/ConcreteBlock.png){.inline-icon} 混凝土砖 (600千克)<br>|
+| ![Cement](/assets/images/elements/Cement.png){.inline-icon} 水泥 (100千克)<br> ![Regolith](/assets/images/elements/Regolith.png){.inline-icon} 浮土 (200千克)<br> ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} 碎岩 (300千克)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (25千克)<br>|30s| ![ConcreteBlock](/assets/images/elements/ConcreteBlock.png){.inline-icon} 混凝土砖 (600千克)<br>|
 
 
 

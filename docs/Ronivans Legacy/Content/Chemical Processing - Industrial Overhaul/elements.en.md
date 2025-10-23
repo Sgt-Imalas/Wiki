@@ -365,14 +365,6 @@ Electrum is a conductive Metal alloy composed of gold and silver.<br/><br/>It is
 |-|-|-|
 | ![Electrum](/assets/images/elements/Electrum.png){width="200"} |<br/>Resource Type: Metal Ore<br/><br/>Melting point: 1022.71°C<br/>40 %  ![MoltenSilver](/assets/images/elements/MoltenSilver.png){.inline-icon} Molten Silver,<br/>60 % ![Gold](/assets/images/elements/Gold.png){.inline-icon} Gold<br/><br/>Hardness: 2<br/><br/>Properties: <br/>General Buildable, Glass Dye, Ore, Solid|<br/>Specific Heat Capacity: <br/>0.150 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>2.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.35<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
 
-#### Liquid Naphtha
-
-Naphtha a distilled hydrocarbon mixture produced from the burning of Plastic.
-
-| |<font size="+1">Material Properties</font>| |
-|-|-|-|
-| ![Naphtha](/assets/images/elements/Naphtha.png){width="200"} |<br/>Resource Type: Liquid<br/><br/>Freezing point: -50.15°C<br/>-> ![SolidNaphtha](/assets/images/elements/SolidNaphtha.png){.inline-icon} Solid Naphtha<br/><br/>Evaporation point: 538.85°C<br/>-> ![SourGas](/assets/images/elements/SourGas.png){.inline-icon} Sour Gas<br/><br/><br/>Properties: <br/>Glass Dye, Hydrocarbon|<br/>Specific Heat Capacity: <br/>2.191 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>0.200 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.6<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
-
 #### Liquid Propane
 
 (C<sub>3</sub>H<sub>8</sub>) Propane is an alkane.<br/><br/>This selection is in a Liquid state.<br/><br/>It is useful in Power production.

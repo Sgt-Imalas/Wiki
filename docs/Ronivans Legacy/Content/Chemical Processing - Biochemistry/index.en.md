@@ -5,4 +5,4 @@
 This is a variant of Chemical Processing mod focused on organics and green chemistry.
 
 - [New Elements and critter diet changes](./elements).
-- [New Buildings](./Buildings).
+- [New Buildings](./buildings).
