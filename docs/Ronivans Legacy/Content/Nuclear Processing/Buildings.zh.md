@@ -43,7 +43,7 @@
 | ![HepCalcinator](/assets/images/buildings/HepCalcinator.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 7 x 高 3|
 |**耗电:**| 3千瓦 |&#8288 {: style="padding:0"}|
 |**科技:**| 辐射精炼|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>精炼金属</td><td>1000千克</td></tr><tr><td>陶瓷</td><td>600千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>精炼金属</td><td>1000千克</td></tr><tr><td>陶瓷 或 红砖</td><td>600千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 ### 配方
 |材料:| 耗时: | 产物:|

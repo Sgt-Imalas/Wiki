@@ -9,7 +9,7 @@ A highly pressurized cryogeyser that periodically erupts with cold liquid Ammoni
 |-|-|-|
 | ![GeyserGeneric_AmmoniaGeyser](/assets/images/geysers/GeyserGeneric_AmmoniaGeyser.png) {rowspan="3"} |Dimensions: | 4 wide x 2 high|
 |Venting  |  ![LiquidAmmonia](/assets/images/elements/LiquidAmmonia.png){.inline-icon} Liquid Ammonia at -63°C|&#8288 {: style="padding:0"} |
-|Average Output: {0} | 275 g/s (150 g/s - 400 g/s)|&#8288 {: style="padding:0"} |
+|Average Output: {0} | 175 g/s (50 g/s - 300 g/s)|&#8288 {: style="padding:0"} |
 
 
 ## Ammonium Water Geyser

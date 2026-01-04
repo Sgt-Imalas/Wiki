@@ -9,7 +9,7 @@ Compresses Carbon Dioxide gas and cool it down toLiquid Carbon Dioxide. This dev
 | ![Chemical_CarbonDioxideCompressor](/assets/images/buildings/Chemical_CarbonDioxideCompressor.png){height="100"} {rowspan="3"}|**Dimensions:** | 3 wide x 3 high|
 |**Power Consumption:**| 480 W |&#8288 {: style="padding:0"}|
 |**Research Required:**| Temperature Modulation|&#8288 {: style="padding:0"}| 
-|**<font size="+1">Material Costs:</font>**|<table><tr><td>Ceramic</td><td>400 kg</td></tr><tr><td>Refined Metal</td><td>200 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">Material Costs:</font>**|<table><tr><td>Ceramic or Brick</td><td>400 kg</td></tr><tr><td>Refined Metal</td><td>200 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 |**<font size="+1">Storage Capacity:</font>**| 3000 kg|&#8288 {: style="padding:0"}|
 | **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Carbon Dioxide Input Pipe</td><td>Liquid Carbon Dioxide Output Pipe</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 

@@ -48,7 +48,7 @@ Renewable diesel is a renewable biofuel from biological sources like vegetable o
 
 | |<font size="+1">Material Properties</font>| |
 |-|-|-|
-| ![LiquidBiodiesel](/assets/images/elements/LiquidBiodiesel.png){width="200"} |<br/>Resource Type: Liquid<br/><br/>Freezing point: 1°C<br/>-> ![SolidBiodiesel](/assets/images/elements/SolidBiodiesel.png){.inline-icon} Frozen Renewable Diesel<br/><br/>Evaporation point: 357°C<br/>70 %  ![VegeOilGas](/assets/images/elements/VegeOilGas.png){.inline-icon} Oily Gas,<br/>30 % ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} Carbon Dioxide<br/><br/><br/>Properties: <br/>Combustible Liquid, Rocket Fuel, Slippery|<br/>Specific Heat Capacity: <br/>0.234 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>7.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.8<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+| ![LiquidBiodiesel](/assets/images/elements/LiquidBiodiesel.png){width="200"} |<br/>Resource Type: Liquid<br/><br/>Freezing point: 1°C<br/>-> ![SolidBiodiesel](/assets/images/elements/SolidBiodiesel.png){.inline-icon} Frozen Renewable Diesel<br/><br/>Evaporation point: 357°C<br/>70 %  ![VegeOilGas](/assets/images/elements/VegeOilGas.png){.inline-icon} Oily Gas,<br/>30 % ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} Carbon Dioxide<br/><br/><br/>Properties: <br/>Combustible Liquid, Renewable Biofuel, Rocket Fuel, Slippery|<br/>Specific Heat Capacity: <br/>0.234 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>7.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.8<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
 
 #### Vegetable Oil
 

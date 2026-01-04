@@ -8,7 +8,7 @@
 |材料属性|不可回收的成分, 工业产品, 钻头|
 
 
-## 钢钻头
+## 硬质钻头
 | ![Mining_Drillbits_Steel_Item](/assets/images/entities/Mining_Drillbits_Steel_Item.png){width="100"} |专为硬岩层采矿设计的坚固钻头组。<br/>无自主引导系统，可钻透各类硬岩地层。|
 |-|-|
 |材料| ![Creature](/assets/images/elements/Creature.png){.inline-icon} 遗传生物软泥|

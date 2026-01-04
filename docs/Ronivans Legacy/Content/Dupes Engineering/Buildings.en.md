@@ -42,7 +42,6 @@ A device that can homogeneously combine several solid and liquid ingredients use
 | ![Granite](/assets/images/elements/Granite.png){.inline-icon} Granite (25 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (60 kg)<br> ![Lime](/assets/images/elements/Lime.png){.inline-icon} Lime (5 kg)<br>|40s| ![Cement](/assets/images/elements/Cement.png){.inline-icon} Cement (100 kg)<br>|
 | ![SedimentaryRock](/assets/images/elements/SedimentaryRock.png){.inline-icon} Sedimentary Rock (25 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (60 kg)<br> ![Lime](/assets/images/elements/Lime.png){.inline-icon} Lime (5 kg)<br>|40s| ![Cement](/assets/images/elements/Cement.png){.inline-icon} Cement (100 kg)<br>|
 | ![SandStone](/assets/images/elements/SandStone.png){.inline-icon} Sandstone (25 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (60 kg)<br> ![Lime](/assets/images/elements/Lime.png){.inline-icon} Lime (5 kg)<br>|40s| ![Cement](/assets/images/elements/Cement.png){.inline-icon} Cement (100 kg)<br>|
-| ![MaficRock](/assets/images/elements/MaficRock.png){.inline-icon} Mafic Rock (25 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (60 kg)<br> ![Lime](/assets/images/elements/Lime.png){.inline-icon} Lime (5 kg)<br>|40s| ![Cement](/assets/images/elements/Cement.png){.inline-icon} Cement (100 kg)<br>|
 | ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} Crushed Rock (25 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (60 kg)<br> ![Lime](/assets/images/elements/Lime.png){.inline-icon} Lime (5 kg)<br>|40s| ![Cement](/assets/images/elements/Cement.png){.inline-icon} Cement (100 kg)<br>|
 | ![Cement](/assets/images/elements/Cement.png){.inline-icon} Cement (100 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (200 kg)<br> ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} Crushed Rock (300 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} Water (25 kg)<br>|30s| ![ConcreteBlock](/assets/images/elements/ConcreteBlock.png){.inline-icon} Concrete Block (600 kg)<br>|
 | ![Cement](/assets/images/elements/Cement.png){.inline-icon} Cement (100 kg)<br> ![Regolith](/assets/images/elements/Regolith.png){.inline-icon} Regolith (200 kg)<br> ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} Crushed Rock (300 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} Water (25 kg)<br>|30s| ![ConcreteBlock](/assets/images/elements/ConcreteBlock.png){.inline-icon} Concrete Block (600 kg)<br>|
@@ -338,7 +337,7 @@ This ceiling is a beautiful masonry and wood work, but serves only as a decorati
 | ![WoodenCeiling](/assets/images/buildings/WoodenCeiling.png){height="100"} {rowspan="3"}|**Dimensions:** | 1 wide x 1 high|
 |**Power Consumption:**|  -  |&#8288 {: style="padding:0"}|
 |**Research Required:**| Home Luxuries|&#8288 {: style="padding:0"}| 
-|**<font size="+1">Material Costs:</font>**|<table><tr><td>Raw Mineral</td><td>50 kg</td></tr><tr><td>Wood</td><td>50 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">Material Costs:</font>**|<table><tr><td>Raw Mineral or Wood</td><td>50 kg</td></tr><tr><td>Wood</td><td>50 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 
 ## Wooden Corner Arch
@@ -351,7 +350,7 @@ This corner ceiling arch is beautiful masonry and wood work, but serves only as 
 | ![WoodenCornerArch](/assets/images/buildings/WoodenCornerArch.png){height="100"} {rowspan="3"}|**Dimensions:** | 1 wide x 1 high|
 |**Power Consumption:**|  -  |&#8288 {: style="padding:0"}|
 |**Research Required:**| Home Luxuries|&#8288 {: style="padding:0"}| 
-|**<font size="+1">Material Costs:</font>**|<table><tr><td>Raw Mineral</td><td>150 kg</td></tr><tr><td>Wood</td><td>50 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">Material Costs:</font>**|<table><tr><td>Raw Mineral or Wood</td><td>150 kg</td></tr><tr><td>Wood</td><td>50 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 
 ## Wooden Door
@@ -361,10 +360,10 @@ A pretty wooden door that encloses areas without blocking Liquid or Gas flow. Se
 
 | | | |
 |-|-|-|
-| ![WoodenDoor](/assets/images/buildings/WoodenDoor.png){height="100"} {rowspan="3"}|**Dimensions:** | 1 wide x 2 high|
+| ![AIO_WoodenDoor](/assets/images/buildings/AIO_WoodenDoor.png){height="100"} {rowspan="3"}|**Dimensions:** | 1 wide x 2 high|
 |**Power Consumption:**|  -  |&#8288 {: style="padding:0"}|
 |**Research Required:**| Interior Decor|&#8288 {: style="padding:0"}| 
-|**<font size="+1">Material Costs:</font>**|<table><tr><td>Raw Mineral</td><td>150 kg</td></tr><tr><td>Wood</td><td>50 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">Material Costs:</font>**|<table><tr><td>Raw Mineral or Wood</td><td>50 kg</td></tr><tr><td>Wood</td><td>50 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 
 ## Wooden Mesh Tile

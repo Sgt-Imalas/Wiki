@@ -9,7 +9,7 @@
 |-|-|-|
 | ![GeyserGeneric_AmmoniaGeyser](/assets/images/geysers/GeyserGeneric_AmmoniaGeyser.png) {rowspan="3"} |尺寸: | 宽 4 x 高 2|
 |排放 |  ![LiquidAmmonia](/assets/images/elements/LiquidAmmonia.png){.inline-icon} 液态氨 于 -63°C|&#8288 {: style="padding:0"} |
-|平均产出：{0} | 275克/s (150克/s - 400克/s)|&#8288 {: style="padding:0"} |
+|平均产出：{0} | 175克/s (50克/s - 300克/s)|&#8288 {: style="padding:0"} |
 
 
 ## 氨水泉

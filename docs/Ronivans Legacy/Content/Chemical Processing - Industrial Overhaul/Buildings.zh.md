@@ -16,6 +16,7 @@
 |-|-|-|
 | ![Carbon](/assets/images/elements/Carbon.png){.inline-icon} 煤炭 (500千克)<br>|30s| ![RefinedCarbon](/assets/images/elements/RefinedCarbon.png){.inline-icon} 精炼碳 (500千克)<br>|
 | ![WoodLog](/assets/images/elements/WoodLog.png){.inline-icon} 木材 (800千克)<br>|30s| ![RefinedCarbon](/assets/images/elements/RefinedCarbon.png){.inline-icon} 精炼碳 (500千克)<br>|
+| ![FabricatedWood](/assets/images/elements/FabricatedWood.png){.inline-icon} 胶合板 (800千克)<br>|30s| ![RefinedCarbon](/assets/images/elements/RefinedCarbon.png){.inline-icon} 精炼碳 (500千克)<br>|
 | ![Peat](/assets/images/elements/Peat.png){.inline-icon} 泥炭 (1200千克)<br>|30s| ![RefinedCarbon](/assets/images/elements/RefinedCarbon.png){.inline-icon} 精炼碳 (500千克)<br>|
 | ![Clay](/assets/images/elements/Clay.png){.inline-icon} 粘土 (300千克)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (200千克)<br>|30s| ![Ceramic](/assets/images/elements/Ceramic.png){.inline-icon} 陶瓷 (500千克)<br>|
 | ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (270千克)<br> ![Polypropylene](/assets/images/elements/Polypropylene.png){.inline-icon} 塑料 (100千克)<br> ![SolidBorax](/assets/images/elements/SolidBorax.png){.inline-icon} 硼砂 (30千克)<br>|30s| ![SolidFiberglass](/assets/images/elements/SolidFiberglass.png){.inline-icon} 玻璃纤维 (400千克)<br>|
@@ -23,7 +24,7 @@
 | ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (270千克)<br> ![HardPolypropylene](/assets/images/elements/HardPolypropylene.png){.inline-icon} 塑料质 (100千克)<br> ![SolidBorax](/assets/images/elements/SolidBorax.png){.inline-icon} 硼砂 (30千克)<br>|30s| ![SolidFiberglass](/assets/images/elements/SolidFiberglass.png){.inline-icon} 玻璃纤维 (400千克)<br>|
 | ![Bitumen](/assets/images/elements/Bitumen.png){.inline-icon} 沥青 (100千克)<br> ![Fullerene](/assets/images/elements/Fullerene.png){.inline-icon} 富勒烯 (25千克)<br> ![Isoresin](/assets/images/elements/Isoresin.png){.inline-icon} 异构树液 (15千克)<br> ![RayonFiber](/assets/images/entities/RayonFiber.png){.inline-icon} 人造纤维 (x10)<br>|30s| ![CarbonFiber](/assets/images/elements/CarbonFiber.png){.inline-icon} 复合碳纤维 (150千克)<br>|
 | ![SolidOilShale](/assets/images/elements/SolidOilShale.png){.inline-icon} 油页岩 (500千克)<br>|40s| ![Cement](/assets/images/elements/Cement.png){.inline-icon} 水泥 (350千克)<br> ![CrudeOil](/assets/images/elements/CrudeOil.png){.inline-icon} 原油 (25千克)<br> ![LowGradeSand](/assets/images/elements/LowGradeSand.png){.inline-icon} 低级金属砂 (50千克)<br>|
-| ![Clay](/assets/images/elements/Clay.png){.inline-icon} 粘土 (300千克)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (200千克)<br>|30s| ![Brick](/assets/images/elements/Brick.png){.inline-icon} 砖料 (500千克)<br>|
+| ![Clay](/assets/images/elements/Clay.png){.inline-icon} 粘土 (300千克)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (200千克)<br>|30s| ![Brick](/assets/images/elements/Brick.png){.inline-icon} 红砖 (500千克)<br>|
 
 
 
@@ -37,7 +38,7 @@
 | ![Chemical_AdvancedMetalRefinery](/assets/images/buildings/Chemical_AdvancedMetalRefinery.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 3 x 高 5|
 |**耗电:**| 3千瓦 |&#8288 {: style="padding:0"}|
 |**科技:**| 超热锻造|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>钢 或 硬化合金</td><td>1000千克</td></tr><tr><td>陶瓷</td><td>600千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>钢 或 硬化合金</td><td>1000千克</td></tr><tr><td>陶瓷 或 红砖</td><td>600千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>超级冷却剂 输入管道</td><td>液体 输出管道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 ### 配方
@@ -57,6 +58,7 @@
 | ![Electrum](/assets/images/elements/Electrum.png){.inline-icon} 银金矿 (400千克)<br> ![RefinedCarbon](/assets/images/elements/RefinedCarbon.png){.inline-icon} 精炼碳 (50千克)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (50千克)<br>|40s| ![Gold](/assets/images/elements/Gold.png){.inline-icon} 金 (250千克)<br> ![SolidSilver](/assets/images/elements/SolidSilver.png){.inline-icon} 银 (120千克)<br> ![SolidSlag](/assets/images/elements/SolidSlag.png){.inline-icon} 炉渣 (130千克)<br>|
 | ![Galena](/assets/images/elements/Galena.png){.inline-icon} 方铅矿 (400千克)<br> ![RefinedCarbon](/assets/images/elements/RefinedCarbon.png){.inline-icon} 精炼碳 (50千克)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (50千克)<br>|40s| ![Lead](/assets/images/elements/Lead.png){.inline-icon} 铅 (150千克)<br> ![SolidSilver](/assets/images/elements/SolidSilver.png){.inline-icon} 银 (200千克)<br> ![SolidSlag](/assets/images/elements/SolidSlag.png){.inline-icon} 炉渣 (150千克)<br>|
 | ![FoolsGold](/assets/images/elements/FoolsGold.png){.inline-icon} 黄铁矿 (400千克)<br> ![RefinedCarbon](/assets/images/elements/RefinedCarbon.png){.inline-icon} 精炼碳 (50千克)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (50千克)<br>|40s| ![Iron](/assets/images/elements/Iron.png){.inline-icon} 铁 (300千克)<br> ![SolidSlag](/assets/images/elements/SolidSlag.png){.inline-icon} 炉渣 (200千克)<br>|
+| ![AIO_FerroChrome_Solid](/assets/images/elements/AIO_FerroChrome_Solid.png){.inline-icon} 铬铁合金 (300千克)<br> ![OxyRock](/assets/images/elements/OxyRock.png){.inline-icon} 氧石 (100千克)<br>|40s| ![AIO_Chromium_Solid](/assets/images/elements/AIO_Chromium_Solid.png){.inline-icon} 铬 (200千克)<br> ![Rust](/assets/images/elements/Rust.png){.inline-icon} 铁锈 (187.5千克)<br> ![SolidSlag](/assets/images/elements/SolidSlag.png){.inline-icon} 炉渣 (12.5千克)<br>|
 
 
 
@@ -90,7 +92,7 @@
 | ![Chemical_AmmoniaCompressor](/assets/images/buildings/Chemical_AmmoniaCompressor.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 3 x 高 3|
 |**耗电:**| 480瓦 |&#8288 {: style="padding:0"}|
 |**科技:**| 温度调节|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>陶瓷</td><td>400千克</td></tr><tr><td>精炼金属</td><td>200千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>陶瓷 或 红砖</td><td>400千克</td></tr><tr><td>精炼金属</td><td>200千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 |**<font size="+1">存储容量:</font>**| 3000千克|&#8288 {: style="padding:0"}|
 | **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>氨气 输入管道</td><td>液态氨 输出管道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
@@ -101,7 +103,7 @@
 
 
 
-## 球磨机 (化学洗涤型)
+## 球磨机 - 化学型
 一座大型的工业磨矿器，采用钢球和特殊的酸性混合物来破碎原始矿石。其处理能力远超标准磨矿厂，而且在从原始矿石中提取有价值的矿物质方面效率更高，能够更有效地处理更多的矿泥。
 
 将矿物原料粉碎成有用的材料和工业原料。
@@ -111,7 +113,7 @@
 | ![Chemical_BallCrusherMill](/assets/images/buildings/Chemical_BallCrusherMill.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 7 x 高 3|
 |**耗电:**| 800瓦 |&#8288 {: style="padding:0"}|
 |**科技:**| 超热锻造|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>精炼金属</td><td>300千克</td></tr><tr><td>钢 或 硬化合金</td><td>100千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>钢 或 硬化合金</td><td>600千克</td></tr><tr><td>陶瓷 或 红砖</td><td>400千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>水 输入管道</td><td>液体 输出管道</td></tr><tr><td>硫酸 输入管道</td><td>-</td></tr><tr><td>硝酸 输入管道</td><td>-</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 ### 配方
@@ -139,7 +141,7 @@
 | ![Chemical_CarbonDioxideCompressor](/assets/images/buildings/Chemical_CarbonDioxideCompressor.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 3 x 高 3|
 |**耗电:**| 480瓦 |&#8288 {: style="padding:0"}|
 |**科技:**| 温度调节|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>陶瓷</td><td>400千克</td></tr><tr><td>精炼金属</td><td>200千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>陶瓷 或 红砖</td><td>400千克</td></tr><tr><td>精炼金属</td><td>200千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 |**<font size="+1">存储容量:</font>**| 3000千克|&#8288 {: style="padding:0"}|
 | **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>二氧化碳 输入管道</td><td>液态二氧化碳 输出管道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
@@ -160,7 +162,7 @@
 | ![Chemical_Coal_Boiler](/assets/images/buildings/Chemical_Coal_Boiler.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 3 x 高 4|
 |**耗电:**|  -  |&#8288 {: style="padding:0"}|
 |**科技:**| 化石燃料|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>精炼金属</td><td>1200千克</td></tr><tr><td>陶瓷</td><td>1000千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>精炼金属</td><td>1200千克</td></tr><tr><td>陶瓷 或 红砖</td><td>1000千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 |**<font size="+1">存储容量:</font>**| 10吨|&#8288 {: style="padding:0"}|
 | **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>水 输入管道</td><td>蒸汽 输出管道</td></tr><tr><td>-</td><td>二氧化碳 输出管道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
@@ -181,7 +183,7 @@
 | ![Chemical_Co2Recycler](/assets/images/buildings/Chemical_Co2Recycler.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 7 x 高 4|
 |**耗电:**| 1000瓦 |&#8288 {: style="padding:0"}|
 |**科技:**| 便携气体|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>陶瓷</td><td>800千克</td></tr><tr><td>钢 或 硬化合金</td><td>400千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>陶瓷 或 红砖</td><td>800千克</td></tr><tr><td>钢 或 硬化合金</td><td>400千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>氢气 输入管道</td><td>液体 输出管道</td></tr><tr><td>液态二氧化碳 输入管道</td><td>蒸汽 输出管道</td></tr><tr><td>二氧化碳 输入管道</td><td>天然气 输出管道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 #### 元素转换
@@ -279,7 +281,7 @@
 | ![Chemical_ElectricBoiler](/assets/images/buildings/Chemical_ElectricBoiler.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 2 x 高 3|
 |**耗电:**| 720瓦 |&#8288 {: style="padding:0"}|
 |**科技:**| 化石燃料|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>陶瓷</td><td>200千克</td></tr><tr><td>精炼金属</td><td>100千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>陶瓷 或 红砖</td><td>200千克</td></tr><tr><td>精炼金属</td><td>100千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>水 输入管道</td><td>蒸汽 输出管道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 #### 元素转换
@@ -364,7 +366,7 @@
 | ![Chemical_Gas_Boiler](/assets/images/buildings/Chemical_Gas_Boiler.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 3 x 高 4|
 |**耗电:**|  -  |&#8288 {: style="padding:0"}|
 |**科技:**| 化石燃料|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>精炼金属</td><td>1200千克</td></tr><tr><td>陶瓷</td><td>1000千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>精炼金属</td><td>1200千克</td></tr><tr><td>陶瓷 或 红砖</td><td>1000千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 |**<font size="+1">存储容量:</font>**| 10吨|&#8288 {: style="padding:0"}|
 | **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>水 输入管道</td><td>蒸汽 输出管道</td></tr><tr><td>可燃气体 输入管道</td><td>二氧化碳 输出管道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
@@ -376,7 +378,7 @@
 
 
 ## 工业玻璃熔炉
-等离子弧炉利用由电弧加热器（等离子体发生器）产生的低温等离子体流来工作。
+玻璃可用于制作窗户砖。
 
 这个技术先进的玻璃熔炉不仅能够将沙子熔化成熔融玻璃，还能用于众多其他领域。
 
@@ -385,7 +387,7 @@
 | ![Chemical_GlassFoundry](/assets/images/buildings/Chemical_GlassFoundry.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 3 x 高 3|
 |**耗电:**| 2.4千瓦 |&#8288 {: style="padding:0"}|
 |**科技:**| 超热锻造|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>陶瓷</td><td>500千克</td></tr><tr><td>精炼金属</td><td>200千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>陶瓷 或 红砖</td><td>500千克</td></tr><tr><td>精炼金属</td><td>200千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>-</td><td>液体 输出管道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 ### 配方
@@ -409,44 +411,46 @@
 | | | |
 |-|-|-|
 | ![Chemical_SmallCrusherMill](/assets/images/buildings/Chemical_SmallCrusherMill.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 3 x 高 2|
-|**耗电:**| 120瓦 |&#8288 {: style="padding:0"}|
+|**耗电:**| 241瓦 |&#8288 {: style="padding:0"}|
 |**科技:**| 蛮力精炼|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>金属矿石</td><td>200千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>精炼金属</td><td>400千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 ### 配方
 |材料:| 耗时: | 产物:|
 |-|-|-|
-| ![EggShell](/assets/images/entities/EggShell.png){.inline-icon} Egg Shell (5千克)<br>|20s| ![Lime](/assets/images/elements/Lime.png){.inline-icon} 石灰 (5千克)<br>|
-| ![CrabShell](/assets/images/entities/CrabShell.png){.inline-icon} Pokeshell Molt (10千克)<br>|20s| ![Lime](/assets/images/elements/Lime.png){.inline-icon} 石灰 (10千克)<br>|
-| ![CrabWoodShell](/assets/images/entities/CrabWoodShell.png){.inline-icon} Oakshell Molt (500千克)<br>|20s| ![WoodLog](/assets/images/elements/WoodLog.png){.inline-icon} 木材 (500千克)<br>|
-| ![Fossil](/assets/images/elements/Fossil.png){.inline-icon} 化石 (100千克)<br>|40s| ![Lime](/assets/images/elements/Lime.png){.inline-icon} 石灰 (5千克)<br> ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} 碎岩 (70千克)<br> ![Bitumen](/assets/images/elements/Bitumen.png){.inline-icon} 沥青 (25千克)<br>|
-| ![Salt](/assets/images/elements/Salt.png){.inline-icon} 盐 (100千克)<br>|40s| ![SolidBorax](/assets/images/elements/SolidBorax.png){.inline-icon} 硼砂 (10千克)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (90千克)<br> ![TableSalt](/assets/images/entities/TableSalt.png){.inline-icon} Table Salt (50克)<br>|
-| ![PhosphateNodules](/assets/images/elements/PhosphateNodules.png){.inline-icon} 磷酸盐结晶 (100千克)<br>|40s| ![Phosphorus](/assets/images/elements/Phosphorus.png){.inline-icon} 精炼磷 (70千克)<br> ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} 碎岩 (30千克)<br>|
-| ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} 碎岩 (100千克)<br>|30s| ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (100千克)<br>|
-| ![Obsidian](/assets/images/elements/Obsidian.png){.inline-icon} 黑曜石 (100千克)<br>|30s| ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (100千克)<br>|
-| ![Chloroschist](/assets/images/elements/Chloroschist.png){.inline-icon} 绿片岩 (100千克)<br>|50s| ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} 碎岩 (55千克)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (10千克)<br> ![BleachStone](/assets/images/elements/BleachStone.png){.inline-icon} 漂白石 (15千克)<br> ![Salt](/assets/images/elements/Salt.png){.inline-icon} 盐 (20千克)<br>|
-| ![Shale](/assets/images/elements/Shale.png){.inline-icon} 页岩 (100千克)<br>|40s| ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} 碎岩 (100千克)<br>|
-| ![Ceramic](/assets/images/elements/Ceramic.png){.inline-icon} 陶瓷 (100千克)<br>|40s| ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} 碎岩 (100千克)<br>|
-| ![IgneousRock](/assets/images/elements/IgneousRock.png){.inline-icon} 火成岩 (100千克)<br>|40s| ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} 碎岩 (100千克)<br>|
-| ![Brick](/assets/images/elements/Brick.png){.inline-icon} 砖料 (100千克)<br>|40s| ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} 碎岩 (100千克)<br>|
-| ![Granite](/assets/images/elements/Granite.png){.inline-icon} 花岗岩 (100千克)<br>|40s| ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} 碎岩 (100千克)<br>|
-| ![SedimentaryRock](/assets/images/elements/SedimentaryRock.png){.inline-icon} 沉积岩 (100千克)<br>|40s| ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} 碎岩 (100千克)<br>|
-| ![SandStone](/assets/images/elements/SandStone.png){.inline-icon} 砂岩 (100千克)<br>|40s| ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} 碎岩 (100千克)<br>|
-| ![MaficRock](/assets/images/elements/MaficRock.png){.inline-icon} 镁铁质岩 (100千克)<br>|40s| ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} 碎岩 (100千克)<br>|
-| ![Cuprite](/assets/images/elements/Cuprite.png){.inline-icon} 铜矿 (100千克)<br>|40s| ![Copper](/assets/images/elements/Copper.png){.inline-icon} 铜 (50千克)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (50千克)<br>|
-| ![Cobaltite](/assets/images/elements/Cobaltite.png){.inline-icon} 钴矿 (100千克)<br>|40s| ![Cobalt](/assets/images/elements/Cobalt.png){.inline-icon} 钴 (50千克)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (50千克)<br>|
-| ![Wolframite](/assets/images/elements/Wolframite.png){.inline-icon} 黑钨矿 (100千克)<br>|40s| ![Tungsten](/assets/images/elements/Tungsten.png){.inline-icon} 钨 (50千克)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (50千克)<br>|
-| ![ArgentiteOre](/assets/images/elements/ArgentiteOre.png){.inline-icon} 辉银矿 (100千克)<br>|40s| ![SolidSilver](/assets/images/elements/SolidSilver.png){.inline-icon} 银 (50千克)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (50千克)<br>|
-| ![AluminumOre](/assets/images/elements/AluminumOre.png){.inline-icon} 铝矿 (100千克)<br>|40s| ![Aluminum](/assets/images/elements/Aluminum.png){.inline-icon} 铝 (50千克)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (50千克)<br>|
-| ![GoldAmalgam](/assets/images/elements/GoldAmalgam.png){.inline-icon} 金汞齐 (100千克)<br>|40s| ![Gold](/assets/images/elements/Gold.png){.inline-icon} 金 (50千克)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (50千克)<br>|
-| ![AurichalciteOre](/assets/images/elements/AurichalciteOre.png){.inline-icon} 锌矿 (100千克)<br>|40s| ![SolidZinc](/assets/images/elements/SolidZinc.png){.inline-icon} 锌 (50千克)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (50千克)<br>|
-| ![NickelOre](/assets/images/elements/NickelOre.png){.inline-icon} 镍矿 (100千克)<br>|40s| ![Nickel](/assets/images/elements/Nickel.png){.inline-icon} 镍 (50千克)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (50千克)<br>|
-| ![TempConductorSolid](/assets/images/elements/TempConductorSolid.png){.inline-icon} 导热质 (100千克)<br>|40s| ![Niobium](/assets/images/elements/Niobium.png){.inline-icon} 铌 (50千克)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (50千克)<br>|
-| ![IronOre](/assets/images/elements/IronOre.png){.inline-icon} 铁矿 (100千克)<br>|40s| ![Iron](/assets/images/elements/Iron.png){.inline-icon} 铁 (50千克)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (50千克)<br>|
-| ![Cinnabar](/assets/images/elements/Cinnabar.png){.inline-icon} 朱砂矿 (100千克)<br>|40s| ![Mercury](/assets/images/elements/Mercury.png){.inline-icon} 汞 (50千克)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (50千克)<br>|
-| ![Electrum](/assets/images/elements/Electrum.png){.inline-icon} 银金矿 (100千克)<br>|40s| ![Gold](/assets/images/elements/Gold.png){.inline-icon} 金 (25千克)<br> ![SolidSilver](/assets/images/elements/SolidSilver.png){.inline-icon} 银 (15千克)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (50千克)<br>|
-| ![Galena](/assets/images/elements/Galena.png){.inline-icon} 方铅矿 (100千克)<br>|40s| ![SolidSilver](/assets/images/elements/SolidSilver.png){.inline-icon} 银 (25千克)<br> ![Lead](/assets/images/elements/Lead.png){.inline-icon} 铅 (15千克)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (50千克)<br>|
-| ![FoolsGold](/assets/images/elements/FoolsGold.png){.inline-icon} 黄铁矿 (100千克)<br>|40s| ![Iron](/assets/images/elements/Iron.png){.inline-icon} 铁 (30千克)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (70千克)<br>|
+| ![EggShell](/assets/images/entities/EggShell.png){.inline-icon} Egg Shell (5千克)<br>|45s| ![Lime](/assets/images/elements/Lime.png){.inline-icon} 石灰 (5千克)<br>|
+| ![CrabShell](/assets/images/entities/CrabShell.png){.inline-icon} Pokeshell Molt (10千克)<br>|45s| ![Lime](/assets/images/elements/Lime.png){.inline-icon} 石灰 (10千克)<br>|
+| ![CrabWoodShell](/assets/images/entities/CrabWoodShell.png){.inline-icon} Oakshell Molt (500千克)<br>|45s| ![WoodLog](/assets/images/elements/WoodLog.png){.inline-icon} 木材 (500千克)<br>|
+| ![Fossil](/assets/images/elements/Fossil.png){.inline-icon} 化石 (100千克)<br>|45s| ![Lime](/assets/images/elements/Lime.png){.inline-icon} 石灰 (5千克)<br> ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} 碎岩 (70千克)<br> ![Bitumen](/assets/images/elements/Bitumen.png){.inline-icon} 沥青 (25千克)<br>|
+| ![Salt](/assets/images/elements/Salt.png){.inline-icon} 盐 (100千克)<br>|45s| ![SolidBorax](/assets/images/elements/SolidBorax.png){.inline-icon} 硼砂 (10千克)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (90千克)<br> ![TableSalt](/assets/images/entities/TableSalt.png){.inline-icon} Table Salt (50克)<br>|
+| ![PhosphateNodules](/assets/images/elements/PhosphateNodules.png){.inline-icon} 磷酸盐结晶 (100千克)<br>|45s| ![Phosphorus](/assets/images/elements/Phosphorus.png){.inline-icon} 精炼磷 (70千克)<br> ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} 碎岩 (30千克)<br>|
+| ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} 碎岩 (100千克)<br>|45s| ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (100千克)<br>|
+| ![Obsidian](/assets/images/elements/Obsidian.png){.inline-icon} 黑曜石 (100千克)<br>|45s| ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (100千克)<br>|
+| ![Chloroschist](/assets/images/elements/Chloroschist.png){.inline-icon} 绿片岩 (100千克)<br>|45s| ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} 碎岩 (55千克)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (10千克)<br> ![BleachStone](/assets/images/elements/BleachStone.png){.inline-icon} 漂白石 (15千克)<br> ![Salt](/assets/images/elements/Salt.png){.inline-icon} 盐 (20千克)<br>|
+| ![Shale](/assets/images/elements/Shale.png){.inline-icon} 页岩 (100千克)<br>|45s| ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} 碎岩 (100千克)<br>|
+| ![Ceramic](/assets/images/elements/Ceramic.png){.inline-icon} 陶瓷 (100千克)<br>|45s| ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} 碎岩 (100千克)<br>|
+| ![IgneousRock](/assets/images/elements/IgneousRock.png){.inline-icon} 火成岩 (100千克)<br>|45s| ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} 碎岩 (100千克)<br>|
+| ![Brick](/assets/images/elements/Brick.png){.inline-icon} 红砖 (100千克)<br>|45s| ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} 碎岩 (100千克)<br>|
+| ![Granite](/assets/images/elements/Granite.png){.inline-icon} 花岗岩 (100千克)<br>|45s| ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} 碎岩 (100千克)<br>|
+| ![SedimentaryRock](/assets/images/elements/SedimentaryRock.png){.inline-icon} 沉积岩 (100千克)<br>|45s| ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} 碎岩 (100千克)<br>|
+| ![SandStone](/assets/images/elements/SandStone.png){.inline-icon} 砂岩 (100千克)<br>|45s| ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} 碎岩 (100千克)<br>|
+| ![MaficRock](/assets/images/elements/MaficRock.png){.inline-icon} 镁铁质岩 (100千克)<br>|45s| ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} 碎岩 (100千克)<br>|
+| ![Cuprite](/assets/images/elements/Cuprite.png){.inline-icon} 铜矿 (100千克)<br>|45s| ![Copper](/assets/images/elements/Copper.png){.inline-icon} 铜 (50千克)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (50千克)<br>|
+| ![Cobaltite](/assets/images/elements/Cobaltite.png){.inline-icon} 钴矿 (100千克)<br>|45s| ![Cobalt](/assets/images/elements/Cobalt.png){.inline-icon} 钴 (50千克)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (50千克)<br>|
+| ![Wolframite](/assets/images/elements/Wolframite.png){.inline-icon} 黑钨矿 (100千克)<br>|45s| ![Tungsten](/assets/images/elements/Tungsten.png){.inline-icon} 钨 (50千克)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (50千克)<br>|
+| ![ArgentiteOre](/assets/images/elements/ArgentiteOre.png){.inline-icon} 辉银矿 (100千克)<br>|45s| ![SolidSilver](/assets/images/elements/SolidSilver.png){.inline-icon} 银 (50千克)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (50千克)<br>|
+| ![AluminumOre](/assets/images/elements/AluminumOre.png){.inline-icon} 铝矿 (100千克)<br>|45s| ![Aluminum](/assets/images/elements/Aluminum.png){.inline-icon} 铝 (50千克)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (50千克)<br>|
+| ![GoldAmalgam](/assets/images/elements/GoldAmalgam.png){.inline-icon} 金汞齐 (100千克)<br>|45s| ![Gold](/assets/images/elements/Gold.png){.inline-icon} 金 (50千克)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (50千克)<br>|
+| ![AurichalciteOre](/assets/images/elements/AurichalciteOre.png){.inline-icon} 锌矿 (100千克)<br>|45s| ![SolidZinc](/assets/images/elements/SolidZinc.png){.inline-icon} 锌 (50千克)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (50千克)<br>|
+| ![NickelOre](/assets/images/elements/NickelOre.png){.inline-icon} 镍矿 (100千克)<br>|45s| ![Nickel](/assets/images/elements/Nickel.png){.inline-icon} 镍 (50千克)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (50千克)<br>|
+| ![TempConductorSolid](/assets/images/elements/TempConductorSolid.png){.inline-icon} 导热质 (100千克)<br>|45s| ![Niobium](/assets/images/elements/Niobium.png){.inline-icon} 铌 (50千克)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (50千克)<br>|
+| ![IronOre](/assets/images/elements/IronOre.png){.inline-icon} 铁矿 (100千克)<br>|45s| ![Iron](/assets/images/elements/Iron.png){.inline-icon} 铁 (50千克)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (50千克)<br>|
+| ![Cinnabar](/assets/images/elements/Cinnabar.png){.inline-icon} 朱砂矿 (100千克)<br>|45s| ![Mercury](/assets/images/elements/Mercury.png){.inline-icon} 汞 (50千克)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (50千克)<br>|
+| ![Electrum](/assets/images/elements/Electrum.png){.inline-icon} 银金矿 (100千克)<br>|45s| ![Gold](/assets/images/elements/Gold.png){.inline-icon} 金 (25千克)<br> ![SolidSilver](/assets/images/elements/SolidSilver.png){.inline-icon} 银 (15千克)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (50千克)<br>|
+| ![Galena](/assets/images/elements/Galena.png){.inline-icon} 方铅矿 (100千克)<br>|45s| ![SolidSilver](/assets/images/elements/SolidSilver.png){.inline-icon} 银 (25千克)<br> ![Lead](/assets/images/elements/Lead.png){.inline-icon} 铅 (15千克)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (50千克)<br>|
+| ![FoolsGold](/assets/images/elements/FoolsGold.png){.inline-icon} 黄铁矿 (100千克)<br>|45s| ![Iron](/assets/images/elements/Iron.png){.inline-icon} 铁 (30千克)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (70千克)<br>|
+| ![IceBellyPoop](/assets/images/entities/IceBellyPoop.png){.inline-icon} Bammoth Patty (120千克)<br>|45s| ![Phosphorite](/assets/images/elements/Phosphorite.png){.inline-icon} 磷矿 (32千克)<br> ![Clay](/assets/images/elements/Clay.png){.inline-icon} 粘土 (88千克)<br>|
+| ![GoldBellyCrown](/assets/images/entities/GoldBellyCrown.png){.inline-icon} Regal Bammoth Crest (x1)<br>|45s| ![GoldAmalgam](/assets/images/elements/GoldAmalgam.png){.inline-icon} 金汞齐 (250千克)<br>|
 | ![SolidSlag](/assets/images/elements/SolidSlag.png){.inline-icon} 炉渣 (100千克)<br> ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} 碎岩 (20千克)<br>|40s| ![Cement](/assets/images/elements/Cement.png){.inline-icon} 水泥 (80千克)<br> ![BaseGradeSand](/assets/images/elements/BaseGradeSand.png){.inline-icon} 中级金属砂 (12.5千克)<br> ![HighGradeSand](/assets/images/elements/HighGradeSand.png){.inline-icon} 高级金属砂 (7.5千克)<br>|
 
 
@@ -461,7 +465,7 @@
 | ![Chemical_Liquid_Boiler](/assets/images/buildings/Chemical_Liquid_Boiler.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 3 x 高 4|
 |**耗电:**|  -  |&#8288 {: style="padding:0"}|
 |**科技:**| 化石燃料|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>精炼金属</td><td>1200千克</td></tr><tr><td>陶瓷</td><td>1000千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>精炼金属</td><td>1200千克</td></tr><tr><td>陶瓷 或 红砖</td><td>1000千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 |**<font size="+1">存储容量:</font>**| 10吨|&#8288 {: style="padding:0"}|
 | **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>水 输入管道</td><td>蒸汽 输出管道</td></tr><tr><td>可燃液体 输入管道</td><td>二氧化碳 输出管道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
@@ -557,7 +561,7 @@
 | ![Chemical_SynthesizerNitric](/assets/images/buildings/Chemical_SynthesizerNitric.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 1 x 高 4|
 |**耗电:**| 240瓦 |&#8288 {: style="padding:0"}|
 |**科技:**| 乳化|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>陶瓷</td><td>100千克</td></tr><tr><td>精炼金属</td><td>200千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>陶瓷 或 红砖</td><td>100千克</td></tr><tr><td>精炼金属</td><td>200千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>氨气 输入管道</td><td>液体 输出管道</td></tr><tr><td>硫酸 输入管道</td><td>蒸汽 输出管道</td></tr><tr><td>氧气 输入管道</td><td>-</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 #### 元素转换
@@ -582,7 +586,7 @@
 | ![Metallurgy_PlasmaFurnace](/assets/images/buildings/Metallurgy_PlasmaFurnace.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 5 x 高 5|
 |**耗电:**| 5千瓦 |&#8288 {: style="padding:0"}|
 |**科技:**| 催化剂|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>陶瓷</td><td>2000千克</td></tr><tr><td>钨</td><td>1000千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>陶瓷 或 红砖</td><td>2000千克</td></tr><tr><td>钨</td><td>1000千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>载气 输入管道</td><td>熔融玻璃 输出管道</td></tr><tr><td>-</td><td>熔渣 输出管道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 #### 元素转换
@@ -695,6 +699,7 @@
 |材料:| 耗时: | 产物:|
 |-|-|-|
 | ![WoodLog](/assets/images/elements/WoodLog.png){.inline-icon} 木材 (150千克)<br>|50s| ![RayonFiber](/assets/images/entities/RayonFiber.png){.inline-icon} 人造纤维 (x1)<br>|
+| ![FabricatedWood](/assets/images/elements/FabricatedWood.png){.inline-icon} 胶合板 (150千克)<br>|50s| ![RayonFiber](/assets/images/entities/RayonFiber.png){.inline-icon} 人造纤维 (x1)<br>|
 | ![PlantMeat](/assets/images/entities/PlantMeat.png){.inline-icon} 植物肉 (1000克)<br>|50s| ![RayonFiber](/assets/images/entities/RayonFiber.png){.inline-icon} 人造纤维 (x1)<br>|
 | ![Kelp](/assets/images/entities/Kelp.png){.inline-icon} 海梳蕨叶 (20千克)<br>|50s| ![RayonFiber](/assets/images/entities/RayonFiber.png){.inline-icon} 人造纤维 (x1)<br>|
 
@@ -721,29 +726,37 @@
 
 
 ## 选择性电弧炉
-一种通过电弧加热材料的专用熔炉。其精密的温度控制结构能够实现金属合金的混合，还能将金属从混合的废料中分离出来。由于该熔炉是采用风冷方式，因此会将大量热量释放到周围环境中。
+一种通过电弧加热材料的专用熔炉。其精密的温度控制结构能够实现金属合金的混合，还能将金属从混合的废料中分离出来。由于该熔炉的本身元器件的散热是采用风冷方式，因此会将大量热量释放到周围环境中。
 
-用于精炼金属的特殊加工和制造金属合金。
+专为精炼金属的多用途使用而设计，并同时可以制造金属合金的智能机器。<br/><br/>建筑内部配备隔热的储热容器，可储存配方生产时产生的热量。<br/>储热容器的热量通过加热流入其中的冷却液转移，直至冷却液接近沸点。<br/><br/>若超过储热容器的储热上限，建筑将无法运行，直到所有热量完全散发后方才能恢复。
 
 | | | |
 |-|-|-|
 | ![Chemical_SelectiveArcFurnace](/assets/images/buildings/Chemical_SelectiveArcFurnace.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 4 x 高 3|
 |**耗电:**| 1.2千瓦 |&#8288 {: style="padding:0"}|
 |**科技:**| 熔炼|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>金属矿石</td><td>800千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>金属矿石</td><td>600千克</td></tr><tr><td>隔热体</td><td>200千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+| **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>液体 输入管道</td><td>液体 输出管道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 ### 配方
 |材料:| 耗时: | 随机产物:|
 |-|-|-|
 | ![Copper](/assets/images/elements/Copper.png){.inline-icon} 铜 (70千克)<br> ![SolidZinc](/assets/images/elements/SolidZinc.png){.inline-icon} 锌 (30千克)<br>|40s| ![SolidBrass](/assets/images/elements/SolidBrass.png){.inline-icon} 黄铜 (100千克)<br>|
 | ![Copper](/assets/images/elements/Copper.png){.inline-icon} 铜 (80千克)<br> ![Lead](/assets/images/elements/Lead.png){.inline-icon} 铅 (15千克)<br> ![Phosphorus](/assets/images/elements/Phosphorus.png){.inline-icon} 精炼磷 (5千克)<br>|40s| ![PhosphorBronze](/assets/images/elements/PhosphorBronze.png){.inline-icon} 磷青铜 (100千克)<br>|
-| ![Iron](/assets/images/elements/Iron.png){.inline-icon} 铁 (50千克)<br> ![Cobalt](/assets/images/elements/Cobalt.png){.inline-icon} 钴 (50千克)<br> ![SolidBorax](/assets/images/elements/SolidBorax.png){.inline-icon} 硼砂 (4000克)<br>|50s| ![AIO_Permendur_Solid](/assets/images/elements/AIO_Permendur_Solid.png){.inline-icon} 钴铁合金 (100千克)<br>|
-| ![Iron](/assets/images/elements/Iron.png){.inline-icon} 铁 (70千克)<br> ![RefinedCarbon](/assets/images/elements/RefinedCarbon.png){.inline-icon} 精炼碳 (20千克)<br> ![Lime](/assets/images/elements/Lime.png){.inline-icon} 石灰 (10千克)<br>|40s| ![Steel](/assets/images/elements/Steel.png){.inline-icon} 钢 (100千克)<br>|
-| ![Iron](/assets/images/elements/Iron.png){.inline-icon} 铁 (70千克)<br> ![RefinedCarbon](/assets/images/elements/RefinedCarbon.png){.inline-icon} 精炼碳 (20千克)<br> ![Lime](/assets/images/elements/Lime.png){.inline-icon} 石灰 (5千克)<br> ![SolidBorax](/assets/images/elements/SolidBorax.png){.inline-icon} 硼砂 (5千克)<br>|40s| ![Steel](/assets/images/elements/Steel.png){.inline-icon} 钢 (100千克)<br>|
-| ![LowGradeSand](/assets/images/elements/LowGradeSand.png){.inline-icon} 低级金属砂 (100千克)<br> ![SolidBorax](/assets/images/elements/SolidBorax.png){.inline-icon} 硼砂 (10千克)<br>|50s| ![Copper](/assets/images/elements/Copper.png){.inline-icon} 铜<br> ![Nickel](/assets/images/elements/Nickel.png){.inline-icon} 镍<br> ![SolidZinc](/assets/images/elements/SolidZinc.png){.inline-icon} 锌<br> ![Lead](/assets/images/elements/Lead.png){.inline-icon} 铅<br> ![SolidSilver](/assets/images/elements/SolidSilver.png){.inline-icon} 银<br>|
-| ![BaseGradeSand](/assets/images/elements/BaseGradeSand.png){.inline-icon} 中级金属砂 (100千克)<br> ![SolidBorax](/assets/images/elements/SolidBorax.png){.inline-icon} 硼砂 (10千克)<br>|50s| ![Aluminum](/assets/images/elements/Aluminum.png){.inline-icon} 铝<br> ![Iron](/assets/images/elements/Iron.png){.inline-icon} 铁<br> ![Gold](/assets/images/elements/Gold.png){.inline-icon} 金<br> ![Tungsten](/assets/images/elements/Tungsten.png){.inline-icon} 钨<br>|
-| ![HighGradeSand](/assets/images/elements/HighGradeSand.png){.inline-icon} 高级金属砂 (100千克)<br> ![SolidBorax](/assets/images/elements/SolidBorax.png){.inline-icon} 硼砂 (10千克)<br> ![Graphite](/assets/images/elements/Graphite.png){.inline-icon} 石墨 (10千克)<br>|50s| ![Tungsten](/assets/images/elements/Tungsten.png){.inline-icon} 钨<br> ![Fullerene](/assets/images/elements/Fullerene.png){.inline-icon} 富勒烯<br> ![Niobium](/assets/images/elements/Niobium.png){.inline-icon} 铌<br>|
+| ![AIO_ChromiteOre_Solid](/assets/images/elements/AIO_ChromiteOre_Solid.png){.inline-icon} 铬铁矿 (100千克)<br> ![RefinedCarbon](/assets/images/elements/RefinedCarbon.png){.inline-icon} 精炼碳 (20千克)<br>|50s| ![AIO_FerroChrome_Solid](/assets/images/elements/AIO_FerroChrome_Solid.png){.inline-icon} 铬铁合金 (100千克)<br> ![SolidSlag](/assets/images/elements/SolidSlag.png){.inline-icon} 炉渣 (20千克)<br>|
+| ![AIO_Chromium_Solid](/assets/images/elements/AIO_Chromium_Solid.png){.inline-icon} 铬 (68千克)<br> ![Iron](/assets/images/elements/Iron.png){.inline-icon} 铁 (32千克)<br>|50s| ![AIO_FerroChrome_Solid](/assets/images/elements/AIO_FerroChrome_Solid.png){.inline-icon} 铬铁合金 (100千克)<br>|
+| ![Iron](/assets/images/elements/Iron.png){.inline-icon} 铁 (59千克)<br> ![Nickel](/assets/images/elements/Nickel.png){.inline-icon} 镍 (33千克)<br> ![SolidBorax](/assets/images/elements/SolidBorax.png){.inline-icon} 硼砂 (8千克)<br>|50s| ![AIO_Invar_Solid](/assets/images/elements/AIO_Invar_Solid.png){.inline-icon} 殷瓦钢 (100千克)<br>|
+| ![Iron](/assets/images/elements/Iron.png){.inline-icon} 铁 (46千克)<br> ![Cobalt](/assets/images/elements/Cobalt.png){.inline-icon} 钴 (46千克)<br> ![SolidBorax](/assets/images/elements/SolidBorax.png){.inline-icon} 硼砂 (8千克)<br>|50s| ![AIO_Permendur_Solid](/assets/images/elements/AIO_Permendur_Solid.png){.inline-icon} 钴铁合金 (100千克)<br>|
+| ![Iron](/assets/images/elements/Iron.png){.inline-icon} 铁 (70千克)<br> ![RefinedCarbon](/assets/images/elements/RefinedCarbon.png){.inline-icon} 精炼碳 (20千克)<br> ![Lime](/assets/images/elements/Lime.png){.inline-icon} 石灰 (10千克)<br>|50s| ![Steel](/assets/images/elements/Steel.png){.inline-icon} 钢 (100千克)<br>|
+| ![Iron](/assets/images/elements/Iron.png){.inline-icon} 铁 (70千克)<br> ![RefinedCarbon](/assets/images/elements/RefinedCarbon.png){.inline-icon} 精炼碳 (20千克)<br> ![Lime](/assets/images/elements/Lime.png){.inline-icon} 石灰 (5千克)<br> ![SolidBorax](/assets/images/elements/SolidBorax.png){.inline-icon} 硼砂 (5千克)<br>|50s| ![Steel](/assets/images/elements/Steel.png){.inline-icon} 钢 (100千克)<br>|
+| ![Iron](/assets/images/elements/Iron.png){.inline-icon} 铁 (55千克)<br> ![AIO_FerroChrome_Solid](/assets/images/elements/AIO_FerroChrome_Solid.png){.inline-icon} 铬铁合金 (25千克)<br> ![RefinedCarbon](/assets/images/elements/RefinedCarbon.png){.inline-icon} 精炼碳 (10千克)<br> ![Lime](/assets/images/elements/Lime.png){.inline-icon} 石灰 (10千克)<br>|50s| ![AIO_StainlessSteel_Solid](/assets/images/elements/AIO_StainlessSteel_Solid.png){.inline-icon} 不锈钢 (100千克)<br>|
+| ![Iron](/assets/images/elements/Iron.png){.inline-icon} 铁 (55千克)<br> ![AIO_FerroChrome_Solid](/assets/images/elements/AIO_FerroChrome_Solid.png){.inline-icon} 铬铁合金 (25千克)<br> ![RefinedCarbon](/assets/images/elements/RefinedCarbon.png){.inline-icon} 精炼碳 (10千克)<br> ![SolidBorax](/assets/images/elements/SolidBorax.png){.inline-icon} 硼砂 (10千克)<br>|50s| ![AIO_StainlessSteel_Solid](/assets/images/elements/AIO_StainlessSteel_Solid.png){.inline-icon} 不锈钢 (100千克)<br>|
+| ![Nickel](/assets/images/elements/Nickel.png){.inline-icon} 镍 (10千克)<br> ![Iron](/assets/images/elements/Iron.png){.inline-icon} 铁 (45千克)<br> ![AIO_FerroChrome_Solid](/assets/images/elements/AIO_FerroChrome_Solid.png){.inline-icon} 铬铁合金 (25千克)<br> ![RefinedCarbon](/assets/images/elements/RefinedCarbon.png){.inline-icon} 精炼碳 (10千克)<br> ![Lime](/assets/images/elements/Lime.png){.inline-icon} 石灰 (10千克)<br>|50s| ![AIO_StainlessSteel_Solid](/assets/images/elements/AIO_StainlessSteel_Solid.png){.inline-icon} 不锈钢 (100千克)<br>|
+| ![Nickel](/assets/images/elements/Nickel.png){.inline-icon} 镍 (10千克)<br> ![Iron](/assets/images/elements/Iron.png){.inline-icon} 铁 (45千克)<br> ![AIO_FerroChrome_Solid](/assets/images/elements/AIO_FerroChrome_Solid.png){.inline-icon} 铬铁合金 (25千克)<br> ![RefinedCarbon](/assets/images/elements/RefinedCarbon.png){.inline-icon} 精炼碳 (10千克)<br> ![SolidBorax](/assets/images/elements/SolidBorax.png){.inline-icon} 硼砂 (10千克)<br>|50s| ![AIO_StainlessSteel_Solid](/assets/images/elements/AIO_StainlessSteel_Solid.png){.inline-icon} 不锈钢 (100千克)<br>|
 | ![TempConductorSolid](/assets/images/elements/TempConductorSolid.png){.inline-icon} 导热质 (100千克)<br>|50s| ![Niobium](/assets/images/elements/Niobium.png){.inline-icon} 铌 (100千克)<br>|
+| ![LowGradeSand](/assets/images/elements/LowGradeSand.png){.inline-icon} 低级金属砂 (100千克)<br> ![SolidBorax](/assets/images/elements/SolidBorax.png){.inline-icon} 硼砂 (10千克)<br>|30s| ![Copper](/assets/images/elements/Copper.png){.inline-icon} 铜<br> ![Nickel](/assets/images/elements/Nickel.png){.inline-icon} 镍<br> ![SolidZinc](/assets/images/elements/SolidZinc.png){.inline-icon} 锌<br> ![Lead](/assets/images/elements/Lead.png){.inline-icon} 铅<br> ![SolidSilver](/assets/images/elements/SolidSilver.png){.inline-icon} 银<br>|
+| ![BaseGradeSand](/assets/images/elements/BaseGradeSand.png){.inline-icon} 中级金属砂 (100千克)<br> ![SolidBorax](/assets/images/elements/SolidBorax.png){.inline-icon} 硼砂 (10千克)<br>|30s| ![Aluminum](/assets/images/elements/Aluminum.png){.inline-icon} 铝<br> ![Iron](/assets/images/elements/Iron.png){.inline-icon} 铁<br> ![Gold](/assets/images/elements/Gold.png){.inline-icon} 金<br> ![Tungsten](/assets/images/elements/Tungsten.png){.inline-icon} 钨<br> ![AIO_FerroChrome_Solid](/assets/images/elements/AIO_FerroChrome_Solid.png){.inline-icon} 铬铁合金<br>|
+| ![HighGradeSand](/assets/images/elements/HighGradeSand.png){.inline-icon} 高级金属砂 (100千克)<br> ![SolidBorax](/assets/images/elements/SolidBorax.png){.inline-icon} 硼砂 (10千克)<br> ![Graphite](/assets/images/elements/Graphite.png){.inline-icon} 石墨 (10千克)<br>|30s| ![Tungsten](/assets/images/elements/Tungsten.png){.inline-icon} 钨<br> ![AIO_Chromium_Solid](/assets/images/elements/AIO_Chromium_Solid.png){.inline-icon} 铬<br> ![Fullerene](/assets/images/elements/Fullerene.png){.inline-icon} 富勒烯<br> ![Niobium](/assets/images/elements/Niobium.png){.inline-icon} 铌<br>|
 
 
 
@@ -771,14 +784,14 @@
 | ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} 碎岩 (40千克)<br> ![ToxicSand](/assets/images/elements/ToxicSand.png){.inline-icon} 污染土 (20千克)<br> ![Peat](/assets/images/elements/Peat.png){.inline-icon} 泥炭 (20千克)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (20千克)<br>|60s| ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} 泥土 (100千克)<br>|
 | ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} 碎岩 (40千克)<br> ![ToxicSand](/assets/images/elements/ToxicSand.png){.inline-icon} 污染土 (20千克)<br> ![WoodLog](/assets/images/elements/WoodLog.png){.inline-icon} 木材 (20千克)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (20千克)<br>|60s| ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} 泥土 (100千克)<br>|
 | ![WoodLog](/assets/images/elements/WoodLog.png){.inline-icon} 木材 (60千克)<br> ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} 碎岩 (30千克)<br> ![DirtyWater](/assets/images/elements/DirtyWater.png){.inline-icon} 污染水 (10千克)<br>|60s| ![ToxicSand](/assets/images/elements/ToxicSand.png){.inline-icon} 污染土 (100千克)<br>|
-| ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} 压缩生物质 (20千克)<br> ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} 碎岩 (40千克)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (30千克)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (10千克)<br>|60s| ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} 泥土 (100千克)<br>|
+| ![FabricatedWood](/assets/images/elements/FabricatedWood.png){.inline-icon} 胶合板 (60千克)<br> ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} 碎岩 (30千克)<br> ![DirtyWater](/assets/images/elements/DirtyWater.png){.inline-icon} 污染水 (10千克)<br>|60s| ![ToxicSand](/assets/images/elements/ToxicSand.png){.inline-icon} 污染土 (100千克)<br>|
 
 
 
 ## 高硫天然气脱硫塔
-一座采用活性炭床对酸气进行脱酸处理的净化装置。
+一座采用活性炭床来对高硫天然气进行脱酸处理的处理装置。
 
-利用活性炭吸附酸气中的硫化物，生成天然气与单质硫。<br/>活性炭需定期更换。
+利用"活性炭"吸附酸气中的硫化物，生成天然气与单质硫。<br/>活性炭需定期更换。
 
 | | | |
 |-|-|-|
@@ -825,7 +838,7 @@
 | ![Chemical_SynthesizerSulfuric](/assets/images/buildings/Chemical_SynthesizerSulfuric.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 1 x 高 4|
 |**耗电:**| 120瓦 |&#8288 {: style="padding:0"}|
 |**科技:**| 乳化|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>陶瓷</td><td>100千克</td></tr><tr><td>精炼金属</td><td>200千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>陶瓷 或 红砖</td><td>100千克</td></tr><tr><td>精炼金属</td><td>200千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>蒸汽 输入管道</td><td>液体 输出管道</td></tr><tr><td>氧气 输入管道</td><td>-</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 #### 元素转换
@@ -858,8 +871,7 @@
 |-|-|-|
 | ![WoodLog](/assets/images/elements/WoodLog.png){.inline-icon} 木材 (100千克)<br>|50s| ![Syngas](/assets/images/elements/Syngas.png){.inline-icon} 合成气 (10千克)<br> ![ToxicSand](/assets/images/elements/ToxicSand.png){.inline-icon} 污染土 (90千克)<br>|
 | ![Bitumen](/assets/images/elements/Bitumen.png){.inline-icon} 沥青 (100千克)<br>|50s| ![Syngas](/assets/images/elements/Syngas.png){.inline-icon} 合成气 (10千克)<br> ![RefinedCarbon](/assets/images/elements/RefinedCarbon.png){.inline-icon} 精炼碳 (90千克)<br>|
-| ![SolidOilShale](/assets/images/elements/SolidOilShale.png){.inline-icon} 油页岩 (100千克)<br>|50s| ![Syngas](/assets/images/elements/Syngas.png){.inline-icon} 合成气 (50千克)<br> ![Petroleum](/assets/images/elements/Petroleum.png){.inline-icon} 石油 (30千克)<br> ![RefinedCarbon](/assets/images/elements/RefinedCarbon.png){.inline-icon} 精炼碳 (20千克)<br>|
-| ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} 压缩生物质 (100千克)<br>|30s| ![Syngas](/assets/images/elements/Syngas.png){.inline-icon} 合成气 (25千克)<br> ![ToxicSand](/assets/images/elements/ToxicSand.png){.inline-icon} 污染土 (75千克)<br>|
+| ![SolidOilShale](/assets/images/elements/SolidOilShale.png){.inline-icon} 油页岩 (100千克)<br>|50s| ![Syngas](/assets/images/elements/Syngas.png){.inline-icon} 合成气 (30千克)<br> ![Petroleum](/assets/images/elements/Petroleum.png){.inline-icon} 石油 (50千克)<br> ![RefinedCarbon](/assets/images/elements/RefinedCarbon.png){.inline-icon} 精炼碳 (20千克)<br>|
 
 
 
@@ -873,7 +885,7 @@
 | ![Chemical_ThermalDesalinator](/assets/images/buildings/Chemical_ThermalDesalinator.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 7 x 高 3|
 |**耗电:**| 120瓦 |&#8288 {: style="padding:0"}|
 |**科技:**| 基于液体的精炼工艺|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>陶瓷</td><td>600千克</td></tr><tr><td>精炼金属</td><td>400千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>陶瓷 或 红砖</td><td>600千克</td></tr><tr><td>精炼金属</td><td>400千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>盐水 输入管道</td><td>液体 输出管道</td></tr><tr><td>蒸汽 输入管道</td><td>水 输出管道</td></tr><tr><td>氨水 输入管道</td><td>氨气 输出管道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 #### 元素转换
@@ -898,14 +910,14 @@
 | ![Chemical_Wooden_Boiler](/assets/images/buildings/Chemical_Wooden_Boiler.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 3 x 高 4|
 |**耗电:**|  -  |&#8288 {: style="padding:0"}|
 |**科技:**| 化石燃料|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>精炼金属</td><td>1200千克</td></tr><tr><td>陶瓷</td><td>1000千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>精炼金属</td><td>1200千克</td></tr><tr><td>陶瓷 或 红砖</td><td>1000千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 |**<font size="+1">存储容量:</font>**| 10吨|&#8288 {: style="padding:0"}|
 | **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>水 输入管道</td><td>蒸汽 输出管道</td></tr><tr><td>-</td><td>二氧化碳 输出管道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 #### 元素转换
 |输入:|输出:|
 |-|-|
-| ![WoodLog](/assets/images/elements/WoodLog.png){.inline-icon} 木材 (1700克/秒)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (4000克/秒)<br>| ![Steam](/assets/images/elements/Steam.png){.inline-icon} 蒸汽 (4000克/秒 于 200°C)<br> ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} 二氧化碳 (500克/秒 于 110°C)<br>|
+| ![BuildingWood](/assets/images/entities/BuildingWood.png){.inline-icon} 木材 (1700克/秒)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (4000克/秒)<br>| ![Steam](/assets/images/elements/Steam.png){.inline-icon} 蒸汽 (4000克/秒 于 200°C)<br> ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} 二氧化碳 (500克/秒 于 110°C)<br>|
 
 
 
@@ -925,6 +937,10 @@
 ### 配方
 |材料:| 耗时: | 产物:|
 |-|-|-|
+| ![Iron](/assets/images/elements/Iron.png){.inline-icon} 铁 (70千克)<br> ![RefinedCarbon](/assets/images/elements/RefinedCarbon.png){.inline-icon} 精炼碳 (20千克)<br> ![Lime](/assets/images/elements/Lime.png){.inline-icon} 石灰 (10千克)<br>|70s| ![Steel](/assets/images/elements/Steel.png){.inline-icon} 钢 (70千克)<br> ![SolidSlag](/assets/images/elements/SolidSlag.png){.inline-icon} 炉渣 (30千克)<br>|
+| ![Wolframite](/assets/images/elements/Wolframite.png){.inline-icon} 黑钨矿 (100千克)<br> ![Carbon](/assets/images/elements/Carbon.png){.inline-icon} 煤炭 (20千克)<br>|60s| ![Tungsten](/assets/images/elements/Tungsten.png){.inline-icon} 钨 (70千克)<br> ![SolidSlag](/assets/images/elements/SolidSlag.png){.inline-icon} 炉渣 (50千克)<br>|
+| ![Wolframite](/assets/images/elements/Wolframite.png){.inline-icon} 黑钨矿 (100千克)<br> ![Peat](/assets/images/elements/Peat.png){.inline-icon} 泥炭 (20千克)<br>|60s| ![Tungsten](/assets/images/elements/Tungsten.png){.inline-icon} 钨 (70千克)<br> ![SolidSlag](/assets/images/elements/SolidSlag.png){.inline-icon} 炉渣 (50千克)<br>|
+| ![Wolframite](/assets/images/elements/Wolframite.png){.inline-icon} 黑钨矿 (100千克)<br> ![RefinedCarbon](/assets/images/elements/RefinedCarbon.png){.inline-icon} 精炼碳 (20千克)<br>|60s| ![Tungsten](/assets/images/elements/Tungsten.png){.inline-icon} 钨 (70千克)<br> ![SolidSlag](/assets/images/elements/SolidSlag.png){.inline-icon} 炉渣 (50千克)<br>|
 | ![FoolsGold](/assets/images/elements/FoolsGold.png){.inline-icon} 黄铁矿 (100千克)<br> ![Carbon](/assets/images/elements/Carbon.png){.inline-icon} 煤炭 (20千克)<br>|40s| ![Iron](/assets/images/elements/Iron.png){.inline-icon} 铁 (60千克)<br> ![SolidSlag](/assets/images/elements/SolidSlag.png){.inline-icon} 炉渣 (60千克)<br>|
 | ![FoolsGold](/assets/images/elements/FoolsGold.png){.inline-icon} 黄铁矿 (100千克)<br> ![Peat](/assets/images/elements/Peat.png){.inline-icon} 泥炭 (20千克)<br>|40s| ![Iron](/assets/images/elements/Iron.png){.inline-icon} 铁 (60千克)<br> ![SolidSlag](/assets/images/elements/SolidSlag.png){.inline-icon} 炉渣 (60千克)<br>|
 | ![FoolsGold](/assets/images/elements/FoolsGold.png){.inline-icon} 黄铁矿 (100千克)<br> ![RefinedCarbon](/assets/images/elements/RefinedCarbon.png){.inline-icon} 精炼碳 (20千克)<br>|40s| ![Iron](/assets/images/elements/Iron.png){.inline-icon} 铁 (60千克)<br> ![SolidSlag](/assets/images/elements/SolidSlag.png){.inline-icon} 炉渣 (60千克)<br>|
@@ -958,15 +974,14 @@
 | ![ArgentiteOre](/assets/images/elements/ArgentiteOre.png){.inline-icon} 辉银矿 (100千克)<br> ![Carbon](/assets/images/elements/Carbon.png){.inline-icon} 煤炭 (20千克)<br>|40s| ![SolidSilver](/assets/images/elements/SolidSilver.png){.inline-icon} 银 (80千克)<br> ![SolidSlag](/assets/images/elements/SolidSlag.png){.inline-icon} 炉渣 (40千克)<br>|
 | ![ArgentiteOre](/assets/images/elements/ArgentiteOre.png){.inline-icon} 辉银矿 (100千克)<br> ![Peat](/assets/images/elements/Peat.png){.inline-icon} 泥炭 (20千克)<br>|40s| ![SolidSilver](/assets/images/elements/SolidSilver.png){.inline-icon} 银 (80千克)<br> ![SolidSlag](/assets/images/elements/SolidSlag.png){.inline-icon} 炉渣 (40千克)<br>|
 | ![ArgentiteOre](/assets/images/elements/ArgentiteOre.png){.inline-icon} 辉银矿 (100千克)<br> ![RefinedCarbon](/assets/images/elements/RefinedCarbon.png){.inline-icon} 精炼碳 (20千克)<br>|40s| ![SolidSilver](/assets/images/elements/SolidSilver.png){.inline-icon} 银 (80千克)<br> ![SolidSlag](/assets/images/elements/SolidSlag.png){.inline-icon} 炉渣 (40千克)<br>|
-| ![Wolframite](/assets/images/elements/Wolframite.png){.inline-icon} 黑钨矿 (100千克)<br> ![Carbon](/assets/images/elements/Carbon.png){.inline-icon} 煤炭 (20千克)<br>|40s| ![Tungsten](/assets/images/elements/Tungsten.png){.inline-icon} 钨 (80千克)<br> ![SolidSlag](/assets/images/elements/SolidSlag.png){.inline-icon} 炉渣 (40千克)<br>|
-| ![Wolframite](/assets/images/elements/Wolframite.png){.inline-icon} 黑钨矿 (100千克)<br> ![Peat](/assets/images/elements/Peat.png){.inline-icon} 泥炭 (20千克)<br>|40s| ![Tungsten](/assets/images/elements/Tungsten.png){.inline-icon} 钨 (80千克)<br> ![SolidSlag](/assets/images/elements/SolidSlag.png){.inline-icon} 炉渣 (40千克)<br>|
-| ![Wolframite](/assets/images/elements/Wolframite.png){.inline-icon} 黑钨矿 (100千克)<br> ![RefinedCarbon](/assets/images/elements/RefinedCarbon.png){.inline-icon} 精炼碳 (20千克)<br>|40s| ![Tungsten](/assets/images/elements/Tungsten.png){.inline-icon} 钨 (80千克)<br> ![SolidSlag](/assets/images/elements/SolidSlag.png){.inline-icon} 炉渣 (40千克)<br>|
 | ![Cobaltite](/assets/images/elements/Cobaltite.png){.inline-icon} 钴矿 (100千克)<br> ![Carbon](/assets/images/elements/Carbon.png){.inline-icon} 煤炭 (20千克)<br>|40s| ![Cobalt](/assets/images/elements/Cobalt.png){.inline-icon} 钴 (80千克)<br> ![SolidSlag](/assets/images/elements/SolidSlag.png){.inline-icon} 炉渣 (40千克)<br>|
 | ![Cobaltite](/assets/images/elements/Cobaltite.png){.inline-icon} 钴矿 (100千克)<br> ![Peat](/assets/images/elements/Peat.png){.inline-icon} 泥炭 (20千克)<br>|40s| ![Cobalt](/assets/images/elements/Cobalt.png){.inline-icon} 钴 (80千克)<br> ![SolidSlag](/assets/images/elements/SolidSlag.png){.inline-icon} 炉渣 (40千克)<br>|
 | ![Cobaltite](/assets/images/elements/Cobaltite.png){.inline-icon} 钴矿 (100千克)<br> ![RefinedCarbon](/assets/images/elements/RefinedCarbon.png){.inline-icon} 精炼碳 (20千克)<br>|40s| ![Cobalt](/assets/images/elements/Cobalt.png){.inline-icon} 钴 (80千克)<br> ![SolidSlag](/assets/images/elements/SolidSlag.png){.inline-icon} 炉渣 (40千克)<br>|
 | ![Cuprite](/assets/images/elements/Cuprite.png){.inline-icon} 铜矿 (100千克)<br> ![Carbon](/assets/images/elements/Carbon.png){.inline-icon} 煤炭 (20千克)<br>|40s| ![Copper](/assets/images/elements/Copper.png){.inline-icon} 铜 (80千克)<br> ![SolidSlag](/assets/images/elements/SolidSlag.png){.inline-icon} 炉渣 (40千克)<br>|
 | ![Cuprite](/assets/images/elements/Cuprite.png){.inline-icon} 铜矿 (100千克)<br> ![Peat](/assets/images/elements/Peat.png){.inline-icon} 泥炭 (20千克)<br>|40s| ![Copper](/assets/images/elements/Copper.png){.inline-icon} 铜 (80千克)<br> ![SolidSlag](/assets/images/elements/SolidSlag.png){.inline-icon} 炉渣 (40千克)<br>|
 | ![Cuprite](/assets/images/elements/Cuprite.png){.inline-icon} 铜矿 (100千克)<br> ![RefinedCarbon](/assets/images/elements/RefinedCarbon.png){.inline-icon} 精炼碳 (20千克)<br>|40s| ![Copper](/assets/images/elements/Copper.png){.inline-icon} 铜 (80千克)<br> ![SolidSlag](/assets/images/elements/SolidSlag.png){.inline-icon} 炉渣 (40千克)<br>|
+| ![CF_CanScrap](/assets/images/entities/CF_CanScrap.png){.inline-icon} Can Scraps (10千克)<br>|10s| ![Copper](/assets/images/elements/Copper.png){.inline-icon} 铜 (10千克)<br>|
+| ![CF_EmptyCan](/assets/images/entities/CF_EmptyCan.png){.inline-icon} Empty Can (10千克)<br>|10s| ![Copper](/assets/images/elements/Copper.png){.inline-icon} 铜 (10千克)<br>|
 
 
 

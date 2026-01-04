@@ -43,7 +43,7 @@ An advanced kiln capable of volumetric oxidation with heavy nuclear waste by alt
 | ![HepCalcinator](/assets/images/buildings/HepCalcinator.png){height="100"} {rowspan="3"}|**Dimensions:** | 7 wide x 3 high|
 |**Power Consumption:**| 3 kW |&#8288 {: style="padding:0"}|
 |**Research Required:**| Radiation Refinement|&#8288 {: style="padding:0"}| 
-|**<font size="+1">Material Costs:</font>**|<table><tr><td>Refined Metal</td><td>1000 kg</td></tr><tr><td>Ceramic</td><td>600 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">Material Costs:</font>**|<table><tr><td>Refined Metal</td><td>1000 kg</td></tr><tr><td>Ceramic or Brick</td><td>600 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 ### Recipes
 |Ingredients:| Time: | Products:|

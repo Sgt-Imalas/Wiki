@@ -8,7 +8,7 @@
 |Material Properties|Drillbit, Industrial Product, Non-refundable Ingredient|
 
 
-## Steel Drillbits
+## Hardened Drillbits
 | ![Mining_Drillbits_Steel_Item](/assets/images/entities/Mining_Drillbits_Steel_Item.png){width="100"} |A set of sturdy drill bits made for hard rock mining operations.<br/>Has no own guidance system and can drill through hard rocks stratum.|
 |-|-|
 |Material| ![Creature](/assets/images/elements/Creature.png){.inline-icon} Genetic Ooze|

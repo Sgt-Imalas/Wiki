@@ -32,7 +32,7 @@
 
 | |<font size="+1">材料属性</font>| |
 |-|-|-|
-| ![LiquidBiodiesel](/assets/images/elements/LiquidBiodiesel.png){width="200"} |<br/>资源种类：液体<br/><br/>冰点：1°C<br/>-> ![SolidBiodiesel](/assets/images/elements/SolidBiodiesel.png){.inline-icon} 凝冻可再生柴油<br/><br/>沸点：357°C<br/>70 %  ![VegeOilGas](/assets/images/elements/VegeOilGas.png){.inline-icon} 气态植物油,<br/>30 % ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} 二氧化碳<br/><br/><br/>属性：<br/>可燃液体, 溜滑|<br/>比热容：<br/>0.234 (DTU/g)/ ºC<br/><br/>热导率：<br/>7.000 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.8<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
+| ![LiquidBiodiesel](/assets/images/elements/LiquidBiodiesel.png){width="200"} |<br/>资源种类：液体<br/><br/>冰点：1°C<br/>-> ![SolidBiodiesel](/assets/images/elements/SolidBiodiesel.png){.inline-icon} 凝冻可再生柴油<br/><br/>沸点：357°C<br/>70 %  ![VegeOilGas](/assets/images/elements/VegeOilGas.png){.inline-icon} 气态植物油,<br/>30 % ![CarbonDioxide](/assets/images/elements/CarbonDioxide.png){.inline-icon} 二氧化碳<br/><br/><br/>属性：<br/>可再生生物燃料, 可燃液体, 溜滑|<br/>比热容：<br/>0.234 (DTU/g)/ ºC<br/><br/>热导率：<br/>7.000 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.8<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
 
 #### 植物油
 

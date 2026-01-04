@@ -5,7 +5,7 @@ Enabling this mod in the config will add several new elements to the game or ree
 |<font size="+1">Material</font> | | <font size="+1">Elements</font> |
 |:-:|:-:|:-|
 |<font size="+1">Carrier Gas</font> <br/> <br/>|Carrier Gases are inert or semi-inert gases that are used in plasma related processes.| ![Helium](/assets/images/elements/Helium.png){.inline-icon} Helium<br/> ![Hydrogen](/assets/images/elements/Hydrogen.png){.inline-icon} Hydrogen Gas<br/> ![NitrogenGas](/assets/images/elements/NitrogenGas.png){.inline-icon} Nitrogen<br/>|
-|<font size="+1">Hardened Alloy</font> <br/> <br/>|Hardened Alloys are a fusion of two or more materials.<br/>Their high material strength allows them to be used as a substitute to Steel.| ![PhosphorBronze](/assets/images/elements/PhosphorBronze.png){.inline-icon} Phosphor Bronze<br/> ![AIO_Permendur_Solid](/assets/images/elements/AIO_Permendur_Solid.png){.inline-icon} Permendur<br/> ![Plasteel](/assets/images/elements/Plasteel.png){.inline-icon} Plasteel<br/> ![UnobtaniumAlloy](/assets/images/elements/UnobtaniumAlloy.png){.inline-icon} Neutronium Alloy<br/>|
+|<font size="+1">Hardened Alloy</font> <br/> <br/>|Hardened Alloys are a fusion of two or more materials.<br/>Their high material strength allows them to be used as a substitute to Steel.| ![PhosphorBronze](/assets/images/elements/PhosphorBronze.png){.inline-icon} Phosphor Bronze<br/> ![AIO_Permendur_Solid](/assets/images/elements/AIO_Permendur_Solid.png){.inline-icon} Permendur<br/> ![Plasteel](/assets/images/elements/Plasteel.png){.inline-icon} Plasteel<br/> ![AIO_StainlessSteel_Solid](/assets/images/elements/AIO_StainlessSteel_Solid.png){.inline-icon} Stainless Steel<br/> ![AIO_Invar_Solid](/assets/images/elements/AIO_Invar_Solid.png){.inline-icon} Invar<br/> ![UnobtaniumAlloy](/assets/images/elements/UnobtaniumAlloy.png){.inline-icon} Neutronium Alloy<br/> ![TempConductorSolid](/assets/images/elements/TempConductorSolid.png){.inline-icon} Thermium<br/>|
 |<font size="+1">Metallic Sand</font> <br/> <br/>|Sandy materials composed of a various number of metallic grains| ![BaseGradeSand](/assets/images/elements/BaseGradeSand.png){.inline-icon} Base-Grade Metallic Sand<br/> ![LowGradeSand](/assets/images/elements/LowGradeSand.png){.inline-icon} Low-Grade Metallic Sand<br/> ![HighGradeSand](/assets/images/elements/HighGradeSand.png){.inline-icon} High-Grade Metallic Sand<br/>|
 
 ## New Elements
@@ -56,7 +56,7 @@ Brass is an alloy of Copper and Zinc, widely used to make utensils due to proper
 
 | |<font size="+1">Material Properties</font>| |
 |-|-|-|
-| ![SolidBrass](/assets/images/elements/SolidBrass.png){width="200"} |<br/>Resource Type: Manufactured Material<br/><br/>Melting point: 920°C<br/>70 %  ![MoltenCopper](/assets/images/elements/MoltenCopper.png){.inline-icon} Molten Copper,<br/>30 % ![ZincGas](/assets/images/elements/ZincGas.png){.inline-icon} Zinc Gas<br/><br/>Hardness: 35<br/><br/>Properties: <br/>General Buildable, Glass Dye, Metal Ore, Refined Metal, Solid, Uncrushable|<br/>Specific Heat Capacity: <br/>0.380 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>208.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.7<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+| ![SolidBrass](/assets/images/elements/SolidBrass.png){width="200"} |<br/>Resource Type: Manufactured Material<br/><br/>Melting point: 920°C<br/>70 %  ![MoltenCopper](/assets/images/elements/MoltenCopper.png){.inline-icon} Molten Copper,<br/>30 % ![ZincGas](/assets/images/elements/ZincGas.png){.inline-icon} Zinc Gas<br/><br/>Hardness: 35<br/><br/>Properties: <br/>General Buildable, Metal Ore, Refined Metal, Solid, Uncrushable|<br/>Specific Heat Capacity: <br/>0.380 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>208.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.7<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
 
 #### Carbon Composite
 
@@ -74,6 +74,30 @@ A dense medium-grained metamorphic rock showing pronounced schistosity. This sam
 |-|-|-|
 | ![Chloroschist](/assets/images/elements/Chloroschist.png){width="200"} |<br/>Resource Type: Raw Mineral<br/><br/>Melting point: 1409.85°C<br/>90 %  ![Magma](/assets/images/elements/Magma.png){.inline-icon} Magma,<br/>10 % ![ChlorineGas](/assets/images/elements/ChlorineGas.png){.inline-icon} Chlorine Gas<br/><br/>Hardness: 25<br/><br/>Properties: <br/>General Buildable, Plumbable, Solid|<br/>Specific Heat Capacity: <br/>1.000 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>2.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.53<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
 
+#### Chromite
+
+Chromite is a crystalline mineral composed primarily of Iron and Chromium compounds.
+
+| |<font size="+1">Material Properties</font>| |
+|-|-|-|
+| ![AIO_ChromiteOre_Solid](/assets/images/elements/AIO_ChromiteOre_Solid.png){width="200"} |<br/>Resource Type: Metal Ore<br/><br/>Melting point: 2040°C<br/>-> ![AIO_FerroChrome_Liquid](/assets/images/elements/AIO_FerroChrome_Liquid.png){.inline-icon} Molten Ferrochrome<br/><br/>Hardness: 10<br/><br/>Properties: <br/>General Buildable, Ore, Solid, Uncrushable|<br/>Specific Heat Capacity: <br/>0.216 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>2.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.46<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+
+#### Chromium
+
+(Cr) Chromium is a steely-grey, lustrous, hard and brittle transition metal.
+
+| |<font size="+1">Material Properties</font>| |
+|-|-|-|
+| ![AIO_Chromium_Solid](/assets/images/elements/AIO_Chromium_Solid.png){width="200"} |<br/>Resource Type: Refined Metal<br/><br/>Melting point: 1906.85°C<br/>-> ![AIO_Chromium_Liquid](/assets/images/elements/AIO_Chromium_Liquid.png){.inline-icon} Molten Chromium<br/><br/>Hardness: 2<br/><br/>Properties: <br/>General Buildable, Solid, Uncrushable|<br/>Specific Heat Capacity: <br/>0.387 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>91.300 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.5<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+
+#### Chromium Gas
+
+(Cr) Chromium is a steely-grey, lustrous, hard and brittle transition metal in its gaseous state.
+
+| |<font size="+1">Material Properties</font>| |
+|-|-|-|
+| ![AIO_Chromium_Gas](/assets/images/elements/AIO_Chromium_Gas.png){width="200"} |<br/>Resource Type: Unbreathable Gas<br/><br/>Condensation point: 2671.85°C<br/>-> ![AIO_Chromium_Liquid](/assets/images/elements/AIO_Chromium_Liquid.png){.inline-icon} Molten Chromium<br/><br/><br/>Properties: <br/>Gas, Light Emitter, Refined Metal|<br/>Specific Heat Capacity: <br/>0.387 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>5.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.3<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+
 #### Concrete Block
 
 Concrete blocks are standard-size rectangular blocks used in building construction. A versatile component made from different aggregates that are often considered waste products.
@@ -81,6 +105,14 @@ Concrete blocks are standard-size rectangular blocks used in building constructi
 | |<font size="+1">Material Properties</font>| |
 |-|-|-|
 | ![ConcreteBlock](/assets/images/elements/ConcreteBlock.png){width="200"} |<br/>Resource Type: Manufactured Material<br/><br/>Melting point: 1409.85°C<br/>-> ![Magma](/assets/images/elements/Magma.png){.inline-icon} Magma<br/><br/>Hardness: 50<br/><br/>Properties: <br/>General Buildable, Insulator, Raw Mineral, Solid|<br/>Specific Heat Capacity: <br/>0.880 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>0.920 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.7<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+
+#### Ferrochrome
+
+Ferrochrome is an alloy of Iron and Chromium, used in the production of stainless steel and other alloys.
+
+| |<font size="+1">Material Properties</font>| |
+|-|-|-|
+| ![AIO_FerroChrome_Solid](/assets/images/elements/AIO_FerroChrome_Solid.png){width="200"} |<br/>Resource Type: Refined Metal<br/><br/>Melting point: 1500°C<br/>-> ![AIO_FerroChrome_Liquid](/assets/images/elements/AIO_FerroChrome_Liquid.png){.inline-icon} Molten Ferrochrome<br/><br/>Hardness: 2<br/><br/>Properties: <br/>General Buildable, Metal Ore, Solid, Uncrushable|<br/>Specific Heat Capacity: <br/>0.216 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>91.300 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.5<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
 
 #### Fiberglass
 
@@ -105,6 +137,14 @@ A glimmering sandy material composed mostly of high quality metallic grains, mix
 | |<font size="+1">Material Properties</font>| |
 |-|-|-|
 | ![HighGradeSand](/assets/images/elements/HighGradeSand.png){width="200"} |<br/>Resource Type: Refined Mineral<br/><br/>Melting point: 2249°C<br/>58 %  ![RockGas](/assets/images/elements/RockGas.png){.inline-icon} Rock Gas,<br/>42 % ![MoltenSlag](/assets/images/elements/MoltenSlag.png){.inline-icon} Molten Slag<br/><br/>Hardness: 32<br/><br/>Properties: <br/>General Buildable, Metallic Sand, Ore, Solid, Uncrushable, Unstable|<br/>Specific Heat Capacity: <br/>8.660 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>12.320 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.46<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+
+#### Invar
+
+Invar is a nickel-iron alloy, composed of 35% Nickel and 65% Iron which is notable for its uniquely low coefficient of thermal expansion.
+
+| |<font size="+1">Material Properties</font>| |
+|-|-|-|
+| ![AIO_Invar_Solid](/assets/images/elements/AIO_Invar_Solid.png){width="200"} |<br/>Resource Type: Manufactured Material<br/><br/>Melting point: 1427°C<br/>64 %  ![MoltenIron](/assets/images/elements/MoltenIron.png){.inline-icon} Molten Iron,<br/>36 % ![Nickel](/assets/images/elements/Nickel.png){.inline-icon} Nickel<br/><br/>Hardness: 70<br/><br/>Properties: <br/>General Buildable, Hardened Alloy, Metal Ore, Refined Metal, Solid, Uncrushable|<br/>Specific Heat Capacity: <br/>0.515 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>10.500 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.67<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
 
 #### Isopropane
 
@@ -145,6 +185,22 @@ A dense stony mass formed when various types of dust and small grains in the ear
 | |<font size="+1">Material Properties</font>| |
 |-|-|-|
 | ![MeteorOre](/assets/images/elements/MeteorOre.png){width="200"} |<br/>Resource Type: Raw Mineral<br/><br/>Melting point: 1410°C<br/>-> ![Magma](/assets/images/elements/Magma.png){.inline-icon} Magma<br/><br/>Hardness: 3<br/><br/>Properties: <br/>General Buildable, Plumbable, Precious Rock, Solid|<br/>Specific Heat Capacity: <br/>0.830 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>2.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.84<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+
+#### Molten Chromium
+
+(Cr) Chromium is a steely-grey, lustrous, hard and brittle transition metal in its molten state.
+
+| |<font size="+1">Material Properties</font>| |
+|-|-|-|
+| ![AIO_Chromium_Liquid](/assets/images/elements/AIO_Chromium_Liquid.png){width="200"} |<br/>Resource Type: Liquid<br/><br/>Freezing point: 1906.85°C<br/>-> ![AIO_Chromium_Solid](/assets/images/elements/AIO_Chromium_Solid.png){.inline-icon} Chromium<br/><br/>Evaporation point: 2671.85°C<br/>-> ![AIO_Chromium_Gas](/assets/images/elements/AIO_Chromium_Gas.png){.inline-icon} Chromium Gas<br/><br/><br/>Properties: <br/>Light Emitter, Metal Ore, Refined Metal|<br/>Specific Heat Capacity: <br/>0.387 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>5.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.3<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+
+#### Molten Ferrochrome
+
+Ferrochrome is an alloy of Iron and Chromium, used in the production of stainless steel and other alloys, currently in its molten state.
+
+| |<font size="+1">Material Properties</font>| |
+|-|-|-|
+| ![AIO_FerroChrome_Liquid](/assets/images/elements/AIO_FerroChrome_Liquid.png){width="200"} |<br/>Resource Type: Liquid<br/><br/>Freezing point: 1500°C<br/>-> ![AIO_FerroChrome_Solid](/assets/images/elements/AIO_FerroChrome_Solid.png){.inline-icon} Ferrochrome<br/><br/>Evaporation point: 2641.85°C<br/>68 %  ![AIO_Chromium_Liquid](/assets/images/elements/AIO_Chromium_Liquid.png){.inline-icon} Molten Chromium,<br/>32 % ![MoltenIron](/assets/images/elements/MoltenIron.png){.inline-icon} Molten Iron<br/><br/><br/>Properties: <br/>Light Emitter, Metal Ore, Refined Metal|<br/>Specific Heat Capacity: <br/>0.216 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>5.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.3<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
 
 #### Molten Silver
 
@@ -240,7 +296,7 @@ A fossil gas consisting of gaseous hydrocarbons and other impurites. The majorit
 
 | |<font size="+1">Material Properties</font>| |
 |-|-|-|
-| ![SolidSilver](/assets/images/elements/SolidSilver.png){width="200"} |<br/>Resource Type: Refined Metal<br/><br/>Melting point: 961°C<br/>-> ![MoltenSilver](/assets/images/elements/MoltenSilver.png){.inline-icon} Molten Silver<br/><br/>Hardness: 2<br/><br/>Properties: <br/>Antiseptic, General Buildable, Glass Dye, Solid|<br/>Specific Heat Capacity: <br/>0.223 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>220.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.5<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+| ![SolidSilver](/assets/images/elements/SolidSilver.png){width="200"} |<br/>Resource Type: Refined Metal<br/><br/>Melting point: 961°C<br/>-> ![MoltenSilver](/assets/images/elements/MoltenSilver.png){.inline-icon} Molten Silver<br/><br/>Hardness: 2<br/><br/>Properties: <br/>Antiseptic, General Buildable, Solid|<br/>Specific Heat Capacity: <br/>0.223 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>220.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.5<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
 
 #### Silver Gas
 
@@ -281,6 +337,14 @@ An aqueous solution of Hydrogen Sulfide (H<sub>2</sub>S>) and Ammonia (NH<sub>3<
 | |<font size="+1">Material Properties</font>| |
 |-|-|-|
 | ![SourWater](/assets/images/elements/SourWater.png){width="200"} |<br/>Resource Type: Liquid<br/><br/>Freezing point: -21°C<br/>50 %  ![SourGas](/assets/images/elements/SourGas.png){.inline-icon} Sour Gas,<br/>50 % ![DirtyIce](/assets/images/elements/DirtyIce.png){.inline-icon} Polluted Ice<br/><br/>Evaporation point: 88°C<br/>50 %  ![SourGas](/assets/images/elements/SourGas.png){.inline-icon} Sour Gas,<br/>50 % ![DirtyWater](/assets/images/elements/DirtyWater.png){.inline-icon} Polluted Water<br/><br/><br/>Properties: <br/>Mixture, Water Based|<br/>Specific Heat Capacity: <br/>3.477 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>0.909 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.3<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+
+#### Stainless Steel
+
+Stainless Steel is an Iron based alloy that contains Chromium, making it highly resistant to rust and corrosion.
+
+| |<font size="+1">Material Properties</font>| |
+|-|-|-|
+| ![AIO_StainlessSteel_Solid](/assets/images/elements/AIO_StainlessSteel_Solid.png){width="200"} |<br/>Resource Type: Manufactured Material<br/><br/>Melting point: 2426.85°C<br/>83 %  ![MoltenSteel](/assets/images/elements/MoltenSteel.png){.inline-icon} Molten Steel,<br/>17 % ![AIO_Chromium_Liquid](/assets/images/elements/AIO_Chromium_Liquid.png){.inline-icon} Molten Chromium<br/><br/>Hardness: 50<br/><br/>Properties: <br/>General Buildable, Hardened Alloy, Metal Ore, Refined Metal, Solid, Uncrushable|<br/>Specific Heat Capacity: <br/>0.500 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>25.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.74<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
 
 #### Sulfuric Acid
 
@@ -328,7 +392,7 @@ A thick, toxic slurry produced as waste product from industrial operations, comp
 
 | |<font size="+1">Material Properties</font>| |
 |-|-|-|
-| ![SolidZinc](/assets/images/elements/SolidZinc.png){width="200"} |<br/>Resource Type: Refined Metal<br/><br/>Melting point: 420°C<br/>-> ![MoltenZinc](/assets/images/elements/MoltenZinc.png){.inline-icon} Molten Zinc<br/><br/>Hardness: 2<br/><br/>Properties: <br/>General Buildable, Glass Dye, Solid|<br/>Specific Heat Capacity: <br/>0.387 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>60.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.5<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+| ![SolidZinc](/assets/images/elements/SolidZinc.png){width="200"} |<br/>Resource Type: Refined Metal<br/><br/>Melting point: 420°C<br/>-> ![MoltenZinc](/assets/images/elements/MoltenZinc.png){.inline-icon} Molten Zinc<br/><br/>Hardness: 2<br/><br/>Properties: <br/>General Buildable, Solid|<br/>Specific Heat Capacity: <br/>0.387 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>60.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.5<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
 
 #### Zinc Gas
 
@@ -363,7 +427,7 @@ Electrum is a conductive Metal alloy composed of gold and silver.<br/><br/>It is
 
 | |<font size="+1">Material Properties</font>| |
 |-|-|-|
-| ![Electrum](/assets/images/elements/Electrum.png){width="200"} |<br/>Resource Type: Metal Ore<br/><br/>Melting point: 1022.71°C<br/>40 %  ![MoltenSilver](/assets/images/elements/MoltenSilver.png){.inline-icon} Molten Silver,<br/>60 % ![Gold](/assets/images/elements/Gold.png){.inline-icon} Gold<br/><br/>Hardness: 2<br/><br/>Properties: <br/>General Buildable, Glass Dye, Ore, Solid|<br/>Specific Heat Capacity: <br/>0.150 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>2.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.35<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+| ![Electrum](/assets/images/elements/Electrum.png){width="200"} |<br/>Resource Type: Metal Ore<br/><br/>Melting point: 1022.71°C<br/>40 %  ![MoltenSilver](/assets/images/elements/MoltenSilver.png){.inline-icon} Molten Silver,<br/>60 % ![Gold](/assets/images/elements/Gold.png){.inline-icon} Gold<br/><br/>Hardness: 2<br/><br/>Properties: <br/>General Buildable, Ore, Solid|<br/>Specific Heat Capacity: <br/>0.150 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>2.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.35<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
 
 #### Liquid Propane
 
