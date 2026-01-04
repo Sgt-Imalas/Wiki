@@ -36,7 +36,7 @@ An advanced method for production of Refined Metals from raw Metal Ore.<br/><br/
 | | | |
 |-|-|-|
 | ![Chemical_AdvancedMetalRefinery](/assets/images/buildings/Chemical_AdvancedMetalRefinery.png){height="100"} {rowspan="3"}|**Dimensions:** | 3 wide x 5 high|
-|**Power Consumption:**| 3 kW |&#8288 {: style="padding:0"}|
+|**Power Consumption:**| 2.4 kW |&#8288 {: style="padding:0"}|
 |**Research Required:**| Superheated Forging|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Steel or Hardened Alloy</td><td>1000 kg</td></tr><tr><td>Ceramic or Brick</td><td>600 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Super Coolant Input Pipe</td><td>Liquid Output Pipe</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
@@ -182,7 +182,7 @@ Sabatier Reaction: <br/> Liquid Carbon Dioxide, Hydrogen and Iron as catalyst. T
 |-|-|-|
 | ![Chemical_Co2Recycler](/assets/images/buildings/Chemical_Co2Recycler.png){height="100"} {rowspan="3"}|**Dimensions:** | 7 wide x 4 high|
 |**Power Consumption:**| 1000 W |&#8288 {: style="padding:0"}|
-|**Research Required:**| Portable Gases|&#8288 {: style="padding:0"}| 
+|**Research Required:**| Catalytics|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Ceramic or Brick</td><td>800 kg</td></tr><tr><td>Steel or Hardened Alloy</td><td>400 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Hydrogen Gas Input Pipe</td><td>Liquid Output Pipe</td></tr><tr><td>Liquid Carbon Dioxide Input Pipe</td><td>Steam Output Pipe</td></tr><tr><td>Carbon Dioxide Input Pipe</td><td>Natural Gas Output Pipe</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
@@ -411,7 +411,7 @@ Crush down Raw Minerals in to useful materials and industrial ingredients.
 | | | |
 |-|-|-|
 | ![Chemical_SmallCrusherMill](/assets/images/buildings/Chemical_SmallCrusherMill.png){height="100"} {rowspan="3"}|**Dimensions:** | 3 wide x 2 high|
-|**Power Consumption:**| 241 W |&#8288 {: style="padding:0"}|
+|**Power Consumption:**| 240 W |&#8288 {: style="padding:0"}|
 |**Research Required:**| Brute-Force Refinement|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Refined Metal</td><td>400 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
@@ -504,7 +504,7 @@ The refinery has two stages: <br/><br/>First Stage: Crude Oil is first refined t
 ## Multi-Stage Raw Gas Refinery
 An industrial process plant responsible for refining the impure raw natural gas extracted from wells.
 
-The refinery has three stages:<br/><br/>First Stage: Raw Natural Gas is first refined to: <br/>- 50% Natural Gas<br/>- 40% Propane<br/>- 10% Sour Gas<br/>Second Stage: Propane is mixed with Hydrogen resulting in a complete conversion to Methane<br/>Third Stage reacts the remaining Sour Gas with Nitric Acid, producing Ammonia Gas.
+The refinery has three stages:<br/><br/>First Stage: Raw Natural Gas is first refined to: <br/>- 33% Natural Gas<br/>- 27% Propane<br/>- 40% Sour Gas<br/>Second Stage: Propane is mixed with Hydrogen resulting in a complete conversion to Methane<br/>Third Stage reacts the remaining Sour Gas with Nitric Acid, producing Ammonia Gas.
 
 | | | |
 |-|-|-|
@@ -585,7 +585,7 @@ An advanced method for the refinement of Metal Ores and other Raw Minerals.<br/>
 |-|-|-|
 | ![Metallurgy_PlasmaFurnace](/assets/images/buildings/Metallurgy_PlasmaFurnace.png){height="100"} {rowspan="3"}|**Dimensions:** | 5 wide x 5 high|
 |**Power Consumption:**| 5 kW |&#8288 {: style="padding:0"}|
-|**Research Required:**| Catalytics|&#8288 {: style="padding:0"}| 
+|**Research Required:**| High Energy Plasma Refinement|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Ceramic or Brick</td><td>2000 kg</td></tr><tr><td>Tungsten</td><td>1000 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Carrier Gas Input Pipe</td><td>Molten Glass Output Pipe</td></tr><tr><td>-</td><td>Molten Slag Output Pipe</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
@@ -598,22 +598,22 @@ An advanced method for the refinement of Metal Ores and other Raw Minerals.<br/>
 ### Recipes
 |Ingredients:| Time: | Products:|
 |-|-|-|
-| ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (150 kg)<br> ![SolidBorax](/assets/images/elements/SolidBorax.png){.inline-icon} Borax (10 kg)<br>|10s| ![MoltenGlass](/assets/images/elements/MoltenGlass.png){.inline-icon} Molten Glass (100 kg)<br> ![MoltenSlag](/assets/images/elements/MoltenSlag.png){.inline-icon} Molten Slag (60 kg)<br>|
-| ![Cuprite](/assets/images/elements/Cuprite.png){.inline-icon} Copper Ore (500 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (40 kg)<br>|10s| ![MoltenCopper](/assets/images/elements/MoltenCopper.png){.inline-icon} Molten Copper (490 kg)<br> ![MoltenSlag](/assets/images/elements/MoltenSlag.png){.inline-icon} Molten Slag (50 kg)<br>|
-| ![Cobaltite](/assets/images/elements/Cobaltite.png){.inline-icon} Cobalt Ore (500 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (40 kg)<br>|10s| ![MoltenCobalt](/assets/images/elements/MoltenCobalt.png){.inline-icon} Molten Cobalt (490 kg)<br> ![MoltenSlag](/assets/images/elements/MoltenSlag.png){.inline-icon} Molten Slag (50 kg)<br>|
-| ![Wolframite](/assets/images/elements/Wolframite.png){.inline-icon} Wolframite (500 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (40 kg)<br>|10s| ![MoltenTungsten](/assets/images/elements/MoltenTungsten.png){.inline-icon} Molten Tungsten (490 kg)<br> ![MoltenSlag](/assets/images/elements/MoltenSlag.png){.inline-icon} Molten Slag (50 kg)<br>|
-| ![ArgentiteOre](/assets/images/elements/ArgentiteOre.png){.inline-icon} Silver Ore (500 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (40 kg)<br>|10s| ![MoltenSilver](/assets/images/elements/MoltenSilver.png){.inline-icon} Molten Silver (490 kg)<br> ![MoltenSlag](/assets/images/elements/MoltenSlag.png){.inline-icon} Molten Slag (50 kg)<br>|
-| ![AluminumOre](/assets/images/elements/AluminumOre.png){.inline-icon} Aluminum Ore (500 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (40 kg)<br>|10s| ![MoltenAluminum](/assets/images/elements/MoltenAluminum.png){.inline-icon} Molten Aluminum (490 kg)<br> ![MoltenSlag](/assets/images/elements/MoltenSlag.png){.inline-icon} Molten Slag (50 kg)<br>|
-| ![GoldAmalgam](/assets/images/elements/GoldAmalgam.png){.inline-icon} Gold Amalgam (500 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (40 kg)<br>|10s| ![MoltenGold](/assets/images/elements/MoltenGold.png){.inline-icon} Molten Gold (490 kg)<br> ![MoltenSlag](/assets/images/elements/MoltenSlag.png){.inline-icon} Molten Slag (50 kg)<br>|
-| ![AurichalciteOre](/assets/images/elements/AurichalciteOre.png){.inline-icon} Zinc Ore (500 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (40 kg)<br>|10s| ![MoltenZinc](/assets/images/elements/MoltenZinc.png){.inline-icon} Molten Zinc (490 kg)<br> ![MoltenSlag](/assets/images/elements/MoltenSlag.png){.inline-icon} Molten Slag (50 kg)<br>|
-| ![NickelOre](/assets/images/elements/NickelOre.png){.inline-icon} Nickel Ore (500 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (40 kg)<br>|10s| ![MoltenNickel](/assets/images/elements/MoltenNickel.png){.inline-icon} Molten Nickel (490 kg)<br> ![MoltenSlag](/assets/images/elements/MoltenSlag.png){.inline-icon} Molten Slag (50 kg)<br>|
-| ![TempConductorSolid](/assets/images/elements/TempConductorSolid.png){.inline-icon} Thermium (500 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (40 kg)<br>|10s| ![MoltenNiobium](/assets/images/elements/MoltenNiobium.png){.inline-icon} Molten Niobium (490 kg)<br> ![MoltenSlag](/assets/images/elements/MoltenSlag.png){.inline-icon} Molten Slag (50 kg)<br>|
-| ![IronOre](/assets/images/elements/IronOre.png){.inline-icon} Iron Ore (500 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (40 kg)<br>|10s| ![MoltenIron](/assets/images/elements/MoltenIron.png){.inline-icon} Molten Iron (490 kg)<br> ![MoltenSlag](/assets/images/elements/MoltenSlag.png){.inline-icon} Molten Slag (50 kg)<br>|
-| ![Electrum](/assets/images/elements/Electrum.png){.inline-icon} Electrum (500 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (40 kg)<br>|10s| ![MoltenGold](/assets/images/elements/MoltenGold.png){.inline-icon} Molten Gold (294 kg)<br> ![MoltenSilver](/assets/images/elements/MoltenSilver.png){.inline-icon} Molten Silver (196 kg)<br> ![MoltenSlag](/assets/images/elements/MoltenSlag.png){.inline-icon} Molten Slag (50 kg)<br>|
-| ![Galena](/assets/images/elements/Galena.png){.inline-icon} Galena (500 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (40 kg)<br>|10s| ![MoltenSilver](/assets/images/elements/MoltenSilver.png){.inline-icon} Molten Silver (294 kg)<br> ![MoltenLead](/assets/images/elements/MoltenLead.png){.inline-icon} Molten Lead (196 kg)<br> ![MoltenSlag](/assets/images/elements/MoltenSlag.png){.inline-icon} Molten Slag (50 kg)<br>|
-| ![FoolsGold](/assets/images/elements/FoolsGold.png){.inline-icon} Pyrite (500 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (40 kg)<br>|10s| ![MoltenIron](/assets/images/elements/MoltenIron.png){.inline-icon} Molten Iron (400 kg)<br> ![MoltenSlag](/assets/images/elements/MoltenSlag.png){.inline-icon} Molten Slag (140 kg)<br>|
-| ![Iron](/assets/images/elements/Iron.png){.inline-icon} Iron (425 kg)<br> ![RefinedCarbon](/assets/images/elements/RefinedCarbon.png){.inline-icon} Refined Carbon (50 kg)<br> ![Lime](/assets/images/elements/Lime.png){.inline-icon} Lime (25 kg)<br>|10s| ![MoltenSteel](/assets/images/elements/MoltenSteel.png){.inline-icon} Molten Steel (500 kg)<br>|
-| ![Katairite](/assets/images/elements/Katairite.png){.inline-icon} Abyssalite (500 kg)<br> ![Lime](/assets/images/elements/Lime.png){.inline-icon} Lime (20 kg)<br>|20s| ![MoltenTungsten](/assets/images/elements/MoltenTungsten.png){.inline-icon} Molten Tungsten (120 kg)<br> ![Magma](/assets/images/elements/Magma.png){.inline-icon} Magma (380 kg)<br>|
+| ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (150 kg)<br> ![SolidBorax](/assets/images/elements/SolidBorax.png){.inline-icon} Borax (10 kg)<br>|20s| ![MoltenGlass](/assets/images/elements/MoltenGlass.png){.inline-icon} Molten Glass (100 kg)<br> ![MoltenSlag](/assets/images/elements/MoltenSlag.png){.inline-icon} Molten Slag (60 kg)<br>|
+| ![Cuprite](/assets/images/elements/Cuprite.png){.inline-icon} Copper Ore (500 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (40 kg)<br>|20s| ![MoltenCopper](/assets/images/elements/MoltenCopper.png){.inline-icon} Molten Copper (490 kg)<br> ![MoltenSlag](/assets/images/elements/MoltenSlag.png){.inline-icon} Molten Slag (50 kg)<br>|
+| ![Cobaltite](/assets/images/elements/Cobaltite.png){.inline-icon} Cobalt Ore (500 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (40 kg)<br>|20s| ![MoltenCobalt](/assets/images/elements/MoltenCobalt.png){.inline-icon} Molten Cobalt (490 kg)<br> ![MoltenSlag](/assets/images/elements/MoltenSlag.png){.inline-icon} Molten Slag (50 kg)<br>|
+| ![Wolframite](/assets/images/elements/Wolframite.png){.inline-icon} Wolframite (500 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (40 kg)<br>|20s| ![MoltenTungsten](/assets/images/elements/MoltenTungsten.png){.inline-icon} Molten Tungsten (490 kg)<br> ![MoltenSlag](/assets/images/elements/MoltenSlag.png){.inline-icon} Molten Slag (50 kg)<br>|
+| ![ArgentiteOre](/assets/images/elements/ArgentiteOre.png){.inline-icon} Silver Ore (500 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (40 kg)<br>|20s| ![MoltenSilver](/assets/images/elements/MoltenSilver.png){.inline-icon} Molten Silver (490 kg)<br> ![MoltenSlag](/assets/images/elements/MoltenSlag.png){.inline-icon} Molten Slag (50 kg)<br>|
+| ![AluminumOre](/assets/images/elements/AluminumOre.png){.inline-icon} Aluminum Ore (500 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (40 kg)<br>|20s| ![MoltenAluminum](/assets/images/elements/MoltenAluminum.png){.inline-icon} Molten Aluminum (490 kg)<br> ![MoltenSlag](/assets/images/elements/MoltenSlag.png){.inline-icon} Molten Slag (50 kg)<br>|
+| ![GoldAmalgam](/assets/images/elements/GoldAmalgam.png){.inline-icon} Gold Amalgam (500 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (40 kg)<br>|20s| ![MoltenGold](/assets/images/elements/MoltenGold.png){.inline-icon} Molten Gold (490 kg)<br> ![MoltenSlag](/assets/images/elements/MoltenSlag.png){.inline-icon} Molten Slag (50 kg)<br>|
+| ![AurichalciteOre](/assets/images/elements/AurichalciteOre.png){.inline-icon} Zinc Ore (500 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (40 kg)<br>|20s| ![MoltenZinc](/assets/images/elements/MoltenZinc.png){.inline-icon} Molten Zinc (490 kg)<br> ![MoltenSlag](/assets/images/elements/MoltenSlag.png){.inline-icon} Molten Slag (50 kg)<br>|
+| ![NickelOre](/assets/images/elements/NickelOre.png){.inline-icon} Nickel Ore (500 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (40 kg)<br>|20s| ![MoltenNickel](/assets/images/elements/MoltenNickel.png){.inline-icon} Molten Nickel (490 kg)<br> ![MoltenSlag](/assets/images/elements/MoltenSlag.png){.inline-icon} Molten Slag (50 kg)<br>|
+| ![TempConductorSolid](/assets/images/elements/TempConductorSolid.png){.inline-icon} Thermium (500 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (40 kg)<br>|20s| ![MoltenNiobium](/assets/images/elements/MoltenNiobium.png){.inline-icon} Molten Niobium (490 kg)<br> ![MoltenSlag](/assets/images/elements/MoltenSlag.png){.inline-icon} Molten Slag (50 kg)<br>|
+| ![IronOre](/assets/images/elements/IronOre.png){.inline-icon} Iron Ore (500 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (40 kg)<br>|20s| ![MoltenIron](/assets/images/elements/MoltenIron.png){.inline-icon} Molten Iron (490 kg)<br> ![MoltenSlag](/assets/images/elements/MoltenSlag.png){.inline-icon} Molten Slag (50 kg)<br>|
+| ![Electrum](/assets/images/elements/Electrum.png){.inline-icon} Electrum (500 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (40 kg)<br>|20s| ![MoltenGold](/assets/images/elements/MoltenGold.png){.inline-icon} Molten Gold (294 kg)<br> ![MoltenSilver](/assets/images/elements/MoltenSilver.png){.inline-icon} Molten Silver (196 kg)<br> ![MoltenSlag](/assets/images/elements/MoltenSlag.png){.inline-icon} Molten Slag (50 kg)<br>|
+| ![Galena](/assets/images/elements/Galena.png){.inline-icon} Galena (500 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (40 kg)<br>|20s| ![MoltenSilver](/assets/images/elements/MoltenSilver.png){.inline-icon} Molten Silver (294 kg)<br> ![MoltenLead](/assets/images/elements/MoltenLead.png){.inline-icon} Molten Lead (196 kg)<br> ![MoltenSlag](/assets/images/elements/MoltenSlag.png){.inline-icon} Molten Slag (50 kg)<br>|
+| ![FoolsGold](/assets/images/elements/FoolsGold.png){.inline-icon} Pyrite (500 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (40 kg)<br>|20s| ![MoltenIron](/assets/images/elements/MoltenIron.png){.inline-icon} Molten Iron (400 kg)<br> ![MoltenSlag](/assets/images/elements/MoltenSlag.png){.inline-icon} Molten Slag (140 kg)<br>|
+| ![Iron](/assets/images/elements/Iron.png){.inline-icon} Iron (425 kg)<br> ![RefinedCarbon](/assets/images/elements/RefinedCarbon.png){.inline-icon} Refined Carbon (50 kg)<br> ![Lime](/assets/images/elements/Lime.png){.inline-icon} Lime (25 kg)<br>|20s| ![MoltenSteel](/assets/images/elements/MoltenSteel.png){.inline-icon} Molten Steel (500 kg)<br>|
+| ![Katairite](/assets/images/elements/Katairite.png){.inline-icon} Abyssalite (500 kg)<br> ![Lime](/assets/images/elements/Lime.png){.inline-icon} Lime (20 kg)<br>|40s| ![MoltenTungsten](/assets/images/elements/MoltenTungsten.png){.inline-icon} Molten Tungsten (120 kg)<br> ![Magma](/assets/images/elements/Magma.png){.inline-icon} Magma (380 kg)<br>|
 
 
 
@@ -687,7 +687,7 @@ Produces Rayon Fiber from Wood pulp through a complex chemical reaction. Require
 |**Power Consumption:**| 480 W |&#8288 {: style="padding:0"}|
 |**Research Required:**| Textile Production|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Refined Metal</td><td>800 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
-| **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Synthesis Gas Input Pipe</td><td>-</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
+| **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Synthesis Gas Input Pipe</td><td>Steam Output Pipe</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 #### Element Conversion
 |Inputs:|Outputs:|
@@ -785,6 +785,7 @@ A solid material mixer designed for agricultural purpose, mainly for the product
 | ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} Crushed Rock (40 kg)<br> ![ToxicSand](/assets/images/elements/ToxicSand.png){.inline-icon} Polluted Dirt (20 kg)<br> ![WoodLog](/assets/images/elements/WoodLog.png){.inline-icon} Wood (20 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} Water (20 kg)<br>|60s| ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} Dirt (100 kg)<br>|
 | ![WoodLog](/assets/images/elements/WoodLog.png){.inline-icon} Wood (60 kg)<br> ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} Crushed Rock (30 kg)<br> ![DirtyWater](/assets/images/elements/DirtyWater.png){.inline-icon} Polluted Water (10 kg)<br>|60s| ![ToxicSand](/assets/images/elements/ToxicSand.png){.inline-icon} Polluted Dirt (100 kg)<br>|
 | ![FabricatedWood](/assets/images/elements/FabricatedWood.png){.inline-icon} Plywood (60 kg)<br> ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} Crushed Rock (30 kg)<br> ![DirtyWater](/assets/images/elements/DirtyWater.png){.inline-icon} Polluted Water (10 kg)<br>|60s| ![ToxicSand](/assets/images/elements/ToxicSand.png){.inline-icon} Polluted Dirt (100 kg)<br>|
+| ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} Compressed Biomass (20 kg)<br> ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} Crushed Rock (40 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (30 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} Water (10 kg)<br>|60s| ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} Dirt (100 kg)<br>|
 
 
 
@@ -872,6 +873,7 @@ Produce Synthetic Gas from a variety of Organic and Mineral materials.
 | ![WoodLog](/assets/images/elements/WoodLog.png){.inline-icon} Wood (100 kg)<br>|50s| ![Syngas](/assets/images/elements/Syngas.png){.inline-icon} Synthesis Gas (10 kg)<br> ![ToxicSand](/assets/images/elements/ToxicSand.png){.inline-icon} Polluted Dirt (90 kg)<br>|
 | ![Bitumen](/assets/images/elements/Bitumen.png){.inline-icon} Bitumen (100 kg)<br>|50s| ![Syngas](/assets/images/elements/Syngas.png){.inline-icon} Synthesis Gas (10 kg)<br> ![RefinedCarbon](/assets/images/elements/RefinedCarbon.png){.inline-icon} Refined Carbon (90 kg)<br>|
 | ![SolidOilShale](/assets/images/elements/SolidOilShale.png){.inline-icon} Oil Shale (100 kg)<br>|50s| ![Syngas](/assets/images/elements/Syngas.png){.inline-icon} Synthesis Gas (30 kg)<br> ![Petroleum](/assets/images/elements/Petroleum.png){.inline-icon} Petroleum (50 kg)<br> ![RefinedCarbon](/assets/images/elements/RefinedCarbon.png){.inline-icon} Refined Carbon (20 kg)<br>|
+| ![SolidBiomass](/assets/images/elements/SolidBiomass.png){.inline-icon} Compressed Biomass (100 kg)<br>|30s| ![Syngas](/assets/images/elements/Syngas.png){.inline-icon} Synthesis Gas (25 kg)<br> ![ToxicSand](/assets/images/elements/ToxicSand.png){.inline-icon} Polluted Dirt (75 kg)<br>|
 
 
 
@@ -980,8 +982,6 @@ Produces Refined Metals from raw Metal Ore.<br/><br/>Significantly Heats and out
 | ![Cuprite](/assets/images/elements/Cuprite.png){.inline-icon} Copper Ore (100 kg)<br> ![Carbon](/assets/images/elements/Carbon.png){.inline-icon} Coal (20 kg)<br>|40s| ![Copper](/assets/images/elements/Copper.png){.inline-icon} Copper (80 kg)<br> ![SolidSlag](/assets/images/elements/SolidSlag.png){.inline-icon} Slag (40 kg)<br>|
 | ![Cuprite](/assets/images/elements/Cuprite.png){.inline-icon} Copper Ore (100 kg)<br> ![Peat](/assets/images/elements/Peat.png){.inline-icon} Peat (20 kg)<br>|40s| ![Copper](/assets/images/elements/Copper.png){.inline-icon} Copper (80 kg)<br> ![SolidSlag](/assets/images/elements/SolidSlag.png){.inline-icon} Slag (40 kg)<br>|
 | ![Cuprite](/assets/images/elements/Cuprite.png){.inline-icon} Copper Ore (100 kg)<br> ![RefinedCarbon](/assets/images/elements/RefinedCarbon.png){.inline-icon} Refined Carbon (20 kg)<br>|40s| ![Copper](/assets/images/elements/Copper.png){.inline-icon} Copper (80 kg)<br> ![SolidSlag](/assets/images/elements/SolidSlag.png){.inline-icon} Slag (40 kg)<br>|
-| ![CF_CanScrap](/assets/images/entities/CF_CanScrap.png){.inline-icon} Can Scraps (10 kg)<br>|10s| ![Copper](/assets/images/elements/Copper.png){.inline-icon} Copper (10 kg)<br>|
-| ![CF_EmptyCan](/assets/images/entities/CF_EmptyCan.png){.inline-icon} Empty Can (10 kg)<br>|10s| ![Copper](/assets/images/elements/Copper.png){.inline-icon} Copper (10 kg)<br>|
 
 
 
@@ -1001,7 +1001,7 @@ Extracts Crude Oil using clean Water.<br/><br/>Must be built atop an Oil Reservo
 #### Element Conversion
 |Inputs:|Outputs:|
 |-|-|
-| ![AnyWater](/assets/images/entities/AnyWater.png){.inline-icon} Water Based (1000 g/s)<br>| ![CrudeOil](/assets/images/elements/CrudeOil.png){.inline-icon} Crude Oil (3400 g/s at 90°C)<br> ![RawNaturalGas](/assets/images/elements/RawNaturalGas.png){.inline-icon} Raw Natural Gas (120 g/s at 120°C)<br>|
+| ![AnyWater](/assets/images/entities/AnyWater.png){.inline-icon} Water Based (1000 g/s)<br>| ![CrudeOil](/assets/images/elements/CrudeOil.png){.inline-icon} Crude Oil (3400 g/s at 90°C)<br> ![RawNaturalGas](/assets/images/elements/RawNaturalGas.png){.inline-icon} Raw Natural Gas (120 g/s at 120°C)<br> ![RawNaturalGas](/assets/images/elements/RawNaturalGas.png){.inline-icon} Raw Natural Gas (0 kg/s at 120°C)<br>|
 
 
 

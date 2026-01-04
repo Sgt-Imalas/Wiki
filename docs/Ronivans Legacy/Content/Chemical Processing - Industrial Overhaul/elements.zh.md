@@ -4,7 +4,7 @@
 
 |<font size="+1">材料</font> | | <font size="+1">元素</font> |
 |:-:|:-:|:-|
-|<font size="+1">硬化合金</font> <br/> <br/>|硬化合金是两种或多种材料的熔合产物。<br/>其高强度特性使其可作为钢的替代材料使用。| ![PhosphorBronze](/assets/images/elements/PhosphorBronze.png){.inline-icon} 磷青铜<br/> ![AIO_Permendur_Solid](/assets/images/elements/AIO_Permendur_Solid.png){.inline-icon} 钴铁合金<br/> ![Plasteel](/assets/images/elements/Plasteel.png){.inline-icon} 塑晶钢<br/> ![AIO_StainlessSteel_Solid](/assets/images/elements/AIO_StainlessSteel_Solid.png){.inline-icon} 不锈钢<br/> ![AIO_Invar_Solid](/assets/images/elements/AIO_Invar_Solid.png){.inline-icon} 殷瓦钢<br/> ![UnobtaniumAlloy](/assets/images/elements/UnobtaniumAlloy.png){.inline-icon} MISSING.STRINGS.ELEMENTS.UNOBTANIUMALLOY.NAME<br/> ![TempConductorSolid](/assets/images/elements/TempConductorSolid.png){.inline-icon} 导热质<br/>|
+|<font size="+1">硬化合金</font> <br/> <br/>|硬化合金是两种或多种材料的熔合产物。<br/>其高强度特性使其可作为钢的替代材料使用。| ![PhosphorBronze](/assets/images/elements/PhosphorBronze.png){.inline-icon} 磷青铜<br/> ![AIO_Permendur_Solid](/assets/images/elements/AIO_Permendur_Solid.png){.inline-icon} 钴铁合金<br/> ![Plasteel](/assets/images/elements/Plasteel.png){.inline-icon} 塑晶钢<br/> ![AIO_StainlessSteel_Solid](/assets/images/elements/AIO_StainlessSteel_Solid.png){.inline-icon} 不锈钢<br/> ![AIO_Invar_Solid](/assets/images/elements/AIO_Invar_Solid.png){.inline-icon} 殷钢<br/> ![TempConductorSolid](/assets/images/elements/TempConductorSolid.png){.inline-icon} 导热质<br/>|
 |<font size="+1">载气</font> <br/> <br/>|载气是一类用于等离子体相关工艺的惰性或半惰性气体。| ![Helium](/assets/images/elements/Helium.png){.inline-icon} 氦气<br/> ![Hydrogen](/assets/images/elements/Hydrogen.png){.inline-icon} 氢气<br/> ![NitrogenGas](/assets/images/elements/NitrogenGas.png){.inline-icon} 氮气<br/>|
 |<font size="+1">金属砂</font> <br/> <br/>|由不同数量的金属颗粒组成的砂质材料| ![BaseGradeSand](/assets/images/elements/BaseGradeSand.png){.inline-icon} 中级金属砂<br/> ![LowGradeSand](/assets/images/elements/LowGradeSand.png){.inline-icon} 低级金属砂<br/> ![HighGradeSand](/assets/images/elements/HighGradeSand.png){.inline-icon} 高级金属砂<br/>|
 
@@ -114,9 +114,9 @@
 |-|-|-|
 | ![ToxicClay](/assets/images/elements/ToxicClay.png){width="200"} |<br/>资源种类：人造材料<br/><br/>熔点：16°C<br/>-> ![ToxicSlurry](/assets/images/elements/ToxicSlurry.png){.inline-icon} 有毒泥浆<br/><br/>硬度：1<br/><br/>属性：<br/>固体|<br/>比热容：<br/>1.554 (DTU/g)/ ºC<br/><br/>热导率：<br/>11.000 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.5<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
 
-#### 殷瓦钢
+#### 殷钢
 
-殷瓦钢是一种镍铁合金，由35%的镍和65%的铁组成，以其独特的低热膨胀系数而著称。
+殷钢是一种镍铁合金，由35%的镍和65%的铁组成，以其独特的低热膨胀系数而著称。
 
 | |<font size="+1">材料属性</font>| |
 |-|-|-|
