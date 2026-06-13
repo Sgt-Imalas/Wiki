@@ -20,7 +20,7 @@ TBA, localize several new meteors.
 ## 绿铜锌矿
 | ![ZincComet](/assets/images/entities/ZincComet.png){width="100"} |绿铜锌矿|
 |-|-|
-|材料| ![AurichalciteOre](/assets/images/elements/AurichalciteOre.png){.inline-icon} 锌矿|
+|材料| ![AurichalciteOre](/assets/images/elements/AurichalciteOre.png){.inline-icon} 绿铜锌矿|
 |质量|1|
 |材料属性|一般建造材料, 固体, 矿石, 金属矿石|
 

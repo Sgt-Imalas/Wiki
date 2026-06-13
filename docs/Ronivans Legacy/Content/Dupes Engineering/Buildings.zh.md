@@ -2,7 +2,7 @@
 ## 警报LED
 白色警示灯。
 
-作为警报的led灯。不产生明显的光亮。
+一盏作为警报的led灯。不产生明显的光亮。
 
 | | | |
 |-|-|-|
@@ -77,7 +77,7 @@
 ## 复合隔热砖
 用于建造房间的墙壁和地板。能减少墙壁之间的热量传递，使周围环境的热量得以保留在该区域内。
 
-一种由多种材料制成的坚固砖块，其表面具有独特的辐射图案，能够有效减少热量传递。
+一种由多种材料组装而成的实心砖块，其表面的辐射纹路设计能有效减少热量传递。<br/>拥有与常规隔热砖相同的隔热性能，但能为复制人提供少量的移动速度加成。
 
 | | | |
 |-|-|-|
@@ -110,7 +110,7 @@
 | ![SpacerWindowLarge](/assets/images/buildings/SpacerWindowLarge.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 2 x 高 2|
 |**耗电:**|  -  |&#8288 {: style="padding:0"}|
 |**科技:**| 玻璃吹制|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>透明体</td><td>45千克</td></tr><tr><td>钢 或 硬化合金</td><td>15千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>玻璃状</td><td>45千克</td></tr><tr><td>钢 或 硬化合金</td><td>15千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 
 ## 大型框架墙
@@ -188,7 +188,7 @@
 | ![GlassDoorComplex](/assets/images/buildings/GlassDoorComplex.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 1 x 高 2|
 |**耗电:**| 120瓦 |&#8288 {: style="padding:0"}|
 |**科技:**| 运载管道|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>精炼金属</td><td>100千克</td></tr><tr><td>透明体</td><td>50千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>精炼金属</td><td>100千克</td></tr><tr><td>玻璃状</td><td>50千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 
 ## 简易玻璃门
@@ -201,7 +201,7 @@
 | ![GlassDoorSimple](/assets/images/buildings/GlassDoorSimple.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 1 x 高 2|
 |**耗电:**|  -  |&#8288 {: style="padding:0"}|
 |**科技:**| 运载管道|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>精炼金属</td><td>100千克</td></tr><tr><td>透明体</td><td>25千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>精炼金属</td><td>100千克</td></tr><tr><td>玻璃状</td><td>25千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 
 ## 小型框架墙
@@ -260,7 +260,7 @@
 | ![SpacerWindowWall](/assets/images/buildings/SpacerWindowWall.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 1 x 高 1|
 |**耗电:**|  -  |&#8288 {: style="padding:0"}|
 |**科技:**| 玻璃吹制|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>透明体</td><td>15千克</td></tr><tr><td>钢 或 硬化合金</td><td>5千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>玻璃状</td><td>15千克</td></tr><tr><td>钢 或 硬化合金</td><td>5千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 ### 蓝图
 |蓝图|名字|
@@ -291,7 +291,7 @@
 | ![SpacerTileWindow](/assets/images/buildings/SpacerTileWindow.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 1 x 高 1|
 |**耗电:**|  -  |&#8288 {: style="padding:0"}|
 |**科技:**| 玻璃吹制|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>透明体</td><td>95千克</td></tr><tr><td>精炼金属</td><td>5千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>玻璃状</td><td>95千克</td></tr><tr><td>精炼金属</td><td>5千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 
 ## 木质复合砖

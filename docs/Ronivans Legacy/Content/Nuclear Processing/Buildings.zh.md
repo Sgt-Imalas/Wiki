@@ -23,7 +23,7 @@
 | ![HepProjector](/assets/images/buildings/HepProjector.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 3 x 高 1|
 |**耗电:**|  -  |&#8288 {: style="padding:0"}|
 |**科技:**| 辐射精炼|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>精炼金属</td><td>100千克</td></tr><tr><td>塑料</td><td>50千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>精炼金属</td><td>100千克</td></tr><tr><td>密封圈</td><td>1000克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>-</td><td>液体 输出管道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 #### 元素转换
@@ -63,7 +63,7 @@
 | ![HepCentrifuge](/assets/images/buildings/HepCentrifuge.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 3 x 高 6|
 |**耗电:**| 800瓦 |&#8288 {: style="padding:0"}|
 |**科技:**| 辐射精炼|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>精炼金属</td><td>400千克</td></tr><tr><td>塑料</td><td>200千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>精炼金属</td><td>400千克</td></tr><tr><td>密封圈</td><td>4000克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 #### 元素转换
 |输入:|输出:|

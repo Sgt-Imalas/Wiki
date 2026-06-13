@@ -34,6 +34,14 @@ Enabling this mod in the config will add several new elements to the game or ree
 |-|-|-|
 | ![AmmoniumWater](/assets/images/elements/AmmoniumWater.png){width="200"} |<br/>Resource Type: Liquid<br/><br/>Freezing point: -58°C<br/>11 %  ![AmmoniaGas](/assets/images/elements/AmmoniaGas.png){.inline-icon} Ammonia,<br/>89 % ![Ice](/assets/images/elements/Ice.png){.inline-icon} Ice<br/><br/>Evaporation point: 38°C<br/>89 %  ![Water](/assets/images/elements/Water.png){.inline-icon} Water,<br/>11 % ![AmmoniaGas](/assets/images/elements/AmmoniaGas.png){.inline-icon} Ammonia<br/><br/><br/>Properties: <br/>Mixture, Water Based|<br/>Specific Heat Capacity: <br/>4.500 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>0.600 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.3<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
 
+#### Aurichalcite
+
+((Zn,Cu)<sub>5</sub>(CO<sub>3</sub>)<sub>2</sub>(OH)<sub>6</sub>) Aurichalcite is a carbonate mineral, mainly composed of Zinc and Copper.
+
+| |<font size="+1">Material Properties</font>| |
+|-|-|-|
+| ![AurichalciteOre](/assets/images/elements/AurichalciteOre.png){width="200"} |<br/>Resource Type: Metal Ore<br/><br/>Melting point: 919°C<br/>76 %  ![MoltenZinc](/assets/images/elements/MoltenZinc.png){.inline-icon} Molten Zinc,<br/>25 % ![Copper](/assets/images/elements/Copper.png){.inline-icon} Copper<br/><br/>Hardness: 25<br/><br/>Properties: <br/>General Buildable, Ore, Solid|<br/>Specific Heat Capacity: <br/>0.411 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>3.600 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.46<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+
 #### Base-Grade Metallic Sand
 
 A heavy sandy material composed mostly of common metallic grains, mixed with other finer mineral particles.
@@ -104,7 +112,7 @@ Concrete blocks are standard-size rectangular blocks used in building constructi
 
 | |<font size="+1">Material Properties</font>| |
 |-|-|-|
-| ![ConcreteBlock](/assets/images/elements/ConcreteBlock.png){width="200"} |<br/>Resource Type: Manufactured Material<br/><br/>Melting point: 1409.85°C<br/>-> ![Magma](/assets/images/elements/Magma.png){.inline-icon} Magma<br/><br/>Hardness: 50<br/><br/>Properties: <br/>General Buildable, Insulator, Raw Mineral, Solid|<br/>Specific Heat Capacity: <br/>0.880 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>0.920 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.7<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+| ![ConcreteBlock](/assets/images/elements/ConcreteBlock.png){width="200"} |<br/>Resource Type: Manufactured Material<br/><br/>Melting point: 1409.85°C<br/>-> ![Magma](/assets/images/elements/Magma.png){.inline-icon} Magma<br/><br/>Hardness: 50<br/><br/>Properties: <br/>General Buildable, Insulator, Plumbable, Raw Mineral, Solid|<br/>Specific Heat Capacity: <br/>0.880 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>0.920 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.7<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
 
 #### Ferrochrome
 
@@ -121,14 +129,6 @@ Fiberglass is a thermoset polymer matrix made by a poltrusion of boronsilicate G
 | |<font size="+1">Material Properties</font>| |
 |-|-|-|
 | ![SolidFiberglass](/assets/images/elements/SolidFiberglass.png){width="200"} |<br/>Resource Type: Manufactured Material<br/><br/>Melting point: 1426.85°C<br/>-> ![MoltenGlass](/assets/images/elements/MoltenGlass.png){.inline-icon} Molten Glass<br/><br/>Hardness: 45<br/><br/>Properties: <br/>General Buildable, Insulator, Plastics, Plumbable, Raw Mineral, Solid|<br/>Specific Heat Capacity: <br/>0.400 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>1.070 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.01<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
-
-#### Galena
-
-Galena is the natural mineral form of lead(II) sulfide (PbS).It is the most important ore of Lead and an important source of Silver.
-
-| |<font size="+1">Material Properties</font>| |
-|-|-|-|
-| ![Galena](/assets/images/elements/Galena.png){width="200"} |<br/>Resource Type: Metal Ore<br/><br/>Melting point: 1114°C<br/>40 %  ![MoltenLead](/assets/images/elements/MoltenLead.png){.inline-icon} Molten Lead,<br/>60 % ![MoltenSilver](/assets/images/elements/MoltenSilver.png){.inline-icon} Molten Silver<br/><br/>Hardness: 25<br/><br/>Properties: <br/>General Buildable, Ore, Solid|<br/>Specific Heat Capacity: <br/>0.311 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>3.600 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.46<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
 
 #### High-Grade Metallic Sand
 
@@ -218,14 +218,6 @@ Molten Slag is a by-product of smelting (pyrometallurgical) ores and used metals
 |-|-|-|
 | ![MoltenSlag](/assets/images/elements/MoltenSlag.png){width="200"} |<br/>Resource Type: Liquid<br/><br/>Freezing point: 1399°C<br/>-> ![SolidSlag](/assets/images/elements/SolidSlag.png){.inline-icon} Slag<br/><br/>Evaporation point: 2460°C<br/>-> ![RockGas](/assets/images/elements/RockGas.png){.inline-icon} Rock Gas<br/><br/><br/>Properties: <br/>Light Emitter|<br/>Specific Heat Capacity: <br/>0.850 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>2.400 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.8<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
 
-#### Molten Zinc
-
-(Zn) Zinc is a bluish-white, lustrous, diamagnetic metal in its molten state.
-
-| |<font size="+1">Material Properties</font>| |
-|-|-|-|
-| ![MoltenZinc](/assets/images/elements/MoltenZinc.png){width="200"} |<br/>Resource Type: Liquid<br/><br/>Freezing point: 417°C<br/>-> ![SolidZinc](/assets/images/elements/SolidZinc.png){.inline-icon} Zinc<br/><br/>Evaporation point: 907°C<br/>-> ![ZincGas](/assets/images/elements/ZincGas.png){.inline-icon} Zinc Gas<br/><br/><br/>Properties: <br/>Light Emitter, Metal Ore, Refined Metal|<br/>Specific Heat Capacity: <br/>0.129 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>7.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.3<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
-
 #### Nitrate Nodules
 
 (NH<sub>4</sub>NO<sub>3</sub>) Nodules of dirt containing high concentrations of Ammonium Nitrate.
@@ -244,11 +236,11 @@ Molten Slag is a by-product of smelting (pyrometallurgical) ores and used metals
 
 #### Nitrogen
 
-(N<sub>2</sub>) Nitrogen is a nonmetal and the lightest member of group 15 of the periodic table.
+(N<sub>2</sub>) Nitrogen is a nonmetal and the lightest member of group 15 of the periodic table.<br/>Some plants benefit from growing in a nitrogenized atmosphere.
 
 | |<font size="+1">Material Properties</font>| |
 |-|-|-|
-| ![NitrogenGas](/assets/images/elements/NitrogenGas.png){width="200"} |<br/>Resource Type: Unbreathable Gas<br/><br/>Condensation point: -195.8°C<br/>-> ![LiquidNitrogen](/assets/images/elements/LiquidNitrogen.png){.inline-icon} Liquid Nitrogen<br/><br/><br/>Properties: <br/>Carrier Gas, Gas|<br/>Specific Heat Capacity: <br/>1.850 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>0.175 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.3<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+| ![NitrogenGas](/assets/images/elements/NitrogenGas.png){width="200"} |<br/>Resource Type: Unbreathable Gas<br/><br/>Condensation point: -195.8°C<br/>-> ![LiquidNitrogen](/assets/images/elements/LiquidNitrogen.png){.inline-icon} Liquid Nitrogen<br/><br/><br/>Properties: <br/>Carrier Gas, Gas, Soda Gas|<br/>Specific Heat Capacity: <br/>1.850 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>0.175 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.3<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
 
 #### Oil Shale
 
@@ -312,7 +304,7 @@ A fossil gas consisting of gaseous hydrocarbons and other impurites. The majorit
 
 | |<font size="+1">Material Properties</font>| |
 |-|-|-|
-| ![ArgentiteOre](/assets/images/elements/ArgentiteOre.png){width="200"} |<br/>Resource Type: Metal Ore<br/><br/>Melting point: 963°C<br/>80 %  ![MoltenSilver](/assets/images/elements/MoltenSilver.png){.inline-icon} Molten Silver,<br/>20 % ![SulfurGas](/assets/images/elements/SulfurGas.png){.inline-icon} Sulfur Gas<br/><br/>Hardness: 25<br/><br/>Properties: <br/>Antiseptic, General Buildable, Ore, Solid|<br/>Specific Heat Capacity: <br/>0.411 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>5.600 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.46<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+| ![ArgentiteOre](/assets/images/elements/ArgentiteOre.png){width="200"} |<br/>Resource Type: Metal Ore<br/><br/>Melting point: 963°C<br/>87 %  ![MoltenSilver](/assets/images/elements/MoltenSilver.png){.inline-icon} Molten Silver,<br/>13 % ![LiquidSulfur](/assets/images/elements/LiquidSulfur.png){.inline-icon} Liquid Sulfur<br/><br/>Hardness: 25<br/><br/>Properties: <br/>Antiseptic, General Buildable, Ore, Solid|<br/>Specific Heat Capacity: <br/>0.411 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>5.600 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.46<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
 
 #### Slag
 
@@ -332,7 +324,7 @@ Slag is a by-product of smelting (pyrometallurgical) ores and used metals. Despi
 
 #### Sour Water
 
-An aqueous solution of Hydrogen Sulfide (H<sub>2</sub>S>) and Ammonia (NH<sub>3</sub>). May occur naturally from aquifers exposed to hydrogen sulfide sources, but it is more common as a wastewater from industrial processes.
+An aqueous solution of Hydrogen Sulfide (H<sub>2</sub>S) and Ammonia (NH<sub>3</sub>). May occur naturally from aquifers exposed to hydrogen sulfide sources, but it is more common as a wastewater from industrial processes.
 
 | |<font size="+1">Material Properties</font>| |
 |-|-|-|
@@ -360,7 +352,7 @@ Stainless Steel is an Iron based alloy that contains Chromium, making it highly 
 
 | |<font size="+1">Material Properties</font>| |
 |-|-|-|
-| ![SulfuricGas](/assets/images/elements/SulfuricGas.png){width="200"} |<br/>Resource Type: Unbreathable Gas<br/><br/>Condensation point: 336°C<br/>-> ![LiquidSulfuric](/assets/images/elements/LiquidSulfuric.png){.inline-icon} Sulfuric Acid<br/><br/><br/>Properties: <br/>Gas|<br/>Specific Heat Capacity: <br/>0.882 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>0.122 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.3<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+| ![SulfuricGas](/assets/images/elements/SulfuricGas.png){width="200"} |<br/>Resource Type: Unbreathable Gas<br/><br/>Freezing point: 336°C<br/>-> ![LiquidSulfuric](/assets/images/elements/LiquidSulfuric.png){.inline-icon} Sulfuric Acid<br/><br/>Evaporation point: 555°C<br/>-> ![ContaminatedOxygen](/assets/images/elements/ContaminatedOxygen.png){.inline-icon} Polluted Oxygen<br/><br/><br/>Properties: <br/>Gas|<br/>Specific Heat Capacity: <br/>0.882 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>0.122 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.3<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
 
 #### Toxic Clay
 
@@ -384,31 +376,15 @@ A thick, toxic slurry produced as waste product from industrial operations, comp
 
 | |<font size="+1">Material Properties</font>| |
 |-|-|-|
-| ![ToxicSlurry](/assets/images/elements/ToxicSlurry.png){width="200"} |<br/>Resource Type: Liquid<br/><br/>Freezing point: 15°C<br/>-> ![ToxicClay](/assets/images/elements/ToxicClay.png){.inline-icon} Toxic Clay<br/><br/>Evaporation point: 213°C<br/>-> ![ToxicGas](/assets/images/elements/ToxicGas.png){.inline-icon} Toxic Gas<br/><br/><br/>Properties: <br/>Mixture, Water Based|<br/>Specific Heat Capacity: <br/>0.129 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>7.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.3<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+| ![ToxicSlurry](/assets/images/elements/ToxicSlurry.png){width="200"} |<br/>Resource Type: Liquid<br/><br/>Freezing point: 15°C<br/>-> ![ToxicClay](/assets/images/elements/ToxicClay.png){.inline-icon} Toxic Clay<br/><br/>Evaporation point: 213°C<br/>-> ![ToxicGas](/assets/images/elements/ToxicGas.png){.inline-icon} Toxic Gas<br/><br/><br/>Properties: <br/>Mixture|<br/>Specific Heat Capacity: <br/>0.129 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>7.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.3<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
 
-#### Zinc
+#### Zinc (Legacy)
 
-(Zn) Zinc is a bluish-white, lustrous, diamagnetic metal, slightly brittle metal.
+(Zn) Zinc is a bluish-white, lustrous, diamagnetic metal, slightly brittle metal.<br/>This modded version of the element has now been superceded by the vanilla version
 
 | |<font size="+1">Material Properties</font>| |
 |-|-|-|
 | ![SolidZinc](/assets/images/elements/SolidZinc.png){width="200"} |<br/>Resource Type: Refined Metal<br/><br/>Melting point: 420°C<br/>-> ![MoltenZinc](/assets/images/elements/MoltenZinc.png){.inline-icon} Molten Zinc<br/><br/>Hardness: 2<br/><br/>Properties: <br/>General Buildable, Solid|<br/>Specific Heat Capacity: <br/>0.387 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>60.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.5<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
-
-#### Zinc Gas
-
-(Zn) Zinc is a bluish-white, lustrous, diamagnetic metal in its gaseous state.
-
-| |<font size="+1">Material Properties</font>| |
-|-|-|-|
-| ![ZincGas](/assets/images/elements/ZincGas.png){width="200"} |<br/>Resource Type: Unbreathable Gas<br/><br/>Condensation point: 905°C<br/>-> ![MoltenZinc](/assets/images/elements/MoltenZinc.png){.inline-icon} Molten Zinc<br/><br/><br/>Properties: <br/>Gas, Light Emitter, Metal Ore, Refined Metal|<br/>Specific Heat Capacity: <br/>0.223 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>1.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.3<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
-
-#### Zinc Ore
-
-((Zn,Cu)<sub>5</sub>(CO<sub>3</sub>)<sub>2</sub>(OH)<sub>6</sub>) Aurichalcite is a carbonate mineral, and the main source of refined Zinc metal.
-
-| |<font size="+1">Material Properties</font>| |
-|-|-|-|
-| ![AurichalciteOre](/assets/images/elements/AurichalciteOre.png){width="200"} |<br/>Resource Type: Metal Ore<br/><br/>Melting point: 919°C<br/>60 %  ![MoltenZinc](/assets/images/elements/MoltenZinc.png){.inline-icon} Molten Zinc,<br/>40 % ![Copper](/assets/images/elements/Copper.png){.inline-icon} Copper<br/><br/>Hardness: 25<br/><br/>Properties: <br/>General Buildable, Ore, Solid|<br/>Specific Heat Capacity: <br/>0.411 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>3.600 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.46<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
 
 ## Reenabled Elements
 These vanilla elements have been reenabled or partially adjusted
@@ -480,8 +456,6 @@ Synthesis Gas is an artificial, unbreathable Gas.<br/><br/>It can be converted i
  ![SolidSlag](/assets/images/elements/SolidSlag.png){.inline-icon} Slag |  ![HatchVeggie](/assets/images/entities/HatchVeggie.png){.inline-icon} Sage Hatch | 90%  ![AmmoniumSalt](/assets/images/elements/AmmoniumSalt.png){.inline-icon} Nitrate Nodules|
  ![SolidSlag](/assets/images/elements/SolidSlag.png){.inline-icon} Slag |  ![CrabFreshWater](/assets/images/entities/CrabFreshWater.png){.inline-icon} Sanishell | 75%  ![AmmoniumSalt](/assets/images/elements/AmmoniumSalt.png){.inline-icon} Nitrate Nodules|
  ![ArgentiteOre](/assets/images/elements/ArgentiteOre.png){.inline-icon} Silver Ore |  ![HatchMetal](/assets/images/entities/HatchMetal.png){.inline-icon} Smooth Hatch | 75%  ![SolidSilver](/assets/images/elements/SolidSilver.png){.inline-icon} Silver|
- ![AurichalciteOre](/assets/images/elements/AurichalciteOre.png){.inline-icon} Zinc Ore |  ![HatchMetal](/assets/images/entities/HatchMetal.png){.inline-icon} Smooth Hatch | 75%  ![SolidZinc](/assets/images/elements/SolidZinc.png){.inline-icon} Zinc|
  ![Salt](/assets/images/elements/Salt.png){.inline-icon} Salt |  ![HatchHard](/assets/images/entities/HatchHard.png){.inline-icon} Stone Hatch | 25%  ![SolidBorax](/assets/images/elements/SolidBorax.png){.inline-icon} Borax|
  ![ArgentiteOre](/assets/images/elements/ArgentiteOre.png){.inline-icon} Silver Ore |  ![HatchHard](/assets/images/entities/HatchHard.png){.inline-icon} Stone Hatch | 25%  ![Carbon](/assets/images/elements/Carbon.png){.inline-icon} Coal|
- ![AurichalciteOre](/assets/images/elements/AurichalciteOre.png){.inline-icon} Zinc Ore |  ![HatchHard](/assets/images/entities/HatchHard.png){.inline-icon} Stone Hatch | 25%  ![Carbon](/assets/images/elements/Carbon.png){.inline-icon} Coal|
 

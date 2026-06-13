@@ -82,14 +82,6 @@
 |-|-|-|
 | ![IsopropaneGas](/assets/images/elements/IsopropaneGas.png){width="200"} |<br/>资源种类：不可呼吸的气体<br/><br/>熔点：90°C<br/>99 %  ![Propane](/assets/images/elements/Propane.png){.inline-icon} 丙烷,<br/>1 % ![Fullerene](/assets/images/elements/Fullerene.png){.inline-icon} 富勒烯<br/><br/>硬度：0<br/><br/>属性：<br/>气体|<br/>比热容：<br/>9.760 (DTU/g)/ ºC<br/><br/>热导率：<br/>12.720 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.3<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
 
-#### 方铅矿
-
-方铅矿是硫化铅（PbS）的天然矿物形式。对于铅来说最重要的矿石，也是银的重要来源。
-
-| |<font size="+1">材料属性</font>| |
-|-|-|-|
-| ![Galena](/assets/images/elements/Galena.png){width="200"} |<br/>资源种类：金属矿石<br/><br/>熔点：1114°C<br/>40 %  ![MoltenLead](/assets/images/elements/MoltenLead.png){.inline-icon} 熔融铅,<br/>60 % ![MoltenSilver](/assets/images/elements/MoltenSilver.png){.inline-icon} 熔融银<br/><br/>硬度：25<br/><br/>属性：<br/>一般建造材料, 固体, 矿石|<br/>比热容：<br/>0.311 (DTU/g)/ ºC<br/><br/>热导率：<br/>3.600 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.46<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
-
 #### 有毒气体
 
 一种沉重且气味难闻的气体，是工业生产过程中产生的废弃物，由多种不同的化学物质组成。
@@ -104,7 +96,7 @@
 
 | |<font size="+1">材料属性</font>| |
 |-|-|-|
-| ![ToxicSlurry](/assets/images/elements/ToxicSlurry.png){width="200"} |<br/>资源种类：液体<br/><br/>冰点：15°C<br/>-> ![ToxicClay](/assets/images/elements/ToxicClay.png){.inline-icon} 有毒粘土<br/><br/>沸点：213°C<br/>-> ![ToxicGas](/assets/images/elements/ToxicGas.png){.inline-icon} 有毒气体<br/><br/><br/>属性：<br/>水基物, 混合物|<br/>比热容：<br/>0.129 (DTU/g)/ ºC<br/><br/>热导率：<br/>7.000 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.3<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
+| ![ToxicSlurry](/assets/images/elements/ToxicSlurry.png){width="200"} |<br/>资源种类：液体<br/><br/>冰点：15°C<br/>-> ![ToxicClay](/assets/images/elements/ToxicClay.png){.inline-icon} 有毒粘土<br/><br/>沸点：213°C<br/>-> ![ToxicGas](/assets/images/elements/ToxicGas.png){.inline-icon} 有毒气体<br/><br/><br/>属性：<br/>混合物|<br/>比热容：<br/>0.129 (DTU/g)/ ºC<br/><br/>热导率：<br/>7.000 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.3<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
 
 #### 有毒粘土
 
@@ -128,7 +120,7 @@
 
 | |<font size="+1">材料属性</font>| |
 |-|-|-|
-| ![SulfuricGas](/assets/images/elements/SulfuricGas.png){width="200"} |<br/>资源种类：不可呼吸的气体<br/><br/>凝点：336°C<br/>-> ![LiquidSulfuric](/assets/images/elements/LiquidSulfuric.png){.inline-icon} 硫酸<br/><br/><br/>属性：<br/>气体|<br/>比热容：<br/>0.882 (DTU/g)/ ºC<br/><br/>热导率：<br/>0.122 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.3<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
+| ![SulfuricGas](/assets/images/elements/SulfuricGas.png){width="200"} |<br/>资源种类：不可呼吸的气体<br/><br/>冰点：336°C<br/>-> ![LiquidSulfuric](/assets/images/elements/LiquidSulfuric.png){.inline-icon} 硫酸<br/><br/>沸点：555°C<br/>-> ![ContaminatedOxygen](/assets/images/elements/ContaminatedOxygen.png){.inline-icon} 污染氧<br/><br/><br/>属性：<br/>气体|<br/>比热容：<br/>0.882 (DTU/g)/ ºC<br/><br/>热导率：<br/>0.122 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.3<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
 
 #### 气态银
 
@@ -137,14 +129,6 @@
 | |<font size="+1">材料属性</font>| |
 |-|-|-|
 | ![SilverGas](/assets/images/elements/SilverGas.png){width="200"} |<br/>资源种类：不可呼吸的气体<br/><br/>凝点：2161°C<br/>-> ![MoltenSilver](/assets/images/elements/MoltenSilver.png){.inline-icon} 熔融银<br/><br/><br/>属性：<br/>光源, 抗菌物, 气体, 精炼金属, 金属矿石|<br/>比热容：<br/>0.223 (DTU/g)/ ºC<br/><br/>热导率：<br/>1.000 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.3<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
-
-#### 气态锌
-
-（Zn）锌是一种呈蓝白色光泽的抗磁性金属（气态）。
-
-| |<font size="+1">材料属性</font>| |
-|-|-|-|
-| ![ZincGas](/assets/images/elements/ZincGas.png){width="200"} |<br/>资源种类：不可呼吸的气体<br/><br/>凝点：905°C<br/>-> ![MoltenZinc](/assets/images/elements/MoltenZinc.png){.inline-icon} 熔融锌<br/><br/><br/>属性：<br/>光源, 气体, 精炼金属, 金属矿石|<br/>比热容：<br/>0.223 (DTU/g)/ ºC<br/><br/>热导率：<br/>1.000 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.3<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
 
 #### 氨气
 
@@ -164,11 +148,11 @@
 
 #### 氮气
 
-（N<sub>2</sub>）氮是一种非金属元素，是元素周期表第15族中最轻的成员。
+（N<sub>2</sub>）氮是一种非金属元素，是元素周期表第 15 族中最轻的成员，目前处于低温的液态。<br/>一些植物在含氮环境中生长会受益。
 
 | |<font size="+1">材料属性</font>| |
 |-|-|-|
-| ![NitrogenGas](/assets/images/elements/NitrogenGas.png){width="200"} |<br/>资源种类：不可呼吸的气体<br/><br/>凝点：-195.8°C<br/>-> ![LiquidNitrogen](/assets/images/elements/LiquidNitrogen.png){.inline-icon} 液态氮<br/><br/><br/>属性：<br/>气体, 载气|<br/>比热容：<br/>1.850 (DTU/g)/ ºC<br/><br/>热导率：<br/>0.175 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.3<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
+| ![NitrogenGas](/assets/images/elements/NitrogenGas.png){width="200"} |<br/>资源种类：不可呼吸的气体<br/><br/>凝点：-195.8°C<br/>-> ![LiquidNitrogen](/assets/images/elements/LiquidNitrogen.png){.inline-icon} 液态氮<br/><br/><br/>属性：<br/>气体, 气态汽水, 载气|<br/>比热容：<br/>1.850 (DTU/g)/ ºC<br/><br/>热导率：<br/>0.175 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.3<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
 
 #### 油页岩
 
@@ -200,7 +184,7 @@
 
 | |<font size="+1">材料属性</font>| |
 |-|-|-|
-| ![ConcreteBlock](/assets/images/elements/ConcreteBlock.png){width="200"} |<br/>资源种类：人造材料<br/><br/>熔点：1409.85°C<br/>-> ![Magma](/assets/images/elements/Magma.png){.inline-icon} 岩浆<br/><br/>硬度：50<br/><br/>属性：<br/>一般建造材料, 固体, 矿物原料, 隔热体|<br/>比热容：<br/>0.880 (DTU/g)/ ºC<br/><br/>热导率：<br/>0.920 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.7<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
+| ![ConcreteBlock](/assets/images/elements/ConcreteBlock.png){width="200"} |<br/>资源种类：人造材料<br/><br/>熔点：1409.85°C<br/>-> ![Magma](/assets/images/elements/Magma.png){.inline-icon} 岩浆<br/><br/>硬度：50<br/><br/>属性：<br/>一般建造材料, 可做水管的物质, 固体, 矿物原料, 隔热体|<br/>比热容：<br/>0.880 (DTU/g)/ ºC<br/><br/>热导率：<br/>0.920 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.7<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
 
 #### 炉渣
 
@@ -241,14 +225,6 @@
 | |<font size="+1">材料属性</font>| |
 |-|-|-|
 | ![MoltenSilver](/assets/images/elements/MoltenSilver.png){width="200"} |<br/>资源种类：液体<br/><br/>冰点：960°C<br/>-> ![SolidSilver](/assets/images/elements/SolidSilver.png){.inline-icon} 银<br/><br/>沸点：2162°C<br/>-> ![SilverGas](/assets/images/elements/SilverGas.png){.inline-icon} 气态银<br/><br/><br/>属性：<br/>光源, 抗菌物, 精炼金属, 金属矿石|<br/>比热容：<br/>0.129 (DTU/g)/ ºC<br/><br/>热导率：<br/>7.000 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.3<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
-
-#### 熔融锌
-
-（Zn）锌是一种呈蓝白色光泽的抗磁性金属（熔融态）。
-
-| |<font size="+1">材料属性</font>| |
-|-|-|-|
-| ![MoltenZinc](/assets/images/elements/MoltenZinc.png){width="200"} |<br/>资源种类：液体<br/><br/>冰点：417°C<br/>-> ![SolidZinc](/assets/images/elements/SolidZinc.png){.inline-icon} 锌<br/><br/>沸点：907°C<br/>-> ![ZincGas](/assets/images/elements/ZincGas.png){.inline-icon} 气态锌<br/><br/><br/>属性：<br/>光源, 精炼金属, 金属矿石|<br/>比热容：<br/>0.129 (DTU/g)/ ºC<br/><br/>热导率：<br/>7.000 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.3<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
 
 #### 玻璃纤维
 
@@ -306,17 +282,25 @@
 |-|-|-|
 | ![Chloroschist](/assets/images/elements/Chloroschist.png){width="200"} |<br/>资源种类：矿物原料<br/><br/>熔点：1409.85°C<br/>90 %  ![Magma](/assets/images/elements/Magma.png){.inline-icon} 岩浆,<br/>10 % ![ChlorineGas](/assets/images/elements/ChlorineGas.png){.inline-icon} 氯气<br/><br/>硬度：25<br/><br/>属性：<br/>一般建造材料, 可做水管的物质, 固体|<br/>比热容：<br/>1.000 (DTU/g)/ ºC<br/><br/>热导率：<br/>2.000 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.53<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
 
+#### 绿铜锌矿
+
+((Zn,Cu)<sub>5</sub>(CO<sub>3</sub>)<sub>2</sub>(OH)<sub>6</sub>) 绿铜锌矿是一种碳酸盐矿物，是精炼锌和铜的主要来源。
+
+| |<font size="+1">材料属性</font>| |
+|-|-|-|
+| ![AurichalciteOre](/assets/images/elements/AurichalciteOre.png){width="200"} |<br/>资源种类：金属矿石<br/><br/>熔点：919°C<br/>76 %  ![MoltenZinc](/assets/images/elements/MoltenZinc.png){.inline-icon} 熔融锌,<br/>25 % ![Copper](/assets/images/elements/Copper.png){.inline-icon} 铜<br/><br/>硬度：25<br/><br/>属性：<br/>一般建造材料, 固体, 矿石|<br/>比热容：<br/>0.411 (DTU/g)/ ºC<br/><br/>热导率：<br/>3.600 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.46<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
+
 #### 辉银矿
 
 （Ag<sub>2</sub>S）辉银矿是一种立方晶系硫化银矿物，导电金属，是精炼银的主要来源。
 
 | |<font size="+1">材料属性</font>| |
 |-|-|-|
-| ![ArgentiteOre](/assets/images/elements/ArgentiteOre.png){width="200"} |<br/>资源种类：金属矿石<br/><br/>熔点：963°C<br/>80 %  ![MoltenSilver](/assets/images/elements/MoltenSilver.png){.inline-icon} 熔融银,<br/>20 % ![SulfurGas](/assets/images/elements/SulfurGas.png){.inline-icon} 硫蒸气<br/><br/>硬度：25<br/><br/>属性：<br/>一般建造材料, 固体, 抗菌物, 矿石|<br/>比热容：<br/>0.411 (DTU/g)/ ºC<br/><br/>热导率：<br/>5.600 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.46<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
+| ![ArgentiteOre](/assets/images/elements/ArgentiteOre.png){width="200"} |<br/>资源种类：金属矿石<br/><br/>熔点：963°C<br/>87 %  ![MoltenSilver](/assets/images/elements/MoltenSilver.png){.inline-icon} 熔融银,<br/>13 % ![LiquidSulfur](/assets/images/elements/LiquidSulfur.png){.inline-icon} 液态硫<br/><br/>硬度：25<br/><br/>属性：<br/>一般建造材料, 固体, 抗菌物, 矿石|<br/>比热容：<br/>0.411 (DTU/g)/ ºC<br/><br/>热导率：<br/>5.600 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.46<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
 
 #### 酸水
 
-一种由硫化氢（H<sub>2</sub>S>）和氨（NH<sub>3</sub>）组成的水溶液。这种溶液可能自然地从暴露于硫化氢源的含水层中产生，但更常见的是作为工业生产过程中的废水而出现。
+一种由硫化氢（H<sub>2</sub>S）和氨（NH<sub>3</sub>）组成的水溶液。可能自然地从暴露于硫化氢源的含水层中产生，但更常见的是作为工业生产过程中的废水而出现。
 
 | |<font size="+1">材料属性</font>| |
 |-|-|-|
@@ -370,21 +354,13 @@
 |-|-|-|
 | ![SolidSilver](/assets/images/elements/SolidSilver.png){width="200"} |<br/>资源种类：精炼金属<br/><br/>熔点：961°C<br/>-> ![MoltenSilver](/assets/images/elements/MoltenSilver.png){.inline-icon} 熔融银<br/><br/>硬度：2<br/><br/>属性：<br/>一般建造材料, 固体, 抗菌物|<br/>比热容：<br/>0.223 (DTU/g)/ ºC<br/><br/>热导率：<br/>220.000 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.5<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
 
-#### 锌
+#### 锌(废弃)
 
-（Zn）锌是一种呈蓝白色光泽，质地稍脆的抗磁性金属。
+（Zn）锌是一种呈蓝白色光泽，质地稍脆的抗磁性金属。<br/>此修改版本的元素现已由官方版本取代。
 
 | |<font size="+1">材料属性</font>| |
 |-|-|-|
 | ![SolidZinc](/assets/images/elements/SolidZinc.png){width="200"} |<br/>资源种类：精炼金属<br/><br/>熔点：420°C<br/>-> ![MoltenZinc](/assets/images/elements/MoltenZinc.png){.inline-icon} 熔融锌<br/><br/>硬度：2<br/><br/>属性：<br/>一般建造材料, 固体|<br/>比热容：<br/>0.387 (DTU/g)/ ºC<br/><br/>热导率：<br/>60.000 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.5<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
-
-#### 锌矿
-
-((Zn,Cu)<sub>5</sub>(CO<sub>3</sub>)<sub>2</sub>(OH)<sub>6</sub>) 绿铜锌矿是一种碳酸盐矿物，是精炼锌的主要来源。
-
-| |<font size="+1">材料属性</font>| |
-|-|-|-|
-| ![AurichalciteOre](/assets/images/elements/AurichalciteOre.png){width="200"} |<br/>资源种类：金属矿石<br/><br/>熔点：919°C<br/>60 %  ![MoltenZinc](/assets/images/elements/MoltenZinc.png){.inline-icon} 熔融锌,<br/>40 % ![Copper](/assets/images/elements/Copper.png){.inline-icon} 铜<br/><br/>硬度：25<br/><br/>属性：<br/>一般建造材料, 固体, 矿石|<br/>比热容：<br/>0.411 (DTU/g)/ ºC<br/><br/>热导率：<br/>3.600 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.46<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
 
 #### 陨石矿
 
@@ -479,9 +455,7 @@
  ![Chloroschist](/assets/images/elements/Chloroschist.png){.inline-icon} 绿片岩 |  ![HatchVeggie](/assets/images/entities/HatchVeggie.png){.inline-icon} Sage Hatch | 25%  ![BleachStone](/assets/images/elements/BleachStone.png){.inline-icon} 漂白石|
  ![SolidSlag](/assets/images/elements/SolidSlag.png){.inline-icon} 炉渣 |  ![CrabFreshWater](/assets/images/entities/CrabFreshWater.png){.inline-icon} Sanishell | 75%  ![AmmoniumSalt](/assets/images/elements/AmmoniumSalt.png){.inline-icon} 硝酸盐结晶|
  ![ArgentiteOre](/assets/images/elements/ArgentiteOre.png){.inline-icon} 辉银矿 |  ![HatchMetal](/assets/images/entities/HatchMetal.png){.inline-icon} Smooth Hatch | 75%  ![SolidSilver](/assets/images/elements/SolidSilver.png){.inline-icon} 银|
- ![AurichalciteOre](/assets/images/elements/AurichalciteOre.png){.inline-icon} 锌矿 |  ![HatchMetal](/assets/images/entities/HatchMetal.png){.inline-icon} Smooth Hatch | 75%  ![SolidZinc](/assets/images/elements/SolidZinc.png){.inline-icon} 锌|
  ![Salt](/assets/images/elements/Salt.png){.inline-icon} 盐 |  ![HatchHard](/assets/images/entities/HatchHard.png){.inline-icon} Stone Hatch | 25%  ![SolidBorax](/assets/images/elements/SolidBorax.png){.inline-icon} 硼砂|
  ![ArgentiteOre](/assets/images/elements/ArgentiteOre.png){.inline-icon} 辉银矿 |  ![HatchHard](/assets/images/entities/HatchHard.png){.inline-icon} Stone Hatch | 25%  ![Carbon](/assets/images/elements/Carbon.png){.inline-icon} 煤炭|
- ![AurichalciteOre](/assets/images/elements/AurichalciteOre.png){.inline-icon} 锌矿 |  ![HatchHard](/assets/images/entities/HatchHard.png){.inline-icon} Stone Hatch | 25%  ![Carbon](/assets/images/elements/Carbon.png){.inline-icon} 煤炭|
  ![SolidSlag](/assets/images/elements/SolidSlag.png){.inline-icon} 炉渣 |  ![Crab](/assets/images/entities/Crab.png){.inline-icon} 抛壳蟹 | 75%  ![AmmoniumSalt](/assets/images/elements/AmmoniumSalt.png){.inline-icon} 硝酸盐结晶|
 

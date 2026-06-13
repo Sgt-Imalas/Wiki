@@ -44,7 +44,7 @@
 | ![HightechSmallFridge](/assets/images/buildings/HightechSmallFridge.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 1 x 高 2|
 |**耗电:**| 240瓦 |&#8288 {: style="padding:0"}|
 |**科技:**| 美食制备|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>精炼金属</td><td>200千克</td></tr><tr><td>塑料</td><td>50千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>精炼金属</td><td>200千克</td></tr><tr><td>密封圈</td><td>1000克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 |**<font size="+1">存储容量:</font>**| 100千克|&#8288 {: style="padding:0"}|
 | **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>固体 输入轨道</td><td>-</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
@@ -100,7 +100,7 @@
 | ![HightechBigFridge](/assets/images/buildings/HightechBigFridge.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 2 x 高 3|
 |**耗电:**| 480瓦 |&#8288 {: style="padding:0"}|
 |**科技:**| 美食制备|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>精炼金属</td><td>700千克</td></tr><tr><td>塑料</td><td>100千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>精炼金属</td><td>700千克</td></tr><tr><td>密封圈</td><td>2000克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 |**<font size="+1">存储容量:</font>**| 300千克|&#8288 {: style="padding:0"}|
 | **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>固体 输入轨道</td><td>-</td></tr><tr><td>水 输入管道</td><td>-</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
@@ -115,7 +115,7 @@
 | ![SpaceBox](/assets/images/buildings/SpaceBox.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 1 x 高 1|
 |**耗电:**|  -  |&#8288 {: style="padding:0"}|
 |**科技:**| 农业|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>精炼金属</td><td>100千克</td></tr><tr><td>塑料</td><td>50千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>精炼金属</td><td>100千克</td></tr><tr><td>密封圈</td><td>1000克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 |**<font size="+1">存储容量:</font>**| 50千克|&#8288 {: style="padding:0"}|
 
 

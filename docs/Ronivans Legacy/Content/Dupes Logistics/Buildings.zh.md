@@ -100,7 +100,7 @@
 ## 物流轨桥
 将轨道系统进行分区有助于确保物资能够准确运达指定目的地。
 
-让一段物流轨道可以穿过另一端物流轨道，而不会连在一起。<br/>可穿过墙体和地面。
+让一段物流轨道可以穿过另一端物流轨道，而不会连在一起。<br/><br/>可穿过墙体和地面。
 
 | | | |
 |-|-|-|
@@ -133,7 +133,7 @@
 | | | |
 |-|-|-|
 | ![CabinetFrozen](/assets/images/buildings/CabinetFrozen.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 1 x 高 2|
-|**耗电:**| 240瓦 |&#8288 {: style="padding:0"}|
+|**耗电:**| 480瓦 |&#8288 {: style="padding:0"}|
 |**科技:**| 固体控制|&#8288 {: style="padding:0"}| 
 |**<font size="+1">建造材料:</font>**|<table><tr><td>精炼金属</td><td>200千克</td></tr><tr><td>矿物原料</td><td>200千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 |**<font size="+1">存储容量:</font>**| 20吨|&#8288 {: style="padding:0"}|

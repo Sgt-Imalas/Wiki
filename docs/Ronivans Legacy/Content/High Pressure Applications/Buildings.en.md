@@ -9,7 +9,7 @@ Dispenses Gases in high pressure environments.<br/><br/>Must be connected to a H
 | ![HPAVentGas](/assets/images/buildings/HPAVentGas.png){height="100"} {rowspan="3"}|**Dimensions:** | 1 wide x 1 high|
 |**Power Consumption:**| 120 W |&#8288 {: style="padding:0"}|
 |**Research Required:**| HVAC|&#8288 {: style="padding:0"}| 
-|**<font size="+1">Material Costs:</font>**|<table><tr><td>Steel or Hardened Alloy</td><td>200 kg</td></tr><tr><td>Plastics</td><td>100 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">Material Costs:</font>**|<table><tr><td>Steel or Hardened Alloy</td><td>200 kg</td></tr><tr><td>Gasket</td><td>2000 g</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Gas Input Pipe</td><td>-</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 
@@ -23,7 +23,7 @@ Dispenses Liquids in high pressure environments.<br/><br/>Must be connected to a
 | ![HPAVentLiquid](/assets/images/buildings/HPAVentLiquid.png){height="100"} {rowspan="3"}|**Dimensions:** | 1 wide x 1 high|
 |**Power Consumption:**| 120 W |&#8288 {: style="padding:0"}|
 |**Research Required:**| Improved Plumbing|&#8288 {: style="padding:0"}| 
-|**<font size="+1">Material Costs:</font>**|<table><tr><td>Steel or Hardened Alloy</td><td>200 kg</td></tr><tr><td>Plastics</td><td>100 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">Material Costs:</font>**|<table><tr><td>Steel or Hardened Alloy</td><td>200 kg</td></tr><tr><td>Gasket</td><td>2000 g</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Liquid Input Pipe</td><td>-</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 
@@ -65,7 +65,7 @@ Automates Sweeping and Supplying errands by sucking up all nearby Debris.<br/><b
 | ![HPA_TransferArm](/assets/images/buildings/HPA_TransferArm.png){height="100"} {rowspan="3"}|**Dimensions:** | 3 wide x 1 high|
 |**Power Consumption:**| 960 W |&#8288 {: style="padding:0"}|
 |**Research Required:**| High-Capacity Solid Transport|&#8288 {: style="padding:0"}| 
-|**<font size="+1">Material Costs:</font>**|<table><tr><td>Steel or Hardened Alloy</td><td>400 kg</td></tr><tr><td>Plastics</td><td>100 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">Material Costs:</font>**|<table><tr><td>Steel or Hardened Alloy</td><td>400 kg</td></tr><tr><td>Gasket</td><td>2000 g</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 
 ## Heavy-Duty Bridge
@@ -78,7 +78,7 @@ Allows Heavy-Duty Rail and Insulated Heavy-Duty Rail to run one section over ano
 | ![HPA_SolidRailBridge](/assets/images/buildings/HPA_SolidRailBridge.png){height="100"} {rowspan="3"}|**Dimensions:** | 3 wide x 1 high|
 |**Power Consumption:**|  -  |&#8288 {: style="padding:0"}|
 |**Research Required:**| High-Capacity Solid Transport|&#8288 {: style="padding:0"}| 
-|**<font size="+1">Material Costs:</font>**|<table><tr><td>Steel or Tungsten or Hardened Alloy</td><td>100 kg</td></tr><tr><td>Transparent</td><td>50 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">Material Costs:</font>**|<table><tr><td>Steel or Tungsten or Hardened Alloy</td><td>100 kg</td></tr><tr><td>Glassy</td><td>50 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Solid Input Rail</td><td>Solid Output Rail</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 
@@ -92,7 +92,7 @@ Allows Heavy-Duty Rail and Insulated Heavy-Duty Rail to be run through wall and 
 | ![HPA_SolidRailBridgeTile](/assets/images/buildings/HPA_SolidRailBridgeTile.png){height="100"} {rowspan="3"}|**Dimensions:** | 1 wide x 1 high|
 |**Power Consumption:**|  -  |&#8288 {: style="padding:0"}|
 |**Research Required:**| High-Capacity Solid Transport|&#8288 {: style="padding:0"}| 
-|**<font size="+1">Material Costs:</font>**|<table><tr><td>Raw Mineral</td><td>400 kg</td></tr><tr><td>Steel or Tungsten or Hardened Alloy</td><td>100 kg</td></tr><tr><td>Transparent</td><td>50 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">Material Costs:</font>**|<table><tr><td>Raw Mineral</td><td>400 kg</td></tr><tr><td>Steel or Tungsten or Hardened Alloy</td><td>100 kg</td></tr><tr><td>Glassy</td><td>50 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Solid Input Rail</td><td>Solid Output Rail</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 
@@ -106,7 +106,7 @@ Loads Solid Materials onto Heavy-Duty Rail for transport.<br/><br/>Only loads th
 | ![HPA_InBox](/assets/images/buildings/HPA_InBox.png){height="100"} {rowspan="3"}|**Dimensions:** | 3 wide x 1 high|
 |**Power Consumption:**| 960 W |&#8288 {: style="padding:0"}|
 |**Research Required:**| High-Capacity Solid Transport|&#8288 {: style="padding:0"}| 
-|**<font size="+1">Material Costs:</font>**|<table><tr><td>Steel or Hardened Alloy</td><td>300 kg</td></tr><tr><td>Plastics</td><td>100 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">Material Costs:</font>**|<table><tr><td>Steel or Hardened Alloy</td><td>300 kg</td></tr><tr><td>Gasket</td><td>2000 g</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 |**<font size="+1">Storage Capacity:</font>**| 10 t|&#8288 {: style="padding:0"}|
 | **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>-</td><td>Solid Output Rail</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
@@ -134,7 +134,7 @@ Merges chunks of Solid Materials from incoming rails and ouputs them onto a Heav
 | ![HPA_RailMerger](/assets/images/buildings/HPA_RailMerger.png){height="100"} {rowspan="3"}|**Dimensions:** | 3 wide x 2 high|
 |**Power Consumption:**| 60 W |&#8288 {: style="padding:0"}|
 |**Research Required:**| High-Capacity Solid Transport|&#8288 {: style="padding:0"}| 
-|**<font size="+1">Material Costs:</font>**|<table><tr><td>Steel or Tungsten or Hardened Alloy</td><td>250 kg</td></tr><tr><td>Plastics</td><td>150 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">Material Costs:</font>**|<table><tr><td>Steel or Tungsten or Hardened Alloy</td><td>250 kg</td></tr><tr><td>Gasket</td><td>3000 g</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Solid Input Rail</td><td>Solid Output Rail</td></tr><tr><td>Solid Input Rail</td><td>-</td></tr><tr><td>Solid Input Rail</td><td>-</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 
@@ -148,7 +148,7 @@ Separates all selected Solid Materials from the conveyor, sending it into a dedi
 | ![HPA_MultiSolidFilter](/assets/images/buildings/HPA_MultiSolidFilter.png){height="100"} {rowspan="3"}|**Dimensions:** | 3 wide x 1 high|
 |**Power Consumption:**| 360 W |&#8288 {: style="padding:0"}|
 |**Research Required:**| Solid Management|&#8288 {: style="padding:0"}| 
-|**<font size="+1">Material Costs:</font>**|<table><tr><td>Steel or Hardened Alloy</td><td>200 kg</td></tr><tr><td>Plastics</td><td>100 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">Material Costs:</font>**|<table><tr><td>Steel or Hardened Alloy</td><td>200 kg</td></tr><tr><td>Gasket</td><td>2000 g</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Solid Input Rail</td><td>Solid Output Rail</td></tr><tr><td>-</td><td>Solid Output Rail</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 
@@ -203,12 +203,12 @@ Filters all selected Gases from the air, sending it into a dedicated Filtered Ou
 | ![HPA_MultiGasFilter](/assets/images/buildings/HPA_MultiGasFilter.png){height="100"} {rowspan="3"}|**Dimensions:** | 3 wide x 1 high|
 |**Power Consumption:**| 360 W |&#8288 {: style="padding:0"}|
 |**Research Required:**| Valve Miniaturization|&#8288 {: style="padding:0"}| 
-|**<font size="+1">Material Costs:</font>**|<table><tr><td>Steel or Hardened Alloy</td><td>200 kg</td></tr><tr><td>Plastics</td><td>100 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">Material Costs:</font>**|<table><tr><td>Steel or Hardened Alloy</td><td>200 kg</td></tr><tr><td>Gasket</td><td>2000 g</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Gas Input Pipe</td><td>Gas Output Pipe</td></tr><tr><td>-</td><td>Gas Output Pipe</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 
 ## High Pressure Gas Pump
-An advanced pump that perform mechanical work to compress and move gases. More powerful than the standard pump, this one is capable of moving large amounts of gases, although this is only archived through the High Pressure Gas Pipe.
+An advanced pump that performs mechanical work to compress and move gases. More powerful than the standard pump, this one is capable of moving large amounts of gases, although this is only archived through the High Pressure Gas Pipe.
 
 Draws in Gas and runs it through High Pressure Gas Pipe.<br/><br/>Must be submerged in Gas.
 
@@ -217,7 +217,7 @@ Draws in Gas and runs it through High Pressure Gas Pipe.<br/><br/>Must be submer
 | ![PressureGasPump](/assets/images/buildings/PressureGasPump.png){height="100"} {rowspan="3"}|**Dimensions:** | 2 wide x 3 high|
 |**Power Consumption:**| 2.4 kW |&#8288 {: style="padding:0"}|
 |**Research Required:**| Valve Miniaturization|&#8288 {: style="padding:0"}| 
-|**<font size="+1">Material Costs:</font>**|<table><tr><td>Steel or Hardened Alloy</td><td>400 kg</td></tr><tr><td>Plastics</td><td>200 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">Material Costs:</font>**|<table><tr><td>Steel or Hardened Alloy</td><td>400 kg</td></tr><tr><td>Gasket</td><td>4000 g</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>-</td><td>Gas Output Pipe</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 
@@ -245,7 +245,7 @@ Filters all selected Liquids out of a mix, sending it into a dedicated Filtered 
 | ![HPA_MultiLiquidFilter](/assets/images/buildings/HPA_MultiLiquidFilter.png){height="100"} {rowspan="3"}|**Dimensions:** | 3 wide x 1 high|
 |**Power Consumption:**| 360 W |&#8288 {: style="padding:0"}|
 |**Research Required:**| Valve Miniaturization|&#8288 {: style="padding:0"}| 
-|**<font size="+1">Material Costs:</font>**|<table><tr><td>Steel or Hardened Alloy</td><td>200 kg</td></tr><tr><td>Plastics</td><td>100 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">Material Costs:</font>**|<table><tr><td>Steel or Hardened Alloy</td><td>200 kg</td></tr><tr><td>Gasket</td><td>2000 g</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Liquid Input Pipe</td><td>Liquid Output Pipe</td></tr><tr><td>-</td><td>Liquid Output Pipe</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 
@@ -263,7 +263,7 @@ Carries a maximum of 40 kg of Liquid with minimal change in Temperature.<br/><br
 
 
 ## High Pressure Liquid Pump
-An advanced pump that perform mechanical work to compress and move fluids. More powerful than the standard pump, this one is capable of moving large amounts of liquids, although this is only archived through the High Pressure Liquid Pipe.
+An advanced pump that performs mechanical work to compress and move fluids. More powerful than the standard pump, this one is capable of moving large amounts of liquids, although this is only archived through the High Pressure Liquid Pipe.
 
 Draws in Liquid and runs it through High Pressure Liquid Pipe.<br/><br/>Must be submerged in Liquid.
 
@@ -272,7 +272,7 @@ Draws in Liquid and runs it through High Pressure Liquid Pipe.<br/><br/>Must be 
 | ![PressureLiquidPump](/assets/images/buildings/PressureLiquidPump.png){height="100"} {rowspan="3"}|**Dimensions:** | 2 wide x 3 high|
 |**Power Consumption:**| 960 W |&#8288 {: style="padding:0"}|
 |**Research Required:**| Valve Miniaturization|&#8288 {: style="padding:0"}| 
-|**<font size="+1">Material Costs:</font>**|<table><tr><td>Steel or Hardened Alloy</td><td>400 kg</td></tr><tr><td>Plastics</td><td>200 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">Material Costs:</font>**|<table><tr><td>Steel or Hardened Alloy</td><td>400 kg</td></tr><tr><td>Gasket</td><td>4000 g</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>-</td><td>Liquid Output Pipe</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 
@@ -286,6 +286,6 @@ Transports large quantities of Solid Materials.<br/><br/>Can not be run through 
 | ![HPA_SolidRail_Insulated](/assets/images/buildings/HPA_SolidRail_Insulated.png){height="100"} {rowspan="3"}|**Dimensions:** | 1 wide x 1 high|
 |**Power Consumption:**|  -  |&#8288 {: style="padding:0"}|
 |**Research Required:**| High-Capacity Solid Transport|&#8288 {: style="padding:0"}| 
-|**<font size="+1">Material Costs:</font>**|<table><tr><td>Steel or Tungsten or Hardened Alloy</td><td>125 kg</td></tr><tr><td>Transparent</td><td>25 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">Material Costs:</font>**|<table><tr><td>Steel or Tungsten or Hardened Alloy</td><td>125 kg</td></tr><tr><td>Glassy</td><td>25 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 

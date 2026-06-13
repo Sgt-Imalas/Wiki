@@ -100,7 +100,7 @@ Allows Solid Materials to be transfered from normal Conveyor Rails to Logistic R
 ## Logistic Solid Bridge
 Separating rail systems helps ensure materials go to the intended destinations.
 
-Runs one Conveyor Rail section over another without joining them.<br/><br/>Can be run through wall and floor tile.
+Runs one Logistic Rail section over another without joining them.<br/><br/>Can be run through wall and floor tile.
 
 | | | |
 |-|-|-|
@@ -133,7 +133,7 @@ Store the Solid Materials of your choosing.<br/><br/>Consumes Power to cool the 
 | | | |
 |-|-|-|
 | ![CabinetFrozen](/assets/images/buildings/CabinetFrozen.png){height="100"} {rowspan="3"}|**Dimensions:** | 1 wide x 2 high|
-|**Power Consumption:**| 240 W |&#8288 {: style="padding:0"}|
+|**Power Consumption:**| 480 W |&#8288 {: style="padding:0"}|
 |**Research Required:**| Solid Control|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Refined Metal</td><td>200 kg</td></tr><tr><td>Raw Mineral</td><td>200 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 |**<font size="+1">Storage Capacity:</font>**| 20 t|&#8288 {: style="padding:0"}|

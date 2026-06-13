@@ -23,7 +23,7 @@ This device uses Uranium Ore. As the fuel decays, it turns to liquid Nuclear Was
 | ![HepProjector](/assets/images/buildings/HepProjector.png){height="100"} {rowspan="3"}|**Dimensions:** | 3 wide x 1 high|
 |**Power Consumption:**|  -  |&#8288 {: style="padding:0"}|
 |**Research Required:**| Radiation Refinement|&#8288 {: style="padding:0"}| 
-|**<font size="+1">Material Costs:</font>**|<table><tr><td>Refined Metal</td><td>100 kg</td></tr><tr><td>Plastics</td><td>50 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">Material Costs:</font>**|<table><tr><td>Refined Metal</td><td>100 kg</td></tr><tr><td>Gasket</td><td>1000 g</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>-</td><td>Liquid Output Pipe</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 #### Element Conversion
@@ -63,7 +63,7 @@ The Zippe-type centrifuge is a gas device designed to enrich the rare fissile En
 | ![HepCentrifuge](/assets/images/buildings/HepCentrifuge.png){height="100"} {rowspan="3"}|**Dimensions:** | 3 wide x 6 high|
 |**Power Consumption:**| 800 W |&#8288 {: style="padding:0"}|
 |**Research Required:**| Radiation Refinement|&#8288 {: style="padding:0"}| 
-|**<font size="+1">Material Costs:</font>**|<table><tr><td>Refined Metal</td><td>400 kg</td></tr><tr><td>Plastics</td><td>200 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">Material Costs:</font>**|<table><tr><td>Refined Metal</td><td>400 kg</td></tr><tr><td>Gasket</td><td>4000 g</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 #### Element Conversion
 |Inputs:|Outputs:|

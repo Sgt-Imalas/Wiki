@@ -20,7 +20,7 @@ This mod adds several new meteors to the existing showers.
 ## Aurichalcite Meteor
 | ![ZincComet](/assets/images/entities/ZincComet.png){width="100"} |Aurichalcite Meteor|
 |-|-|
-|Material| ![AurichalciteOre](/assets/images/elements/AurichalciteOre.png){.inline-icon} Zinc Ore|
+|Material| ![AurichalciteOre](/assets/images/elements/AurichalciteOre.png){.inline-icon} Aurichalcite|
 |Mass|1|
 |Material Properties|General Buildable, Metal Ore, Ore, Solid|
 

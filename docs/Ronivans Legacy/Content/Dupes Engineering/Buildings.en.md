@@ -2,7 +2,7 @@
 ## Alert LED
 A white colored alert light.
 
-A led light that servers as alert. Produces no significant luminosity.
+A led light that serves as an alert. Produces no significant luminosity.
 
 | | | |
 |-|-|-|
@@ -77,7 +77,7 @@ A light-weight door with intricate designs that suggests it belongs to a industr
 ## Insulation Composite Tile
 Used to build the walls and floors of rooms. Reduces heat transfer between walls, retaining ambient heat in an area.
 
-A solid tile assembled in a range of materials and radiative pattern that reduce the heat transfer.
+A solid tile assembled in a range of materials and radiative pattern that reduce the heat transfer.<br/>It has the same insulating properties as the regular insulated tile, but offers a small run speed bonus to duplicants.
 
 | | | |
 |-|-|-|
@@ -110,7 +110,7 @@ A solid window wrought from steel and fitted with thick layers of glass. Hermeti
 | ![SpacerWindowLarge](/assets/images/buildings/SpacerWindowLarge.png){height="100"} {rowspan="3"}|**Dimensions:** | 2 wide x 2 high|
 |**Power Consumption:**|  -  |&#8288 {: style="padding:0"}|
 |**Research Required:**| Glass Blowing|&#8288 {: style="padding:0"}| 
-|**<font size="+1">Material Costs:</font>**|<table><tr><td>Transparent</td><td>45 kg</td></tr><tr><td>Steel or Hardened Alloy</td><td>15 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">Material Costs:</font>**|<table><tr><td>Glassy</td><td>45 kg</td></tr><tr><td>Steel or Hardened Alloy</td><td>15 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 
 ## Large Structure Frame
@@ -188,7 +188,7 @@ A mechanized airlock door made with Glass panels. Blocks Liquid and Gas flow, ma
 | ![GlassDoorComplex](/assets/images/buildings/GlassDoorComplex.png){height="100"} {rowspan="3"}|**Dimensions:** | 1 wide x 2 high|
 |**Power Consumption:**| 120 W |&#8288 {: style="padding:0"}|
 |**Research Required:**| Transit Tubes|&#8288 {: style="padding:0"}| 
-|**<font size="+1">Material Costs:</font>**|<table><tr><td>Refined Metal</td><td>100 kg</td></tr><tr><td>Transparent</td><td>50 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">Material Costs:</font>**|<table><tr><td>Refined Metal</td><td>100 kg</td></tr><tr><td>Glassy</td><td>50 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 
 ## Simple Glass Door
@@ -201,7 +201,7 @@ A simple door made with Glass panels. Encloses areas without blocking Liquid or 
 | ![GlassDoorSimple](/assets/images/buildings/GlassDoorSimple.png){height="100"} {rowspan="3"}|**Dimensions:** | 1 wide x 2 high|
 |**Power Consumption:**|  -  |&#8288 {: style="padding:0"}|
 |**Research Required:**| Transit Tubes|&#8288 {: style="padding:0"}| 
-|**<font size="+1">Material Costs:</font>**|<table><tr><td>Refined Metal</td><td>100 kg</td></tr><tr><td>Transparent</td><td>25 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">Material Costs:</font>**|<table><tr><td>Refined Metal</td><td>100 kg</td></tr><tr><td>Glassy</td><td>25 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 
 ## Small Structure Frame
@@ -260,7 +260,7 @@ A solid wall wrought from steel and fitted with thick layers of glass. Hermetica
 | ![SpacerWindowWall](/assets/images/buildings/SpacerWindowWall.png){height="100"} {rowspan="3"}|**Dimensions:** | 1 wide x 1 high|
 |**Power Consumption:**|  -  |&#8288 {: style="padding:0"}|
 |**Research Required:**| Glass Blowing|&#8288 {: style="padding:0"}| 
-|**<font size="+1">Material Costs:</font>**|<table><tr><td>Transparent</td><td>15 kg</td></tr><tr><td>Steel or Hardened Alloy</td><td>5 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">Material Costs:</font>**|<table><tr><td>Glassy</td><td>15 kg</td></tr><tr><td>Steel or Hardened Alloy</td><td>5 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 ### Blueprint
 |Blueprint|Name|
@@ -291,7 +291,7 @@ This windowed tile allows light and visibility through while maintaining a stron
 | ![SpacerTileWindow](/assets/images/buildings/SpacerTileWindow.png){height="100"} {rowspan="3"}|**Dimensions:** | 1 wide x 1 high|
 |**Power Consumption:**|  -  |&#8288 {: style="padding:0"}|
 |**Research Required:**| Glass Blowing|&#8288 {: style="padding:0"}| 
-|**<font size="+1">Material Costs:</font>**|<table><tr><td>Transparent</td><td>95 kg</td></tr><tr><td>Refined Metal</td><td>5 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">Material Costs:</font>**|<table><tr><td>Glassy</td><td>95 kg</td></tr><tr><td>Refined Metal</td><td>5 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 
 ## Wood Composite Tile

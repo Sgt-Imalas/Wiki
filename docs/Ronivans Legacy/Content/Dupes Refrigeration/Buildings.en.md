@@ -44,7 +44,7 @@ The sealed storage of this fridge keeps food very cold, but not in sterile atmos
 | ![HightechSmallFridge](/assets/images/buildings/HightechSmallFridge.png){height="100"} {rowspan="3"}|**Dimensions:** | 1 wide x 2 high|
 |**Power Consumption:**| 240 W |&#8288 {: style="padding:0"}|
 |**Research Required:**| Gourmet Meal Preparation|&#8288 {: style="padding:0"}| 
-|**<font size="+1">Material Costs:</font>**|<table><tr><td>Refined Metal</td><td>200 kg</td></tr><tr><td>Plastics</td><td>50 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">Material Costs:</font>**|<table><tr><td>Refined Metal</td><td>200 kg</td></tr><tr><td>Gasket</td><td>1000 g</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 |**<font size="+1">Storage Capacity:</font>**| 100 kg|&#8288 {: style="padding:0"}|
 | **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Solid Input Rail</td><td>-</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
@@ -100,7 +100,7 @@ The sealed storage of this fridge keeps food very cold, but not in sterile atmos
 | ![HightechBigFridge](/assets/images/buildings/HightechBigFridge.png){height="100"} {rowspan="3"}|**Dimensions:** | 2 wide x 3 high|
 |**Power Consumption:**| 480 W |&#8288 {: style="padding:0"}|
 |**Research Required:**| Gourmet Meal Preparation|&#8288 {: style="padding:0"}| 
-|**<font size="+1">Material Costs:</font>**|<table><tr><td>Refined Metal</td><td>700 kg</td></tr><tr><td>Plastics</td><td>100 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">Material Costs:</font>**|<table><tr><td>Refined Metal</td><td>700 kg</td></tr><tr><td>Gasket</td><td>2000 g</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 |**<font size="+1">Storage Capacity:</font>**| 300 kg|&#8288 {: style="padding:0"}|
 | **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Solid Input Rail</td><td>-</td></tr><tr><td>Water Input Pipe</td><td>-</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
@@ -115,7 +115,7 @@ The sealed storage compartment of this box allows complete vacuum through connec
 | ![SpaceBox](/assets/images/buildings/SpaceBox.png){height="100"} {rowspan="3"}|**Dimensions:** | 1 wide x 1 high|
 |**Power Consumption:**|  -  |&#8288 {: style="padding:0"}|
 |**Research Required:**| Agriculture|&#8288 {: style="padding:0"}| 
-|**<font size="+1">Material Costs:</font>**|<table><tr><td>Refined Metal</td><td>100 kg</td></tr><tr><td>Plastics</td><td>50 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">Material Costs:</font>**|<table><tr><td>Refined Metal</td><td>100 kg</td></tr><tr><td>Gasket</td><td>1000 g</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 |**<font size="+1">Storage Capacity:</font>**| 50 kg|&#8288 {: style="padding:0"}|
 
 

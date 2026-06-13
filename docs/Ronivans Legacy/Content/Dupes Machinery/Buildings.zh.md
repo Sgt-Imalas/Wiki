@@ -139,7 +139,7 @@
 | ![FlocculationSieve](/assets/images/buildings/FlocculationSieve.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 4 x 高 3|
 |**耗电:**| 240瓦 |&#8288 {: style="padding:0"}|
 |**科技:**| 基于液体的精炼工艺|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>钢 或 硬化合金</td><td>200千克</td></tr><tr><td>塑料</td><td>100千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>钢 或 硬化合金</td><td>200千克</td></tr><tr><td>密封圈</td><td>2000克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>氯气 输入管道</td><td>液体 输出管道</td></tr><tr><td>污染水 输入管道</td><td>-</td></tr><tr><td>有毒泥浆 输入管道</td><td>-</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 #### 元素转换

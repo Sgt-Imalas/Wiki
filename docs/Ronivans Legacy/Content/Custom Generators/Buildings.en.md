@@ -69,7 +69,7 @@ Converts Sunlight into electrical Power.<br/><br/>Can be rotated.
 | ![CustomSolarPanel](/assets/images/buildings/CustomSolarPanel.png){height="100"} {rowspan="3"}|**Dimensions:** | 1 wide x 5 high|
 |**Power Generation:**| 80 W |&#8288 {: style="padding:0"}|
 |**Research Required:**| Renewable Energy|&#8288 {: style="padding:0"}| 
-|**<font size="+1">Material Costs:</font>**|<table><tr><td>Glass</td><td>50 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">Material Costs:</font>**|<table><tr><td>Glassy</td><td>50 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 
 ## Custom Steam Turbine
@@ -82,7 +82,7 @@ Draws in Steam from the tiles directly below the machine's foundation and uses i
 | ![CustomSteamGenerator](/assets/images/buildings/CustomSteamGenerator.png){height="100"} {rowspan="3"}|**Dimensions:** | 1 wide x 5 high|
 |**Power Generation:**| 283 W |&#8288 {: style="padding:0"}|
 |**Research Required:**| Renewable Energy|&#8288 {: style="padding:0"}| 
-|**<font size="+1">Material Costs:</font>**|<table><tr><td>Refined Metal</td><td>250 kg</td></tr><tr><td>Plastics</td><td>50 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">Material Costs:</font>**|<table><tr><td>Refined Metal</td><td>250 kg</td></tr><tr><td>Gasket</td><td>1000 g</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>-</td><td>Liquid Output Pipe</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 

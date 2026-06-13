@@ -69,7 +69,7 @@
 | ![CustomSolarPanel](/assets/images/buildings/CustomSolarPanel.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 1 x 高 5|
 |**发电:**| 80瓦 |&#8288 {: style="padding:0"}|
 |**科技:**| 可再生能源|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>玻璃</td><td>50千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>玻璃状</td><td>50千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 
 ## 小型蒸汽涡轮机
@@ -82,7 +82,7 @@
 | ![CustomSteamGenerator](/assets/images/buildings/CustomSteamGenerator.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 1 x 高 5|
 |**发电:**| 283瓦 |&#8288 {: style="padding:0"}|
 |**科技:**| 可再生能源|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>精炼金属</td><td>250千克</td></tr><tr><td>塑料</td><td>50千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>精炼金属</td><td>250千克</td></tr><tr><td>密封圈</td><td>1000克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>-</td><td>液体 输出管道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 

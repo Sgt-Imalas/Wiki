@@ -132,14 +132,14 @@ Distills Ethanol from a fermented mixture of Sucrose and Water. The fermenting p
 ## Flocculation Sieve
 A dedicated industrial sieve that flocculates colloidal particles out of suspension to sediment under the form of floc. Strong filter media further improves the cleaning process of liquids.
 
-Treat Polluted Water or Toxic Slurry using special filter and chemicals. Sieve process also completely removesGerms.
+Treat Polluted Water or Toxic Slurry using special filter and chemicals. Sieve process also completely removes Germs.
 
 | | | |
 |-|-|-|
 | ![FlocculationSieve](/assets/images/buildings/FlocculationSieve.png){height="100"} {rowspan="3"}|**Dimensions:** | 4 wide x 3 high|
 |**Power Consumption:**| 240 W |&#8288 {: style="padding:0"}|
 |**Research Required:**| Liquid-Based Refinement Processes|&#8288 {: style="padding:0"}| 
-|**<font size="+1">Material Costs:</font>**|<table><tr><td>Steel or Hardened Alloy</td><td>200 kg</td></tr><tr><td>Plastics</td><td>100 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">Material Costs:</font>**|<table><tr><td>Steel or Hardened Alloy</td><td>200 kg</td></tr><tr><td>Gasket</td><td>2000 g</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Chlorine Gas Input Pipe</td><td>Liquid Output Pipe</td></tr><tr><td>Polluted Water Input Pipe</td><td>-</td></tr><tr><td>Toxic Slurry Input Pipe</td><td>-</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 #### Element Conversion
