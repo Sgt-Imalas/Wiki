@@ -64,7 +64,7 @@ Brass is an alloy of Copper and Zinc, widely used to make utensils due to proper
 
 | |<font size="+1">Material Properties</font>| |
 |-|-|-|
-| ![SolidBrass](/assets/images/elements/SolidBrass.png){width="200"} |<br/>Resource Type: Manufactured Material<br/><br/>Melting point: 920°C<br/>70 %  ![MoltenCopper](/assets/images/elements/MoltenCopper.png){.inline-icon} Molten Copper,<br/>30 % ![ZincGas](/assets/images/elements/ZincGas.png){.inline-icon} Zinc Gas<br/><br/>Hardness: 35<br/><br/>Properties: <br/>General Buildable, Metal Ore, Refined Metal, Solid, Uncrushable|<br/>Specific Heat Capacity: <br/>0.380 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>208.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.7<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+| ![SolidBrass](/assets/images/elements/SolidBrass.png){width="200"} |<br/>Resource Type: Manufactured Material<br/><br/>Melting point: 920°C<br/>70 %  ![MoltenCopper](/assets/images/elements/MoltenCopper.png){.inline-icon} Molten Copper,<br/>30 % ![ZincGas](/assets/images/elements/ZincGas.png){.inline-icon} Zinc Gas<br/><br/>Hardness: 35<br/><br/>Properties: <br/>General Buildable, Glass Dye, Metal Ore, Refined Metal, Solid, Uncrushable|<br/>Specific Heat Capacity: <br/>0.380 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>208.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.7<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
 
 #### Carbon Composite
 
@@ -288,7 +288,7 @@ A fossil gas consisting of gaseous hydrocarbons and other impurites. The majorit
 
 | |<font size="+1">Material Properties</font>| |
 |-|-|-|
-| ![SolidSilver](/assets/images/elements/SolidSilver.png){width="200"} |<br/>Resource Type: Refined Metal<br/><br/>Melting point: 961°C<br/>-> ![MoltenSilver](/assets/images/elements/MoltenSilver.png){.inline-icon} Molten Silver<br/><br/>Hardness: 2<br/><br/>Properties: <br/>Antiseptic, General Buildable, Solid|<br/>Specific Heat Capacity: <br/>0.223 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>220.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.5<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+| ![SolidSilver](/assets/images/elements/SolidSilver.png){width="200"} |<br/>Resource Type: Refined Metal<br/><br/>Melting point: 961°C<br/>-> ![MoltenSilver](/assets/images/elements/MoltenSilver.png){.inline-icon} Molten Silver<br/><br/>Hardness: 2<br/><br/>Properties: <br/>Antiseptic, General Buildable, Glass Dye, Solid|<br/>Specific Heat Capacity: <br/>0.223 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>220.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.5<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
 
 #### Silver Gas
 
@@ -384,7 +384,7 @@ A thick, toxic slurry produced as waste product from industrial operations, comp
 
 | |<font size="+1">Material Properties</font>| |
 |-|-|-|
-| ![SolidZinc](/assets/images/elements/SolidZinc.png){width="200"} |<br/>Resource Type: Refined Metal<br/><br/>Melting point: 420°C<br/>-> ![MoltenZinc](/assets/images/elements/MoltenZinc.png){.inline-icon} Molten Zinc<br/><br/>Hardness: 2<br/><br/>Properties: <br/>General Buildable, Solid|<br/>Specific Heat Capacity: <br/>0.387 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>60.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.5<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+| ![SolidZinc](/assets/images/elements/SolidZinc.png){width="200"} |<br/>Resource Type: Refined Metal<br/><br/>Melting point: 420°C<br/>-> ![MoltenZinc](/assets/images/elements/MoltenZinc.png){.inline-icon} Molten Zinc<br/><br/>Hardness: 2<br/><br/>Properties: <br/>General Buildable, Glass Dye, Solid|<br/>Specific Heat Capacity: <br/>0.387 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>60.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.5<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
 
 ## Reenabled Elements
 These vanilla elements have been reenabled or partially adjusted
@@ -403,7 +403,7 @@ Electrum is a conductive Metal alloy composed of gold and silver.<br/><br/>It is
 
 | |<font size="+1">Material Properties</font>| |
 |-|-|-|
-| ![Electrum](/assets/images/elements/Electrum.png){width="200"} |<br/>Resource Type: Metal Ore<br/><br/>Melting point: 1022.71°C<br/>40 %  ![MoltenSilver](/assets/images/elements/MoltenSilver.png){.inline-icon} Molten Silver,<br/>60 % ![Gold](/assets/images/elements/Gold.png){.inline-icon} Gold<br/><br/>Hardness: 2<br/><br/>Properties: <br/>General Buildable, Ore, Solid|<br/>Specific Heat Capacity: <br/>0.150 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>2.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.35<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+| ![Electrum](/assets/images/elements/Electrum.png){width="200"} |<br/>Resource Type: Metal Ore<br/><br/>Melting point: 1022.71°C<br/>40 %  ![MoltenSilver](/assets/images/elements/MoltenSilver.png){.inline-icon} Molten Silver,<br/>60 % ![Gold](/assets/images/elements/Gold.png){.inline-icon} Gold<br/><br/>Hardness: 2<br/><br/>Properties: <br/>General Buildable, Glass Dye, Ore, Solid|<br/>Specific Heat Capacity: <br/>0.150 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>2.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.35<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
 
 #### Liquid Propane
 

@@ -7,9 +7,10 @@
 
 | | | |
 |-|-|-|
-| ![GeyserGeneric_AmmoniaGeyser](/assets/images/geysers/GeyserGeneric_AmmoniaGeyser.png) {rowspan="3"} |尺寸: | 宽 4 x 高 2|
+| ![GeyserGeneric_AmmoniaGeyser](/assets/images/geysers/GeyserGeneric_AmmoniaGeyser.png) {rowspan="4"} |尺寸: | 宽 4 x 高 2|
 |排放 |  ![LiquidAmmonia](/assets/images/elements/LiquidAmmonia.png){.inline-icon} 液态氨 于 -63°C|&#8288 {: style="padding:0"} |
 |平均产出：{0} | 175克/s (50克/s - 300克/s)|&#8288 {: style="padding:0"} |
+|地质调谐 | 需要资源： ![Katairite](/assets/images/elements/Katairite.png){.inline-icon} 深渊晶石 ||&#8288 {: style="padding:0"} |
 
 
 ## 氨水泉
@@ -18,9 +19,10 @@
 
 | | | |
 |-|-|-|
-| ![GeyserGeneric_AmmoniumWaterGeyser](/assets/images/geysers/GeyserGeneric_AmmoniumWaterGeyser.png) {rowspan="3"} |尺寸: | 宽 4 x 高 2|
+| ![GeyserGeneric_AmmoniumWaterGeyser](/assets/images/geysers/GeyserGeneric_AmmoniumWaterGeyser.png) {rowspan="4"} |尺寸: | 宽 4 x 高 2|
 |排放 |  ![AmmoniumWater](/assets/images/elements/AmmoniumWater.png){.inline-icon} 氨水 于 -1°C|&#8288 {: style="padding:0"} |
 |平均产出：{0} | 1500克/s (1000克/s - 2000克/s)|&#8288 {: style="padding:0"} |
+|地质调谐 | 需要资源： ![BleachStone](/assets/images/elements/BleachStone.png){.inline-icon} 漂白石 ||&#8288 {: style="padding:0"} |
 
 
 ## 高温汞汽喷孔
@@ -29,9 +31,10 @@
 
 | | | |
 |-|-|-|
-| ![GeyserGeneric_HotMercuryGasVent](/assets/images/geysers/GeyserGeneric_HotMercuryGasVent.png) {rowspan="3"} |尺寸: | 宽 2 x 高 4|
+| ![GeyserGeneric_HotMercuryGasVent](/assets/images/geysers/GeyserGeneric_HotMercuryGasVent.png) {rowspan="4"} |尺寸: | 宽 2 x 高 4|
 |排放 |  ![MercuryGas](/assets/images/elements/MercuryGas.png){.inline-icon} 汞蒸气 于 447°C|&#8288 {: style="padding:0"} |
 |平均产出：{0} | 550克/s (350克/s - 750克/s)|&#8288 {: style="padding:0"} |
+|地质调谐 | 需要资源： ![Phosphorus](/assets/images/elements/Phosphorus.png){.inline-icon} 精炼磷 ||&#8288 {: style="padding:0"} |
 
 
 ## 熔盐火山
@@ -40,9 +43,10 @@
 
 | | | |
 |-|-|-|
-| ![GeyserGeneric_MoltenSaltGeyser](/assets/images/geysers/GeyserGeneric_MoltenSaltGeyser.png) {rowspan="3"} |尺寸: | 宽 4 x 高 2|
+| ![GeyserGeneric_MoltenSaltGeyser](/assets/images/geysers/GeyserGeneric_MoltenSaltGeyser.png) {rowspan="4"} |尺寸: | 宽 4 x 高 2|
 |排放 |  ![MoltenSalt](/assets/images/elements/MoltenSalt.png){.inline-icon} 熔融盐 于 1027°C|&#8288 {: style="padding:0"} |
 |平均产出：{0} | 750克/s (500克/s - 1000克/s)|&#8288 {: style="padding:0"} |
+|地质调谐 | 需要资源： ![Phosphorus](/assets/images/elements/Phosphorus.png){.inline-icon} 精炼磷 ||&#8288 {: style="padding:0"} |
 
 
 ## 液磷泉
@@ -51,9 +55,10 @@
 
 | | | |
 |-|-|-|
-| ![GeyserGeneric_PhosphorusGeyser](/assets/images/geysers/GeyserGeneric_PhosphorusGeyser.png) {rowspan="3"} |尺寸: | 宽 4 x 高 2|
+| ![GeyserGeneric_PhosphorusGeyser](/assets/images/geysers/GeyserGeneric_PhosphorusGeyser.png) {rowspan="4"} |尺寸: | 宽 4 x 高 2|
 |排放 |  ![LiquidPhosphorus](/assets/images/elements/LiquidPhosphorus.png){.inline-icon} 液态磷 于 119°C|&#8288 {: style="padding:0"} |
 |平均产出：{0} | 750克/s (500克/s - 1000克/s)|&#8288 {: style="padding:0"} |
+|地质调谐 | 需要资源： ![Salt](/assets/images/elements/Salt.png){.inline-icon} 盐 ||&#8288 {: style="padding:0"} |
 
 
 ## 高温原料气喷孔
@@ -62,9 +67,10 @@
 
 | | | |
 |-|-|-|
-| ![GeyserGeneric_RawGasVent](/assets/images/geysers/GeyserGeneric_RawGasVent.png) {rowspan="3"} |尺寸: | 宽 2 x 高 4|
+| ![GeyserGeneric_RawGasVent](/assets/images/geysers/GeyserGeneric_RawGasVent.png) {rowspan="4"} |尺寸: | 宽 2 x 高 4|
 |排放 |  ![RawNaturalGas](/assets/images/elements/RawNaturalGas.png){.inline-icon} 原料(天然)气 于 500°C|&#8288 {: style="padding:0"} |
 |平均产出：{0} | 210克/s (140克/s - 280克/s)|&#8288 {: style="padding:0"} |
+|地质调谐 | 需要资源： ![Katairite](/assets/images/elements/Katairite.png){.inline-icon} 深渊晶石 ||&#8288 {: style="padding:0"} |
 
 
 ## 酸水泉
@@ -73,9 +79,10 @@
 
 | | | |
 |-|-|-|
-| ![GeyserGeneric_SourWaterGeyser](/assets/images/geysers/GeyserGeneric_SourWaterGeyser.png) {rowspan="3"} |尺寸: | 宽 4 x 高 2|
+| ![GeyserGeneric_SourWaterGeyser](/assets/images/geysers/GeyserGeneric_SourWaterGeyser.png) {rowspan="4"} |尺寸: | 宽 4 x 高 2|
 |排放 |  ![SourWater](/assets/images/elements/SourWater.png){.inline-icon} 酸水 于 5°C|&#8288 {: style="padding:0"} |
 |平均产出：{0} | 1500克/s (1000克/s - 2000克/s)|&#8288 {: style="padding:0"} |
+|地质调谐 | 需要资源： ![BleachStone](/assets/images/elements/BleachStone.png){.inline-icon} 漂白石 ||&#8288 {: style="padding:0"} |
 
 
 ## 氮气喷孔
@@ -84,7 +91,8 @@
 
 | | | |
 |-|-|-|
-| ![GeyserGeneric_NitrogenVent](/assets/images/geysers/GeyserGeneric_NitrogenVent.png) {rowspan="3"} |尺寸: | 宽 2 x 高 4|
+| ![GeyserGeneric_NitrogenVent](/assets/images/geysers/GeyserGeneric_NitrogenVent.png) {rowspan="4"} |尺寸: | 宽 2 x 高 4|
 |排放 |  ![NitrogenGas](/assets/images/elements/NitrogenGas.png){.inline-icon} 氮气 于 400°C|&#8288 {: style="padding:0"} |
 |平均产出：{0} | 225克/s (100克/s - 350克/s)|&#8288 {: style="padding:0"} |
+|地质调谐 | 需要资源： ![Salt](/assets/images/elements/Salt.png){.inline-icon} 盐 ||&#8288 {: style="padding:0"} |
 
