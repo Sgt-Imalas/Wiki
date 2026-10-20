@@ -46,7 +46,7 @@ The sealed storage of this fridge keeps food very cold, but not in sterile atmos
 |**Research Required:**| Gourmet Meal Preparation|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Refined Metal</td><td>200 kg</td></tr><tr><td>Gasket</td><td>1000 g</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 |**<font size="+1">Storage Capacity:</font>**| 100 kg|&#8288 {: style="padding:0"}|
-| **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Solid Input Rail</td><td>-</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
+| **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Solid Input Rail</td><td>-</td></tr><tr><td>Sterile Atmosphere Input Pipe</td><td>-</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 
 ## Home Fridge
@@ -102,7 +102,7 @@ The sealed storage of this fridge keeps food very cold, but not in sterile atmos
 |**Research Required:**| Gourmet Meal Preparation|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Refined Metal</td><td>700 kg</td></tr><tr><td>Gasket</td><td>2000 g</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 |**<font size="+1">Storage Capacity:</font>**| 300 kg|&#8288 {: style="padding:0"}|
-| **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Solid Input Rail</td><td>-</td></tr><tr><td>Water Input Pipe</td><td>-</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
+| **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Solid Input Rail</td><td>-</td></tr><tr><td>Water Input Pipe</td><td>-</td></tr><tr><td>Sterile Atmosphere Input Pipe</td><td>-</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 
 ## Spacefaring Food Box

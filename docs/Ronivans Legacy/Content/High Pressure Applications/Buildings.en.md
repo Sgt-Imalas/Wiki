@@ -166,19 +166,6 @@ Allows Solid Materials to be transfered from Heavy-Duty Rails to normal Conveyor
 | **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Solid Input Rail</td><td>Solid Output Rail</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 
-## High Pressure Gas Conduit
-A reinforced gas pipe capable of handling high pressure flow.<br/>Composite nature of the pipe prevents gas contents from significantly changing temperature in transit.
-
-Carries a maximum of 10 kg of Gas with minimal change in Temperature.<br/><br/>Can be run through wall and floor tile.
-
-| | | |
-|-|-|-|
-| ![HighPressureGasConduit](/assets/images/buildings/HighPressureGasConduit.png){height="100"} {rowspan="3"}|**Dimensions:** | 1 wide x 1 high|
-|**Power Consumption:**|  -  |&#8288 {: style="padding:0"}|
-|**Research Required:**| Improved Ventilation|&#8288 {: style="padding:0"}| 
-|**<font size="+1">Material Costs:</font>**|<table><tr><td>Steel or Tungsten or Hardened Alloy</td><td>10 kg</td></tr><tr><td>Plastics</td><td>5 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
-
-
 ## High Pressure Gas Conduit Bridge
 A reinforced gas pipe bridge capable of handling high pressure flow.<br/>Composite nature of the pipe prevents gas contents from significantly changing temperature in transit.
 
@@ -207,6 +194,19 @@ Filters all selected Gases from the air, sending it into a dedicated Filtered Ou
 | **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Gas Input Pipe</td><td>Gas Output Pipe</td></tr><tr><td>-</td><td>Gas Output Pipe</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 
+## High Pressure Gas Pipe
+A reinforced gas pipe capable of handling high pressure flow.<br/>Composite nature of the pipe prevents gas contents from significantly changing temperature in transit.
+
+Carries a maximum of 10 kg of Gas with minimal change in Temperature.<br/><br/>Can be run through wall and floor tile.
+
+| | | |
+|-|-|-|
+| ![HighPressureGasConduit](/assets/images/buildings/HighPressureGasConduit.png){height="100"} {rowspan="3"}|**Dimensions:** | 1 wide x 1 high|
+|**Power Consumption:**|  -  |&#8288 {: style="padding:0"}|
+|**Research Required:**| Improved Ventilation|&#8288 {: style="padding:0"}| 
+|**<font size="+1">Material Costs:</font>**|<table><tr><td>Steel or Tungsten or Hardened Alloy</td><td>10 kg</td></tr><tr><td>Plastics</td><td>5 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+
+
 ## High Pressure Gas Pump
 An advanced pump that performs mechanical work to compress and move gases. More powerful than the standard pump, this one is capable of moving large amounts of gases, although this is only archived through the High Pressure Gas Pipe.
 
@@ -221,7 +221,7 @@ Draws in Gas and runs it through High Pressure Gas Pipe.<br/><br/>Must be submer
 | **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>-</td><td>Gas Output Pipe</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 
-## High Pressure Liquid Conduit Bridge
+## High Pressure Liquid Bridge
 A reinforced liquid pipe bridge capable of handling high pressure flow. Composite nature of the pipe prevents liquid contents from significantly changing temperature in transit.
 
 Runs one High Pressure Liquid Pipe section over another without joining them.<br/><br/>Can be run through wall and floor tile.
@@ -287,5 +287,31 @@ Transports large quantities of Solid Materials.<br/><br/>Can not be run through 
 |**Power Consumption:**|  -  |&#8288 {: style="padding:0"}|
 |**Research Required:**| High-Capacity Solid Transport|&#8288 {: style="padding:0"}| 
 |**<font size="+1">Material Costs:</font>**|<table><tr><td>Steel or Tungsten or Hardened Alloy</td><td>125 kg</td></tr><tr><td>Glassy</td><td>25 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+
+
+## Radiant High Pressure Gas Pipe
+A reinforced gas pipe capable of handling high pressure flow, optimized for temperature exchange.
+
+Carries a maximum of 10 kg of Gas, allowing extreme Temperature exchange with the surrounding environment..<br/><br/>Can be run through wall and floor tile.
+
+| | | |
+|-|-|-|
+| ![HighPressureGasConduitRadiant](/assets/images/buildings/HighPressureGasConduitRadiant.png){height="100"} {rowspan="3"}|**Dimensions:** | 1 wide x 1 high|
+|**Power Consumption:**|  -  |&#8288 {: style="padding:0"}|
+|**Research Required:**| HVAC|&#8288 {: style="padding:0"}| 
+|**<font size="+1">Material Costs:</font>**|<table><tr><td>Steel or Tungsten or Hardened Alloy</td><td>30 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+
+
+## Radiant High Pressure Liquid Pipe
+A reinforced liquid pipe capable of handling high pressure flow, optimized for temperature exchange.
+
+Carries a maximum of 40 kg of Liquid, allowing extreme Temperature exchange with the surrounding environment..<br/><br/>Can be run through wall and floor tile.
+
+| | | |
+|-|-|-|
+| ![HighPressureLiquidConduitRadiant](/assets/images/buildings/HighPressureLiquidConduitRadiant.png){height="100"} {rowspan="3"}|**Dimensions:** | 1 wide x 1 high|
+|**Power Consumption:**|  -  |&#8288 {: style="padding:0"}|
+|**Research Required:**| Liquid Tuning|&#8288 {: style="padding:0"}| 
+|**<font size="+1">Material Costs:</font>**|<table><tr><td>Steel or Tungsten or Hardened Alloy</td><td>30 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 

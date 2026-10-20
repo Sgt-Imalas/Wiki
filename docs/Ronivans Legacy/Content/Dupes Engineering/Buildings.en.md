@@ -97,7 +97,7 @@ A large solid wall wrought from steel. Hermetically sealed joints prevent gas le
 | ![SpacerWallLarge](/assets/images/buildings/SpacerWallLarge.png){height="100"} {rowspan="3"}|**Dimensions:** | 2 wide x 2 high|
 |**Power Consumption:**|  -  |&#8288 {: style="padding:0"}|
 |**Research Required:**| High Culture|&#8288 {: style="padding:0"}| 
-|**<font size="+1">Material Costs:</font>**|<table><tr><td>Steel or Hardened Alloy</td><td>25 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">Material Costs:</font>**|<table><tr><td>Refined Metal</td><td>25 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 
 ## Large Spacer Window
@@ -240,7 +240,7 @@ A solid wall panel wrought from steel. Hermetically sealed joints prevent gas le
 | ![SpacerWall](/assets/images/buildings/SpacerWall.png){height="100"} {rowspan="3"}|**Dimensions:** | 1 wide x 1 high|
 |**Power Consumption:**|  -  |&#8288 {: style="padding:0"}|
 |**Research Required:**| High Culture|&#8288 {: style="padding:0"}| 
-|**<font size="+1">Material Costs:</font>**|<table><tr><td>Steel or Hardened Alloy</td><td>10 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">Material Costs:</font>**|<table><tr><td>Refined Metal</td><td>10 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 ### Blueprint
 |Blueprint|Name|

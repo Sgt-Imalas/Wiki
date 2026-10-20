@@ -20,7 +20,7 @@ Converts Refined Carbon into Power.<br/>The waste products are either released i
 
 
 ## Custom Combustion Generator
-A small, custom Combustible Liquid generator. This rather versatile generator has piped outputs.
+A small, custom Combustible Liquid generator. This rather versatile generator has optional piped outputs.
 
 Converts Combustable Fuel into Power.<br/>The waste products are either released into the world or inserted into pipes.
 
@@ -40,7 +40,7 @@ Converts Combustable Fuel into Power.<br/>The waste products are either released
 
 
 ## Custom Gas Generator
-A small, custom Combustible Gas generator. This rather versatile generator has piped outputs.
+A small, custom Combustible Gas generator. This rather versatile generator has optional piped outputs.
 
 Converts Combustible Gas into Power.<br/>The waste products are either released into the world or inserted into pipes.
 

@@ -5,7 +5,7 @@ Enabling this mod in the config will add several new elements to the game or ree
 |<font size="+1">Material</font> | | <font size="+1">Elements</font> |
 |:-:|:-:|:-|
 |<font size="+1">Carrier Gas</font> <br/> <br/>|Carrier Gases are inert or semi-inert gases that are used in plasma related processes.| ![Helium](/assets/images/elements/Helium.png){.inline-icon} Helium<br/> ![Hydrogen](/assets/images/elements/Hydrogen.png){.inline-icon} Hydrogen Gas<br/> ![NitrogenGas](/assets/images/elements/NitrogenGas.png){.inline-icon} Nitrogen<br/>|
-|<font size="+1">Hardened Alloy</font> <br/> <br/>|Hardened Alloys are a fusion of two or more materials.<br/>Their high material strength allows them to be used as a substitute to Steel.| ![PhosphorBronze](/assets/images/elements/PhosphorBronze.png){.inline-icon} Phosphor Bronze<br/> ![AIO_Permendur_Solid](/assets/images/elements/AIO_Permendur_Solid.png){.inline-icon} Permendur<br/> ![Plasteel](/assets/images/elements/Plasteel.png){.inline-icon} Plasteel<br/> ![AIO_StainlessSteel_Solid](/assets/images/elements/AIO_StainlessSteel_Solid.png){.inline-icon} Stainless Steel<br/> ![AIO_Invar_Solid](/assets/images/elements/AIO_Invar_Solid.png){.inline-icon} Invar<br/> ![UnobtaniumAlloy](/assets/images/elements/UnobtaniumAlloy.png){.inline-icon} Neutronium Alloy<br/> ![TempConductorSolid](/assets/images/elements/TempConductorSolid.png){.inline-icon} Thermium<br/>|
+|<font size="+1">Hardened Alloy</font> <br/> <br/>|Hardened Alloys are a fusion of two or more materials.<br/>Their high material strength allows them to be used as a substitute to Steel.| ![PhosphorBronze](/assets/images/elements/PhosphorBronze.png){.inline-icon} Phosphor Bronze<br/> ![AIO_Permendur_Solid](/assets/images/elements/AIO_Permendur_Solid.png){.inline-icon} Permendur<br/> ![Plasteel](/assets/images/elements/Plasteel.png){.inline-icon} Plasteel<br/> ![AIO_StainlessSteel_Solid](/assets/images/elements/AIO_StainlessSteel_Solid.png){.inline-icon} Stainless Steel<br/> ![AIO_Invar_Solid](/assets/images/elements/AIO_Invar_Solid.png){.inline-icon} Invar<br/> ![TempConductorSolid](/assets/images/elements/TempConductorSolid.png){.inline-icon} Thermium<br/>|
 |<font size="+1">Metallic Sand</font> <br/> <br/>|Sandy materials composed of a various number of metallic grains| ![BaseGradeSand](/assets/images/elements/BaseGradeSand.png){.inline-icon} Base-Grade Metallic Sand<br/> ![LowGradeSand](/assets/images/elements/LowGradeSand.png){.inline-icon} Low-Grade Metallic Sand<br/> ![HighGradeSand](/assets/images/elements/HighGradeSand.png){.inline-icon} High-Grade Metallic Sand<br/>|
 
 ## New Elements
@@ -16,7 +16,7 @@ Enabling this mod in the config will add several new elements to the game or ree
 
 | |<font size="+1">Material Properties</font>| |
 |-|-|-|
-| ![AmmoniaGas](/assets/images/elements/AmmoniaGas.png){width="200"} |<br/>Resource Type: Unbreathable Gas<br/><br/>Condensation point: -33.6°C<br/>-> ![LiquidAmmonia](/assets/images/elements/LiquidAmmonia.png){.inline-icon} Liquid Ammonia<br/><br/><br/>Properties: <br/>Gas|<br/>Specific Heat Capacity: <br/>2.175 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>0.507 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.3<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+| ![AmmoniaGas](/assets/images/elements/AmmoniaGas.png){width="200"} |<br/>Resource Type: Unbreathable Gas<br/><br/>Condensation point: -33.6°C<br/>-> ![LiquidAmmonia](/assets/images/elements/LiquidAmmonia.png){.inline-icon} Liquid Ammonia<br/><br/><br/>Properties: <br/>Gas, Sterile Atmosphere|<br/>Specific Heat Capacity: <br/>2.175 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>0.507 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.3<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
 
 #### Ammonia Snow
 
@@ -64,7 +64,7 @@ Brass is an alloy of Copper and Zinc, widely used to make utensils due to proper
 
 | |<font size="+1">Material Properties</font>| |
 |-|-|-|
-| ![SolidBrass](/assets/images/elements/SolidBrass.png){width="200"} |<br/>Resource Type: Manufactured Material<br/><br/>Melting point: 920°C<br/>70 %  ![MoltenCopper](/assets/images/elements/MoltenCopper.png){.inline-icon} Molten Copper,<br/>30 % ![ZincGas](/assets/images/elements/ZincGas.png){.inline-icon} Zinc Gas<br/><br/>Hardness: 35<br/><br/>Properties: <br/>General Buildable, Glass Dye, Metal Ore, Refined Metal, Solid, Uncrushable|<br/>Specific Heat Capacity: <br/>0.380 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>208.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.7<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+| ![SolidBrass](/assets/images/elements/SolidBrass.png){width="200"} |<br/>Resource Type: Manufactured Material<br/><br/>Melting point: 920°C<br/>70 %  ![MoltenCopper](/assets/images/elements/MoltenCopper.png){.inline-icon} Molten Copper,<br/>30 % ![ZincGas](/assets/images/elements/ZincGas.png){.inline-icon} Zinc Gas<br/><br/>Hardness: 35<br/><br/>Properties: <br/>General Buildable, Metal Ore, Refined Metal, Solid, Uncrushable|<br/>Specific Heat Capacity: <br/>0.380 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>208.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.7<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
 
 #### Carbon Composite
 
@@ -152,7 +152,7 @@ Invar is a nickel-iron alloy, composed of 35% Nickel and 65% Iron which is notab
 
 | |<font size="+1">Material Properties</font>| |
 |-|-|-|
-| ![IsopropaneGas](/assets/images/elements/IsopropaneGas.png){width="200"} |<br/>Resource Type: Unbreathable Gas<br/><br/>Melting point: 90°C<br/>99 %  ![Propane](/assets/images/elements/Propane.png){.inline-icon} Propane Gas,<br/>1 % ![Fullerene](/assets/images/elements/Fullerene.png){.inline-icon} Fullerene<br/><br/>Hardness: 0<br/><br/>Properties: <br/>Gas|<br/>Specific Heat Capacity: <br/>9.760 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>12.720 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.3<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+| ![IsopropaneGas](/assets/images/elements/IsopropaneGas.png){width="200"} |<br/>Resource Type: Unbreathable Gas<br/><br/>Melting point: 90°C<br/>99 %  ![Propane](/assets/images/elements/Propane.png){.inline-icon} Propane Gas,<br/>1 % ![Fullerene](/assets/images/elements/Fullerene.png){.inline-icon} Fullerene<br/><br/>Hardness: 0<br/><br/>Properties: <br/>Gas, Sterile Atmosphere|<br/>Specific Heat Capacity: <br/>9.760 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>12.720 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.3<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
 
 #### Liquid Ammonia
 
@@ -232,7 +232,7 @@ Molten Slag is a by-product of smelting (pyrometallurgical) ores and used metals
 
 | |<font size="+1">Material Properties</font>| |
 |-|-|-|
-| ![LiquidNitric](/assets/images/elements/LiquidNitric.png){width="200"} |<br/>Resource Type: Liquid<br/><br/>Freezing point: -42°C<br/>50 %  ![NitrogenGas](/assets/images/elements/NitrogenGas.png){.inline-icon} Nitrogen,<br/>50 % ![DirtyIce](/assets/images/elements/DirtyIce.png){.inline-icon} Polluted Ice<br/><br/>Evaporation point: 121°C<br/>50 %  ![NitrogenGas](/assets/images/elements/NitrogenGas.png){.inline-icon} Nitrogen,<br/>50 % ![Steam](/assets/images/elements/Steam.png){.inline-icon} Steam<br/><br/><br/>Properties: <br/>Mixture|<br/>Specific Heat Capacity: <br/>0.998 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>0.889 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.3<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+| ![LiquidNitric](/assets/images/elements/LiquidNitric.png){width="200"} |<br/>Resource Type: Liquid<br/><br/>Freezing point: -42°C<br/>50 %  ![NitrogenGas](/assets/images/elements/NitrogenGas.png){.inline-icon} Nitrogen,<br/>50 % ![DirtyIce](/assets/images/elements/DirtyIce.png){.inline-icon} Polluted Ice<br/><br/>Evaporation point: 121°C<br/>50 %  ![NitrogenGas](/assets/images/elements/NitrogenGas.png){.inline-icon} Nitrogen,<br/>50 % ![Steam](/assets/images/elements/Steam.png){.inline-icon} Steam<br/><br/><br/>Properties: <br/>Acid, Mixture|<br/>Specific Heat Capacity: <br/>0.998 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>0.889 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.3<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
 
 #### Nitrogen
 
@@ -240,7 +240,7 @@ Molten Slag is a by-product of smelting (pyrometallurgical) ores and used metals
 
 | |<font size="+1">Material Properties</font>| |
 |-|-|-|
-| ![NitrogenGas](/assets/images/elements/NitrogenGas.png){width="200"} |<br/>Resource Type: Unbreathable Gas<br/><br/>Condensation point: -195.8°C<br/>-> ![LiquidNitrogen](/assets/images/elements/LiquidNitrogen.png){.inline-icon} Liquid Nitrogen<br/><br/><br/>Properties: <br/>Carrier Gas, Gas, Soda Gas|<br/>Specific Heat Capacity: <br/>1.850 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>0.175 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.3<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+| ![NitrogenGas](/assets/images/elements/NitrogenGas.png){width="200"} |<br/>Resource Type: Unbreathable Gas<br/><br/>Condensation point: -195.8°C<br/>-> ![LiquidNitrogen](/assets/images/elements/LiquidNitrogen.png){.inline-icon} Liquid Nitrogen<br/><br/><br/>Properties: <br/>Carrier Gas, Gas, Soda Gas, Sterile Atmosphere|<br/>Specific Heat Capacity: <br/>1.850 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>0.175 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.3<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
 
 #### Oil Shale
 
@@ -288,7 +288,7 @@ A fossil gas consisting of gaseous hydrocarbons and other impurites. The majorit
 
 | |<font size="+1">Material Properties</font>| |
 |-|-|-|
-| ![SolidSilver](/assets/images/elements/SolidSilver.png){width="200"} |<br/>Resource Type: Refined Metal<br/><br/>Melting point: 961°C<br/>-> ![MoltenSilver](/assets/images/elements/MoltenSilver.png){.inline-icon} Molten Silver<br/><br/>Hardness: 2<br/><br/>Properties: <br/>Antiseptic, General Buildable, Glass Dye, Solid|<br/>Specific Heat Capacity: <br/>0.223 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>220.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.5<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+| ![SolidSilver](/assets/images/elements/SolidSilver.png){width="200"} |<br/>Resource Type: Refined Metal<br/><br/>Melting point: 961°C<br/>-> ![MoltenSilver](/assets/images/elements/MoltenSilver.png){.inline-icon} Molten Silver<br/><br/>Hardness: 2<br/><br/>Properties: <br/>Antiseptic, General Buildable, Solid|<br/>Specific Heat Capacity: <br/>0.223 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>220.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.5<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
 
 #### Silver Gas
 
@@ -344,7 +344,7 @@ Stainless Steel is an Iron based alloy that contains Chromium, making it highly 
 
 | |<font size="+1">Material Properties</font>| |
 |-|-|-|
-| ![LiquidSulfuric](/assets/images/elements/LiquidSulfuric.png){width="200"} |<br/>Resource Type: Liquid<br/><br/>Freezing point: 10.31°C<br/>65 %  ![DirtyWater](/assets/images/elements/DirtyWater.png){.inline-icon} Polluted Water,<br/>35 % ![Sulfur](/assets/images/elements/Sulfur.png){.inline-icon} Sulfur<br/><br/>Evaporation point: 337°C<br/>-> ![SulfuricGas](/assets/images/elements/SulfuricGas.png){.inline-icon} Sulfuric Gas<br/><br/><br/>Properties: <br/>Mixture, Sulfuric Acid|<br/>Specific Heat Capacity: <br/>0.335 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>4.221 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.3<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+| ![LiquidSulfuric](/assets/images/elements/LiquidSulfuric.png){width="200"} |<br/>Resource Type: Liquid<br/><br/>Freezing point: 10.31°C<br/>65 %  ![DirtyWater](/assets/images/elements/DirtyWater.png){.inline-icon} Polluted Water,<br/>35 % ![Sulfur](/assets/images/elements/Sulfur.png){.inline-icon} Sulfur<br/><br/>Evaporation point: 337°C<br/>-> ![SulfuricGas](/assets/images/elements/SulfuricGas.png){.inline-icon} Sulfuric Gas<br/><br/><br/>Properties: <br/>Acid, Mixture, Sulfuric Acid|<br/>Specific Heat Capacity: <br/>0.335 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>4.221 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.3<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
 
 #### Sulfuric Gas
 
@@ -352,7 +352,7 @@ Stainless Steel is an Iron based alloy that contains Chromium, making it highly 
 
 | |<font size="+1">Material Properties</font>| |
 |-|-|-|
-| ![SulfuricGas](/assets/images/elements/SulfuricGas.png){width="200"} |<br/>Resource Type: Unbreathable Gas<br/><br/>Freezing point: 336°C<br/>-> ![LiquidSulfuric](/assets/images/elements/LiquidSulfuric.png){.inline-icon} Sulfuric Acid<br/><br/>Evaporation point: 555°C<br/>-> ![ContaminatedOxygen](/assets/images/elements/ContaminatedOxygen.png){.inline-icon} Polluted Oxygen<br/><br/><br/>Properties: <br/>Gas|<br/>Specific Heat Capacity: <br/>0.882 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>0.122 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.3<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+| ![SulfuricGas](/assets/images/elements/SulfuricGas.png){width="200"} |<br/>Resource Type: Unbreathable Gas<br/><br/>Freezing point: 336°C<br/>-> ![LiquidSulfuric](/assets/images/elements/LiquidSulfuric.png){.inline-icon} Sulfuric Acid<br/><br/>Evaporation point: 555°C<br/>-> ![ContaminatedOxygen](/assets/images/elements/ContaminatedOxygen.png){.inline-icon} Polluted Oxygen<br/><br/><br/>Properties: <br/>Acid, Gas, Mixture|<br/>Specific Heat Capacity: <br/>0.882 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>0.122 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.3<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
 
 #### Toxic Clay
 
@@ -384,7 +384,7 @@ A thick, toxic slurry produced as waste product from industrial operations, comp
 
 | |<font size="+1">Material Properties</font>| |
 |-|-|-|
-| ![SolidZinc](/assets/images/elements/SolidZinc.png){width="200"} |<br/>Resource Type: Refined Metal<br/><br/>Melting point: 420°C<br/>-> ![MoltenZinc](/assets/images/elements/MoltenZinc.png){.inline-icon} Molten Zinc<br/><br/>Hardness: 2<br/><br/>Properties: <br/>General Buildable, Glass Dye, Solid|<br/>Specific Heat Capacity: <br/>0.387 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>60.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.5<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+| ![SolidZinc](/assets/images/elements/SolidZinc.png){width="200"} |<br/>Resource Type: Refined Metal<br/><br/>Melting point: 420°C<br/>-> ![MoltenZinc](/assets/images/elements/MoltenZinc.png){.inline-icon} Molten Zinc<br/><br/>Hardness: 2<br/><br/>Properties: <br/>General Buildable, Solid|<br/>Specific Heat Capacity: <br/>0.387 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>60.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.5<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
 
 ## Reenabled Elements
 These vanilla elements have been reenabled or partially adjusted
@@ -403,7 +403,7 @@ Electrum is a conductive Metal alloy composed of gold and silver.<br/><br/>It is
 
 | |<font size="+1">Material Properties</font>| |
 |-|-|-|
-| ![Electrum](/assets/images/elements/Electrum.png){width="200"} |<br/>Resource Type: Metal Ore<br/><br/>Melting point: 1022.71°C<br/>40 %  ![MoltenSilver](/assets/images/elements/MoltenSilver.png){.inline-icon} Molten Silver,<br/>60 % ![Gold](/assets/images/elements/Gold.png){.inline-icon} Gold<br/><br/>Hardness: 2<br/><br/>Properties: <br/>General Buildable, Glass Dye, Ore, Solid|<br/>Specific Heat Capacity: <br/>0.150 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>2.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.35<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+| ![Electrum](/assets/images/elements/Electrum.png){width="200"} |<br/>Resource Type: Metal Ore<br/><br/>Melting point: 1022.71°C<br/>40 %  ![MoltenSilver](/assets/images/elements/MoltenSilver.png){.inline-icon} Molten Silver,<br/>60 % ![Gold](/assets/images/elements/Gold.png){.inline-icon} Gold<br/><br/>Hardness: 2<br/><br/>Properties: <br/>General Buildable, Ore, Solid|<br/>Specific Heat Capacity: <br/>0.150 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>2.000 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.35<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
 
 #### Liquid Propane
 
@@ -427,7 +427,7 @@ Electrum is a conductive Metal alloy composed of gold and silver.<br/><br/>It is
 
 | |<font size="+1">Material Properties</font>| |
 |-|-|-|
-| ![Propane](/assets/images/elements/Propane.png){width="200"} |<br/>Resource Type: Unbreathable Gas<br/><br/>Condensation point: -42.15°C<br/>-> ![LiquidPropane](/assets/images/elements/LiquidPropane.png){.inline-icon} Liquid Propane<br/><br/><br/>Properties: <br/>Combustible Gas, Gas|<br/>Specific Heat Capacity: <br/>2.400 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>0.015 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.07<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
+| ![Propane](/assets/images/elements/Propane.png){width="200"} |<br/>Resource Type: Unbreathable Gas<br/><br/>Condensation point: -42.15°C<br/>-> ![LiquidPropane](/assets/images/elements/LiquidPropane.png){.inline-icon} Liquid Propane<br/><br/><br/>Properties: <br/>Combustible Gas, Gas, Sterile Atmosphere|<br/>Specific Heat Capacity: <br/>2.400 (DTU/g)/ ºC<br/><br/>Thermal Conductivity: <br/>0.015 (DTU/(m*s))/ ºC<br/><br/>Radiation Absorption Factor: 0.07<br/><br/>Radiation Emission/1000kg: <br/>0 rads/cycle|
 
 #### Solid Propane
 

@@ -180,7 +180,7 @@
 ## 碳回收装置
 一种自主式的化学装置，能够根据输入条件同时进行博施反应和萨巴捷反应。
 
-萨巴捷反应 (Sabatier Reaction)<br/>以液态二氧化碳、氢气为原料，铁为催化剂。反应生成水和天然气，并产生铁锈作为废弃物。<br/><br/>博施反应 (Bosch Reaction)<br/>以二氧化碳、氢气为原料，铁为催化剂。反应生成蒸汽和石墨，并产生铁锈作为废弃物。
+萨巴捷反应 (Sabatier Reaction)：<br/>以液态二氧化碳、氢气为原料，铁为催化剂。反应生成水和天然气，并产生铁锈作为废弃物。<br/><br/>博施反应 (Bosch Reaction)：<br/>以二氧化碳、氢气为原料，铁为催化剂。反应生成蒸汽和富勒烯，并产生铁锈作为废弃物。
 
 | | | |
 |-|-|-|
@@ -227,6 +227,27 @@
 
 
 
+## 氯气压缩机
+一种工业级旋转式压缩机组，通过减少气体体积大幅提升其压力，同时冷却至液态。
+
+压缩氯气并冷却为液态氯。该设备还具备对液体进行完全隔热储存的功能。
+
+| | | |
+|-|-|-|
+| ![Chemical_ChlorineCompressor](/assets/images/buildings/Chemical_ChlorineCompressor.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 3 x 高 3|
+|**耗电:**| 480瓦 |&#8288 {: style="padding:0"}|
+|**科技:**| 温度调节|&#8288 {: style="padding:0"}| 
+|**<font size="+1">建造材料:</font>**|<table><tr><td>陶瓷 或 红砖</td><td>400千克</td></tr><tr><td>精炼金属</td><td>200千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">存储容量:</font>**| 3000千克|&#8288 {: style="padding:0"}|
+| **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>氯气 输入管道</td><td>液态氯 输出管道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
+
+#### 元素转换
+|输入:|输出:|
+|-|-|
+| ![ChlorineGas](/assets/images/elements/ChlorineGas.png){.inline-icon} 氯气 (1000克/秒)<br>| ![Chlorine](/assets/images/elements/Chlorine.png){.inline-icon} 液态氯 (1000克/秒 于 -61°C)<br>|
+
+
+
 ## 氯气过滤器
 一种先进的泵，能够智能检测氯气并将其排出。
 
@@ -258,7 +279,7 @@
 ## 原油精炼厂
 一座用于将油井中提取的原油进行精炼的工业处理装置。
 
-该精炼厂可从原油中产出：<br/><br/> - 50% 石油<br/> - 25% 石脑油<br/> - 10% 天然气<br/> - 10% 酸性水（废料）<br/> - 5% 沥青（废料）。<br/><br/>操作过程需消耗蒸汽。<br/><br/>重要提示： 必须连接所有管道接口才能运行。
+该精炼厂可从原油中产出：<br/><br/> - 50% 石油<br/>- 25% 石脑油<br/> - 10% 天然气<br/>- 10% 酸性水（废料）<br/> - 5% 沥青（废料）。<br/><br/>操作过程需消耗蒸汽。<br/><br/>重要提示： 必须连接所有管道接口才能运行。
 
 | | | |
 |-|-|-|
@@ -494,7 +515,7 @@
 ## 多级原油精炼厂
 一座用于将油井中提取的原油进行精炼的工业处理装置。
 
-本精炼厂分两阶段运作：<br/><br/>第一阶段：将 原油初步精炼产出：<br/> - 50% 石油<br/> - 25% 石脑油<br/> - 10% 天然气<br/> - 10% 酸水作为废弃物<br/> - 5% 沥青<br/><br/>第二阶段： 将石脑油深度精炼为：<br/> - 45% 石油<br/> - 10% 天然气<br/> - 45% 沥青<br/><br/>第一阶段蒸馏过程消耗蒸汽，第二阶段需氢气缓冲反应。
+本精炼厂分两阶段运作：<br/><br/>第一阶段：将 原油初步精炼产出：<br/> - 50% 石油<br/>- 25% 石脑油<br/> - 10% 天然气<br/>- 10% 酸水作为废弃物<br/> - 5% 沥青<br/><br/>第二阶段： 将石脑油深度精炼为：<br/> - 45% 石油<br/>- 10% 天然气<br/> - 45% 沥青<br/><br/>第一阶段蒸馏过程消耗蒸汽，第二阶段需氢气缓冲反应。
 
 | | | |
 |-|-|-|
@@ -519,7 +540,7 @@
 ## 多级原料气精炼厂
 一座分级式的工业加工工厂，负责对从油井中提取的不纯净的原料天然气进行多级精炼处理。
 
-该精炼厂分三阶段运作：<br/><br/>第一阶段： 原料天然气首先精炼产出：<br/> - 33% 天然气<br/> - 27% 丙烷<br/> - 40% 高硫天然气<br/>第二阶段： 丙烷与氢气混合，完全转化为天然气<br/>第三阶段： 剩余高硫天然气与硝酸反应，生成氨气。
+该精炼厂分三阶段运作：<br/><br/>第一阶段： 原料天然气首先精炼产出：<br/> - 33% 天然气<br/>- 27% 丙烷<br/> - 40% 高硫天然气<br/>第二阶段： 丙烷与氢气混合，完全转化为天然气<br/>第三阶段： 剩余高硫天然气与硝酸反应，生成氨气。
 
 | | | |
 |-|-|-|
@@ -611,7 +632,7 @@
 
 
 ### 配方
-|材料:| 耗时: | 产物:|
+|材料:| 耗时: | 随机产物:|
 |-|-|-|
 | ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (150千克)<br> ![SolidBorax](/assets/images/elements/SolidBorax.png){.inline-icon} 硼砂 (10千克)<br>|20s| ![MoltenGlass](/assets/images/elements/MoltenGlass.png){.inline-icon} 熔融玻璃 (100千克)<br> ![MoltenSlag](/assets/images/elements/MoltenSlag.png){.inline-icon} 熔渣 (60千克)<br>|
 | ![ZincOre](/assets/images/elements/ZincOre.png){.inline-icon} 锌矿 (500千克)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (40千克)<br>|20s| ![MoltenZinc](/assets/images/elements/MoltenZinc.png){.inline-icon} 熔融锌 (490千克)<br> ![MoltenSlag](/assets/images/elements/MoltenSlag.png){.inline-icon} 熔渣 (50千克)<br>|
@@ -631,13 +652,15 @@
 | ![Galena](/assets/images/elements/Galena.png){.inline-icon} 方铅矿 (500千克)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} 沙子 (40千克)<br>|20s| ![MoltenLead](/assets/images/elements/MoltenLead.png){.inline-icon} 熔融铅 (426.3千克)<br> ![SulfurGas](/assets/images/elements/SulfurGas.png){.inline-icon} 硫蒸气 (63.7千克)<br> ![MoltenSlag](/assets/images/elements/MoltenSlag.png){.inline-icon} 熔渣 (50千克)<br>|
 | ![Iron](/assets/images/elements/Iron.png){.inline-icon} 铁 (425千克)<br> ![RefinedCarbon](/assets/images/elements/RefinedCarbon.png){.inline-icon} 精炼碳 (50千克)<br> ![Lime](/assets/images/elements/Lime.png){.inline-icon} 石灰 (25千克)<br>|20s| ![MoltenSteel](/assets/images/elements/MoltenSteel.png){.inline-icon} 熔融钢 (500千克)<br>|
 | ![Katairite](/assets/images/elements/Katairite.png){.inline-icon} 深渊晶石 (500千克)<br> ![Lime](/assets/images/elements/Lime.png){.inline-icon} 石灰 (20千克)<br>|40s| ![MoltenTungsten](/assets/images/elements/MoltenTungsten.png){.inline-icon} 熔融钨 (120千克)<br> ![Magma](/assets/images/elements/Magma.png){.inline-icon} 岩浆 (380千克)<br>|
+| ![LowGradeSand](/assets/images/elements/LowGradeSand.png){.inline-icon} 低级金属砂 (300千克)<br> ![SolidBorax](/assets/images/elements/SolidBorax.png){.inline-icon} 硼砂 (30千克)<br>|40s| ![MoltenCopper](/assets/images/elements/MoltenCopper.png){.inline-icon} 熔融铜<br> ![MoltenNickel](/assets/images/elements/MoltenNickel.png){.inline-icon} 熔融镍<br> ![MoltenZinc](/assets/images/elements/MoltenZinc.png){.inline-icon} 熔融锌<br> ![MoltenLead](/assets/images/elements/MoltenLead.png){.inline-icon} 熔融铅<br> ![MoltenSilver](/assets/images/elements/MoltenSilver.png){.inline-icon} 熔融银<br>|
+| ![BaseGradeSand](/assets/images/elements/BaseGradeSand.png){.inline-icon} 中级金属砂 (300千克)<br> ![SolidBorax](/assets/images/elements/SolidBorax.png){.inline-icon} 硼砂 (30千克)<br>|40s| ![MoltenAluminum](/assets/images/elements/MoltenAluminum.png){.inline-icon} 熔融铝<br> ![MoltenIron](/assets/images/elements/MoltenIron.png){.inline-icon} 熔融铁<br> ![MoltenGold](/assets/images/elements/MoltenGold.png){.inline-icon} 熔融金<br> ![MoltenTungsten](/assets/images/elements/MoltenTungsten.png){.inline-icon} 熔融钨<br> ![AIO_FerroChrome_Liquid](/assets/images/elements/AIO_FerroChrome_Liquid.png){.inline-icon} 熔融铬铁合金<br>|
 
 
 
 ## 丙烷重整器
 一座将丙烷通过氧化蒸汽重整工艺转化为氢气的工业石化工厂。
 
-将丙烷重整转化为：<br/> - 60% 氢气<br/> - 30% 污染水（废料）<br/> - 10% 二氧化碳（废料）<br/>操作需消耗蒸汽。<br/><br/>重要提示： 必须连接所有管道接口才能运行。<br/>可建造在带有垂直结构梁的精炼建筑上方。
+将丙烷重整转化为：<br/> - 60% 氢气<br/>- 30% 污染水（废料）<br/> - 10% 二氧化碳（废料）<br/>操作需消耗蒸汽。<br/><br/>重要提示： 必须连接所有管道接口才能运行。<br/>可建造在带有垂直结构梁的精炼建筑上方。
 
 | | | |
 |-|-|-|
@@ -676,7 +699,7 @@
 ## 原料气精炼厂
 一座工业加工工厂，负责对从油井中提取的不纯净的原料天然气进行精炼处理。
 
-该精炼厂可产出：<br/> - 50% 天然气<br/> - 35% 丙烷<br/> - 15% 酸水（废料）<br/>操作需消耗蒸汽。<br/><br/>重要提示： 必须连接所有管道接口才能运行。
+该精炼厂可产出：<br/> - 50% 天然气<br/> - 35% 丙烷<br/>- 15% 酸水（废料）<br/>操作需消耗蒸汽。<br/><br/>重要提示： 必须连接所有管道接口才能运行。
 
 | | | |
 |-|-|-|
@@ -799,9 +822,11 @@
 | ![AmmoniaGas](/assets/images/elements/AmmoniaGas.png){.inline-icon} 氨气 (25千克)<br> ![PhosphateNodules](/assets/images/elements/PhosphateNodules.png){.inline-icon} 磷酸盐结晶 (25千克)<br> ![Sulfur](/assets/images/elements/Sulfur.png){.inline-icon} 硫 (25千克)<br> ![DirtyWater](/assets/images/elements/DirtyWater.png){.inline-icon} 污染水 (25千克)<br>|80s| ![Fertilizer](/assets/images/elements/Fertilizer.png){.inline-icon} 肥料 (100千克)<br>|
 | ![Phosphorus](/assets/images/elements/Phosphorus.png){.inline-icon} 精炼磷 (70千克)<br> ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} 碎岩 (25千克)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (5千克)<br>|60s| ![PhosphateNodules](/assets/images/elements/PhosphateNodules.png){.inline-icon} 磷酸盐结晶 (100千克)<br>|
 | ![PhosphateNodules](/assets/images/elements/PhosphateNodules.png){.inline-icon} 磷酸盐结晶 (50千克)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} 泥土 (40千克)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (10千克)<br>|60s| ![Phosphorite](/assets/images/elements/Phosphorite.png){.inline-icon} 磷矿 (100千克)<br>|
+| ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} 碎岩 (40千克)<br> ![ToxicSand](/assets/images/elements/ToxicSand.png){.inline-icon} 污染土 (20千克)<br> ![PalmWood](/assets/images/elements/PalmWood.png){.inline-icon} 粘胶木材 (20千克)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (20千克)<br>|60s| ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} 泥土 (100千克)<br>|
+| ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} 碎岩 (40千克)<br> ![ToxicSand](/assets/images/elements/ToxicSand.png){.inline-icon} 污染土 (20千克)<br> ![WoodLog](/assets/images/elements/WoodLog.png){.inline-icon} 木材 (20千克)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (20千克)<br>|60s| ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} 泥土 (100千克)<br>|
+| ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} 碎岩 (40千克)<br> ![ToxicSand](/assets/images/elements/ToxicSand.png){.inline-icon} 污染土 (20千克)<br> ![FabricatedWood](/assets/images/elements/FabricatedWood.png){.inline-icon} 胶合板 (20千克)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (20千克)<br>|60s| ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} 泥土 (100千克)<br>|
 | ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} 碎岩 (40千克)<br> ![ToxicSand](/assets/images/elements/ToxicSand.png){.inline-icon} 污染土 (20千克)<br> ![Carbon](/assets/images/elements/Carbon.png){.inline-icon} 煤炭 (20千克)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (20千克)<br>|60s| ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} 泥土 (100千克)<br>|
 | ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} 碎岩 (40千克)<br> ![ToxicSand](/assets/images/elements/ToxicSand.png){.inline-icon} 污染土 (20千克)<br> ![Peat](/assets/images/elements/Peat.png){.inline-icon} 泥炭 (20千克)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (20千克)<br>|60s| ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} 泥土 (100千克)<br>|
-| ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} 碎岩 (40千克)<br> ![ToxicSand](/assets/images/elements/ToxicSand.png){.inline-icon} 污染土 (20千克)<br> ![WoodLog](/assets/images/elements/WoodLog.png){.inline-icon} 木材 (20千克)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} 水 (20千克)<br>|60s| ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} 泥土 (100千克)<br>|
 | ![PalmWood](/assets/images/elements/PalmWood.png){.inline-icon} 粘胶木材 (60千克)<br> ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} 碎岩 (30千克)<br> ![DirtyWater](/assets/images/elements/DirtyWater.png){.inline-icon} 污染水 (10千克)<br>|60s| ![ToxicSand](/assets/images/elements/ToxicSand.png){.inline-icon} 污染土 (100千克)<br>|
 | ![WoodLog](/assets/images/elements/WoodLog.png){.inline-icon} 木材 (60千克)<br> ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} 碎岩 (30千克)<br> ![DirtyWater](/assets/images/elements/DirtyWater.png){.inline-icon} 污染水 (10千克)<br>|60s| ![ToxicSand](/assets/images/elements/ToxicSand.png){.inline-icon} 污染土 (100千克)<br>|
 | ![FabricatedWood](/assets/images/elements/FabricatedWood.png){.inline-icon} 胶合板 (60千克)<br> ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} 碎岩 (30千克)<br> ![DirtyWater](/assets/images/elements/DirtyWater.png){.inline-icon} 污染水 (10千克)<br>|60s| ![ToxicSand](/assets/images/elements/ToxicSand.png){.inline-icon} 污染土 (100千克)<br>|

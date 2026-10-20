@@ -4,7 +4,7 @@
 
 |<font size="+1">材料</font> | | <font size="+1">元素</font> |
 |:-:|:-:|:-|
-|<font size="+1">硬化合金</font> <br/> <br/>|硬化合金是两种或多种材料的熔合产物。<br/>其高强度特性使其可作为钢的替代材料使用。| ![PhosphorBronze](/assets/images/elements/PhosphorBronze.png){.inline-icon} 磷青铜<br/> ![AIO_Permendur_Solid](/assets/images/elements/AIO_Permendur_Solid.png){.inline-icon} 钴铁合金<br/> ![Plasteel](/assets/images/elements/Plasteel.png){.inline-icon} 塑晶钢<br/> ![AIO_StainlessSteel_Solid](/assets/images/elements/AIO_StainlessSteel_Solid.png){.inline-icon} 不锈钢<br/> ![AIO_Invar_Solid](/assets/images/elements/AIO_Invar_Solid.png){.inline-icon} 殷钢<br/> ![UnobtaniumAlloy](/assets/images/elements/UnobtaniumAlloy.png){.inline-icon} MISSING.STRINGS.ELEMENTS.UNOBTANIUMALLOY.NAME<br/> ![TempConductorSolid](/assets/images/elements/TempConductorSolid.png){.inline-icon} 导热质<br/>|
+|<font size="+1">硬化合金</font> <br/> <br/>|硬化合金是两种或多种材料的熔合产物。<br/>其高强度特性使其可作为钢的替代材料使用。| ![PhosphorBronze](/assets/images/elements/PhosphorBronze.png){.inline-icon} 磷青铜<br/> ![AIO_Permendur_Solid](/assets/images/elements/AIO_Permendur_Solid.png){.inline-icon} 钴铁合金<br/> ![Plasteel](/assets/images/elements/Plasteel.png){.inline-icon} 塑晶钢<br/> ![AIO_StainlessSteel_Solid](/assets/images/elements/AIO_StainlessSteel_Solid.png){.inline-icon} 不锈钢<br/> ![AIO_Invar_Solid](/assets/images/elements/AIO_Invar_Solid.png){.inline-icon} 殷钢<br/> ![TempConductorSolid](/assets/images/elements/TempConductorSolid.png){.inline-icon} 导热质<br/>|
 |<font size="+1">载气</font> <br/> <br/>|载气是一类用于等离子体相关工艺的惰性或半惰性气体。| ![Helium](/assets/images/elements/Helium.png){.inline-icon} 氦气<br/> ![Hydrogen](/assets/images/elements/Hydrogen.png){.inline-icon} 氢气<br/> ![NitrogenGas](/assets/images/elements/NitrogenGas.png){.inline-icon} 氮气<br/>|
 |<font size="+1">金属砂</font> <br/> <br/>|由不同数量的金属颗粒组成的砂质材料| ![BaseGradeSand](/assets/images/elements/BaseGradeSand.png){.inline-icon} 中级金属砂<br/> ![LowGradeSand](/assets/images/elements/LowGradeSand.png){.inline-icon} 低级金属砂<br/> ![HighGradeSand](/assets/images/elements/HighGradeSand.png){.inline-icon} 高级金属砂<br/>|
 
@@ -120,7 +120,7 @@
 
 | |<font size="+1">材料属性</font>| |
 |-|-|-|
-| ![SulfuricGas](/assets/images/elements/SulfuricGas.png){width="200"} |<br/>资源种类：不可呼吸的气体<br/><br/>冰点：336°C<br/>-> ![LiquidSulfuric](/assets/images/elements/LiquidSulfuric.png){.inline-icon} 硫酸<br/><br/>沸点：555°C<br/>-> ![ContaminatedOxygen](/assets/images/elements/ContaminatedOxygen.png){.inline-icon} 污染氧<br/><br/><br/>属性：<br/>气体|<br/>比热容：<br/>0.882 (DTU/g)/ ºC<br/><br/>热导率：<br/>0.122 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.3<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
+| ![SulfuricGas](/assets/images/elements/SulfuricGas.png){width="200"} |<br/>资源种类：不可呼吸的气体<br/><br/>冰点：336°C<br/>-> ![LiquidSulfuric](/assets/images/elements/LiquidSulfuric.png){.inline-icon} 硫酸<br/><br/>沸点：555°C<br/>-> ![ContaminatedOxygen](/assets/images/elements/ContaminatedOxygen.png){.inline-icon} 污染氧<br/><br/><br/>属性：<br/>气体, 混合物, 酸|<br/>比热容：<br/>0.882 (DTU/g)/ ºC<br/><br/>热导率：<br/>0.122 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.3<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
 
 #### 气态银
 
@@ -188,7 +188,7 @@
 
 #### 炉渣
 
-炉渣是冶炼（火法冶金）矿石和废旧金属的副产品。尽管它属于废弃物，但其用途众多，例如可作为Concrete Blocks中的骨料。
+炉渣是冶炼（火法冶金）矿石和废旧金属的副产品。尽管它属于废弃物，但其用途众多，例如可作为ConcreteBlocks中的骨料。
 
 | |<font size="+1">材料属性</font>| |
 |-|-|-|
@@ -240,7 +240,7 @@
 
 | |<font size="+1">材料属性</font>| |
 |-|-|-|
-| ![LiquidNitric](/assets/images/elements/LiquidNitric.png){width="200"} |<br/>资源种类：液体<br/><br/>冰点：-42°C<br/>50 %  ![NitrogenGas](/assets/images/elements/NitrogenGas.png){.inline-icon} 氮气,<br/>50 % ![DirtyIce](/assets/images/elements/DirtyIce.png){.inline-icon} 污染冰<br/><br/>沸点：121°C<br/>50 %  ![NitrogenGas](/assets/images/elements/NitrogenGas.png){.inline-icon} 氮气,<br/>50 % ![Steam](/assets/images/elements/Steam.png){.inline-icon} 蒸汽<br/><br/><br/>属性：<br/>混合物|<br/>比热容：<br/>0.998 (DTU/g)/ ºC<br/><br/>热导率：<br/>0.889 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.3<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
+| ![LiquidNitric](/assets/images/elements/LiquidNitric.png){width="200"} |<br/>资源种类：液体<br/><br/>冰点：-42°C<br/>50 %  ![NitrogenGas](/assets/images/elements/NitrogenGas.png){.inline-icon} 氮气,<br/>50 % ![DirtyIce](/assets/images/elements/DirtyIce.png){.inline-icon} 污染冰<br/><br/>沸点：121°C<br/>50 %  ![NitrogenGas](/assets/images/elements/NitrogenGas.png){.inline-icon} 氮气,<br/>50 % ![Steam](/assets/images/elements/Steam.png){.inline-icon} 蒸汽<br/><br/><br/>属性：<br/>混合物, 酸|<br/>比热容：<br/>0.998 (DTU/g)/ ºC<br/><br/>热导率：<br/>0.889 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.3<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
 
 #### 硝酸盐结晶
 
@@ -256,7 +256,7 @@
 
 | |<font size="+1">材料属性</font>| |
 |-|-|-|
-| ![LiquidSulfuric](/assets/images/elements/LiquidSulfuric.png){width="200"} |<br/>资源种类：液体<br/><br/>冰点：10.31°C<br/>65 %  ![DirtyWater](/assets/images/elements/DirtyWater.png){.inline-icon} 污染水,<br/>35 % ![Sulfur](/assets/images/elements/Sulfur.png){.inline-icon} 硫<br/><br/>沸点：337°C<br/>-> ![SulfuricGas](/assets/images/elements/SulfuricGas.png){.inline-icon} 气态硫酸<br/><br/><br/>属性：<br/>混合物|<br/>比热容：<br/>0.335 (DTU/g)/ ºC<br/><br/>热导率：<br/>4.221 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.3<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
+| ![LiquidSulfuric](/assets/images/elements/LiquidSulfuric.png){width="200"} |<br/>资源种类：液体<br/><br/>冰点：10.31°C<br/>65 %  ![DirtyWater](/assets/images/elements/DirtyWater.png){.inline-icon} 污染水,<br/>35 % ![Sulfur](/assets/images/elements/Sulfur.png){.inline-icon} 硫<br/><br/>沸点：337°C<br/>-> ![SulfuricGas](/assets/images/elements/SulfuricGas.png){.inline-icon} 气态硫酸<br/><br/><br/>属性：<br/>混合物, 酸|<br/>比热容：<br/>0.335 (DTU/g)/ ºC<br/><br/>热导率：<br/>4.221 (DTU/(m*s))/ ºC<br/><br/>辐射吸收因数：0.3<br/><br/>辐射释放量/1000千克：<br/>0拉德/周期|
 
 #### 硼砂
 

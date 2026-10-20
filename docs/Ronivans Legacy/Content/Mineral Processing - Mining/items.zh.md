@@ -79,3 +79,27 @@
 |质量|1|
 |材料属性|工业产品, 引导设备|
 
+
+## 引导设备（目标: MISSING.STRINGS.UI.MINING_SMART_DRILL_LOCATIONS.DLC2）
+| ![Mining_GuidanceDevice_dlc2](/assets/images/entities/Mining_GuidanceDevice_dlc2.png){width="100"} |一种先进的电子模块，可协助采矿钻头在运行过程中进行导航。<br/>总体而言，该导航系统会为钻头控制系统计算指令，该控制系统包括其执行器，从而提高其性能并从周围环境中获取资源。<br/><br/>此引导装置已被设定为瞄准MISSING.STRINGS.UI.MINING_SMART_DRILL_LOCATIONS.DLC2。|
+|-|-|
+|材料| ![Creature](/assets/images/elements/Creature.png){.inline-icon} 遗传生物软泥|
+|质量|1|
+|材料属性|工业产品, 引导设备|
+
+
+## 引导设备（目标: MISSING.STRINGS.UI.MINING_SMART_DRILL_LOCATIONS.DLC4）
+| ![Mining_GuidanceDevice_dlc4](/assets/images/entities/Mining_GuidanceDevice_dlc4.png){width="100"} |一种先进的电子模块，可协助采矿钻头在运行过程中进行导航。<br/>总体而言，该导航系统会为钻头控制系统计算指令，该控制系统包括其执行器，从而提高其性能并从周围环境中获取资源。<br/><br/>此引导装置已被设定为瞄准MISSING.STRINGS.UI.MINING_SMART_DRILL_LOCATIONS.DLC4。|
+|-|-|
+|材料| ![Creature](/assets/images/elements/Creature.png){.inline-icon} 遗传生物软泥|
+|质量|1|
+|材料属性|工业产品, 引导设备|
+
+
+## 引导设备（目标: MISSING.STRINGS.UI.MINING_SMART_DRILL_LOCATIONS.DLC5）
+| ![Mining_GuidanceDevice_dlc5](/assets/images/entities/Mining_GuidanceDevice_dlc5.png){width="100"} |一种先进的电子模块，可协助采矿钻头在运行过程中进行导航。<br/>总体而言，该导航系统会为钻头控制系统计算指令，该控制系统包括其执行器，从而提高其性能并从周围环境中获取资源。<br/><br/>此引导装置已被设定为瞄准MISSING.STRINGS.UI.MINING_SMART_DRILL_LOCATIONS.DLC5。|
+|-|-|
+|材料| ![Creature](/assets/images/elements/Creature.png){.inline-icon} 遗传生物软泥|
+|质量|1|
+|材料属性|工业产品, 引导设备|
+

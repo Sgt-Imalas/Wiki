@@ -166,19 +166,6 @@
 | **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>固体 输入轨道</td><td>固体 输出轨道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
 
 
-## 高压气体管道
-一根经过加固的气体管道，能够承受高压流量。<br/>该管道的复合材质可确保气体在传输过程中温度变化不大。
-
-最多可承载 {CAPACITY} kg的气体，并且温度变化极小。<br/><br/>可以穿过墙壁和地板。
-
-| | | |
-|-|-|-|
-| ![HighPressureGasConduit](/assets/images/buildings/HighPressureGasConduit.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 1 x 高 1|
-|**耗电:**|  -  |&#8288 {: style="padding:0"}|
-|**科技:**| 改良通风|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>钢 或 钨 或 硬化合金</td><td>10千克</td></tr><tr><td>塑料</td><td>5千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
-
-
 ## 高压气体管道桥
 一种经过加固的气体管道桥，能够承受高压流量。管道的复合材质可确保气体在运输过程中温度变化不大。
 
@@ -205,6 +192,19 @@
 |**科技:**| 泵小型化|&#8288 {: style="padding:0"}| 
 |**<font size="+1">建造材料:</font>**|<table><tr><td>钢 或 硬化合金</td><td>200千克</td></tr><tr><td>密封圈</td><td>2000克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 | **<font size="+1">建筑接口:</font>** |<table><tr><th>输入:</th><th>输出:</th></tr><tr><td>气体 输入管道</td><td>气体 输出管道</td></tr><tr><td>-</td><td>气体 输出管道</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
+
+
+## 高压气体管道
+一根经过加固的气体管道，能够承受高压流量。<br/>该管道的复合材质可确保气体在传输过程中温度变化不大。
+
+最多可承载 {CAPACITY} kg的气体，并且温度变化极小。<br/><br/>可以穿过墙壁和地板。
+
+| | | |
+|-|-|-|
+| ![HighPressureGasConduit](/assets/images/buildings/HighPressureGasConduit.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 1 x 高 1|
+|**耗电:**|  -  |&#8288 {: style="padding:0"}|
+|**科技:**| 改良通风|&#8288 {: style="padding:0"}| 
+|**<font size="+1">建造材料:</font>**|<table><tr><td>钢 或 钨 或 硬化合金</td><td>10千克</td></tr><tr><td>塑料</td><td>5千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 
 ## 高压气泵
@@ -287,5 +287,31 @@
 |**耗电:**|  -  |&#8288 {: style="padding:0"}|
 |**科技:**| 大容量固体运输|&#8288 {: style="padding:0"}| 
 |**<font size="+1">建造材料:</font>**|<table><tr><td>钢 或 钨 或 硬化合金</td><td>125千克</td></tr><tr><td>玻璃状</td><td>25千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+
+
+## MISSING.STRINGS.BUILDINGS.PREFABS.HIGHPRESSUREGASCONDUITRADIANT.NAME
+MISSING.STRINGS.BUILDINGS.PREFABS.HIGHPRESSUREGASCONDUITRADIANT.DESC
+
+MISSING.STRINGS.BUILDINGS.PREFABS.HIGHPRESSUREGASCONDUITRADIANT.EFFECT
+
+| | | |
+|-|-|-|
+| ![HighPressureGasConduitRadiant](/assets/images/buildings/HighPressureGasConduitRadiant.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 1 x 高 1|
+|**耗电:**|  -  |&#8288 {: style="padding:0"}|
+|**科技:**| 暖通空调|&#8288 {: style="padding:0"}| 
+|**<font size="+1">建造材料:</font>**|<table><tr><td>钢 或 钨 或 硬化合金</td><td>30千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+
+
+## MISSING.STRINGS.BUILDINGS.PREFABS.HIGHPRESSURELIQUIDCONDUITRADIANT.NAME
+MISSING.STRINGS.BUILDINGS.PREFABS.HIGHPRESSURELIQUIDCONDUITRADIANT.DESC
+
+MISSING.STRINGS.BUILDINGS.PREFABS.HIGHPRESSURELIQUIDCONDUITRADIANT.EFFECT
+
+| | | |
+|-|-|-|
+| ![HighPressureLiquidConduitRadiant](/assets/images/buildings/HighPressureLiquidConduitRadiant.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 1 x 高 1|
+|**耗电:**|  -  |&#8288 {: style="padding:0"}|
+|**科技:**| 液体微调|&#8288 {: style="padding:0"}| 
+|**<font size="+1">建造材料:</font>**|<table><tr><td>钢 或 钨 或 硬化合金</td><td>30千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 

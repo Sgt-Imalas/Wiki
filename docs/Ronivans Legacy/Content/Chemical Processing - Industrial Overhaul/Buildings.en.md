@@ -227,6 +227,27 @@ An industrial aparatus capable to address several chemical reactions. Its large 
 
 
 
+## Chlorine Gas Compressor
+An industrial grade rotatory compressor unit that criticaly increase the pressure of a gas by reducing its volume, while cooling it down until liquid state is reached.
+
+Compresses Chlorine Gas and cool it down toLiquid Chlorine. This device is also capable of storing liquid with complete insulation.
+
+| | | |
+|-|-|-|
+| ![Chemical_ChlorineCompressor](/assets/images/buildings/Chemical_ChlorineCompressor.png){height="100"} {rowspan="3"}|**Dimensions:** | 3 wide x 3 high|
+|**Power Consumption:**| 480 W |&#8288 {: style="padding:0"}|
+|**Research Required:**| Temperature Modulation|&#8288 {: style="padding:0"}| 
+|**<font size="+1">Material Costs:</font>**|<table><tr><td>Ceramic or Brick</td><td>400 kg</td></tr><tr><td>Refined Metal</td><td>200 kg</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">Storage Capacity:</font>**| 3000 kg|&#8288 {: style="padding:0"}|
+| **<font size="+1">Building Ports:</font>** |<table><tr><th>Inputs:</th><th>Outputs:</th></tr><tr><td>Chlorine Gas Input Pipe</td><td>Liquid Chlorine Output Pipe</td></tr></table> {colspan="2"}|&#8288 {: style="padding:0"}|
+
+#### Element Conversion
+|Inputs:|Outputs:|
+|-|-|
+| ![ChlorineGas](/assets/images/elements/ChlorineGas.png){.inline-icon} Chlorine Gas (1000 g/s)<br>| ![Chlorine](/assets/images/elements/Chlorine.png){.inline-icon} Liquid Chlorine (1000 g/s at -61°C)<br>|
+
+
+
 ## Chlorine Gas Filter
 A fancy pump capable to detect Chlorine Gas and pump it.
 
@@ -611,7 +632,7 @@ An advanced method for the refinement of Metal Ores and other Raw Minerals.<br/>
 
 
 ### Recipes
-|Ingredients:| Time: | Products:|
+|Ingredients:| Time: | Random Products:|
 |-|-|-|
 | ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (150 kg)<br> ![SolidBorax](/assets/images/elements/SolidBorax.png){.inline-icon} Borax (10 kg)<br>|20s| ![MoltenGlass](/assets/images/elements/MoltenGlass.png){.inline-icon} Molten Glass (100 kg)<br> ![MoltenSlag](/assets/images/elements/MoltenSlag.png){.inline-icon} Molten Slag (60 kg)<br>|
 | ![ZincOre](/assets/images/elements/ZincOre.png){.inline-icon} Zinc Ore (500 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (40 kg)<br>|20s| ![MoltenZinc](/assets/images/elements/MoltenZinc.png){.inline-icon} Molten Zinc (490 kg)<br> ![MoltenSlag](/assets/images/elements/MoltenSlag.png){.inline-icon} Molten Slag (50 kg)<br>|
@@ -631,6 +652,8 @@ An advanced method for the refinement of Metal Ores and other Raw Minerals.<br/>
 | ![Galena](/assets/images/elements/Galena.png){.inline-icon} Galena (500 kg)<br> ![Sand](/assets/images/elements/Sand.png){.inline-icon} Sand (40 kg)<br>|20s| ![MoltenLead](/assets/images/elements/MoltenLead.png){.inline-icon} Molten Lead (426.3 kg)<br> ![SulfurGas](/assets/images/elements/SulfurGas.png){.inline-icon} Sulfur Gas (63.7 kg)<br> ![MoltenSlag](/assets/images/elements/MoltenSlag.png){.inline-icon} Molten Slag (50 kg)<br>|
 | ![Iron](/assets/images/elements/Iron.png){.inline-icon} Iron (425 kg)<br> ![RefinedCarbon](/assets/images/elements/RefinedCarbon.png){.inline-icon} Refined Carbon (50 kg)<br> ![Lime](/assets/images/elements/Lime.png){.inline-icon} Lime (25 kg)<br>|20s| ![MoltenSteel](/assets/images/elements/MoltenSteel.png){.inline-icon} Molten Steel (500 kg)<br>|
 | ![Katairite](/assets/images/elements/Katairite.png){.inline-icon} Abyssalite (500 kg)<br> ![Lime](/assets/images/elements/Lime.png){.inline-icon} Lime (20 kg)<br>|40s| ![MoltenTungsten](/assets/images/elements/MoltenTungsten.png){.inline-icon} Molten Tungsten (120 kg)<br> ![Magma](/assets/images/elements/Magma.png){.inline-icon} Magma (380 kg)<br>|
+| ![LowGradeSand](/assets/images/elements/LowGradeSand.png){.inline-icon} Low-Grade Metallic Sand (300 kg)<br> ![SolidBorax](/assets/images/elements/SolidBorax.png){.inline-icon} Borax (30 kg)<br>|40s| ![MoltenCopper](/assets/images/elements/MoltenCopper.png){.inline-icon} Molten Copper<br> ![MoltenNickel](/assets/images/elements/MoltenNickel.png){.inline-icon} Molten Nickel<br> ![MoltenZinc](/assets/images/elements/MoltenZinc.png){.inline-icon} Molten Zinc<br> ![MoltenLead](/assets/images/elements/MoltenLead.png){.inline-icon} Molten Lead<br> ![MoltenSilver](/assets/images/elements/MoltenSilver.png){.inline-icon} Molten Silver<br>|
+| ![BaseGradeSand](/assets/images/elements/BaseGradeSand.png){.inline-icon} Base-Grade Metallic Sand (300 kg)<br> ![SolidBorax](/assets/images/elements/SolidBorax.png){.inline-icon} Borax (30 kg)<br>|40s| ![MoltenAluminum](/assets/images/elements/MoltenAluminum.png){.inline-icon} Molten Aluminum<br> ![MoltenIron](/assets/images/elements/MoltenIron.png){.inline-icon} Molten Iron<br> ![MoltenGold](/assets/images/elements/MoltenGold.png){.inline-icon} Molten Gold<br> ![MoltenTungsten](/assets/images/elements/MoltenTungsten.png){.inline-icon} Molten Tungsten<br> ![AIO_FerroChrome_Liquid](/assets/images/elements/AIO_FerroChrome_Liquid.png){.inline-icon} Molten Ferrochrome<br>|
 
 
 
@@ -799,9 +822,11 @@ A solid material mixer designed for agricultural purpose, mainly for the product
 | ![AmmoniaGas](/assets/images/elements/AmmoniaGas.png){.inline-icon} Ammonia (25 kg)<br> ![PhosphateNodules](/assets/images/elements/PhosphateNodules.png){.inline-icon} Phosphate Nodules (25 kg)<br> ![Sulfur](/assets/images/elements/Sulfur.png){.inline-icon} Sulfur (25 kg)<br> ![DirtyWater](/assets/images/elements/DirtyWater.png){.inline-icon} Polluted Water (25 kg)<br>|80s| ![Fertilizer](/assets/images/elements/Fertilizer.png){.inline-icon} Fertilizer (100 kg)<br>|
 | ![Phosphorus](/assets/images/elements/Phosphorus.png){.inline-icon} Refined Phosphorus (70 kg)<br> ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} Crushed Rock (25 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} Water (5 kg)<br>|60s| ![PhosphateNodules](/assets/images/elements/PhosphateNodules.png){.inline-icon} Phosphate Nodules (100 kg)<br>|
 | ![PhosphateNodules](/assets/images/elements/PhosphateNodules.png){.inline-icon} Phosphate Nodules (50 kg)<br> ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} Dirt (40 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} Water (10 kg)<br>|60s| ![Phosphorite](/assets/images/elements/Phosphorite.png){.inline-icon} Phosphorite (100 kg)<br>|
+| ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} Crushed Rock (40 kg)<br> ![ToxicSand](/assets/images/elements/ToxicSand.png){.inline-icon} Polluted Dirt (20 kg)<br> ![PalmWood](/assets/images/elements/PalmWood.png){.inline-icon} Gum Wood (20 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} Water (20 kg)<br>|60s| ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} Dirt (100 kg)<br>|
+| ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} Crushed Rock (40 kg)<br> ![ToxicSand](/assets/images/elements/ToxicSand.png){.inline-icon} Polluted Dirt (20 kg)<br> ![WoodLog](/assets/images/elements/WoodLog.png){.inline-icon} Wood (20 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} Water (20 kg)<br>|60s| ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} Dirt (100 kg)<br>|
+| ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} Crushed Rock (40 kg)<br> ![ToxicSand](/assets/images/elements/ToxicSand.png){.inline-icon} Polluted Dirt (20 kg)<br> ![FabricatedWood](/assets/images/elements/FabricatedWood.png){.inline-icon} Plywood (20 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} Water (20 kg)<br>|60s| ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} Dirt (100 kg)<br>|
 | ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} Crushed Rock (40 kg)<br> ![ToxicSand](/assets/images/elements/ToxicSand.png){.inline-icon} Polluted Dirt (20 kg)<br> ![Carbon](/assets/images/elements/Carbon.png){.inline-icon} Coal (20 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} Water (20 kg)<br>|60s| ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} Dirt (100 kg)<br>|
 | ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} Crushed Rock (40 kg)<br> ![ToxicSand](/assets/images/elements/ToxicSand.png){.inline-icon} Polluted Dirt (20 kg)<br> ![Peat](/assets/images/elements/Peat.png){.inline-icon} Peat (20 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} Water (20 kg)<br>|60s| ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} Dirt (100 kg)<br>|
-| ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} Crushed Rock (40 kg)<br> ![ToxicSand](/assets/images/elements/ToxicSand.png){.inline-icon} Polluted Dirt (20 kg)<br> ![WoodLog](/assets/images/elements/WoodLog.png){.inline-icon} Wood (20 kg)<br> ![Water](/assets/images/elements/Water.png){.inline-icon} Water (20 kg)<br>|60s| ![Dirt](/assets/images/elements/Dirt.png){.inline-icon} Dirt (100 kg)<br>|
 | ![PalmWood](/assets/images/elements/PalmWood.png){.inline-icon} Gum Wood (60 kg)<br> ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} Crushed Rock (30 kg)<br> ![DirtyWater](/assets/images/elements/DirtyWater.png){.inline-icon} Polluted Water (10 kg)<br>|60s| ![ToxicSand](/assets/images/elements/ToxicSand.png){.inline-icon} Polluted Dirt (100 kg)<br>|
 | ![WoodLog](/assets/images/elements/WoodLog.png){.inline-icon} Wood (60 kg)<br> ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} Crushed Rock (30 kg)<br> ![DirtyWater](/assets/images/elements/DirtyWater.png){.inline-icon} Polluted Water (10 kg)<br>|60s| ![ToxicSand](/assets/images/elements/ToxicSand.png){.inline-icon} Polluted Dirt (100 kg)<br>|
 | ![FabricatedWood](/assets/images/elements/FabricatedWood.png){.inline-icon} Plywood (60 kg)<br> ![CrushedRock](/assets/images/elements/CrushedRock.png){.inline-icon} Crushed Rock (30 kg)<br> ![DirtyWater](/assets/images/elements/DirtyWater.png){.inline-icon} Polluted Water (10 kg)<br>|60s| ![ToxicSand](/assets/images/elements/ToxicSand.png){.inline-icon} Polluted Dirt (100 kg)<br>|

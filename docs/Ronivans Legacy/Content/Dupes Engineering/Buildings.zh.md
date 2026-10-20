@@ -97,7 +97,7 @@
 | ![SpacerWallLarge](/assets/images/buildings/SpacerWallLarge.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 2 x 高 2|
 |**耗电:**|  -  |&#8288 {: style="padding:0"}|
 |**科技:**| 高雅文化|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>钢 或 硬化合金</td><td>25千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>精炼金属</td><td>25千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 
 ## 大型太空玻璃墙
@@ -240,7 +240,7 @@
 | ![SpacerWall](/assets/images/buildings/SpacerWall.png){height="100"} {rowspan="3"}|**尺寸:** | 宽 1 x 高 1|
 |**耗电:**|  -  |&#8288 {: style="padding:0"}|
 |**科技:**| 高雅文化|&#8288 {: style="padding:0"}| 
-|**<font size="+1">建造材料:</font>**|<table><tr><td>钢 或 硬化合金</td><td>10千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
+|**<font size="+1">建造材料:</font>**|<table><tr><td>精炼金属</td><td>10千克</td></tr></table> {colspan="2"} |&#8288 {: style="padding:0"}|
 
 ### 蓝图
 |蓝图|名字|

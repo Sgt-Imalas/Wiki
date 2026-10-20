@@ -79,3 +79,27 @@
 |Mass|1|
 |Material Properties|Guidance Device, Industrial Product|
 
+
+## Guidance Device (Target: Frosty Stratum)
+| ![Mining_GuidanceDevice_dlc2](/assets/images/entities/Mining_GuidanceDevice_dlc2.png){width="100"} |A sophisticated electronic module that aids the Mining Drillhead to navigate while operating.<br/>In general, the guidance system computes the instructions for the Drillhead control system, allowing for an improved drill performance and the ability to detect and target specific element resources from its surroundings.<br/><br/>This guidance device is programmed to target the Frosty Stratum.|
+|-|-|
+|Material| ![Creature](/assets/images/elements/Creature.png){.inline-icon} Genetic Ooze|
+|Mass|1|
+|Material Properties|Guidance Device, Industrial Product|
+
+
+## Guidance Device (Target: Prehistoric Stratum)
+| ![Mining_GuidanceDevice_dlc4](/assets/images/entities/Mining_GuidanceDevice_dlc4.png){width="100"} |A sophisticated electronic module that aids the Mining Drillhead to navigate while operating.<br/>In general, the guidance system computes the instructions for the Drillhead control system, allowing for an improved drill performance and the ability to detect and target specific element resources from its surroundings.<br/><br/>This guidance device is programmed to target the Prehistoric Stratum.|
+|-|-|
+|Material| ![Creature](/assets/images/elements/Creature.png){.inline-icon} Genetic Ooze|
+|Mass|1|
+|Material Properties|Guidance Device, Industrial Product|
+
+
+## Guidance Device (Target: Aquatic Stratum)
+| ![Mining_GuidanceDevice_dlc5](/assets/images/entities/Mining_GuidanceDevice_dlc5.png){width="100"} |A sophisticated electronic module that aids the Mining Drillhead to navigate while operating.<br/>In general, the guidance system computes the instructions for the Drillhead control system, allowing for an improved drill performance and the ability to detect and target specific element resources from its surroundings.<br/><br/>This guidance device is programmed to target the Aquatic Stratum.|
+|-|-|
+|Material| ![Creature](/assets/images/elements/Creature.png){.inline-icon} Genetic Ooze|
+|Mass|1|
+|Material Properties|Guidance Device, Industrial Product|
+
